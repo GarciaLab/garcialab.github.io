@@ -1,0 +1,40 @@
+---
+layout: default
+title: Publications
+section_id: publications
+header_img: shadow_enhancers.jpg
+---
+
+<div class='full parallax' style='background-image: url({{site.baseurl}}/images/headers/{{page.header_img}}); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Publications" tagline="Published work from the lab" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
+<div class='full'>
+<div class='row' style="padding: 20px;">
+{% for year in site.data.publications %}
+<h3>{{year[0]}}</h3>
+    <div class='medium-12 columns'>
+        <div class='fadein mod modIconText' data-delay='{{ 30 | times:forloop.index0 }}'>
+          <ul>
+            {% for pub in year[1] %}
+            <li>{{pub.author}}: <b>{{pub.title}}.</b> <i>{{pub.journal}}</i> {{pub.volume}}{{pub.issue}} | {%for link in pub.links%} {%if link[0] == 'DOI' %} DOI: {{link[1]}} | {% else %} <a href='{{link[1]}}'>{{link[0]}}</a> | {% endif %}{%endfor%}</li><br/>
+  
+            {%endfor%}
+            </ul>
+          <!-- </div> -->
+          <div class='two spacing'></div>
+        </div>
+    </div>
+
+      {% endfor %}
+  </div>
+
+
+  <div class='spacing'></div>
+</div>

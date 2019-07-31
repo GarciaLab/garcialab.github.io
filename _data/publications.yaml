@@ -1,0 +1,133 @@
+2019: 
+  - title: Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression
+    author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, Manuel Razo-Mejia, and Clarissa Scholes.
+    journal: Annual Review of Biophysics
+    volume: 48 
+    links:
+      PDF full text: 'AnnRev.pdf'
+
+  - title: Enhancer priming enables fast and sustained transcriptional responses to Notch signaling.
+    author: Julia Falo-Sanjuan, Nicholas C. Lammers, Hernan G. Garcia, Sarah Bray
+    journal: preprint on bioRxiv
+    links:
+      DOI: "https://doi.org/10.1101/497651"
+      PDF full text: 'FaloSanjuan2019.pdf'
+
+  - title: "The <i>Drosophila</i> pioneer factor Zelda modulates the nuclear microenvironment of a Dorsal target enhancer to potentiate transcriptional output."
+    author: Shigehiro Yamada, Peter H. Whitney, Shao-Kuei Huang, Elizabeth C. Eck, Hernan G. Garcia, Christine A. Rushlow
+    journal: Current Biology
+    volume: 29 
+    issue:  '(8)'
+    links:
+      DOI: 'https://doi.org/10.1016/j.cub.2019.03.019'
+      PDF full text: 'Yamada2019.pdf'
+
+  - title: Binary transcriptional control of pattern formation in development
+    author: Nicholas Lammers, Vahe Galstyan, Armando Reimer, Sean Medin, Chris Wiggins, Hernan G. Garcia
+    journal: preprint on bioRxiv
+    links:
+      DOI: 'https://doi.org/10.1101/335919'
+      PDF full text: 'Lammers2019.pdf'
+
+  - title: Kinetic sculpting of the seven stripes of the <i>Drosophila</i> even-skipped gene
+    author: Augusto Berrocal, Nicholas Lammers, Hernan G. Garcia, Michael Eisen
+    journal: preprint on bioRxiv
+    links:
+      DOI: "https://www.doi.org/10.1101/335901"
+      PDF full text: 'Berrocal2019.pdf'
+
+2018: 
+  - title: Nucleo-cytoplasmic traficking regulates nuclear surface area during nuclear organogenesis
+    author: Vincent Bourdreau, James Hazel, Jake Sellinger, Pan Chen, Kathryn Manakova, Rochell Radzyminski, ernan G. Garcia, Jun Allard, Jesse Gatlin, Paul Maddox
+    journal: preprint on bioRxiv
+    links:
+      DOI: 'https://doi.org/10.1101/326140'
+      PDF full text: "Bordreau2018.pdf"
+
+  - title: Live Imaging of mRNA Synthesis in <i>Drosophila</i>
+    author: Hernan G. Garcia, Thomas Gregor
+    journal: "RNA Detection: Methods in Molecular Biology"
+    volume: 1649
+    links:
+      PDF full text: GarciaGregor2018.pdf
+
+  - title: "LlamaTags: A Versatile Tool to Image Transcription Factor Dynamics in Live Embryos"
+    author: Jacques p. Bothma, Matthew R. Nrstad, Simon Alamos, Hernan G. Garcia
+    journal: Cell
+    volume: 173 
+    issue: '(1)' 
+    links:
+      PDF full text: Bothma2018.pdf
+      SI Movies: "Bothma2018.avi"
+2017:
+  - title: Dense Bicoid Hubs Accentuate Binding Along the Morphogen Gradient
+    author: Mustafa Mir, Armando Reimer, Jenna E. Haines, Xiao-Yong Li, Michael Stadler, Hernan G. Garcia, Michael E. Eisen, Xavier Darzacq
+    journal: Genes Dev
+    volume: 37
+    issue: '(1784)'
+    links:
+      PDF full text: 'Mir2017.pdf'
+      SI: 'Mir2017SI.pdf'
+
+2016:
+  - title: "Using synthetic biology to make cells tomorrow's test tubes"
+    author: Hernan G. Garcia, Robert C. Brewster, Rob Phillips
+    journal: Integrative Biology
+    volume: 8
+    issue: '(431)'
+    links:
+      PDF full text: 'Garcia2016.pdf'
+
+2014:
+  - title: The influence of promoter architectures and regulatory motifs on gene expression in <i>Escherichia coli</i>
+    author: 'Mattias Rydenfelt, Hernan G. Garcia, Robert Sidney Cox III, Rob Phillips'
+    journal: 'PLOS One'
+    volume: 10
+    issue: (3)
+    links:
+      PDF full text: Rydenfelt2014.pdf
+      SI figures: Rydenfelt2014_SI_figs.pdf
+      SI tables: Rydenfelt2014_SI_tables.pdf
+
+  - title: "The embryo as a laboratory: quantifying transcription in <i>Drosophila</i>"
+    author: Thomas Gregor, Hernan G. Garcia, Shawn C. Little
+    journal: Trends in Genetics 
+    volume: 30
+    issue: (364)
+    links:
+      PDF full text: Gregor2014.pdf
+  
+  - title: Dynamic Regulation of Eve Stripe 2 Expression Reveals Transcriptional Bursts in Living <i>Drosophila</i> Embryos
+    author: Jacques P. Bothma*, Hernan G. Garcia*, Emilia Esposito, Gavin Schlissel, Thomas Gregor, Michael Levine.
+    journal: PNAS
+    volume: 111
+    issue: (29)
+    links: 
+      PDF full text: Bothma2014.pdf
+
+2007:
+  - title: "Biological consequences of Tightly Bent DNA: The Other Life of a Macromolecular Celebrity"
+    author: Hernan G. Garcia, Paul Grayson, Lin Han, Mandar Inamdar, Jane Kondev, Philip C. Nelson, Rob Phillips, Jonathan Widom, Paul A. Wiggins
+    journal: Biopolymers
+    volume: 85
+    issue: (2) 
+    links:
+      PDF full text: Garcia2007.pdf
+
+2005:
+  - title: "Transcriptional Regulation by the Numbers 2: Applications"
+    author: Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, Ulrich Gerland, Terence Hwa, Jane Kondev, Thomas Kuhlman, Rob Phillips
+    journal: Current Opinion in Genetics and Development
+    volume: 15
+    issue: (2)
+    links:
+      PDF full text: Bintu2005b.pdf
+
+  - title: "Transcriptional Regulation by the Numbers 1: Models"
+    author: "Lacramioara Binto, Nicolas E. Buchler, Hernan G. Garcia, Ulrich Gerland, Terence Hwa, Jane Kondev, Rob Phillips"  
+    journal: Current Opinion in Genetics and Development
+    volume: 15
+    issue: (2)
+    links: 
+      PDF full text: Bintu2005a.pdf
+  
