@@ -1,14 +1,14 @@
 - name: Home
-  path: index.html
+  path: "{{site.baseurl}}/index.html"
   section_id: home
 - name: Publications
   path: publications.html
 
 - name: People
-  path: people.html
+  path: "{{site.baseurl}}/people.html"
   section_id: People
  
 - name: Contact
-  path: contact.html
+  path: "{{site.baseurl}}/contact.html"
   section_id: contact
 
