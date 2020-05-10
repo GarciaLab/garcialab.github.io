@@ -11,10 +11,37 @@ header_img: research.gif
       {% include section-header.html title='Research'  color='#fff' class='big' %}
     </div>
   </div>
-  {% comment %} <div class='four spacing'></div> {% endcomment %}
+  <div class='four spacing'></div>
+ </div>
+
+<div class="full">
+{% comment %} <div class='large-11 columns'> {% endcomment %}
+{% for project in site.data.research %}
+<div class='row'>
+<h3 class="banner">{{project[0]}}</h3>
+
+<div class='large-6 columns'>
+<img src='{{site.baseurl}}/images/projects/{{project[1].image}}'>
+</div>
+<div class='large-6 columns' style="float: right;">
+<b> Description </b><br/>
+<p>{{project[1].description}}</p>
+
+<b> Project Members </b></br>
+<ul>
+{% for member in project[1].people %}
+<li>{{member.name}}</li>
+{%endfor%}
+</ul>
+</div>
+</div>
+<br/>
+{%endfor%}
+</div>
+
+</div></div>
+
 {% comment %} </div> {% endcomment %}
-
-
 
 
 

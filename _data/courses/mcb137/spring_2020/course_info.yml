@@ -69,33 +69,37 @@ Homework:
   - set:
     title: Homework 1
     link: hw1.pdf
-    Due: 1/30 at 3:30 PM
+    due: 1/30 at 3:30 PM
     solutions: hw1_solns.pdf
   - set:
     title: Homework 2
-    link: hw1.pdf
-    Due: 1/30 at 3:30 PM
-    solutions: hw1_solns.pdf
+    link: hw2.pdf
+    due: 1/30 at 3:30 PM
+    solutions: hw2_solns.pdf
 
 syllabus:
   - entry:
     date: 1/21
+    number: 1
     topics: > 
       A feeling for the numbers in biology, Part I.
       Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
       discovery in the living world. What sets the scale of things?
     materials: > 
       A feeling for the numbers: Powerpoint Presentation <br/>
-      Papers: Mathematics
-      Is Biology’s Next Microscope, Only Better; Biology Is Mathematics’ Next
-      Physics, Only Better (Cohen2004); Theory in Biology: Figure 1 or
-      Figure7? (Phillips2015b); Distribution of biomass on Earth (Bar-ON2018
-      and SI); Number of genes in human genome; The Tragic Matter
-      (Schatz2003); Polymerases and the Replisome (Baker1998); Re-examination
-      of the relationship between marine virus and microbial cell abundances
-      (Wigington2016) Extra reading material: PBoC chapters 1 through 3
+      Papers: <br/> 
+      - Mathematics Is Biology’s Next Microscope, Only Better; Biology Is Mathematics’ Next
+      Physics, Only Better (Cohen2004) <br/>
+      - Theory in Biology: Figure 1 or Figure7? (Phillips2015b)<br/> 
+      - Distribution of biomass on Earth (Bar-On2018 and SI)<br/>
+      - Number of genes in human genome; The Tragic Matter (Schatz2003)<br/>
+      - Polymerases and the Replisome (Baker1998)<br/>
+      -  Re-examination of the relationship between marine virus and microbial cell abundances
+      (Wigington2016)<br/> 
+      - Extra reading material: PBoC chapters 1 through 3
   - entry:
     date: 1/23
+    number: 2
     topics: >
       A feeling for the numbers in biology, Part II
     materials: > 
