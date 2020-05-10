@@ -1,0 +1,103 @@
+about: >
+  Biology is being revolutionized by new experimental techniques that have
+  made it possible to quantitatively query the inner workings of molecules,
+  cells and multicellular organisms in ways that were previously
+  unimaginable. The objective of this course is to respond to this deluge of
+  quantitative data through quantitative models and the use of biological
+  numeracy. The course will explore the description of a broad array of
+  topics from modern biology using the language of physics and mathematics.
+  One style of thinking we will emphasize imagines the kinds of simple
+  calculations that one can do with a stick in the sand.
+
+  <br/><br/>
+  We will draw examples from broad swaths of modern biology from our
+  department and beyond including cell biology (signaling and regulation,
+  cell motility), physiology (metabolism, swimming), developmental biology
+  (patterning of body plans, how size and number of organelles and tissues
+  are controlled), neuroscience (action potentials and ion channel gating)
+  and evolution (population genetics) in order to develop theoretical models
+  that make precise predictions about biological phenomena. These predictions
+  will be tested through the hands-on analysis of experimental data and by
+  performing numerical simulations using Python. Physical biology will be
+  introduced as an exciting new tool to complement other approaches within
+  biology such as genetics, genomics and structural biology. The course will
+  introduce students to the enabling power of biological numeracy in
+  scientific discovery and make it possible for them to use these tools in
+  their own future research.
+
+structure: >
+  The class as a whole will meet twice a week for one hour and a half. This
+  time will be devoted to lectures, discussions and hands-on activities
+  including Python exercises. Further, the class will be split into weekly
+  one-hour lab sessions. During these lab sessions, students will work
+  closely with the GSIs to implement the concepts they learned in class in
+  the context of different biological problems. Homework assignment will be
+  given every week and will represent 75% of the final grade. Twice during
+  the semester, students will prepare a project. The first project will be a
+  written assignment, while the second project will be presented in class.
+  These projects will represent 25% of the final grade.
+  <br/><br/>
+  For undergraduate students (MCB137L), the projects will consist on carrying
+  out an estimate on a biological phenomenon of interest following the style
+  presented in class. These presentations will be five minutes long.
+  <br/><br/>
+  For graduate students (MCB237L) the project will consist on presenting a
+  theoretical model developed in a recent paper of their choosing to the
+  class. These presentations will be ten minutes long.
+
+people:
+  - person:
+    name: Hernan Garcia
+    email: hggarcia@berkeley.edu 
+    role: Instructor
+    img: hernan.jpg
+    office_hours: Wednesdays 3pm - 4pm
+  - person:
+    name: YangJoon Kim
+    email: yjkim90@berkeley.edu
+    role: GSI
+    img: yang.jpeg
+    office_hours: Wednesdays 11pm - 12pm
+  - person:
+    name: Jiaxi (Jake) Zhao
+    email: jiaxi.zhao@berkeley.edu
+    role: GSI
+    img: jakezhao.jpg
+    office_hours: Wednesdays 11pm - 12pm
+
+Homework:
+  - set:
+    title: Homework 1
+    link: hw1.pdf
+    Due: 1/30 at 3:30 PM
+    solutions: hw1_solns.pdf
+  - set:
+    title: Homework 2
+    link: hw1.pdf
+    Due: 1/30 at 3:30 PM
+    solutions: hw1_solns.pdf
+
+syllabus:
+  - entry:
+    date: 1/21
+    topics: > 
+      A feeling for the numbers in biology, Part I.
+      Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
+      discovery in the living world. What sets the scale of things?
+    materials: > 
+      A feeling for the numbers: Powerpoint Presentation <br/>
+      Papers: Mathematics
+      Is Biology’s Next Microscope, Only Better; Biology Is Mathematics’ Next
+      Physics, Only Better (Cohen2004); Theory in Biology: Figure 1 or
+      Figure7? (Phillips2015b); Distribution of biomass on Earth (Bar-ON2018
+      and SI); Number of genes in human genome; The Tragic Matter
+      (Schatz2003); Polymerases and the Replisome (Baker1998); Re-examination
+      of the relationship between marine virus and microbial cell abundances
+      (Wigington2016) Extra reading material: PBoC chapters 1 through 3
+  - entry:
+    date: 1/23
+    topics: >
+      A feeling for the numbers in biology, Part II
+    materials: > 
+
+

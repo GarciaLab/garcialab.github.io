@@ -1,10 +1,44 @@
+2020:
+  - title: >
+      Lighting up the central dogma for predictive developmental biology
+    author: >
+        Hernan G. Garcia, Augusto Berrocal, Yang Joon Kim, Gabriella Martini, Jiaxi Zhao.
+    journal: Current Topics in Developmental Biology 
+    volume: 137
+    links:
+      PDF full text: "Garcia2020.pdf"
+
+  - title: > 
+      Quantitative dissection of transcription in development yields
+      evidence for transcription factor-driven chromatin accessibility
+    author:
+      Elizabeth Eck, Jonathan Liu, Maryam Kazemzadeh-Atoufi, Sydney Ghoreishi,
+      Shelby A. Blythe, Hernan G. Garcia
+    journal: bioRxiv
+    links:
+      DOI: "https://doi.org/10.1101/20202.01.27.922054"
+      PDF full text: "Eck2020.pdf"
+
+  - title: >
+      Multimodal trancriptional control of pattern formation in embryonic
+      development
+    author: > 
+      Nicholas C. Lammers, Vahe Galstyan, Armando Reimer, Sean A. Medin,
+      Christopher H. Wiggins, Hernan G. Garcia 
+    journal : Proceedings of the National Academy of Sciences 
+    volume: 117
+    issue: '(2)'
+    links:
+      DOI: "https://doi.org/10.1073/PNAS.1912500117"
+      PDF full text: "Lammers2020.pdf"
+
 2019: 
   - title: Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression
     author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, Manuel Razo-Mejia, and Clarissa Scholes.
     journal: Annual Review of Biophysics
     volume: 48 
     links:
-      PDF full text: 'AnnRev.pdf'
+      PDF full text: 'Phillips2019.pdf'
 
   - title: Enhancer priming enables fast and sustained transcriptional responses to Notch signaling.
     author: Julia Falo-Sanjuan, Nicholas C. Lammers, Hernan G. Garcia, Sarah Bray

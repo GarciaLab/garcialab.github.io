@@ -1,52 +1,52 @@
 ---
 layout: blog
-title: Home
+title: The Garcia Lab
 section_id: Home
-header_img: bicoid.gif
+header_img: eve_embryo.gif
 thumb_img: summary.png
 ---
-<!-- <div class="full" style="background: #f5f5f5; margin-left:auto; margin-right: auto;"> -->
+
   <div>
       <center><h2>Our mission is to understand, predict, and control developmental programs</h2></center>
       <hr/>
 
-      <div class='large-6 columns'>
+      <div class='half' style="margin:auto; width: 50%;">
       {% include bio.md %}
     </div>
-    <div class='medium-6 columns'>
-      <img src="{{site.baseurl}}/images/projects/{{page.thumb_img}}" style="display: block; width: 50%; margin-left: auto; margin-right: auto;" >
-    </div>
+    {% comment %} <div class='medium-6 columns'> {% endcomment %}
+      {% comment %} <img src="{{site.baseurl}}/images/projects/{{page.thumb_img}}" style="display: block; width: 50%; margin-left: auto; margin-right: auto;" > {% endcomment %}
+    {% comment %} </div> {% endcomment %}
       <!-- </div> -->
-  
-      <div class='four spacing'></div>
+
   </div>
   <hr/>
-<!-- <div class='full'>
-        <div class='row'>
-          <div class='medium-6 columns'>
-          <h3> Recent Publications </h3>
-          {% assign iter = 1 %}
-          <ul>
-          {% for year in site.data.publications %}
-          {% for pub in year[1] %}
-          {% if  iter <= 3 %}
-          <li><b>{{pub.title}}</b>{% if pub.journal == 'preprint on bioRxiv' %} on <i>bioRxiv</i>{% else %} in <i> {{pub.journal}}</i>{% endif %} | {% for link in pub.links %}{% if link[0] == 'PDF full text' %} <a href="{{link[1]}}">PDF</a>{% endif %}{% endfor %}</li><br/>
-          {% assign iter = iter | plus: 1 %}
-          {% endif %}
+<div class='full' style="width: 100%; margin-right: auto;">
+  <div class='row'>
+    <div class='mod modGallery'>
+      <ul class='gallery large-block-grid-4 medium-block-grid-3
+      small-block-grid-2'>
+        {% for cat in site.data.index %}
+          <li style="padding: 25px; padding-bottom: 0px; text-align: center;">
+          <p style="text-transform: lowercase; text-color: black; text-align:
+          center; margin-right: auto; background-color: #e3dcd1; padding-bottom:0.25em;"> {{cat.name}} </p>
+            <a href='{{site.baseurl}}/{{cat.link}}'>
+            <img alt="" style='border: 1px solid #000000;' src="{{site.baseurl}}/images/{{cat.image}}" />
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <h3> {{cat.description}}</h3>
+                 {% comment %} <p><b>{{ cat.desc }}</b></p> {% endcomment %}
+                </div>
+              </div>
+            </a>
+          </li>
           {% endfor %}
-          {% endfor %}
-          </ul>
-          </div>
-        </div>
-</div> -->
+      </ul>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
 
-<div class='spacing'></div>
-<div class='spacing'></div>
-<div class='spacing'></div>
-<br/><br/>
-<center><h2> Our Current Research </h2></center>
-
-{% for post in site.posts %}
+{% comment %} {% for post in site.posts %}
 <div class="medium-6 columns">
   <div class='medium mod modBlogPost'>
     <!-- <div class='images'> -->
@@ -64,4 +64,4 @@ thumb_img: summary.png
   </div><div>
 {% endfor %}
 
-
+ {% endcomment %}

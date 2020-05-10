@@ -2,13 +2,13 @@
 layout: default
 title: Publications
 section_id: publications
-header_img: shadow_enhancers.jpg
+header_img: publications.gif
 ---
 
 <div class='full parallax' style='background-image: url({{site.baseurl}}/images/headers/{{page.header_img}}); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Publications" tagline="Published work from the lab" color="#fff" class="big" %}
+      {% include section-header.html title='Publications'  color='#fff' class='big' %}
     </div>
   </div>
   <div class='four spacing'></div>
@@ -16,7 +16,26 @@ header_img: shadow_enhancers.jpg
 
 
 <div class='full'>
+<div class="row" style="padding: 20px;">
+
+
+<h3 class='banner'> Books </h3>
+<div style="height: 200px;">
+<br/><br/> <img src="{{ site.baseurl }}/images/pboc.jpg" style="height:
+200px; border: 1px solid #000000; float: left;  margin-right: 10px ">
+<b>Physical Biology of the Cell, Second Edition</b> <br/>by Rob Phillips, Jané
+Kondev, Julie Theriot, Hernan Garcia, <br/>and illustrated by Nigel Orme. <i>Garland
+Science</i>, 2012. <br/> <a
+href="http://www.rpgroup.caltech.edu/pboc2">Book
+Website</a> | <a
+href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
+</div>
+</div>
+
+
+<br/><br/>
 <div class='row' style="padding: 20px;">
+<h3 class="banner"> Publications </h3>
 {% for year in site.data.publications %}
 <h3>{{year[0]}}</h3>
     <div class='medium-12 columns'>

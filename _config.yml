@@ -3,7 +3,7 @@ title: Garcia Lab
 description: > 
     Physical Biology of the Embryo
 baseurl: "/garcialab/" # the subpath of your site, e.g. /blog/
-url: "http://gchure.github.io/" # the base hostname & protocol for your site
+# url: "http://gchure.github.io/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -13,7 +13,6 @@ paginate: 3
 paginate_path: "blog/page:num"
 
 # Lab location information for contact us page
-
 contact:
     text: >
       We are very excited to hear from people that share our

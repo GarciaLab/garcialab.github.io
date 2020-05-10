@@ -1,0 +1,23 @@
+- cat:
+  name: Research
+  description: What we do
+  link: research.html
+  image: research.png
+
+- cat:
+  name: Publications
+  description: What we've done
+  link: publications.html
+  image: publications.png
+
+- cat:
+  name: People
+  description: Who we are
+  link: people.html
+  image: people.png
+
+- cat:
+  name: Teaching 
+  description: What we teach
+  link: teaching.html
+  image: teaching.png
