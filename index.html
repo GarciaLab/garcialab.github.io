@@ -13,10 +13,6 @@ thumb_img: summary.png
       <div class='half' style="margin:auto; width: 50%;">
       {% include bio.md %}
     </div>
-    {% comment %} <div class='medium-6 columns'> {% endcomment %}
-      {% comment %} <img src="{{site.baseurl}}/images/projects/{{page.thumb_img}}" style="display: block; width: 50%; margin-left: auto; margin-right: auto;" > {% endcomment %}
-    {% comment %} </div> {% endcomment %}
-      <!-- </div> -->
 
   </div>
   <hr/>
@@ -27,14 +23,12 @@ thumb_img: summary.png
       small-block-grid-2'>
         {% for cat in site.data.index %}
           <li style="padding: 25px; padding-bottom: 0px; text-align: center;">
-          <p style="text-transform: lowercase; text-color: black; text-align:
-          center; margin-right: auto; background-color: #e3dcd1; padding-bottom:0.25em;"> {{cat.name}} </p>
+          <h3 class='banner'>{{cat.name}}</h3>
             <a href='{{site.baseurl}}/{{cat.link}}'>
             <img alt="" style='border: 1px solid #000000;' src="{{site.baseurl}}/images/{{cat.image}}" />
               <div class='overlay'>
                 <div class='thumb-info'>
                   <h3> {{cat.description}}</h3>
-                 {% comment %} <p><b>{{ cat.desc }}</b></p> {% endcomment %}
                 </div>
               </div>
             </a>
@@ -44,24 +38,4 @@ thumb_img: summary.png
     </div>
   </div>
   <div class='four spacing'></div>
-</div>
-
-{% comment %} {% for post in site.posts %}
-<div class="medium-6 columns">
-  <div class='medium mod modBlogPost'>
-    <!-- <div class='images'> -->
-      {% for image in post.images %}
-        <div class='image'><img alt="" src="{{site.baseurl}}/{{image}}" style="display: block; margin-left: auto; margin-right: auto; width: 90%"></div>
-      {% endfor %}
-    <!-- </div> -->
-    <div class='content'>
-      <h3><a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a></h3>
-      <p>{{post.excerpt}}</p>
-      <div class='spacing'></div>
-      <center><a class="button small" href="{{site.baseurl}}/{{post.url}}">Read more</a></center>
-    </div>
-  </div>
-  </div><div>
-{% endfor %}
-
- {% endcomment %}
+</div> 
