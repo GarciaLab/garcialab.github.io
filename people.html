@@ -63,10 +63,12 @@ header_img: people.jpeg
             {% assign position = " " %}
           {% endif %}
           <li class="{{ member.caste }}" style="padding: 5px;">
-          <b style="text-transform: uppercase; text-color: black; text-align:
-          center;"> {{member.name}}</b>
+        <b style="text-transform: uppercase; text-color: black; text-align:
+            center;"> {{member.name}}</b>
+
+          {% comment %} <h4 class='subbanner' style="margin-bottom: 5px;"> {{member.name}}</h4> {% endcomment %}
             <a href='{{ member.link }}'>
-            <img alt="" src="{{site.baseurl}}/images/people/{{ member.avatar }}" />
+            <img alt="" style="border: 1px solid #000000;" src="{{site.baseurl}}/images/people/{{ member.avatar }}" />
               <div class='overlay'>
                 <div class='thumb-info'>
                   <h3> {{member.name }}</h3>

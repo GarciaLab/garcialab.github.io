@@ -1,13 +1,4 @@
 2020:
-  - title: >
-      Lighting up the central dogma for predictive developmental biology
-    author: >
-        Hernan G. Garcia, Augusto Berrocal, Yang Joon Kim, Gabriella Martini, Jiaxi Zhao.
-    journal: Current Topics in Developmental Biology 
-    volume: 137
-    links:
-      PDF full text: "Garcia2020.pdf"
-
   - title: > 
       Quantitative dissection of transcription in development yields
       evidence for transcription factor-driven chromatin accessibility
@@ -18,7 +9,14 @@
     links:
       DOI: "https://doi.org/10.1101/20202.01.27.922054"
       PDF full text: "Eck2020.pdf"
-
+  - title: >
+      Lighting up the central dogma for predictive developmental biology
+    author: >
+        Hernan G. Garcia, Augusto Berrocal, Yang Joon Kim, Gabriella Martini, Jiaxi Zhao.
+    journal: Current Topics in Developmental Biology 
+    volume: 137
+    links:
+      PDF full text: "Garcia2020.pdf"
   - title: >
       Multimodal trancriptional control of pattern formation in embryonic
       development
@@ -31,8 +29,20 @@
     links:
       DOI: "https://doi.org/10.1073/PNAS.1912500117"
       PDF full text: "Lammers2020.pdf"
+      Supporting Information: "Lammers2020supp.pdf"
 
 2019: 
+  - title: >
+      Enhancer priming enables fast and sustained transcriptional responses to
+      Notch signaling.
+    author: >
+      Julia Falo-Sanjuan, NIcholas C. Lammers, Hernan G. Garcia, and Sarah Bray.
+    journal: Developmental Cell
+    volume: 50
+    links:
+      DOI: "https://doi.org/10.1016/j.devcel.2019.07.002"
+      PDF Full Text: Falo-Sanjuan2019.pdf
+
   - title: Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression
     author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, Manuel Razo-Mejia, and Clarissa Scholes.
     journal: Annual Review of Biophysics
@@ -40,50 +50,51 @@
     links:
       PDF full text: 'Phillips2019.pdf'
 
+  - title: > 
+      The *Drosophila* pioneer factor Zelda modulates the nuclear
+      microenvironment of a Dorsal target enhancer to potentiate transcriptional
+      output
+    authors: >
+      Shigehiro Yamada, Peter H. Whitney, Shao-Kuei Huang, Elizabeth C. Eck,
+      Hernan G. Garcia, and Christine A. Rushlow.
+    journal: Current Biology
+    volume: 29
+    issue: (8)
+    links:
+      DOI: "https://doi.org/10.1016/j.cub.2019.03.019"
+      PDF Full Text: Yamada2019.pdf
+
   - title: Enhancer priming enables fast and sustained transcriptional responses to Notch signaling.
     author: Julia Falo-Sanjuan, Nicholas C. Lammers, Hernan G. Garcia, Sarah Bray
     journal: preprint on bioRxiv
     links:
       DOI: "https://doi.org/10.1101/497651"
       PDF full text: 'FaloSanjuan2019.pdf'
+ 
 
-  - title: "The <i>Drosophila</i> pioneer factor Zelda modulates the nuclear microenvironment of a Dorsal target enhancer to potentiate transcriptional output."
-    author: Shigehiro Yamada, Peter H. Whitney, Shao-Kuei Huang, Elizabeth C. Eck, Hernan G. Garcia, Christine A. Rushlow
-    journal: Current Biology
-    volume: 29 
-    issue:  '(8)'
+2018: 
+  - title: > 
+      Single Molecule Imaging in Live EMbryos Using Lattice Light-Sheet MIcroscopy 
+    authors: >
+      Mustafa Mir, Armando Reimer, Michael Stadler, Astou Tangara, ANsers S.
+      Hansen, Dirk Hockemeyr, Michael B. Eisen, Hernan G. Garcia, and Xavier Darzacq.
+    journal: Nanoscale Imaging, Humana Press, New York, NY.
     links:
-      DOI: 'https://doi.org/10.1016/j.cub.2019.03.019'
-      PDF full text: 'Yamada2019.pdf'
-
-  - title: Binary transcriptional control of pattern formation in development
-    author: Nicholas Lammers, Vahe Galstyan, Armando Reimer, Sean Medin, Chris Wiggins, Hernan G. Garcia
-    journal: preprint on bioRxiv
-    links:
-      DOI: 'https://doi.org/10.1101/335919'
-      PDF full text: 'Lammers2019.pdf'
+      PDF Full Text: Mir2018.pdf
 
   - title: Kinetic sculpting of the seven stripes of the <i>Drosophila</i> even-skipped gene
     author: Augusto Berrocal, Nicholas Lammers, Hernan G. Garcia, Michael Eisen
     journal: preprint on bioRxiv
     links:
       DOI: "https://www.doi.org/10.1101/335901"
-      PDF full text: 'Berrocal2019.pdf'
+      PDF full text: 'Berrocal2018.pdf'
 
-2018: 
   - title: Nucleo-cytoplasmic traficking regulates nuclear surface area during nuclear organogenesis
     author: Vincent Bourdreau, James Hazel, Jake Sellinger, Pan Chen, Kathryn Manakova, Rochell Radzyminski, ernan G. Garcia, Jun Allard, Jesse Gatlin, Paul Maddox
     journal: preprint on bioRxiv
     links:
       DOI: 'https://doi.org/10.1101/326140'
       PDF full text: "Bordreau2018.pdf"
-
-  - title: Live Imaging of mRNA Synthesis in <i>Drosophila</i>
-    author: Hernan G. Garcia, Thomas Gregor
-    journal: "RNA Detection: Methods in Molecular Biology"
-    volume: 1649
-    links:
-      PDF full text: GarciaGregor2018.pdf
 
   - title: "LlamaTags: A Versatile Tool to Image Transcription Factor Dynamics in Live Embryos"
     author: Jacques p. Bothma, Matthew R. Nrstad, Simon Alamos, Hernan G. Garcia
@@ -93,6 +104,14 @@
     links:
       PDF full text: Bothma2018.pdf
       SI Movies: "Bothma2018.avi"
+
+  - title: Live Imaging of mRNA Synthesis in <i>Drosophila</i>
+    author: Hernan G. Garcia, Thomas Gregor
+    journal: "RNA Detection: Methods in Molecular Biology"
+    volume: 1649
+    links:
+      PDF full text: Garcia2018.pdf
+
 2017:
   - title: Dense Bicoid Hubs Accentuate Binding Along the Morphogen Gradient
     author: Mustafa Mir, Armando Reimer, Jenna E. Haines, Xiao-Yong Li, Michael Stadler, Hernan G. Garcia, Michael E. Eisen, Xavier Darzacq
@@ -101,7 +120,8 @@
     issue: '(1784)'
     links:
       PDF full text: 'Mir2017.pdf'
-      SI: 'Mir2017SI.pdf'
+      SI: 'Mir2017supp.pdf'
+      Videos: 'Mir2017movies.zip'
 
 2016:
   - title: "Using synthetic biology to make cells tomorrow's test tubes"
@@ -112,6 +132,18 @@
     links:
       PDF full text: 'Garcia2016.pdf'
 
+2015:
+  - title: >
+      Enhancer additivity and non-additivity in the early <i>Drosophila</i>
+      embryo are determined by enhancer strength
+    author: > 
+      Jacques P. Bothma*, Hernan G. Garcia*, Samuel Ng, Michael Perry, Thomas
+      Gregor, and MIchael Levine.
+    journal: eLife
+    volume: 4e07956
+    links:
+      PDF Full Text: Bothma2015.pdf
+
 2014:
   - title: The influence of promoter architectures and regulatory motifs on gene expression in <i>Escherichia coli</i>
     author: 'Mattias Rydenfelt, Hernan G. Garcia, Robert Sidney Cox III, Rob Phillips'
@@ -119,9 +151,9 @@
     volume: 10
     issue: (3)
     links:
-      PDF full text: Rydenfelt2014.pdf
-      SI figures: Rydenfelt2014_SI_figs.pdf
-      SI tables: Rydenfelt2014_SI_tables.pdf
+      PDF full text: Rydenfelt2014b.pdf
+      SI figures: Rydenfelt2014bsupp.pdf
+      SI tables: Rydenfelt2014btables.zip
 
   - title: "The embryo as a laboratory: quantifying transcription in <i>Drosophila</i>"
     author: Thomas Gregor, Hernan G. Garcia, Shawn C. Little
@@ -139,14 +171,193 @@
     links: 
       PDF full text: Bothma2014.pdf
 
+  - title: >
+      The Transcription Factor TItration Effect Dictates Level of Gene
+      Expression
+    author: >
+      Robert C. Brewster, Franz Weinert, Hernan G. Garcia, Linda SOng, Mattias
+      Rydenfelt, and ROb Phillips.
+    journal: Cell
+    volume: 156
+    links:
+      PDF Full Text: Brewster2014.pdf
+      Supporting Information: Brewster2014supp.pdf
+      Nature Commentary: Brewster2014NatureMethodsCommentary.pdf
+
+  - title: >
+      The transcription factor titration effect: Statistical mechanical model of
+      coupled transcription from multiple promoters
+    author: > 
+      Mattias Rydenfelt, RObert Sidney Cox III, Hernan G. Garcia, and Rob
+      Phillips.
+    journal: Physical Review E
+    volume: 89
+    links:
+      PDF Full Text: Rydenfelt2014.pdf
+2013:
+  - title: >
+      The plasma membrane flatteens out oto fuel cell surface growth during
+      <i>Drosophila</i> cellularization.
+    author: >
+      Lauren Figard, Heng Zu, Hernan G. Garcia, Ido Golding, and Anna Marie
+      Sokac.
+    journal: Developmental Cell
+    volume: 27
+    links:
+      PDF Full Text: Figard2013.pdf
+      Supporting Information: Figard2013supp.pdf
+
+  - title: >
+      DNA sequence-dependent mechanics and protein-assisted bending in
+      repressor-mediated DNA loop formation
+    author: >
+      James Q. Boedicker, Hernan G. Garcia, Stephanie Johnson, and Rob Phillips.
+    journal: Physical Biology
+    volume: 10
+    links:
+      PDF Full Text: Boedicker2013b.pdf
+      Supporting Information: Boedicker2013bsupp.pdf
+    
+  - title: >
+      Quantitative imaging of transcription in living <i>Drosophila</i>
+      embryos links polymerase activity to patterning
+    author: >
+      Hernan G. Garcia, Mikhail Tikhonov, Albert Lin, and Thomas Gregor.
+    journal: Current Biology
+    volume: 23
+    links:
+      PDF Full Text: Garcia2013.pdf
+      Supporting Information: Garcia2013supp.pdf
+
+  - title: > 
+      Statistical Mechanics of MOnod-Wyman-Changeux (MWC) Models
+    author: > 
+      Sarah Marzen, Hernan G. Garcia, and Rob Phillips.
+    journal: Journal of Molecular Biology
+    volume: 23
+    links: 
+      PDF Full Text: Marzen2013.pdf
+      Supporting Information: Marzen2013supp.pdf
+
+  - title: > 
+      Theoretical and experimental dissection of DNA loop-mediated repression.
+    author: James Q. Boedicker*, Hernan G. Garcia*, and Rob Phillips.
+    journal: Physical Review Lettes
+    volume: 110
+    links:
+      PDF Full Text: Boedicker2013a.pdf
+      Supporting Information: Boedicker2013asupp.pdf
+
+2012:
+  - title: >
+        Operator Sequence alters gene expression independently of
+        transcription factor occupancy.
+    author: > 
+        Hernan G. Garcia*, Alvaro Sanchez*, James Q. Boedicker*, Melisa Osborne,
+        Jeff Gelles, Jané Kondev, and Rob Phillips.
+    journal: Cell Reports 
+    volume: 2
+    links:
+      PDF Full Text: Garcia2012a.pdf
+
+2011:
+  - title: >
+      Quantitative dissection of the simple repression input-output
+      function
+    author: Hernan G. Garcia and Rob Phillips.
+    journal: PNAS
+    volume: 108
+    links: 
+      PDF Full Text: Garcia2011c.pdf
+      Supporting Information: Garcia2011cSupp.pdf
+  - title: > 
+      The limits and validity of methods of measuring gene expression for the
+      testing of quantitative models
+    author: > 
+      Hernan G. Garcia,  Heun Jin Lee, James Q. Boedicker, and Rob Phillips.
+    journal: Biophysical Journal
+    volume: 101
+    links:
+      PDF Full Text: Garcia2011b.pdf
+      Supporting Information: Garcia2011bsupp.pdf
+  - title: Precision computational features in synthetic enhancers
+    author: Roee Amit, Hernan G. Garcia, Rob Phillips, and Scott E. Fraser.
+    journal: Cell
+    volume: 7
+    links:
+      PDF Full Text: Amit2011.pdf
+      Supporting Information: Amit2011supp.pdf
+  - title: >
+      Effect of promoter architecture on the cell-to-cell variability in
+      gene expression
+    author: > 
+      Alvaro Sanchez, Hernan G. Garcia, Daniel Jones, Rob Phillips, and Jané
+      Kondev.
+    journal: PLoS Computational Biology
+    volume: 7
+    links:
+      PDF Full Text: Sanchez2011.pdf
+      Supporting Information: Sanchez2011supp.pdf
+  - title: Thermodynamics of biological processes
+    author: > 
+      Hernan G. Garcia, Jané Kondev, Nigel ORme, Julie A. Theriot, and Rob
+      Phillips.
+    journal: Methods in Enzymology
+    volume: 492
+    links:
+      PDF Full Text: Garcia2011a.pdf
+
+2010:
+  - title: >
+      Transcription by the numberss redux: experiments and calculations
+      that surprise
+    author: > 
+      Hernan G. Garcia, Alvaro Sanchez, Thomas Kuhlman, Jané Kondev, and Rob
+      Phillips.
+    journal: Trends in Cell BIology
+    volume: 20
+    links:
+      PDF Full Text: Garcia2010.pdf
+
+2009:
+  - title: >
+      First Principles Calculation of DNA looping in tethered particle
+      experiments
+    author: >
+      Kevin B. Towles, John F. Beausang, Hernan G. Garcia, Rob PHillips, and
+      PHilip C. Nelson.
+    journal: Physical Biology
+    volume: 6
+    links:
+      PDF Full Text: Towles2009.pdf
+  - title: > 
+      Concentration and length dependence of DNA looping in transcriptional 
+      regulation
+    author: > 
+      Lin Han, Hernan G. Garcia, Seth BLumberg, Kevin B. Towles, John F.
+      Beausang, Philip C. Nelson, and Rob Phillips.
+    journal: PLoS One
+    volume: 4
+    issue: (5)
+    links:
+      PDF Full Text: Han2009.pdf
+      Supporting Information: Han2009supp.pdf
+
 2007:
+  - title: A First Exposure to Statistical Mechanics for Life Scientists
+    author: Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie Theriot, and Rob Phillips.
+    journal: arXiv
+    volume: 0708.1899v1
+    links:
+      PDF Full Text: Garcia2007b.pdf
+
   - title: "Biological consequences of Tightly Bent DNA: The Other Life of a Macromolecular Celebrity"
     author: Hernan G. Garcia, Paul Grayson, Lin Han, Mandar Inamdar, Jane Kondev, Philip C. Nelson, Rob Phillips, Jonathan Widom, Paul A. Wiggins
     journal: Biopolymers
     volume: 85
     issue: (2) 
     links:
-      PDF full text: Garcia2007.pdf
+      PDF full text: Garcia2007a.pdf
 
 2005:
   - title: "Transcriptional Regulation by the Numbers 2: Applications"

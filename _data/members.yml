@@ -13,21 +13,15 @@
   background: >
       Molecular & Cell Biology <br/>
       BS Genomic Sciences, Univ. Nacional Autónoma de Mexico (UNAM)
-      
-- avatar: jacques.jpg
-  name: Jacques Bothma
-  caste: postdoc
-  link: 
-  background: >
-      PhD Biophysics, UC Berkeley<br/> 
-      BS Physics and Mathematics, University of Queensland 
+- avatar: jinnichung.jpg
+  name: Jinny Chung
+  caste: undergrad
+  link:
+  background: > 
+    Molecular & Cell Biology <br/>
+    UC Berkeley Undergraduate Student
 
-- avatar: myron.jpg
-  name: Myron Barber Child    
-  caste: tech
-  link: ""
-  background: >
-      BS Physics and Astrophysics, UC Berkeley 
+
 
 - avatar: liz.jpg 
   name: Elizabeth Eck 
@@ -43,6 +37,14 @@
   link: 
   background: >
       PhD City University of New York
+
+- avatar: pirooz.jpg
+  name: Pirooz Fereydouni
+  caste: undergrad
+  link: 
+  background: > 
+    Molecular & Cell Biology<br/>
+    UC Berkeley Undergraduate Student
 
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
@@ -84,12 +86,6 @@
       NDSEG Physics Graduate Fellow<br/>
       B.S. Applied Physics, Caltech
 
-- avatar: emma.jpg
-  name: Emma Luu
-  caste: undergrad
-  link: 
-  background: >
-      Physics Undergraduate
 
 - avatar: gabriella.jpg
   name: Gabriella Martini
@@ -99,14 +95,6 @@
       NSF Molecular & Cell Biology Graduate Fellow<br/>
       BS Physics, MIT
       
-- avatar: seanmedin.jpg
-  name: Sean Medin
-  caste: undergrad
-  link: 
-  background: >
-      Physics Undergraduate
-
-
 - avatar: armando.jpg
   name: Armando Reimer
   caste: grad
@@ -122,7 +110,27 @@
   background: >
       Physics Undergraduate Student
 
-
+- avatar: SamSmith.jpeg
+  name: Sam Smith 
+  caste: rotato
+  link: 
+  background: > 
+    Molecular & Cell Biology Rotation Student (Spring 2020) <br/>
+    B.S in Biology, minor in Biomedical Engineering, Carnegie Mellon University
+- avatar: pranjal.jpg
+  name: Pranjal Srivastava
+  caste: undergrad
+  link: 
+  background: > 
+    Chemical Biology and Applied Math<br/>
+    UC Berkeley Undergraduate Student
+- avatar: paultalledo.jpg
+  name: Paul Talledo
+  caste: tech
+  link: 
+  background: > 
+    Physics M.Sc. and B.Sc. California State University Northridge
+  
 - avatar: meghan.jpg
   name: Meghan Turner
   caste: grad
@@ -133,13 +141,6 @@
 
 - avatar: clay.jpg
   name: Clay Westrum
-  caste: undergrad
-  link: 
-  background: > 
-      Physics Undergraduate
-
-- avatar: jordanxiao.JPG
-  name: Jordan Xiao
   caste: undergrad
   link: 
   background: > 
