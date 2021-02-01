@@ -1,1 +1,10 @@
-In development a single cell goes through a series of repeated divisions and these cells read the program encoded in their DNA in order to become familiar cell types such as those found in muscle, liver or our brains. The goal of our lab is to uncover the rules behind these decisions with the objective of predicting and manipulating developmental programs from just looking at DNA sequence. In order to reach this predictive understanding we combine physics, synthetic biology and new technologies to query and control developmental decisions in real time at the single cell level in the fruit fly embryo.
+Over the last few decades, impressive progress has been made in uncovering
+how embryonic development is driven by genes connected in complex regulatory
+networks. Our research goal is to endow these networks with quantitative and
+molecular information that makes it possible to precisely predict how the
+gene expression patterns that dictate cellular identity are prescribed by
+input activators and repressors, and the arrangement of binding sites for
+these transcription factors on the DNA. We test our models by systematically
+varying DNA regulatory architecture and by inventing new technology to
+perform precision measurements of the flow of information along the central
+dogma.

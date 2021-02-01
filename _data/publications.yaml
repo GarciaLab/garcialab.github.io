@@ -1,13 +1,68 @@
 2020:
+  - title: >
+      A matter of time: Using dynamics and thoery to unceover mechanisms of
+      transcriptional bursting
+    author: Nicholas C. Lammers, Yang Joon Kim, Jiaxi Zhao, and Hernan G. Garcia
+    journal: Current Opinion in Cell Biology
+    volume: 67
+    links:
+      DOI:  "https://doi.org/10.1016/j.ceb.2020.08.001"
+      PDF full text: "Lammers2020b.pdf"
+  - title: Fundamental limits on the rate of bacterial growth
+    author: >
+      Nathan Belliveau, Griffin Chure, Christina Hueschen, Hernan G. Garcia,
+      Jane Kondev, Julie Theriot, and Rob Phillips
+    journal: bioRxiv
+    links:
+      DOI: "https://doi.rog/10.1101./2020.10.18.344382"
+      PDF full text: "Belliveau2020.pdf"
+  - title: >
+      Single-cell characterization of the eukaryotic transcription cycle
+      using live imaging and statistical inference
+    author: > 
+      Jonathan Liu, Donal Hansen, Elizabeth Eck, Yang Joon Kim, Meghan
+      Turner, SImon Alamos, and Hernan G. Garcia
+    journal: bioRxiv
+    links: 
+      DOI: "https://doi.org/10.1101/2020.08.29.273474"
+      PDF full text: "Liu2020.pdf"
+  - title: >
+      Live imaging and biophysical modeling support a button-based mechanism
+      of somatic homolog pairing in <i>Drosophila</i>
+    author: >
+      Myron Child VI, Jack R. Bateman, Amir Jahangiri, Armando Reimer,
+      Nicholas C. Lammers Nica Sbouni, Diego Villamarin, Grace C.
+      McKenzie-Smith, Justine E. Johnson, Daniel JOst, and Hernan G. Garcia.
+    journal: bioRxiv
+    links:
+        DOI: "https://doi.org/10.1101/2020.08.30.265108"
+        PDF full text: "Child2020.pdf"
+  - title: >
+      Quantitative imaging of RNA polymerase II activity in plants revewals
+      the single-cell basis of tissue-wide transcriptional dynamics
+    author: Simon Alamos, armando Reimer, Krishna K. Niyogi, and Hernan G. Garcia.
+    journal: bioRxiv
+    links:
+      DOI: https://doi.org/10.1101/2020.08.30.274621
+      PDF full text: 
+  - title: "Genetically-encoded fluorescent biosensor for rapid detection of protein expression"
+    author: >
+      Matthew G. Eason, ANtonia T. Pandelieva, Marc M. Mayer, Safwat T. Khan,
+      Hernan G. Garica, and Roberto A. Chica.
+    journal: bioRxiv
+    links:
+      DOI: "https://doi.org/10.1101/2020.07.30.229633"
+      PDF full text: "Eason2020.pdf"
   - title: > 
       Quantitative dissection of transcription in development yields
       evidence for transcription factor-driven chromatin accessibility
     author:
       Elizabeth Eck, Jonathan Liu, Maryam Kazemzadeh-Atoufi, Sydney Ghoreishi,
       Shelby A. Blythe, Hernan G. Garcia
-    journal: bioRxiv
+    journal: eLife 
+    volume: "Oct 9;e56429"
     links:
-      DOI: "https://doi.org/10.1101/20202.01.27.922054"
+      DOI: "https://doi.org/10.7554/eLife.56429"
       PDF full text: "Eck2020.pdf"
   - title: >
       Lighting up the central dogma for predictive developmental biology
@@ -369,7 +424,7 @@
       PDF full text: Bintu2005b.pdf
 
   - title: "Transcriptional Regulation by the Numbers 1: Models"
-    author: "Lacramioara Binto, Nicolas E. Buchler, Hernan G. Garcia, Ulrich Gerland, Terence Hwa, Jane Kondev, Rob Phillips"  
+    author: "Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, Ulrich Gerland, Terence Hwa, Jane Kondev, Rob Phillips"  
     journal: Current Opinion in Genetics and Development
     volume: 15
     issue: (2)

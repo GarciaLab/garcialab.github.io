@@ -4,7 +4,6 @@ title: Research
 section_id: research
 header_img: research.gif
 ---
-
 <div class='full parallax' style='background-image: url({{site.baseurl}}/images/headers/{{page.header_img}}); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
@@ -15,33 +14,49 @@ header_img: research.gif
  </div>
 
 <div class="full">
-{% comment %} <div class='large-11 columns'> {% endcomment %}
 {% for project in site.data.research %}
-<div class='row'>
-<h3 class="banner">{{project[0]}}</h3>
+<div class="row">
+  <h3 class="banner">{{project[0]}}</h3>
+  <div class='large-5 columns'>
+    <img style="padding:10px;"src='{{site.baseurl}}/images/research_figs/{{project[1].image}}'>
+  </div>
+  {{project[1].description}}
+  <ol type='I'>
+  {% for topic in project[1].topics %}
+    <li><b>{{topic.title}}</b><br/>
 
-<div class='large-5 columns'>
-<img src='{{site.baseurl}}/images/projects/{{project[1].image}}'>
+      {{topic.desc}}
+      <br/><i>Relevant Publications</i>
+      <ul>
+        {% for pub in topic.pubs %}
+        <li>{{pub.author_year}}: <a href="{{pub.year}}">{{pub.title}}</a></li>
+        {%endfor%}
+      </ul>
+    </li>
+    
+  {% endfor%}
+  </ol>
 </div>
-<div class='large-7 columns' style="float: right;">
-<b> Description </b><br/>
-<p>{{project[1].description}}</p>
-
-<b> Project Members </b></br>
-<ul>
-{% for member in project[1].people %}
-<li>{{member.name}}</li>
 {%endfor%}
-</ul>
-</div>
+
+
+        <!-- <b> Project Members </b></br>
+        <ul>
+          {% for member in project[1].people %}
+            <li>{{member.name}}</li>
+          {%endfor%}
+        </ul> -->
+
+    </div>
 </div>
 <br/>
-{%endfor%}
+
 </div>
 
 </div></div>
 
-{% comment %} </div> {% endcomment %}
 
 
 
+
+ph

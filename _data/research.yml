@@ -1,33 +1,148 @@
 Lighting Up the Central Dogma in Embryonic Development:
-  description: > 
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-    parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec
-    pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim
-    justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis
-    eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum
-    semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor
-    eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in,
-    viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius
-  image: llamatags.png
+  image: central_dogma.png
   people:
     - name: Simon Alamos
     - name: Augusto Berrocal 
     - name: Armando Reimer
     - name: Meghan Turner
+  description: > 
+     Up until recently, state-of-the-art examinations of snapshots of dead, fixed
+     embryos provided only glimpses of the dynamics of cellular decision-making.
+     Until we can uncover developmental programs at the single cell level in
+     living embryos, there is no telling what insights have been hidden from our
+     view.<br/><br/>
+     In our lab, we develop new experimental and computational tools to
+     measure and manipulate the flow of information along the central dogma
+     in single cells of living, developing embryos using the fruit fly
+     <i>Drosophila melanogaster</i> as a case study.
+  topics: 
+    - title: Lighting up transcriptional dynamics using MS2
+      desc: >
+        We have pioneered the MS2/MCP technology in developing fruit fly
+        embryos, which allows for live-cell imaging of nascent RNA
+        transcription with single-cell resolution.
+      pubs:
+        - author_year: Garcia et al. (2013)
+          title: >
+            Quantitative Imaging of Transcription in Living Drosophila
+            Embryos Links Polymerase Activity to Patterning
+          link: "https://www.cell.com/current-biology/fulltext/S0960-9822(13)01113-5"
+        - author_year: Bothma et al. (2014)
+          title: > 
+            Dynamic Regulation of Eve Stripe 2 Expression Reveals
+            Transcriptional Bursts in Living Drosophila Embryos
+          link: "https://www.pnas.org/content/111/29/10598.short"
+    - title: Lighting up the transcription cycle using inference methods
+      desc: > 
+        We employ powerful computational methods to extract information about
+        the transcription cycle from MS2 data such as bursting kinetics and
+        RNAP elongation rates.
+      pubs:
+        - author_year: Lammers et. al. (2020)
+          title:  Multimodal transcriptional control of pattern formation in embryonic development
+          link: "https://www.pnas.org/content/pnas/117/2/836.full.pdf"
+        - author_year: Berrocal et. al. (2020)
+          title: Kinetic sculpting of the seven stripes of the Drosophila even-skipped gene
+          link: "https://elifesciences.org/articles/61635"
+        - author_year: Liu et. al. (2020)
+          title: Single-cell characterization of the eukaryotic transcription cycle using live imaging and statistical inference
+          link: "https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3"
+    - title: Lighting up transcription factor dynamics using LlamaTags
+      desc: > 
+        Slowly maturing fluorescent fusions are insufficient to reveal
+        transcription factor concentration dynamics in development. To
+        circumvent this challenge, we have developed the LlamaTag technology,
+        a technique for rapid fluorescent labeling of newly expressed
+        proteins that allows for single-cell, live imaging of protein
+        expression at high spatiotemporal resolution.
+      pubs: 
+        - author_year: Bothma et. al. (2018)
+          title: "LlamaTags: A Versatile Tool to Image Transcription Factor Dynamics in Live Embryos"
+          link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Bothma2018.pdf"
+    - title: Lighting up transcription factor binding dynamics
+      desc: > 
+        Using cutting-edge lattice light microscopy (with <a href="https://www.tjian-darzacq.mcb.berkeley.edu/"> Xavier Darzacq</a>, UC
+        Berkeley), we have demonstrated the detection of the binding of
+        individual activator molecules to the DNA in living embryos, and have
+        discovered localized “hubs” of enriched binding throughout the
+        nucleus.
+      pubs:
+        - author_year: Mir et. al. (2017)
+          title:  Dense Bicoid Hubs Accentuate Binding along the Morphogen Gradient
+          link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Mir2017.pdf"
 
+    - title: Lighting up the central dogma beyond flies
+      desc: > 
+        Although we develop much of our technology in the context of the
+        fruit fly embryo, we are implementing these tools in other
+        multicellular organisms, such as plants (with <a
+        href="https://niyogilab.berkeley.edu/">Kris Niyogi</a>, UC Berkeley),
+        zebrafish (with <a href="https://www.epfl.ch/labs/oateslab/">Andy
+        Oates</a>, EPFL and <a
+        href="https://www.stowers.org/faculty/krumlauf-lab">Robb
+        Krumlauf</a>, Stowers Institute), and <i>C. elegans</i> (with <a
+        href="http://mcb.berkeley.edu/labs/meyer/">Barbara Meyer</a>, UC
+        Berkeley).
+      pubs:
+        - author_year: Alamos et. al. (2020)
+          title:  Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
+          link: "https://www.biorxiv.org/content/10.1101/2020.08.30.274621v1"
+         
+  
 
 Physical Biology of Living Embryos:
+  image: physical_biology_living_embryo.png
   description: > 
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-    parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec
-    pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim
-    justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis
-    eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum
-    semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor
-    eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in,
-    viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius
-  image: llamatags.png
+    Using our technologies to quantify the processes of the central dogma, we
+    are engaged in a dialogue between theory and experiment aimed at reaching
+    a predictive understanding of developmental decision-making.
+  topics:
+    - title: > 
+        Bending nature to understand it: Using synthetic biology to derive
+        governing equations of transcriptional control in development
+      desc: > 
+        Writing theoretical models of endogenous regulatory regions in
+        development calls for governing equations with too many unknown
+        parameters. As an alternative approach to modeling endogenous
+        complexity, we have developed several synthetic enhancer systems that
+        attempt to build eukaryotic transcription from the ground up. The
+        ensuing models are much more tractable, making it possible to engage
+        in a dialogue between theory and experiment to test our theoretical
+        predictions.
+      pubs:
+        - author_year: Garcia et. al. (2016)
+          title: Using synthetic biology to make cells tomorrow’s test tubes
+          link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Garcia2016_0.pdf"
+    - title: Regulation of DNA accessibility 
+      desc: > 
+        Access to DNA constitutes an important regulatory layer in eukaryotic
+        gene regulation. With our ability to resolve transcription in time
+        and space, we are probing the predictive power of models of DNA
+        accessibility regulation both in and out of thermodynamic
+        equilibrium.
+      pubs:
+        - author_year: Eck et. al. (2020)
+          title: >
+             Quantitative dissection of transcription in development yields
+             evidence for transcription-factor-driven chromatin accessibility
+          link: "https://elifesciences.org/articles/56429"
+    - title: Anatomy of a transcriptional burst
+      desc: > 
+        Transcriptional bursting seems to be more the rule than the exception
+        throughout biology. Yet, while we have uncovered which bursting
+        parameters (frequency, duration, and amplitude) are controlled by
+        transcription factors, we remain ignorant about how this control is
+        implemented at the molecular level. With our ability to characterize
+        both transcription factor input and transcriptional output dynamics
+        at the single cell level, we are developing new analysis methods to
+        reveal the Anatomy of a Burst: the precise ordering of biochemical
+        events that occur prior, during, and after a burst, at individual
+        promoters in living embryos with the time resolution of a few
+        seconds.
+      pubs:
+        - author_year: Lammers et. al. (2020)
+          title: "A matter of time: Using dynamics and theory to uncover mechanisms of transcriptional bursting"
+          link: "https://www.sciencedirect.com/science/article/pii/S0955067420300971?via%3Dihub"
+
+        
+

@@ -34,5 +34,5 @@ contact:
     email: "hggarcia@berkeley.edu"
     phone: 510-664-7847
 
-
+plugins: [jekyll-paginate, jekyll]
 
