@@ -1,0 +1,1357 @@
+I"zp
+<div class="full">
+<div class="row" style="padding: 20px;">
+<h3 class="banner"> About </h3>
+Biology is being revolutionized by new experimental techniques that have made it possible to quantitatively query the inner workings of molecules, cells and multicellular organisms in ways that were previously unimaginable. The objective of this course is to respond to this deluge of quantitative data through quantitative models and the use of biological numeracy. The course will explore the description of a broad array of topics from modern biology using the language of physics and mathematics. One style of thinking we will emphasize imagines the kinds of simple calculations that one can do with a stick in the sand.
+<br /><br /> We will draw examples from broad swaths of modern biology from our department and beyond including cell biology (signaling and regulation, cell motility), physiology (metabolism, swimming), developmental biology (patterning of body plans, how size and number of organelles and tissues are controlled), neuroscience (action potentials and ion channel gating) and evolution (population genetics) in order to develop theoretical models that make precise predictions about biological phenomena. These predictions will be tested through the hands-on analysis of experimental data and by performing numerical simulations using Python. Physical biology will be introduced as an exciting new tool to complement other approaches within biology such as genetics, genomics and structural biology. The course will introduce students to the enabling power of biological numeracy in scientific discovery and make it possible for them to use these tools in their own future research.
+
+<br />
+<br />
+<h3 class="banner"> People </h3>
+
+<div class="mod modGallery" style="margin: auto; display: block;">
+      <ul class="gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+      
+        <li style="padding: 5px;">
+          <h5 class="subbanner" style="width: 95%; fontsize: 1em;"> Hernan Garcia - Instructor</h5>
+          <img alt="" src="/garcialab//images/people/hernan.jpg" />
+            <p style="text-align: center;">
+                  hggarcia@berkeley.edu<br />
+                  Office Hours: <br />Wednesdays 3pm - 4pm</p><br />
+          </li>
+        
+        <li style="padding: 5px;">
+          <h5 class="subbanner" style="width: 95%; fontsize: 1em;"> YangJoon Kim - GSI</h5>
+          <img alt="" src="/garcialab//images/people/yang.jpeg" />
+            <p style="text-align: center;">
+                  yjkim90@berkeley.edu<br />
+                  Office Hours: <br />Wednesdays 11pm - 12pm</p><br />
+          </li>
+        
+        <li style="padding: 5px;">
+          <h5 class="subbanner" style="width: 95%; fontsize: 1em;"> Jiaxi (Jake) Zhao - GSI</h5>
+          <img alt="" src="/garcialab//images/people/jakezhao.jpg" />
+            <p style="text-align: center;">
+                  jiaxi.zhao@berkeley.edu<br />
+                  Office Hours: <br />Wednesdays 11pm - 12pm</p><br />
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+<h3 class="banner"> Course Structure </h3>
+The class as a whole will meet twice a week for one hour and a half. This time will be devoted to lectures, discussions and hands-on activities including Python exercises. Further, the class will be split into weekly one-hour lab sessions. During these lab sessions, students will work closely with the GSIs to implement the concepts they learned in class in the context of different biological problems. Homework assignment will be given every week and will represent 75% of the final grade. Twice during the semester, students will prepare a project. The first project will be a written assignment, while the second project will be presented in class. These projects will represent 25% of the final grade. <br /><br /> For undergraduate students (MCB137L), the projects will consist on carrying out an estimate on a biological phenomenon of interest following the style presented in class. These presentations will be five minutes long. <br /><br /> For graduate students (MCB237L) the project will consist on presenting a theoretical model developed in a recent paper of their choosing to the class. These presentations will be ten minutes long.
+
+
+<h3 class="banner">Course Policies </h3>
+<b>Attending class and office hours</b><br /> If you miss classes, it is your responsibility to get notes from one of your classmates. You cannot expect the instructor or GSI to redo the lecture during office hours. <br /> Being able to attend office hours are a key to success. If you cannot attend any of the three offered office hours, you might want to reconsider taking this course. <br /><br /> <b>Homework assignments</b><br /> Homeworks are due at the beginning of class one week after they are posted. <br /> Homeworks should be submitted through GradeScope (link) to the GSIs in PDF form. Any other form of homework submission will not be accepted. No late homeworks. Time management is key. Start to work on your homework assignments early and make use of office hours and our availability over Piazza. <br /> It is important to describe your reasoning. Just writing an equation or drawing a plot does not constitute a satisfactory answer to a homework problem. All plots in the homeworks need to have labeled axes. All code used needs to be submitted through GraceScope by the homework due date. You can work in groups, but the answers should be your own. This includes the code! <br /> <br /> <b>Grading</b><br /> Regrading is done only until a week after the homework solutions are posted. If you ask us to regrade an answer in a homework assignment, we reserve the right to regrade all the answers it that homework assignment. Your two worst scoring homeworks will not be considered for the final grade. We do not grade on a curve(distribution) or anything like that. 
+
+
+<h3 class="banner"> Homework </h3>
+<div>
+<table>
+<tr>
+  <th><b>Title</b></th>
+  <th><b>Required Materials</b></th>
+  <th><b>Due Date </b></th>
+  <th><b>Solutions</b></th>  
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw1.pdf">Homework 1</a></td>
+  <td> 1/30 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Sender2016.pdf">
+    
+  Sender 2016</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 1 Solutions", "type"=&gt;"protected", "link"=&gt;"hw1_solns.pdf"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw2.pdf">Homework 2</a></td>
+  <td> 2/6 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Schmidt2016.pdf">
+    
+  Schmidt 2016</a></li>
+  
+  
+  <li>
+  
+  Mass spectrometry data on ATP synthase</li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Cai2006.pd">
+    
+  Cai 2006</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 2 Solutions", "type"=&gt;"protected", "link"=&gt;"hw2_solns.pdf"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw3.pdf">Homework 3</a></td>
+  <td> 2/13 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 3 Solutions", "type"=&gt;"protected", "link"=&gt;"h3_solns.pdf"}{"name"=&gt;"Python Code", "type"=&gt;"external", "link"=&gt;"https://drive.google.com/file/d/1_ncoLP1Vx3vWaxgbQB2RICG_Bo9RKjjs/view?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/">Estimate Paragraph</a></td>
+  <td> 2/13 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  </ul>
+  </td>
+  <td> <a href=""> Solutions </a></td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw4.pdf">Homework 4</a></td>
+  <td> 2/20 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Helenius2006.pdf">
+    
+  Helenius 2006</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 4 Solution", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python Code, Problem 2", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/19FsGno7a0IC7wQIQbNGu1j1h9Pb_isp8?usp=sharing"}{"name"=&gt;"Python Code, Problem 5", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/15ujgvsaMFevKvysIpdf0Wku4YS_63r6a?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/"></a></td>
+  <td> 2/27 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  </ul>
+  </td>
+  <td> <a href=""> Solutions </a></td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw5.pdf">Homework 5</a></td>
+  <td> 3/12 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Dong1996.pdf">
+    
+  Dong 1996</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Klumpp2013.pdf">
+    
+  Klumpp 2013</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 5 Solution", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python Code, Problem 1", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1RQyQKLz9gbO5Ois5RMZKZr7sqwyvTsnk?usp=sharing"}{"name"=&gt;"Python Code, Problem 2", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1Iw0BluJK1G_tG_QFn6Aam6G6uFle-0Pr?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw6.pdf">Homework 6</a></td>
+  <td> 4/2 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Taniguchi2010.pdf">
+    
+  Taniguchi 2010</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Petkova2004.pdf">
+    
+  Petkova 2014</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Drocco2011.pdf">
+    
+  Drocco 2011</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 6 solutions", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python code, problem 1", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1TbmwHQ5zlQXKfnoEUVfCQjVw-uzO6r03?usp=sharing"}{"name"=&gt;"Python code, problem 2", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/18r9jFOjeGG2-nlNmOPSwQPbczQZPhr4x?usp=sharing"}{"name"=&gt;"Python code, problem 3", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1duKVCJxatuXzJgc_qW55cOxyU-LEE0ER?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw7.pdf">Homework 7</a></td>
+  <td> 4/4 at 8:00 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Brangwynne2009.pdf">
+    
+  Brangwynne 2009</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 7 Solutions", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python Code, Problem 2", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1CJlxJZ8zA-cVg_9VK3qLprBpBgAHTf5_?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/">Homework 8</a></td>
+  <td> 4/9 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Keller1986.pdf">
+    
+  Keller 1986</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="Keller1986.xlsx">
+    
+  Keller 1986 data</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 8 Solutions", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python Code, Problem 2", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1oJsBn1LsLCvJJdJfOulK05RsGUrwjOLv?usp=sharing"}{"name"=&gt;"Python Code, Problem 4", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/145hiYqTdj9kICskcWNj_YnbEuL_QHeXz?usp=sharing"}{"name"=&gt;"Python Code, Problem 5", "type"=&gt;"external", "link"=&gt;"https://drive.google.com/file/d/1Rr1VnX_YHvue6MmTk2J__nhMnDAvvwEG/view?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw6.pdf">Homework 9</a></td>
+  <td> 4/16 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Briggs2004.pdf">
+    
+  Briggs 2004</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Briggs2006.pdf">
+    
+  Briggs 2006</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Whitman1998.pdf">
+    
+  Whitman 1998</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="/garcialab//courses/papers/Garcia2011c.pdf">
+    
+  Garcia 2011</a></li>
+  
+  
+  <li>
+  
+    
+    <a href="https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing">
+    
+  Simple repression data</a></li>
+  
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 9 solutions", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python Code, Problem 2", "type"=&gt;"external", "link"=&gt;"https://drive.google.com/file/d/1N6-iwGOIZ2qAM03-rpQqKt4COP2A8-wV/view?usp=sharing"}{"name"=&gt;"Python Code, Problem 3", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/18OWiCd1gVdqXmXvFeKkUK3dru2XO4RHD?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+<tr>
+  <td><a href="/garcialab//courses/mcb137/2020/hw10.pdf"></a></td>
+  <td> 4/23 at 3:30 PM </td>
+  <td>
+  <ul>
+  
+  </ul>
+  </td>
+  <td> &lt;a href="{"name"=&gt;"Homework 10 Solutions", "type"=&gt;"protected", "link"=&gt;nil}{"name"=&gt;"Python Code, Problem 1", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1UVBYwjNjwWZsLvcqsM0UWFAvx6hJzwAa?usp=sharing"}{"name"=&gt;"Python Code, Problem 3", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1zSov3yUPKJRT7LV6CbPKo9JrP-x3h3Hz?usp=sharing"}{"name"=&gt;"Python Code, Problem 4", "type"=&gt;"external", "link"=&gt;"https://colab.research.google.com/drive/1Gd04B--O7p0OfxYgtfaGgzl4rF4f9-V7?usp=sharing"}"&gt; Solutions &lt;/a&gt;</td>
+</tr>
+
+</table>
+
+
+<h3 class="banner"> Syllabus </h3>
+
+<table>
+<tr>
+<th><b> Number </b></th>
+<th><b> Date </b></th>
+<th><b> Topics </b></th>
+<th><b> Materials</b></th>
+<th><b> Discussion</b></th>
+</tr>
+
+
+<tr>
+  <td>1</td>
+  <td></td>
+  <td></td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>2</td>
+  <td>1/23</td>
+  <td>A feeling for the numbers in biology, Part II
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Sender2016">
+       
+      
+      Number of cells in the human body (Sender 2016)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Introduction to GradeScope and Python CoLab</li>
+      
+  
+  <li>
+      
+    Simple estimates</li>
+      
+  
+  <li>
+      
+    PBoC Chapters 2 &amp; 3</li>
+      
+  
+  <li>
+      
+    Kinder &amp; Nelson Chapters 1 - 3</li>
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>3</td>
+  <td>1/28</td>
+  <td>An obsession with dN/dt. Bacterial Growth Part I: Solving the Exponential Growth Equation
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    <i>E. coli</i> by the numbers - Limits to Bacterial Growth: Powerpoint Presentation"
+</li>
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Neidhardt1999.pdf">
+       
+      
+      An obsession with dN/dt (Neidhardt1999)</a> </li> 
+      
+  
+  <li>
+      
+       
+      
+      <a href="https://colab.research.google.com/drive/1KQ3mrJbzkV4G3SfWDpKks0vBemkIeIVx">
+      
+      Simulating bacterial growth (Google CoLab)</a> </li> 
+      
+  
+  <li>
+      
+       
+      
+      <a href="https://drive.google.com/open?id=175woPpchQuxZEbgzylqOXf_34hOfXOw-">
+      
+      Python Basics (Google CoLab)</a> </li> 
+      
+  
+  <li>
+      
+    PBoC Chapters 2 and 3; Kinder &amp; Nelson's Python Book Chapters 1 - 3</li>
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>4</td>
+  <td>1/30</td>
+  <td>Biological time scales. An aobsession with dN/dt. Bacterial Growth - Part II: Solving the Exponential Growth Equation
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Stouthamer1973.pdf">
+       
+      
+      A theoretical study on the amount of ATP required for synthesis of microbial cell material</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/VanOijen2006.pdf">
+       
+      
+      DNA primase acts as a molecular brake in DNA replication (Van Oijen 2006)</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Scott2010.pdf">
+       
+      
+      Interdependence of Cell growth and Gene Expression: Origins and Consequences (Scott 2010)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Measuring bacterial growth using image analysis, Part I</li>
+      
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      Python Code</a> </li> 
+      
+  
+  <li>
+      
+    Data</li>
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>5</td>
+  <td>2/4</td>
+  <td>An obsession with dN/dt. Bacterial Growth Part III: The Physical Limits to Bacterial Growth
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>6</td>
+  <td>2/6</td>
+  <td>Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion and Axonal Transport
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Diffusion: Powerpoint Presentation</li>
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Lipps2011">
+       
+      
+      On the implications of a Sex Difference in the REaction Times of Sprinters at the Beijing Olympics (Lipps 2011)
+</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Hochbaum2014.pdf">
+       
+      
+      All-optical electrophysiology in mammalian neurotns using engineered microbial rhodopsins (Hochbaum 2014)
+</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Droz1962.pdf">
+       
+      
+      Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Cui2007.pdf">
+       
+      
+      One at a time, live tracking of NGF axonal transport using quantum dots</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Morfini2011.pdf">
+       
+      
+      Axonal Transport (MOrfini 2011)</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Yildiz2003.pdf">
+       
+      
+      Myosin V Walks Hand-Over-Hand: Single Fluorophore IMaging with 1.5-nm Localization (Yildiz 2003)
+</a> </li> 
+      
+  
+  <li>
+      
+    PBoC Chapter 13</li>
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>7</td>
+  <td>2/11</td>
+  <td>Diffusion, the null hypothesis of biological dynamics, Part II. Diffusion using continuum theory and diffusion by coin flips
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing">
+      
+      Diffusion by coin flips (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>8</td>
+  <td>2/13</td>
+  <td>Diffusion, the null hypothesis of biological dymaics, Part III: Diffusion using Continuum Theory and Diffusion by Coinflips
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Helenius2006">
+       
+      
+      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly target microtubule ends (Helenius2006.pdf)
+</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      Chi-square minimization to measure the growth rate (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>9</td>
+  <td>2/18</td>
+  <td>Diffusion, the null hypothesis of biological dynamics, Part IV. Diffusion using master equations and FRAMP: Measuring diffusion using photobleaching
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>10</td>
+  <td>2/20</td>
+  <td>Diffusion, the null hypothesis of biological dynamics, Part V. A universal diffusion speed limit ofr enzyme catalysis and other reactions
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      Diffusion by master equations, Part I (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>11</td>
+  <td>2/25</td>
+  <td>Study haall to prepare for your first estimate
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>12</td>
+  <td>2/27</td>
+  <td>Biological Dynamics, Part I. The mean dynamics of the constitutive promoter</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Biological Dynamics: Powerpoint Slides</li>
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Golding2005.pdf">
+       
+      
+      Real-Time Kinetics of Gene Activity in Individual Bacteria (Golding 2005)</a> </li> 
+      
+  
+  <li>
+      
+       
+      
+      <a href="https://colab.research.google.com/drive/12p7cPBQG16IBIBlTvGjwXq2xsgTgjwgi">
+      
+      mRNA synthesis/degradation simulation (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Diffusion by master equations, Part II</li>
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>13</td>
+  <td>3/3</td>
+  <td>Biological dynamics, part II: The single-cell distribution of the constitutive promoter
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>14</td>
+  <td>3/5</td>
+  <td>Membraneless organelles adn phase transitions in biology, Part I. Entropy maximization and the second law of thermodynamics
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Phase Separatation: Powerpoint Presentation</li>
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      mRNA distributions by chemical master equations, Part I (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>15</td>
+  <td>3/10</td>
+  <td>Membraneless organelles and phase transitions in biology, Part II: Free energy minimization
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>16</td>
+  <td>3/12</td>
+  <td>Membraneless organelles and phase transitions in biology, Part III: Free energy minimization and the emergence of phase separation
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Taniguchi2010.pdf">
+       
+      
+      Quantifying <i>E. coli</i> proteome and transcriptome with Single-Molecule Sensitivity in Single Cells (Taniguchi 2010)
+</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Petkova2004.pdf">
+       
+      
+      Maternal origins of Developmental Reproducibility (Petkova2004.pdf)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    mRNA distributions by chemical master rerquations, part II</li>
+      
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      Plotting hte free energy of a phase-separated system (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>17</td>
+  <td>3/17</td>
+  <td>Membraneless organelles and phase transitions in biology, Part IV: Biological regulation of phase transitions. A life-or-death decision: THe lambda Switchh, Part I. The statistical mechanics rprotocol: ion channels and constitutive promoters
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    The Lambda Switch: Powerpoint Presentation</li>
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>18</td>
+  <td>3/19</td>
+  <td>A life-or-death decision: The Lambda Switch, Part II. The statistical mechanics protocol: ion channels and constitutive promoters
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="https://colab.research.google.com/drive/1Aa63tStc2PDFmYAGpmdpRNKucGqW56rU?usp=sharing">
+      
+      Plotting the Promoter Fraction Bound (Python Code)</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Brangwynne2009.pdf">
+       
+      
+      Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Sequencing Depth: Binomial and Poisson distribution</li>
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>19</td>
+  <td>3/31</td>
+  <td>A life-or-death decision: THe Lambda Switch , Part III. Simple repression by Lac and Lambdaa repressor
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>20</td>
+  <td>4/2</td>
+  <td>A life-or-death decision: The Lambda switch, Part IV. Cooperativity and the generation of biological sharpness
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Keller1986.pdf">
+       
+      
+      Channel Gating Kinetics of Purified Sodium CHannels Modified by Batrachotoxin (Keller 1986)
+</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Garcia2007b.pdf">
+       
+      
+      A FIrst Exposure to Statistical Mechanics of Life Scientists: Applications to Binding (Garcia 2007)
+</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      LacI Repressor Analysis, Part I (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>21</td>
+  <td>4/7</td>
+  <td>A life-or-death decision: The Lambda Switch, Part V. A dynamical systems view of the Lambda switch
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>22</td>
+  <td>4/9</td>
+  <td>A life-or-death decision: The Lambda switch, Part VI. A dynamical systems view of the Lambda Switch
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="https://colab.research.google.com/drive/1O6TyEtgWbi0o2yuhYbMJrU67sagUur8Y?usp=sharing">
+      
+      Mutual Repression (Python Code)</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Briggs2004.pdf">
+       
+      
+      The stoichiometry of Gag protein in HIV-1 (Briggs 2004)</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Briggs2006.pdf">
+       
+      
+      The mechanism of HIV-1 Core Assembly: Insightes from Three-Dimensional Reconstructions of Authentic Virions (Briggs 2006)
+</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Garcia2011c.pdf">
+       
+      
+      Quantitative dissection of the simple repression input-output function (Garcia 2011)
+</a> </li> 
+      
+  
+  <li>
+      
+      
+      <a href="/garcialab//courses/papers/Whitman1998.pdf">
+       
+      
+      Prokaryontes: The unseen majority (Whitman 1998)</a> </li> 
+      
+  
+  <li>
+      
+       
+      
+      <a href="https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing">
+      
+      Data folder for simple repression</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      LacI Rperessor ANalysis, Part 2 (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>23</td>
+  <td>4/14</td>
+  <td>Coronavirus by the numbers, Part I 
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+    Coronavirus by the Numbers: Powerpoint Presentation</li>
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>24</td>
+  <td>4/16</td>
+  <td>Coronavirus by the Numbers, Part II
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="">
+      
+      Gneetic Oscillators (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>25</td>
+  <td>4/21</td>
+  <td>Dynamics of epidemics, Part I
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="http://course-evaluations.berkeley.edu/">
+      
+      Please fill out the course survey</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>26</td>
+  <td>4/23</td>
+  <td>Dynamics of epidemics, part II. Physical biology of the Cell Recap
+</td>
+  <td>
+  <ul>
+  
+  <li>
+      
+       
+      
+      <a href="https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing">
+      
+      SIR Model (Python Code)</a> </li> 
+      
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>27</td>
+  <td>4/28</td>
+  <td>Second Project Presentations, Part I
+</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+  <td>28</td>
+  <td>4/30</td>
+  <td>Second Project Presentations, Part II</td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+  <td>
+  <ul>
+   
+  </ul>
+  </td>
+
+ 
+  </tr>
+
+
+<tr>
+
+
+
+</tr></table></div></div>
+:ET
