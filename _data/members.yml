@@ -5,14 +5,7 @@
   background: >
     Plant & Microbial Biology <br/>
     BS Agronomical Sciences, Pontificia Universidad Catolica de Chile
- 
-- avatar: augusto.jpg
-  name: Augusto Berrocal  
-  caste: grad
-  link: 
-  background: >
-      Molecular & Cell Biology <br/>
-      BS Genomic Sciences, Univ. Nacional Autónoma de Mexico (UNAM)
+
 - avatar: jinnichung.jpg
   name: Jinny Chung
   caste: undergrad
@@ -21,7 +14,13 @@
     Molecular & Cell Biology <br/>
     UC Berkeley Undergraduate Student
 
-
+- avatar: giana.jpg
+  name: Giana Cirolia
+  caste: grad
+  link: 
+  background: >
+      Biophysics Rotation Student<br/>
+      BA Biochemistry, UC Berkeley
 
 - avatar: liz.jpg 
   name: Elizabeth Eck 
@@ -70,6 +69,14 @@
       KFAS Biophysics Graduate Fellow<br/>
       BS Physics, Postech, South Korea
 
+- avatar: yasemin.jpg
+  name: Yasemin Kiriscioglu
+  caste: rotation
+  link: ""
+  background: >
+    Physics Rotation Student<br/>
+    BA in Physics & Mathematics, Harvard University
+
 - avatar: nick.jpg
   name: Nicholas Lammers
   caste: grad
@@ -86,7 +93,6 @@
       NDSEG Physics Graduate Fellow<br/>
       B.S. Applied Physics, Caltech
 
-
 - avatar: gabriella.jpg
   name: Gabriella Martini
   caste: grad
@@ -94,7 +100,15 @@
   background: >
       NSF Molecular & Cell Biology Graduate Fellow<br/>
       BS Physics, MIT
-      
+
+- avatar: bruno.jpg
+  name: Bruno Moretti
+  caste: postdoc
+  link: ""
+  background: >
+    Postdoctoral Scholar<br/>
+    BS, PhD Physics, University of Buenos Aires
+    
 - avatar: armando.jpg
   name: Armando Reimer
   caste: grad
@@ -110,13 +124,14 @@
   background: >
       Physics Undergraduate Student
 
-- avatar: SamSmith.jpeg
-  name: Sam Smith 
-  caste: rotato
-  link: 
+- avatar: brandonschlo.jpg
+  name: Brandon Schlomann
+  caste: postdoc
+  link: "" 
   background: > 
-    Molecular & Cell Biology Rotation Student (Spring 2020) <br/>
-    B.S in Biology, minor in Biomedical Engineering, Carnegie Mellon University
+    James S. McDonnell Postdoctoral Fellow<br/>
+    PhD Physics, University of Oregon
+
 - avatar: pranjal.jpg
   name: Pranjal Srivastava
   caste: undergrad
@@ -124,13 +139,7 @@
   background: > 
     Chemical Biology and Applied Math<br/>
     UC Berkeley Undergraduate Student
-- avatar: paultalledo.jpg
-  name: Paul Talledo
-  caste: tech
-  link: 
-  background: > 
-    Physics M.Sc. and B.Sc. California State University Northridge
-  
+
 - avatar: meghan.jpg
   name: Meghan Turner
   caste: grad
@@ -153,17 +162,3 @@
   background: > 
       Physics Graduate Student<br/>
       BS in Physics, Tsinghua University, China
-
-
-
-
-
-
-
-
-
-
-
-
-
-

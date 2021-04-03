@@ -1,3 +1,21 @@
+- avatar: SamSmith.jpeg
+  name: Sam Smith 
+  caste: rotation
+  link: 
+  background: > 
+    Molecular & Cell Biology Rotation Student (Spring 2020) <br/>
+    B.S in Biology, minor in Biomedical Engineering, Carnegie Mellon University
+
+
+- avatar: augusto.jpg
+  name: Augusto Berrocal  
+  caste: grad
+  link: 
+  background: >
+      Molecular & Cell Biology <br/>
+      BS Genomic Sciences, Univ. Nacional Autónoma de Mexico (UNAM)
+
+
 - avatar: daniel.png
   name: Daniel Jefferson Aaron
   caste: undergrad
@@ -7,7 +25,7 @@
 
 - avatar: abrar.jpg
   name: Abrar Abidi
-  caste: rotato
+  caste: rotation
   link:
   background: > 
     Molecular & Cell Biology Rotation Student (Fall 2018)<br/>
@@ -30,7 +48,7 @@
 
 - avatar: gonzalo.jpg
   name: Gonzalo Benegas
-  caste: rotato
+  caste: rotation
   link:
   background: > 
     Computational Biology Rotation Student (Summer 2018)<br/>
@@ -38,7 +56,7 @@
 
 - avatar: jaredbennet.jpg
   name: Jared Bennet  
-  caste: rotato
+  caste: rotation
   link: 
   background: > 
      Biophysics Rotation Student (Spring 2017) <br/>
@@ -69,7 +87,7 @@
 
 - avatar: elizabethearley.jpg
   name: Elizabeth Earley
-  caste: rotato 
+  caste: rotation 
   link: 
   background: > 
     Molecular & Cell Biology Rotation Student (Fall 2017)<br/>
@@ -77,7 +95,7 @@
 
 - avatar: nickeveretts.png 
   name: Nicholas Everetts
-  caste: rotato 
+  caste: rotation 
   link: 
   background: > 
     Computational Biology Rotation Student (Fall 2017)<br/>
@@ -86,7 +104,7 @@
     
 - avatar: samfernandez.png
   name: Samantha Fernandez
-  caste: rotato
+  caste: rotation
   link:
   background: > 
     Molecular & Cell Biology Rotation Student (Spring 2016)<br/>
@@ -94,7 +112,7 @@
 
 - avatar: MaxFerrin.png
   name: Max Ferrin
-  caste: rotato 
+  caste: rotation 
   link: 
   background: >
     Molecular & Cell Biology Rotation Student (Winter 2017)<br/>
@@ -102,7 +120,7 @@
 
 - avatar: trevor.jpg
   name: Trevor Grand Pre
-  caste: rotato
+  caste: rotation
   link: 
   background: > 
     Physics Rotation Student<br/>
@@ -110,7 +128,7 @@
 
 - avatar: claire.jpg
   name: Claire Guol
-  caste: rotato
+  caste: rotation
   link: 
   background: > 
     Molecular & Cell Biology Rotation Student (Fall 2019)<br/>
@@ -125,7 +143,7 @@
 
 - avatar: JonathanKarr.jpg
   name: Jonathan Karr 
-  caste: rotato
+  caste: rotation
   background: > 
     Molecular & Cell Biology Rotation Student (Winter 2018)<br/>
     BS/MS in Biochemistry, Colorado State University
@@ -139,14 +157,14 @@
 
 - avatar: kuznets-speck.png 
   name: Ben Kuznets-Speck
-  caste: rotato
+  caste: rotation
   background: > 
     Biophysics Rotation Student (Fall 2018)<br/>
     BS Mathematics and Physics, Case Western Reserve University.
 
 - avatar: StevenLee.png
   name: Steven Lee
-  caste: rotato
+  caste: rotation
   background: > 
     Physics Rotation Student (Summer 2018)<br/>
     BS Physics and Mathematics, City University of New York, Brooklyn College
@@ -167,14 +185,14 @@
 
 - avatar: marchando.jpg 
   name: Paul Marchando
-  caste: rotato
+  caste: rotation
   background: > 
     Molecular & Cell Biology Rotation Student (Winter 2018)<br/>
     BS Chemical and Biological Engineering, University of Colorado Boulder
 
 - avatar: annika.jpg
   name: Annika Martin
-  caste: rotato
+  caste: rotation
   background: > 
     Molecular & Cell Biology Rotation Student (Spring 2019)
 
@@ -203,7 +221,7 @@
 
 - avatar: liya.jpg
   name: Liya Oster
-  caste: rotato
+  caste: rotation
   background: > 
     Biophysics Rotation Student (Fall 2018)
     BS in Biophysics, UCLA
@@ -217,14 +235,14 @@
 
 - avatar: RobertReitmeijer.jpg
   name: Robert Reitmeijer
-  caste: rotato
+  caste: rotation
   background: > 
     Biophysics Rotation Student (Spring 2016)
     BS Biochemistry, University of Rocheste
 
 - avatar: JosephRobinson.jpg
   name: Joseph Robinson
-  caste: rotato
+  caste: rotation
   background: > 
     Molecular & Cell Biology Rotation Student (Fall 2015)<br/>
     BS Biochemistry and Molecular Biology and Computer Science, Gettysburg
@@ -258,7 +276,7 @@
 
 - avatar: MarcSingleton.jpg
   name: Marc Singleton
-  caste: rotato
+  caste: rotation
   background: > 
     Biophysics rotation student (Fall 2017)<br/>
     BA Chemistry and Mathematics, Vanderbilt University
