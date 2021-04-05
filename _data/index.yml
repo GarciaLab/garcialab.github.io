@@ -1,3 +1,12 @@
+# This sets up the boxes on the front page of the website. You can add a box by 
+# simply adding a new section. The general structure is as follows:
+#
+# - cat: (A category, this line is left blank)
+#   name: The name of the box
+#   description: A short description of the box
+#   link: The page (without any other HTML elements) where it should link to
+#   image: The filename of the image, which lives in `images/``
+#
 - cat:
   name: Research
   description: What we do

@@ -1,7 +1,19 @@
+# `members.yml`
+# ------------------------------------------------------------------------------
+# This defines all of the current members of the lab and their position/role 
+# Adding or removing a member is as easy as adding or removing one of these 
+# metatdata blocks. The general structure of a member block is as follows:
+#
+# - avatar: filename of the person image (which lives in `images/people`)
+#   name: The display name of the member
+#   caste: position, options: grad, postdoc, pi, rotation, undergrad, tech
+#   background: > (The carrot allows multiline text beginning on the next line)
+#     A short description with <br/>
+#     breaking to a new line
+# 
 - avatar: simon.png
   name: Simon Alamos 
   caste: grad
-  link: ""
   background: >
     Plant & Microbial Biology <br/>
     BS Agronomical Sciences, Pontificia Universidad Catolica de Chile
@@ -9,7 +21,6 @@
 - avatar: jinnichung.jpg
   name: Jinny Chung
   caste: undergrad
-  link:
   background: > 
     Molecular & Cell Biology <br/>
     UC Berkeley Undergraduate Student
@@ -17,7 +28,6 @@
 - avatar: giana.jpg
   name: Giana Cirolia
   caste: grad
-  link: 
   background: >
       Biophysics Rotation Student<br/>
       BA Biochemistry, UC Berkeley
@@ -25,7 +35,6 @@
 - avatar: liz.jpg 
   name: Elizabeth Eck 
   caste: grad
-  link: 
   background: >
       NSF Biophysics Fellow<br/>
       BS Physics and Biology, UC Santa Barbara 
@@ -33,14 +42,12 @@
 - avatar: laura.JPG
   name: Laura Fantone
   caste: admin
-  link: 
   background: >
       PhD City University of New York
 
 - avatar: pirooz.jpg
   name: Pirooz Fereydouni
   caste: undergrad
-  link: 
   background: > 
     Molecular & Cell Biology<br/>
     UC Berkeley Undergraduate Student
@@ -48,7 +55,6 @@
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
-  link: 
   background: >
       Asst. Prof. Genetics, Genomics and Development and of Physics<br/>
       PhD  Physics, Caltech<br/>
@@ -57,14 +63,12 @@
 - avatar: sydney.png
   name: Sydney Ghoreishi 
   caste: undergrad 
-  link: 
   background: >
       Molecular and Cell Biology Undergraduate  
       
 - avatar: yang.jpeg
   name: Yang Joon Kim
   caste:  grad
-  link: ""
   background: >
       KFAS Biophysics Graduate Fellow<br/>
       BS Physics, Postech, South Korea
@@ -72,7 +76,6 @@
 - avatar: yasemin.jpg
   name: Yasemin Kiriscioglu
   caste: rotation
-  link: ""
   background: >
     Physics Rotation Student<br/>
     BA in Physics & Mathematics, Harvard University
@@ -80,7 +83,6 @@
 - avatar: nick.jpg
   name: Nicholas Lammers
   caste: grad
-  link: 
   background: >
       Biophysics Graduate Student<br/>
       BA Physics and Philosophy, Colorado College
@@ -88,7 +90,6 @@
 - avatar: jonliu.jpg
   name: Jonathan  Liu
   caste: grad
-  link: 
   background: >
       NDSEG Physics Graduate Fellow<br/>
       B.S. Applied Physics, Caltech
@@ -96,7 +97,6 @@
 - avatar: gabriella.jpg
   name: Gabriella Martini
   caste: grad
-  link: 
   background: >
       NSF Molecular & Cell Biology Graduate Fellow<br/>
       BS Physics, MIT
@@ -104,7 +104,6 @@
 - avatar: bruno.jpg
   name: Bruno Moretti
   caste: postdoc
-  link: ""
   background: >
     Postdoctoral Scholar<br/>
     BS, PhD Physics, University of Buenos Aires
@@ -112,7 +111,6 @@
 - avatar: armando.jpg
   name: Armando Reimer
   caste: grad
-  link: 
   background: >
       NSF Biophysics Graduate Fellow<br/>
       BS Cell/Molecular Biology, BA Physics, California State University Long Beach
@@ -120,14 +118,12 @@
 - avatar: kaitlin.jpg
   name: Kaitlin Rhee
   caste: undergrad
-  link: 
   background: >
       Physics Undergraduate Student
 
 - avatar: brandonschlo.jpg
   name: Brandon Schlomann
   caste: postdoc
-  link: "" 
   background: > 
     James S. McDonnell Postdoctoral Fellow<br/>
     PhD Physics, University of Oregon
@@ -135,7 +131,6 @@
 - avatar: pranjal.jpg
   name: Pranjal Srivastava
   caste: undergrad
-  link: 
   background: > 
     Chemical Biology and Applied Math<br/>
     UC Berkeley Undergraduate Student
@@ -143,7 +138,6 @@
 - avatar: meghan.jpg
   name: Meghan Turner
   caste: grad
-  link: 
   background: > 
       NSF Biophysics Graduate Fellow<br/>
       BS Biochemistry and Math, University of Wisconsin-Madison
@@ -151,14 +145,12 @@
 - avatar: clay.jpg
   name: Clay Westrum
   caste: undergrad
-  link: 
   background: > 
       Physics Undergraduate
 
 - avatar: jakezhao.jpg
   name: Jiaxi (Jake) Zhao 
   caste: grad
-  link: 
   background: > 
       Physics Graduate Student<br/>
       BS in Physics, Tsinghua University, China
