@@ -1,9 +1,10 @@
 - name: Daniel Jefferson Aaron
-  caste: Undergrad
+  caste: undergrad
   position: Undergrad
-- name: Abrar Abidi 
-  caste: rotation
-  position: Rotation Student
+- name: Simon Alamos 
+  caste: grad
+  position: Plant & Microbial Biology Graduate Student
+  current: Postdoc, Shih Lab, UC Berkeley & LBNL
 - name: Neil Almeida 
   caste: undergrad
   position: Undergrad
@@ -12,15 +13,9 @@
   caste: undergrad
   position: Undergrad
   current: Graduate Student, Princeton Neuroscience Institute
-- name: Gonzalo Benegas 
-  caste: rotation 
-  position: Rotation Student
-- name: Jared Bennett
-  caste: rotation
-  position: Rotation Student
 - name: Augusto Berrocal
   caste: grad
-  position: Graduate Student
+  position: MCB Graduate Student
   current: Postdoc, Eisen Lab, UC Berkeley
 - name: Jacques P. Bothma
   caste: postdoc
@@ -29,119 +24,142 @@
 - name: Myron Barber Child 
   caste: tech
   position: Junior Specialist
-  current: Research Technician, Castillo Lab, University of Utah
+  current: Graduate Student, UW Madison
 - name: Jinny Chung
   caste: undergrad
   position: Undergrad
 - name: Ana Margarida Correira De Paiva Bul
   caste: undergrad
   position: Undergrad
-- name: Elizabeth Earley
-  caste: rotation
-  position: Rotation Student
-- name: Nicholas Everretts
-  caste: rotation
-  position: Rotation Student
-- name: Samantha Fernandez
-  caste: rotation
-  position: Rotation Student
 - name: Pirooz Fereydouni
   caste: undergrad
-  position: Undergrad
-- name: Max Ferrin
-  caste: rotation
-  position: Rotation Student
-- name: Trevor Grand Pre
-  caste: rotation
-  position: Rotation Student
-- name: Claire Goul
-  caste: rotation
-  position: Rotation Student
+  position: MCB Undergrad
+- name: Sydney Ghoreishi 
+  caste: undergrad 
+  position: MCB Undergrad
+  current: Graduate Student, Johns Hopkins
 - name: Anjali Kaira
   caste: undergrad
   position: Undergrad
-- name: Jonathan Karr
-  caste: rotation
-  position: Rotation Student
 - name: Maryam Belen Kazemzadeh-Atoufi
   caste: undergrad
   position: Undergrad
   current: Graduate Student, Northwestern University
-- name: Ben Kuznets-Speck
-  caste: rotation
-  position: Rotation Student
-- name: Steven Lee
-  caste: rotation
-  position: Rotation Student
+- name: Jonathan  Liu
+  caste: grad
+  background: NDSEG Physics Graduate Fellow
+  current: Data Scientist, Computational Biology, Chan Zuckerberg Biohub
 - name: Wendy Liu
   caste: tech
   position: High School Intern
 - name: Emma Luu
   caste: tech
   position: Junior Specialist
-  current: Graduate Student, UC Davis
-- name: Paul Marchando
-  caste: rotation
-  position: Rotation Student
-- name: Annika Martin
-  caste: rotation
-  position: Rotation Student
+  current: Graduate Student, Biophysics, UC Davis
 - name: Sean Medin
   caste: undergrad
   position: Undergrad
   current: Graduate Student, Cornell University
-- name: Evan Mladina
-  caste: tech
-  position: Intern
 - name: Matthew Norstad
   caste: tech
   position: Junior Specialist
   current: UCSF Bioethics Program
-- name: Liya Oster
-  caste: rotation
-  position: Rotation Student
-- name: Aaron Perez
-  caste: tech
-  position: Intern
-- name: Robert Rietmeijer
-  caste: rotation
-  position: Rotation Student
-- name: Joseph Robinson
-  caste: rotation
-  position: Rotation Student
 - name: Nica Nahal Sabouni
   caste: undergrad
   position: Undergrad
+- name: Armando Reimer
+  caste: grad
+  position: NSF Biophysics Graduate Fellow
 - name: Abhishek Sethi
   caste: tech
   position: Junior Specialist
 - name: Sunash Sharma
   caste: undergrad
   position: Undergrad
-- name: Sannidhi SHukla
+- name: Sannidhi Shukla
   caste: undergrad
   position: Undergrad
-- name: Marc Singleton
-  caste: rotation
-  position: Rotation Student
-- name: Sam Smith
-  caste: rotation
-  position: Rotation Student
-- name: NIranjan Srinivas
+- name: Niranjan Srinivas
   caste: postdoc
   position: Postdoctoral Scholar
-  current: 10X Genomics
+  current: Senior Computational Biologist, 10X Genomics
 - name: Paul Talledo
   caste: tech
   position: Junior Specialist
-  current: Technicial, Transplant Genomics
+  current: Technical, Transplant Genomics
 - name: Scout Weber
   caste: undergrad
   position: Undergrad
+- name: Clay Westrum
+  caste: undergrad
+  position: Physics Undergraduate
 - name: Jordian Xiao
   caste: undergrad
   position: Undergrad
-  current: Graduate Student, Stanford University Biophysics Program
+  current: Graduate Student, Biophysics, Stanford University
+- name: Evan Mladina
+  caste: tech
+  position: Intern
+- name: Aaron Perez
+  caste: tech
+  position: Intern
+- name: Abrar Abidi 
+  caste: rotation
+  position: MCB Rotation Student
+- name: Gonzalo Benegas 
+  caste: rotation 
+  position: Rotation Student
+- name: Jared Bennett
+  caste: rotation
+  position: Biophysics Rotation Student
+- name: Elizabeth Earley
+  caste: rotation
+  position: MCB Rotation Student
+- name: Nicholas Everretts
+  caste: rotation
+  position: Comp Bio Rotation Student
+- name: Samantha Fernandez
+  caste: rotation
+  position: MCB Rotation Student
+- name: Max Ferrin
+  caste: rotation
+  position: MCB Rotation Student
+- name: Trevor Grand Pre
+  caste: rotation
+  position: Physics Rotation Student
+- name: Claire Goul
+  caste: rotation
+  position: MCB Rotation Student
+- name: Jonathan Karr
+  caste: rotation
+  position: MCB Rotation Student
+- name: Ben Kuznets-Speck
+  caste: rotation
+  position: Biophysics Rotation Student
+- name: Steven Lee
+  caste: rotation
+  position: Physics Rotation Student
+- name: Paul Marchando
+  caste: rotation
+  position: MCB Rotation Student
+- name: Annika Martin
+  caste: rotation
+  position: MCB Rotation Student
+- name: Liya Oster
+  caste: rotation
+  position: Biophysics Rotation Student
+- name: Robert Rietmeijer
+  caste: rotation
+  position: Biophysics Rotation Student
+- name: Joseph Robinson
+  caste: rotation
+  position: Rotation Student
+- name: Marc Singleton
+  caste: rotation
+  position: Biophysics Rotation Student
+- name: Sam Smith
+  caste: rotation
+  position: MCB Rotation Student
 - name: Alex Barbier-Chebbah
   caste: visitor
   position: Visiting Student
