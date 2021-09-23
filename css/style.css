@@ -11,6 +11,18 @@
 
 /* Layout helpers
 ----------------------------------*/
+ol li {
+  color: #000;
+  position: relative;
+  margin: 0 0 0.5rem 0;
+  padding: 10px;
+
+}
+
+ol li:before{
+  background: white; 
+  border-radius: 10px;
+}
 
 .ui-helper-hidden {
   display: none;
@@ -202,7 +214,7 @@
 ----------------------------------*/
 
 .ui-widget {
-  font-family: 'Lucida Sans Regular'; 
+  font-family: 'Lucida Sans Regular', 'Lucida Sans Unicode', 'Lucida Grande'; 
   font-size: 1.1em/*{fsDefault}*/;
 }
 .ui-widget .ui-widget {
@@ -212,7 +224,7 @@
 .ui-widget select,
 .ui-widget textarea,
 .ui-widget button {
-  font-family: 'Lucida Sans Regular'; 
+  font-family: 'Lucida Sans Regular', 'Lucida Sans Unicode', 'Lucida Grande'; 
   font-size: 1em;
 }
 .ui-widget-content {

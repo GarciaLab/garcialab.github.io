@@ -17,13 +17,36 @@ header_img: research.gif
 {% for project in site.data.research %}
 <div class="row">
   <h3 class="banner">{{project[0]}}</h3>
-  <div class='large-5 columns'>
-    <img style="padding:10px;"src='{{site.baseurl}}/images/research_figs/{{project[1].image}}'>
-  </div>
+  <!-- <div class='large-5 columns'> -->
+    {% if project[1].image %}
+    <center>
+    <img style="padding:10px; max-width: 90%;" src='{{site.baseurl}}/images/research_figs/{{project[1].image}}'>
+    </center>
+    {% endif %}
+  <!-- </div> -->
   {{project[1].description}}
-  <ol type='I'>
+  {% if project[1].topics %}
+  <br/>
+  <br/>
   {% for topic in project[1].topics %}
-    <li><b>{{topic.title}}</b><br/>
+    
+    <h3 style="background-color: #BFD598; line-height: 2em; padding-left: 10px; color: #000; font-weight:700;
+            text-transform: none; margin-left:0em;">{% if topic.counter %}<span style="text-align: center; ;background-color: white; font-weight: 700;  margin-right: 10px; border-radius: 50%; padding-left: 4px; padding-right: 4px;">  {{topic.counter}}</span>{%endif%}{{topic.title}}</h3></li>
+    <p style="margin-left: 1em; margin-right: 1em;">
+      
+     {{topic.desc}}
+
+    {% if topic.image %}
+    <center>
+    <img style="padding:10px; max-width: 90%;" src='{{site.baseurl}}/images/research_figs/{{topic.image}}'>
+    </center>
+    {% endif %}
+ 
+    <br/>
+    <br/>
+    Relevant Publications: {%for pub in topic.pubs %}<a href="{{pub.link}}">{{pub.author_year}}. </a>{%endfor%}
+    </p>
+    <!-- <li><b>{{topic.title}}</b><br/>
 
       {{topic.desc}}
       <br/><i>Relevant Publications</i>
@@ -32,10 +55,17 @@ header_img: research.gif
         <li>{{pub.author_year}}: <a href="{{pub.year}}">{{pub.title}}</a></li>
         {%endfor%}
       </ul>
-    </li>
+    </li> -->
     
   {% endfor%}
-  </ol>
+ 
+  {%else%}
+
+    <br/>
+    <br/>
+    Relevant Publications: {%for pub in project[1].pubs %}<a href="{{pub.link}}">{{pub.author_year}}. </a>{%endfor%}
+    {% endif %}
+<br/>
 </div>
 {%endfor%}
 

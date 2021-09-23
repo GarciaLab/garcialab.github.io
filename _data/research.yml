@@ -1,5 +1,5 @@
 Lighting Up the Central Dogma in Embryonic Development:
-  image: central_dogma.png
+  image: central_dogma_flies.png
   people:
     - name: Simon Alamos
     - name: Augusto Berrocal 
@@ -9,7 +9,7 @@ Lighting Up the Central Dogma in Embryonic Development:
      Up until recently, state-of-the-art examinations of snapshots of dead, fixed
      embryos provided only glimpses of the dynamics of cellular decision-making.
      Until we can uncover developmental programs at the single cell level in
-     living embryos, there is no telling what insights have been hidden from our
+     living embryos, there is no telli  ng what insights have been hidden from our
      view.<br/><br/>
      In our lab, we develop new experimental and computational tools to
      measure and manipulate the flow of information along the central dogma
@@ -17,10 +17,12 @@ Lighting Up the Central Dogma in Embryonic Development:
      <i>Drosophila melanogaster</i> as a case study.
   topics: 
     - title: Lighting up transcriptional dynamics using MS2
+      counter: A
+      image: eve_ms2_snapshot.png
       desc: >
         We have pioneered the MS2/MCP technology in developing fruit fly
         embryos, which allows for live-cell imaging of nascent RNA
-        transcription with single-cell resolution.
+        transcription with single-cell resolution. 
       pubs:
         - author_year: Garcia et al. (2013)
           title: >
@@ -33,6 +35,8 @@ Lighting Up the Central Dogma in Embryonic Development:
             Transcriptional Bursts in Living Drosophila Embryos
           link: "https://www.pnas.org/content/111/29/10598.short"
     - title: Lighting up the transcription cycle using inference methods
+      counter: B
+      image: hmm_figure.png
       desc: > 
         We employ powerful computational methods to extract information about
         the transcription cycle from MS2 data such as bursting kinetics and
@@ -48,6 +52,8 @@ Lighting Up the Central Dogma in Embryonic Development:
           title: Single-cell characterization of the eukaryotic transcription cycle using live imaging and statistical inference
           link: "https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3"
     - title: Lighting up transcription factor dynamics using LlamaTags
+      counter: C 
+      image: llamatag_snapshot.png
       desc: > 
         Slowly maturing fluorescent fusions are insufficient to reveal
         transcription factor concentration dynamics in development. To
@@ -60,6 +66,8 @@ Lighting Up the Central Dogma in Embryonic Development:
           title: "LlamaTags: A Versatile Tool to Image Transcription Factor Dynamics in Live Embryos"
           link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Bothma2018.pdf"
     - title: Lighting up transcription factor binding dynamics
+      counter: D 
+      image: single_bicoid_image.png
       desc: > 
         Using cutting-edge lattice light microscopy (with <a href="https://www.tjian-darzacq.mcb.berkeley.edu/"> Xavier Darzacq</a>, UC
         Berkeley), we have demonstrated the detection of the binding of
@@ -71,8 +79,9 @@ Lighting Up the Central Dogma in Embryonic Development:
           title:  Dense Bicoid Hubs Accentuate Binding along the Morphogen Gradient
           link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Mir2017.pdf"
 
-    - title: Lighting up the central dogma beyond flies
-      desc: > 
+Lighting Up The Central Dogma Beyond Flies:
+  image: beyond_flies.png
+  description: > 
         Although we develop much of our technology in the context of the
         fruit fly embryo, we are implementing these tools in other
         multicellular organisms, such as plants (with <a
@@ -83,15 +92,14 @@ Lighting Up the Central Dogma in Embryonic Development:
         Krumlauf</a>, Stowers Institute), and <i>C. elegans</i> (with <a
         href="http://mcb.berkeley.edu/labs/meyer/">Barbara Meyer</a>, UC
         Berkeley).
-      pubs:
-        - author_year: Alamos et. al. (2020)
-          title:  Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
-          link: "https://www.biorxiv.org/content/10.1101/2020.08.30.274621v1"
+  pubs:
+    - author_year: Alamos et. al. (2020)
+      title:  Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
+      link: "https://www.biorxiv.org/content/10.1101/2020.08.30.274621v1"
          
   
 
 Physical Biology of Living Embryos:
-  image: physical_biology_living_embryo.png
   description: > 
     Using our technologies to quantify the processes of the central dogma, we
     are engaged in a dialogue between theory and experiment aimed at reaching
@@ -100,6 +108,7 @@ Physical Biology of Living Embryos:
     - title: > 
         Bending nature to understand it: Using synthetic biology to derive
         governing equations of transcriptional control in development
+      image: bending_enhancers.png
       desc: > 
         Writing theoretical models of endogenous regulatory regions in
         development calls for governing equations with too many unknown
@@ -114,6 +123,7 @@ Physical Biology of Living Embryos:
           title: Using synthetic biology to make cells tomorrow’s test tubes
           link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Garcia2016_0.pdf"
     - title: Regulation of DNA accessibility 
+      image: zelda_accessibility.png
       desc: > 
         Access to DNA constitutes an important regulatory layer in eukaryotic
         gene regulation. With our ability to resolve transcription in time
@@ -127,6 +137,7 @@ Physical Biology of Living Embryos:
              evidence for transcription-factor-driven chromatin accessibility
           link: "https://elifesciences.org/articles/56429"
     - title: Anatomy of a transcriptional burst
+      image: burst_anatomy.png
       desc: > 
         Transcriptional bursting seems to be more the rule than the exception
         throughout biology. Yet, while we have uncovered which bursting
