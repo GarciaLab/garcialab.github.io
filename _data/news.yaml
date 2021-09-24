@@ -5,9 +5,10 @@
 - date: August 2021
   desc: "Congratulation to Dr. Armando Reimer on completing his Ph.D.!!"
 - date: July 2021
-  desc: "We are thrilled to welcome Julia Falo-Sanjuan, a new joint postdoc with the Eisen Lab, to our lab!"
-- date: July 2021
-  desc: "Congratulation to Dr. Jonathan Liu on receiving his Ph.D.!! We wish you the best of luck at the CZI Biohub!"
+  desc: >
+      "Congratulation to Dr. Jonathan Liu on receiving his Ph.D.!! We wish you the best of luck at the CZI Biohub!" <br/>
+      "We are thrilled to welcome Julia Falo-Sanjuan, a new joint postdoc with the Eisen Lab, to our lab!"
+      
 - date: May 15, 2021
   desc: "Congratulations to three of our undergraduate researchers - Sydney, Clay, and Pirooz - for graduating today! We look forward to seeing what you all accomplish in this next stage!"
 - date: May 10, 2021
