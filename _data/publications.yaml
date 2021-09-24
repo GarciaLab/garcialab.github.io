@@ -135,10 +135,10 @@
       PDF full text: 'Phillips2019.pdf'
 
   - title: > 
-      The *Drosophila* pioneer factor Zelda modulates the nuclear
+      The <i>Drosophila</i> pioneer factor Zelda modulates the nuclear
       microenvironment of a Dorsal target enhancer to potentiate transcriptional
       output
-    authors: >
+    author: >
       Shigehiro Yamada, Peter H. Whitney, Shao-Kuei Huang, Elizabeth C. Eck,
       Hernan G. Garcia, and Christine A. Rushlow.
     journal: Current Biology
