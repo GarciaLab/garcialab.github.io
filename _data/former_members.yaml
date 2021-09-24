@@ -1,102 +1,174 @@
 - name: Daniel Jefferson Aaron
   caste: undergrad
-  position: Undergrad
+  position: >
+      Physics and Mathematics Undergraduate Student
+      Summer 2015
+      
 - name: Simon Alamos 
   caste: grad
-  position: Plant & Microbial Biology Graduate Student
+  position: >
+      Plant & Microbial Biology Graduate Student <br/>
+      2015-2021
   current: Postdoc, Shih Lab, UC Berkeley & LBNL
+
 - name: Neil Almeida 
   caste: undergrad
-  position: Undergrad
+  position: >
+      Undergraduate Student <br/>
+      Summers 2015 & 2016
   current: Medical Student, Georgetown University School of Medicine
+
 - name: Max Aragon 
   caste: undergrad
-  position: Undergrad
+  position: Physics Undergraduate Student
   current: Graduate Student, Princeton Neuroscience Institute
+
 - name: Augusto Berrocal
   caste: grad
-  position: MCB Graduate Student
+  position: >
+      MCB Graduate Student <br/>
+      2015-2020
   current: Postdoc, Eisen Lab, UC Berkeley
+
 - name: Jacques P. Bothma
   caste: postdoc
-  position: Postdoctoral Scholar
+  position: >
+      Postdoctoral Scholar <br/>
+      2015-2019
   current: Group Leader, Hubrecht Institute
+
 - name: Myron Barber Child 
   caste: tech
-  position: Junior Specialist
-  current: Graduate Student, UW Madison
+  position: >
+      Junior Specialist <br/>
+      2016-2019
+  current: Graduate Student, UW-Madison
+
 - name: Jinny Chung
   caste: undergrad
   position: Undergrad
+
 - name: Ana Margarida Correira De Paiva Bul
   caste: undergrad
-  position: Undergrad
+  position: >
+      Physics Undergrad <br/>
+      2015-2016
+
 - name: Pirooz Fereydouni
   caste: undergrad
-  position: MCB Undergrad
+  position: >
+      MCB Undergrad <br/>
+      2019-2021
+      
 - name: Sydney Ghoreishi 
   caste: undergrad 
-  position: MCB Undergrad
+  position: >
+      Molecular & Cell Biology Undergrad  <br/>
+      2017-2021
   current: Graduate Student, Johns Hopkins
+
 - name: Anjali Kaira
   caste: undergrad
   position: Undergrad
+
 - name: Maryam Belen Kazemzadeh-Atoufi
   caste: undergrad
-  position: Undergrad
+  position: >
+      Physics & Mathematics Undergrad  <br/>
+      Summer 2016
   current: Graduate Student, Northwestern University
+
 - name: Jonathan  Liu
   caste: grad
-  position: NDSEG Physics Graduate Fellow
-  current: Data Scientist, Computational Biology, Chan Zuckerberg Biohub
+  position: >
+      NDSEG Physics Graduate Fellow  <br/>
+      2017-2021
+  current: Data Scientist, Computational Biology, Chan-Zuckerberg Biohub
+
 - name: Wendy Liu
   caste: tech
-  position: High School Intern
+  position: >
+      High School Intern  <br/>
+      Summer 2018
+
 - name: Emma Luu
   caste: tech
-  position: Junior Specialist
+  position: >
+      Physics Undergrad & Junior Specialist <br/>
+      2017-2020
   current: Graduate Student, Biophysics, UC Davis
+
 - name: Sean Medin
   caste: undergrad
-  position: Undergrad
+  position: >
+      Physics Undergrad <br/>
+      2017-2019
   current: Graduate Student, Cornell University
+
 - name: Matthew Norstad
   caste: tech
   position: Junior Specialist
   current: UCSF Bioethics Program
+
 - name: Nica Nahal Sabouni
   caste: undergrad
-  position: Undergrad
+  position: >
+      Molecular & Cell Biology Undergrad <br/>
+      2015-2016
+
 - name: Armando Reimer
   caste: grad
-  position: NSF Biophysics Graduate Fellow
+  position: >
+      NSF Biophysics Graduate Fellow <br/>
+      2015-2021
+
 - name: Abhishek Sethi
   caste: tech
-  position: Junior Specialist
+  position: >
+      Junior Specialist <br/>
+      Summer 2018
+
 - name: Sunash Sharma
   caste: undergrad
-  position: Undergrad
+  position: >
+      Applied Physics Undergrad <br/>
+      Summer 2016
+      
 - name: Sannidhi Shukla
   caste: undergrad
-  position: Undergrad
+  position: >
+      Molecular & Cell Biology Undergrad <br/>
+      Fall 2016
+
 - name: Niranjan Srinivas
   caste: postdoc
-  position: Postdoctoral Scholar
+  position: >
+      Damon Runyon Postdoctoral Fellow  <br/>
+      2015-2017
   current: Senior Computational Biologist, 10X Genomics
+
 - name: Paul Talledo
   caste: tech
-  position: Junior Specialist
-  current: Technical, Transplant Genomics
+  position: >
+      Junior Specialist <br/>
+      2019-2020
+  current: Technician, Transplant Genomics
+
 - name: Scout Weber
   caste: undergrad
   position: Undergrad
+
 - name: Clay Westrum
   caste: undergrad
-  position: Physics Undergraduate
+  position: >
+    Physics Undergraduate <br/>
+    
+
 - name: Jordian Xiao
   caste: undergrad
   position: Undergrad
   current: Graduate Student, Biophysics, Stanford University
+
 - name: Evan Mladina
   caste: tech
   position: Intern
@@ -105,101 +177,161 @@
   position: Intern
 - name: Abrar Abidi 
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Fall 2018
 - name: Gonzalo Benegas 
   caste: rotation 
-  position: Rotation Student
+  position: >
+      Comp Bio Rotation Student <br/>
+      Summer 2018
 - name: Jared Bennett
   caste: rotation
-  position: Biophysics Rotation Student
+  position: >
+      Biophysics Rotation Student <br/>
+      Spring 2017
 - name: Elizabeth Earley
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Fall 2017
 - name: Nicholas Everretts
   caste: rotation
-  position: Comp Bio Rotation Student
+  position: >
+      Comp Bio Rotation Student <br/>
+      Fall 2017
 - name: Samantha Fernandez
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Spring 2016
 - name: Max Ferrin
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Winter 2017
 - name: Trevor Grand Pre
   caste: rotation
   position: Physics Rotation Student
 - name: Claire Goul
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Fall 2019
 - name: Jonathan Karr
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Winter 2018
 - name: Ben Kuznets-Speck
   caste: rotation
-  position: Biophysics Rotation Student
+  position: >
+      Biophysics Rotation Student <br/>
+      Fall 2018
 - name: Steven Lee
   caste: rotation
-  position: Physics Rotation Student
+  position: >
+      Physics Rotation Student <br/>
+      Summer 2018
 - name: Paul Marchando
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Winter 2018
 - name: Annika Martin
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Spring 2019
 - name: Liya Oster
   caste: rotation
-  position: Biophysics Rotation Student
+  position: >
+      Biophysics Rotation Student <br/>
+      Fall 2018
 - name: Robert Rietmeijer
   caste: rotation
-  position: Biophysics Rotation Student
+  position: >
+      Biophysics Rotation Student <br/>
+      Spring 2016
 - name: Joseph Robinson
   caste: rotation
-  position: Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Fall 2015
 - name: Marc Singleton
   caste: rotation
-  position: Biophysics Rotation Student
+  position: >
+      Biophysics Rotation Student <br/>
+      Fall 2017
 - name: Sam Smith
   caste: rotation
-  position: MCB Rotation Student
+  position: >
+      MCB Rotation Student <br/>
+      Spring 2020
 - name: Alex Barbier-Chebbah
   caste: visitor
-  position: Visiting Student
+  position: >
+      Visiting Masters Student <br/>
+      Spring 2017
 - name: Jack Bateman
   caste: visitor
-  position: Visitor
-  current: Associate Professor, Bowdoin College
+  position: >
+      Visiting Professor (Sabbatical) <br/>
+      Spring 2016
+  current: Associate Professor, Biology, Bowdoin College
 - name: Shelby Blythe
   caste: visitor
-  position: Visitor
-  current: Assistant Professor, Northwestern University
+  position: >
+      Visiting Postdoctoral Fellow <br/>
+      July 2015
+  current: Assistant Professor, Molecular Biosciences, Northwestern University
 - name: Vincent Bordeau
   caste: visitor
   position: Visiting Student
 - name: Paul Jeammet
   caste: visitor
-  position: Visiting Student
-- name: DOnald Hansen
+  position: >
+      Visiting Masters Student <br/>
+      Spring 2018
+- name: Donald Hansen
   caste: visitor
-  position: Visiting Student
+  position: >
+      Visiting Masters Student <br/>
+      2019
 - name: Lishibanya Mohapatra
   caste: visitor
-  position: Visiting Student
-- name: Bruno MOretti
+  position: >
+      Visiting PhD Student <br/>
+      March 2015
+  current: Assistant Professor, Physics & Astronomy, Rochester Institute of Technology
+- name: Bruno Moretti
   caste: visitor
-  position: Visiting Student
+  position: >
+      Visiting PhD Student <br/>
+      Spring 2016
 - name: Shanshan Qin
   caste: visitor
-  position: Visiting Student
+  position: >
+      Visiting PhD Student <br/>
+      Summer 2016
+  current: Postdoctoral Fellow, Pehlevan Group, Harvard University
 - name: Allyson Sgro
   caste: visitor
-  position: Visitor
-  current: Postdoctoral Fellow, Princeton University
+  position: >
+      Visiting Postdoctoral Fellow <br/>
+      April 2015
+  current: Assistant Professor, Biomedical Engineering, Boston University
 - name: Harinder Singh
   caste: visitor
-  position: Visitor
+  position: >
+      Visiting Scholar <br/>
+      May 2015
   current: Director,  Division of Immunobiology, Cincinati Children's Hospital Medical Center
 - name: Heng Xu
   caste: visitor
-  position: Visitor
+  position: >
+      Visiting Postdoc <br/>
+      January 2015
   current: Postdoctoral Fellow, Baylor College of Medicine
 
   
