@@ -1,12 +1,5 @@
 2021:
   - title: >
-      Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
-    author: Armando Reimer, Simon Alamos, Clay Westrum, Meghan A. Turner, Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
-    journal: bioRxiv
-    volume: 2021.07.10.451524
-    links:
-      DOI: "https://doi.org/10.1101/2021.07.10.451524"
-  - title: >
       Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
     author: Simon Alamos, Armando Reimer, Krishna K. Niyogi, and Hernan G. Garcia
     journal: Nature Plants
@@ -14,6 +7,21 @@
     links:
       DOI: "https://doi.org/10.1038/s41477-021-00976-0"
       PDF full text: "Alamos2021.pdf"
+  - title: >
+      Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
+    author: Armando Reimer, Simon Alamos, Clay Westrum, Meghan A. Turner, Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
+    journal: bioRxiv
+    volume: 2021.07.10.451524
+    links:
+      DOI: "https://doi.org/10.1101/2021.07.10.451524"
+  - title: >
+      Predictive modeling reveals that higher-order cooperativity drives transcriptional repression in a synthetic developmental
+    author: Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, Meghan A Turner, Stephen Small, and Hernan G. Garcia
+    journal: bioRxiv
+    volume: 2021.07.28.454075
+    links:
+      DOI: "https://doi.org/10.1101/2021.07.28.454075"
+
 2020:
   - title: >
       A matter of time: Using dynamics and thoery to unceover mechanisms of
