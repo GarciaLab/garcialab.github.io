@@ -1,32 +1,32 @@
 - name: Daniel Jefferson Aaron
   caste: undergrad
   position: >
-      Physics and Mathematics Undergraduate Student
+      Physics and Math Undergrad Student <br/>
       Summer 2015
       
 - name: Simon Alamos 
   caste: grad
   position: >
-      Plant & Microbial Biology Graduate Student <br/>
+      PMB Grad Student <br/>
       2015-2021
   current: Postdoc, Shih Lab, UC Berkeley & LBNL
 
 - name: Neil Almeida 
   caste: undergrad
   position: >
-      Undergraduate Student <br/>
+      Undergrad Student <br/>
       Summers 2015 & 2016
   current: Medical Student, Georgetown University School of Medicine
 
 - name: Max Aragon 
   caste: undergrad
-  position: Physics Undergraduate Student
+  position: Physics Undergrad Student
   current: Graduate Student, Princeton Neuroscience Institute
 
 - name: Augusto Berrocal
   caste: grad
   position: >
-      MCB Graduate Student <br/>
+      MCB Grad Student <br/>
       2015-2020
   current: Postdoc, Eisen Lab, UC Berkeley
 
@@ -46,7 +46,9 @@
 
 - name: Jinny Chung
   caste: undergrad
-  position: Undergrad
+  position: >
+      MCB Undergrad Student <br/>
+      2020
 
 - name: Ana Margarida Correira De Paiva Bul
   caste: undergrad
@@ -63,18 +65,18 @@
 - name: Sydney Ghoreishi 
   caste: undergrad 
   position: >
-      Molecular & Cell Biology Undergrad  <br/>
+      MCB Undergrad  <br/>
       2017-2021
   current: Graduate Student, Johns Hopkins
 
 - name: Anjali Kaira
   caste: undergrad
-  position: Undergrad
+  position: MCB Undergrad Student
 
 - name: Maryam Belen Kazemzadeh-Atoufi
   caste: undergrad
   position: >
-      Physics & Mathematics Undergrad  <br/>
+      Physics & Math Undergrad  <br/>
       Summer 2016
   current: Graduate Student, Northwestern University
 
@@ -101,7 +103,7 @@
 - name: Sean Medin
   caste: undergrad
   position: >
-      Physics Undergrad <br/>
+      Physics Undergrad Student <br/>
       2017-2019
   current: Graduate Student, Cornell University
 
@@ -113,7 +115,7 @@
 - name: Nica Nahal Sabouni
   caste: undergrad
   position: >
-      Molecular & Cell Biology Undergrad <br/>
+      MCB Undergrad <br/>
       2015-2016
 
 - name: Armando Reimer
@@ -131,13 +133,13 @@
 - name: Sunash Sharma
   caste: undergrad
   position: >
-      Applied Physics Undergrad <br/>
+      Applied Physics Undergrad Student <br/>
       Summer 2016
       
 - name: Sannidhi Shukla
   caste: undergrad
   position: >
-      Molecular & Cell Biology Undergrad <br/>
+      MCB Undergrad <br/>
       Fall 2016
 
 - name: Niranjan Srinivas
@@ -156,17 +158,19 @@
 
 - name: Scout Weber
   caste: undergrad
-  position: Undergrad
+  position: Physics Undergrad Student
 
 - name: Clay Westrum
   caste: undergrad
   position: >
-    Physics Undergraduate <br/>
-    
+      Physics Undergrad Student <br/>
+      2019-2021
 
 - name: Jordian Xiao
   caste: undergrad
-  position: Undergrad
+  position: >
+      Physics Undergrad Student <br/>
+      2017-2019
   current: Graduate Student, Biophysics, Stanford University
 
 - name: Evan Mladina
