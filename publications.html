@@ -42,7 +42,7 @@ href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
         <div class='fadein mod modIconText' data-delay='{{ 30 | times:forloop.index0 }}'>
           <ul>
             {% for pub in year[1] %}
-            <li>{{pub.author}}: <b>{{pub.title}}.</b> <i>{{pub.journal}}</i> {{pub.volume}}{{pub.issue}} | {%for link in pub.links%} {%if link[0] == 'DOI' %} DOI: {{link[1]}} | {% else %} <a href='{{site.baseurl}}/publications/{{link[1]}}'>{{link[0]}}</a> | {% endif %}{%endfor%}</li><br/>
+            <li>{{pub.author}}: <b>{{pub.title}}.</b> <i>{{pub.journal}}</i> {{pub.volume}}{{pub.issue}} | {%for link in pub.links%} {%if link[0] == 'DOI' %} DOI: <a href='{{link[1]}}'>{{link[1]}}</a> | {% else %} <a href='{{site.baseurl}}/publications/{{link[1]}}'>{{link[0]}}</a> | {% endif %}{%endfor%}</li><br/>
   
             {%endfor%}
             </ul>

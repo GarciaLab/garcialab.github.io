@@ -1,3 +1,69 @@
+2021:
+  - title: >
+      Quantitative imaging of RNA polymerase II activity in plants reveals 
+      the single-cell basis of tissue-wide transcriptional dynamics
+    author: Simon Alamos, Armando Reimer, Krishna K. Niyogi, and Hernan G. Garcia
+    journal: Nature Plants
+    volume: 7
+    links:
+      DOI: "https://doi.org/10.1038/s41477-021-00976-0"
+      PDF full text: "Alamos2021.pdf"
+  - title: >
+      Minimal synthetic enhancers reveal control of the probability of 
+      transcriptional engagement and its timing by a morphogen
+    author: >
+      Armando Reimer, Simon Alamos, Clay Westrum, Meghan A. Turner, 
+      Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
+    journal: bioRxiv
+    volume: 2021.07.10.451524
+    links:
+      DOI: "https://doi.org/10.1101/2021.07.10.451524"
+  - title: >
+      Predictive modeling reveals that higher-order cooperativity drives 
+      transcriptional repression in a synthetic developmental
+    author: >
+      Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, 
+      Meghan A Turner, Stephen Small, and Hernan G. Garcia
+    journal: bioRxiv
+    volume: 2021.07.28.454075
+    links:
+      DOI: "https://doi.org/10.1101/2021.07.28.454075"
+  - title: >
+      Live imaging and biophysical modeling support a button-based mechanism
+      of somatic homolog pairing in <i>Drosophila</i>
+    author: >
+      Myron Child VI, Jack R. Bateman, Amir Jahangiri, Armando Reimer,
+      Nicholas C. Lammers Nica Sbouni, Diego Villamarin, Grace C.
+      McKenzie-Smith, Justine E. Johnson, Daniel JOst, and Hernan G. Garcia.
+    journal: eLife
+    volume: 2021;10:e64412
+    links:
+        DOI: "https://doi.org/10.7554/eLife.64412"
+        PDF full text: "Child2021.pdf"
+  - title: >
+      Real-time single-cell characterization of the eukaryotic transcription cycle 
+      reveals correlations between RNA initiation, elongation, and cleavage
+    author: > 
+      Jonathan Liu, Donal Hansen, Elizabeth Eck, Yang Joon Kim, Meghan
+      Turner, Simon Alamos, and Hernan G. Garcia
+    journal: PLOS Computational Biology
+    volume: 17(5):e1008999
+    links: 
+      DOI: "https://doi.org/10.1371/journal.pcbi.1008999"
+      PDF full text: "Liu2021.pdf"
+  - title: >
+      Fundamental limits on the rate of bacterial growth and 
+      their influence on proteomic composition
+    author: >
+      Nathan Belliveau, Griffin Chure, Christina L Hueschen, Hernan G. Garcia,
+      Jane Kondev, Daniel S Fisher, Julie Theriot, and Rob Phillips
+    journal: Cell Systems
+    volume: 12
+    issue: 9
+    links:
+      DOI: "https://doi.org/10.1016/j.cels.2021.06.002"
+      PDF full text: "Belliveau2020.pdf"
+
 2020:
   - title: >
       A matter of time: Using dynamics and thoery to unceover mechanisms of
@@ -8,50 +74,13 @@
     links:
       DOI:  "https://doi.org/10.1016/j.ceb.2020.08.001"
       PDF full text: "Lammers2020b.pdf"
-  - title: Fundamental limits on the rate of bacterial growth
-    author: >
-      Nathan Belliveau, Griffin Chure, Christina Hueschen, Hernan G. Garcia,
-      Jane Kondev, Julie Theriot, and Rob Phillips
-    journal: bioRxiv
-    links:
-      DOI: "https://doi.rog/10.1101./2020.10.18.344382"
-      PDF full text: "Belliveau2020.pdf"
-  - title: >
-      Single-cell characterization of the eukaryotic transcription cycle
-      using live imaging and statistical inference
-    author: > 
-      Jonathan Liu, Donal Hansen, Elizabeth Eck, Yang Joon Kim, Meghan
-      Turner, SImon Alamos, and Hernan G. Garcia
-    journal: bioRxiv
-    links: 
-      DOI: "https://doi.org/10.1101/2020.08.29.273474"
-      PDF full text: "Liu2020.pdf"
-  - title: >
-      Live imaging and biophysical modeling support a button-based mechanism
-      of somatic homolog pairing in <i>Drosophila</i>
-    author: >
-      Myron Child VI, Jack R. Bateman, Amir Jahangiri, Armando Reimer,
-      Nicholas C. Lammers Nica Sbouni, Diego Villamarin, Grace C.
-      McKenzie-Smith, Justine E. Johnson, Daniel JOst, and Hernan G. Garcia.
-    journal: bioRxiv
-    links:
-        DOI: "https://doi.org/10.1101/2020.08.30.265108"
-        PDF full text: "Child2020.pdf"
-  - title: >
-      Quantitative imaging of RNA polymerase II activity in plants revewals
-      the single-cell basis of tissue-wide transcriptional dynamics
-    author: Simon Alamos, armando Reimer, Krishna K. Niyogi, and Hernan G. Garcia.
-    journal: bioRxiv
-    links:
-      DOI: https://doi.org/10.1101/2020.08.30.274621
-      PDF full text: 
   - title: "Genetically-encoded fluorescent biosensor for rapid detection of protein expression"
     author: >
-      Matthew G. Eason, ANtonia T. Pandelieva, Marc M. Mayer, Safwat T. Khan,
-      Hernan G. Garica, and Roberto A. Chica.
-    journal: bioRxiv
+      Matthew G. Eason, Antonia T. Pandelieva, Marc M. Mayer, Safwat T. Khan,
+      Hernan G. Garica, and Roberto A. Chica
+    journal: ACS Synthetic Biology
     links:
-      DOI: "https://doi.org/10.1101/2020.07.30.229633"
+      DOI: "https://doi.org/10.1021/acssynbio.0c00407"
       PDF full text: "Eason2020.pdf"
   - title: > 
       Quantitative dissection of transcription in development yields
@@ -106,10 +135,10 @@
       PDF full text: 'Phillips2019.pdf'
 
   - title: > 
-      The *Drosophila* pioneer factor Zelda modulates the nuclear
+      The <i>Drosophila</i> pioneer factor Zelda modulates the nuclear
       microenvironment of a Dorsal target enhancer to potentiate transcriptional
       output
-    authors: >
+    author: >
       Shigehiro Yamada, Peter H. Whitney, Shao-Kuei Huang, Elizabeth C. Eck,
       Hernan G. Garcia, and Christine A. Rushlow.
     journal: Current Biology
