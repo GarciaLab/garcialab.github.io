@@ -39,7 +39,20 @@ header_img: research.gif
     {% if topic.image %}
     <center>
     <img style="padding:10px; max-width: 90%;" src='{{site.baseurl}}/images/research_figs/{{topic.image}}'>
+    <br/>
+    {% if topic.image_desc %}
+    <i style="width:80%;"><b>Image:</b> {{topic.image_desc}}</i>
+    {%endif%}
     </center>
+    {% else if topic.video_url %}
+    <center>
+      <iframe src="{{topic.video_url}}" width="640" height="480" allow="autoplay"></iframe> 
+    <br/>
+    {% if topic.video_desc %}
+    <i style="width:80%;"><b>Video:</b> {{topic.video_desc}}</i>
+    {%endif%}
+    </center>
+
     {% endif %}
  
     <br/>

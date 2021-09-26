@@ -18,7 +18,10 @@ Lighting Up the Central Dogma in Embryonic Development:
   topics: 
     - title: Lighting up transcriptional dynamics using MS2
       counter: A
-      image: eve_ms2_snapshot.png
+      video_url: >
+        https://drive.google.com/file/d/1AsbiyWOpAaJZixmJ7cvFrkjoueO6pX4p/preview
+      video_desc:
+        A developing Drosophila embryo with labeled nuclei (red) and nascent eveBAC MS2 stem loops (green).
       desc: >
         We have pioneered the MS2/MCP technology in developing fruit fly
         embryos, which allows for live-cell imaging of nascent RNA
@@ -36,7 +39,9 @@ Lighting Up the Central Dogma in Embryonic Development:
           link: "https://www.pnas.org/content/111/29/10598.short"
     - title: Lighting up the transcription cycle using inference methods
       counter: B
-      image: hmm_figure.png
+      video_url: >
+        https://drive.google.com/file/d/1lsZODBgt0rynhIqMzRbH96EcGqt9V-NM/preview
+      video_desc: Computationally identified active (green) and inactive (red) transcribing nuclei using a Hidden Markov Model.
       desc: > 
         We employ powerful computational methods to extract information about
         the transcription cycle from MS2 data such as bursting kinetics and
@@ -53,7 +58,11 @@ Lighting Up the Central Dogma in Embryonic Development:
           link: "https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3"
     - title: Lighting up transcription factor dynamics using LlamaTags
       counter: C 
-      image: llamatag_snapshot.png
+      video_url: >
+        https://drive.google.com/file/d/1n9Qlt_RX6ZKFMYPJZ1cYYAYadctSJAQJ/preview
+      video_desc:
+        A developing Drosophila embryo with llama-tag-labeled protein (green) and 
+        the corresponding mRNA transcript (red).
       desc: > 
         Slowly maturing fluorescent fusions are insufficient to reveal
         transcription factor concentration dynamics in development. To
@@ -109,6 +118,9 @@ Physical Biology of Living Embryos:
         Bending nature to understand it: Using synthetic biology to derive
         governing equations of transcriptional control in development
       image: bending_enhancers.png
+      image_desc: >
+        Multiplicity of promoter occupancy states for one, two, and three TF
+        binding site architectures.
       desc: > 
         Writing theoretical models of endogenous regulatory regions in
         development calls for governing equations with too many unknown
