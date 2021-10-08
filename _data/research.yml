@@ -63,9 +63,10 @@ Lighting Up the Central Dogma in Embryonic Development:
       counter: C 
       video_url: >
         https://drive.google.com/file/d/1wngzhCWF73PSQI5BV9g_4jMvuZVWK7py/preview
-      video_desc:
+      video_desc: >
         A developing Drosophila embryo with MS2-labelled nascent mRNA transcripts (red) and 
-        LlamaTag-labeled proteins (green) of the transcription factor <i>fushi tarazu</i> (<i>ftz</i>).
+        LlamaTag-labeled proteins (green) <br/>
+        of the transcription factor <i>fushi tarazu</i> (<i>ftz</i>).
       desc: > 
         Slowly maturing fluorescent fusions are insufficient to reveal
         transcription factor concentration dynamics in development. To
