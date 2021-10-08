@@ -42,7 +42,7 @@ Lighting Up the Central Dogma in Embryonic Development:
       counter: B
       video_url: >
         https://drive.google.com/file/d/1rY_GcIRCHyNX2PFeiE8NF7v_5t0UJAPX/preview
-      video_desc: Active (green) and inactive (red) transcribing nuclei c omputationally identified using a Hidden Markov Model.
+      video_desc: Active (green) and inactive (red) transcribing nuclei computationally identified using a Hidden Markov Model.
       desc: > 
         We employ powerful computational methods to extract information about
         the transcription cycle from MS2 data such as bursting kinetics and
@@ -63,8 +63,8 @@ Lighting Up the Central Dogma in Embryonic Development:
       video_url: >
         https://drive.google.com/file/d/1wngzhCWF73PSQI5BV9g_4jMvuZVWK7py/preview
       video_desc:
-        A developing Drosophila embryo with MS2-tagged nascent mRNA transcripts (red) and 
-        LlamaTag-labeled protein (green) of the transcription factor <i>fushi tarazu</i> (<i>ftz</i>).
+        A developing Drosophila embryo with MS2-labelled nascent mRNA transcripts (red) and 
+        LlamaTag-labeled proteins (green) of the transcription factor <i>fushi tarazu</i> (<i>ftz</i>).
       desc: > 
         Slowly maturing fluorescent fusions are insufficient to reveal
         transcription factor concentration dynamics in development. To
