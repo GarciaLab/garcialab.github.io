@@ -8,49 +8,54 @@
     links:
       DOI: "https://doi.org/10.1038/s41477-021-00976-0"
       PDF full text: "Alamos2021.pdf"
+  
   - title: >
       Minimal synthetic enhancers reveal control of the probability of 
       transcriptional engagement and its timing by a morphogen
     author: >
       Armando Reimer, Simon Alamos, Clay Westrum, Meghan A. Turner, 
       Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
-    journal: bioRxiv
+    journal: preprint on bioRxiv
     volume: 2021.07.10.451524
     links:
       DOI: "https://doi.org/10.1101/2021.07.10.451524"
+  
   - title: >
       Predictive modeling reveals that higher-order cooperativity drives 
       transcriptional repression in a synthetic developmental
     author: >
       Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, 
-      Meghan A Turner, Stephen Small, and Hernan G. Garcia
-    journal: bioRxiv
+      Meghan A. Turner, Stephen Small, and Hernan G. Garcia
+    journal: preprint on bioRxiv
     volume: 2021.07.28.454075
     links:
       DOI: "https://doi.org/10.1101/2021.07.28.454075"
+  
   - title: >
       Live imaging and biophysical modeling support a button-based mechanism
       of somatic homolog pairing in <i>Drosophila</i>
     author: >
       Myron Child VI, Jack R. Bateman, Amir Jahangiri, Armando Reimer,
       Nicholas C. Lammers Nica Sbouni, Diego Villamarin, Grace C.
-      McKenzie-Smith, Justine E. Johnson, Daniel JOst, and Hernan G. Garcia.
+      McKenzie-Smith, Justine E. Johnson, Daniel Jost, and Hernan G. Garcia
     journal: eLife
-    volume: 2021;10:e64412
+    volume: "2021;10:e64412"
     links:
         DOI: "https://doi.org/10.7554/eLife.64412"
         PDF full text: "Child2021.pdf"
+  
   - title: >
       Real-time single-cell characterization of the eukaryotic transcription cycle 
       reveals correlations between RNA initiation, elongation, and cleavage
     author: > 
-      Jonathan Liu, Donal Hansen, Elizabeth Eck, Yang Joon Kim, Meghan
+      Jonathan Liu, Donal Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A.
       Turner, Simon Alamos, and Hernan G. Garcia
     journal: PLOS Computational Biology
     volume: 17(5):e1008999
     links: 
       DOI: "https://doi.org/10.1371/journal.pcbi.1008999"
       PDF full text: "Liu2021.pdf"
+  
   - title: >
       Fundamental limits on the rate of bacterial growth and 
       their influence on proteomic composition
@@ -66,7 +71,7 @@
 
 2020:
   - title: >
-      A matter of time: Using dynamics and thoery to unceover mechanisms of
+      A matter of time: Using dynamics and theory to unceover mechanisms of
       transcriptional bursting
     author: Nicholas C. Lammers, Yang Joon Kim, Jiaxi Zhao, and Hernan G. Garcia
     journal: Current Opinion in Cell Biology
@@ -74,6 +79,7 @@
     links:
       DOI:  "https://doi.org/10.1016/j.ceb.2020.08.001"
       PDF full text: "Lammers2020b.pdf"
+  
   - title: "Genetically-encoded fluorescent biosensor for rapid detection of protein expression"
     author: >
       Matthew G. Eason, Antonia T. Pandelieva, Marc M. Mayer, Safwat T. Khan,
@@ -82,34 +88,46 @@
     links:
       DOI: "https://doi.org/10.1021/acssynbio.0c00407"
       PDF full text: "Eason2020.pdf"
+  
   - title: > 
       Quantitative dissection of transcription in development yields
       evidence for transcription factor-driven chromatin accessibility
     author:
       Elizabeth Eck, Jonathan Liu, Maryam Kazemzadeh-Atoufi, Sydney Ghoreishi,
-      Shelby A. Blythe, Hernan G. Garcia
+      Shelby A. Blythe, and Hernan G. Garcia
     journal: eLife 
     volume: "Oct 9;e56429"
     links:
       DOI: "https://doi.org/10.7554/eLife.56429"
       PDF full text: "Eck2020.pdf"
+  
   - title: >
       Lighting up the central dogma for predictive developmental biology
     author: >
-        Hernan G. Garcia, Augusto Berrocal, Yang Joon Kim, Gabriella Martini, Jiaxi Zhao.
+        Hernan G. Garcia, Augusto Berrocal, Yang Joon Kim, 
+        Gabriella Martini, and Jiaxi Zhao
     journal: Current Topics in Developmental Biology 
     volume: 137
     links:
       PDF full text: "Garcia2020.pdf"
+
+  - title: Kinetic sculpting of the seven stripes of the <i>Drosophila even-skipped</i> gene
+    author: Augusto Berrocal, Nicholas Lammers, Hernan G. Garcia, and Michael Eisen
+    journal: eLife
+    volume: 2020;9:e61635
+    links:
+      DOI: "https://doi.org/10.7554/eLife.61635"
+      PDF full text: 'Berrocal2018.pdf'  
+  
   - title: >
-      Multimodal trancriptional control of pattern formation in embryonic
+      Multimodal transcriptional control of pattern formation in embryonic
       development
     author: > 
       Nicholas C. Lammers, Vahe Galstyan, Armando Reimer, Sean A. Medin,
-      Christopher H. Wiggins, Hernan G. Garcia 
-    journal : Proceedings of the National Academy of Sciences 
+      Christopher H. Wiggins, and Hernan G. Garcia 
+    journal : PNAS 
     volume: 117
-    issue: '(2)'
+    issue: (2)
     links:
       DOI: "https://doi.org/10.1073/PNAS.1912500117"
       PDF full text: "Lammers2020.pdf"
@@ -118,17 +136,19 @@
 2019: 
   - title: >
       Enhancer priming enables fast and sustained transcriptional responses to
-      Notch signaling.
+      Notch signaling
     author: >
-      Julia Falo-Sanjuan, NIcholas C. Lammers, Hernan G. Garcia, and Sarah Bray.
+      Julia Falo-Sanjuan, Nicholas C. Lammers, Hernan G. Garcia, and Sarah Bray
     journal: Developmental Cell
     volume: 50
     links:
       DOI: "https://doi.org/10.1016/j.devcel.2019.07.002"
       PDF Full Text: Falo-Sanjuan2019.pdf
 
-  - title: Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression
-    author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, Manuel Razo-Mejia, and Clarissa Scholes.
+  - title: Figure 1 theory meets Figure 2 experiments in the study of gene expression
+    author: >
+      Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, 
+      Manuel Razo-Mejia, and Clarissa Scholes
     journal: Annual Review of Biophysics
     volume: 48 
     links:
@@ -140,48 +160,42 @@
       output
     author: >
       Shigehiro Yamada, Peter H. Whitney, Shao-Kuei Huang, Elizabeth C. Eck,
-      Hernan G. Garcia, and Christine A. Rushlow.
+      Hernan G. Garcia, and Christine A. Rushlow
     journal: Current Biology
     volume: 29
     issue: (8)
     links:
       DOI: "https://doi.org/10.1016/j.cub.2019.03.019"
       PDF Full Text: Yamada2019.pdf
-
-  - title: Enhancer priming enables fast and sustained transcriptional responses to Notch signaling.
-    author: Julia Falo-Sanjuan, Nicholas C. Lammers, Hernan G. Garcia, Sarah Bray
-    journal: preprint on bioRxiv
-    links:
-      DOI: "https://doi.org/10.1101/497651"
-      PDF full text: 'FaloSanjuan2019.pdf'
  
 
 2018: 
   - title: > 
-      Single Molecule Imaging in Live EMbryos Using Lattice Light-Sheet MIcroscopy 
+      Single molecule imaging in live embryos using lattice light-sheet microscopy 
     author: >
       Mustafa Mir, Armando Reimer, Michael Stadler, Astou Tangara, ANsers S.
       Hansen, Dirk Hockemeyr, Michael B. Eisen, Hernan G. Garcia, and Xavier Darzacq.
-    journal: Nanoscale Imaging, Humana Press, New York, NY.
+    journal: Nanoscale Imaging, Methods in Molecular Biology
+    volume: 1814
     links:
+      DOI: "https://doi.org/10.1007/978-1-4939-8591-3_32"
       PDF Full Text: Mir2018.pdf
 
-  - title: Kinetic sculpting of the seven stripes of the <i>Drosophila</i> even-skipped gene
-    author: Augusto Berrocal, Nicholas Lammers, Hernan G. Garcia, Michael Eisen
-    journal: preprint on bioRxiv
-    links:
-      DOI: "https://www.doi.org/10.1101/335901"
-      PDF full text: 'Berrocal2018.pdf'
-
-  - title: Nucleo-cytoplasmic traficking regulates nuclear surface area during nuclear organogenesis
-    author: Vincent Bourdreau, James Hazel, Jake Sellinger, Pan Chen, Kathryn Manakova, Rochell Radzyminski, ernan G. Garcia, Jun Allard, Jesse Gatlin, Paul Maddox
+  - title: Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis
+    author: >
+      Vincent Bourdreau, James Hazel, Jake Sellinger, Pan Chen, Kathryn Manakova, 
+      Rochell Radzyminski, ernan G. Garcia, Jun Allard, Jesse Gatlin, and Paul Maddox
     journal: preprint on bioRxiv
     links:
       DOI: 'https://doi.org/10.1101/326140'
       PDF full text: "Bordreau2018.pdf"
 
-  - title: "LlamaTags: A Versatile Tool to Image Transcription Factor Dynamics in Live Embryos"
-    author: Jacques p. Bothma, Matthew R. Nrstad, Simon Alamos, Hernan G. Garcia
+  - title: >
+      LlamaTags: A versatile tool to image transcription factor 
+      dynamics in live embryos
+    author: >
+      Jacques P. Bothma, Matthew R. Norstad, Simon Alamos, 
+      and Hernan G. Garcia
     journal: Cell
     volume: 173 
     issue: '(1)' 
@@ -189,32 +203,34 @@
       PDF full text: Bothma2018.pdf
       SI Movies: "Bothma2018.avi"
 
-  - title: Live Imaging of mRNA Synthesis in <i>Drosophila</i>
-    author: Hernan G. Garcia, Thomas Gregor
+  - title: Live imaging of mRNA synthesis in <i>Drosophila</i>
+    author: Hernan G. Garcia and Thomas Gregor
     journal: "RNA Detection: Methods in Molecular Biology"
     volume: 1649
     links:
       PDF full text: Garcia2018.pdf
 
 2017:
-  - title: Dense Bicoid Hubs Accentuate Binding Along the Morphogen Gradient
-    author: Mustafa Mir, Armando Reimer, Jenna E. Haines, Xiao-Yong Li, Michael Stadler, Hernan G. Garcia, Michael E. Eisen, Xavier Darzacq
-    journal: Genes Dev
+  - title: Dense Bicoid hubs accentuate binding along the morphogen gradient
+    author: >
+      Mustafa Mir, Armando Reimer, Jenna E. Haines, Xiao-Yong Li, 
+      Michael Stadler, Hernan G. Garcia, Michael E. Eisen, and Xavier Darzacq
+    journal: "Genes & Development"
     volume: 37
-    issue: '(1784)'
+    issue: (1784)
     links:
-      PDF full text: 'Mir2017.pdf'
-      SI: 'Mir2017supp.pdf'
-      Videos: 'Mir2017movies.zip'
+      PDF full text: Mir2017.pdf
+      SI: Mir2017supp.pdf
+      Videos: Mir2017movies.zip
 
 2016:
   - title: "Using synthetic biology to make cells tomorrow's test tubes"
-    author: Hernan G. Garcia, Robert C. Brewster, Rob Phillips
+    author: Hernan G. Garcia, Robert C. Brewster, and Rob Phillips
     journal: Integrative Biology
     volume: 8
-    issue: '(431)'
+    issue: (431)
     links:
-      PDF full text: 'Garcia2016.pdf'
+      PDF full text: Garcia2016.pdf
 
 2015:
   - title: >
@@ -222,16 +238,20 @@
       embryo are determined by enhancer strength
     author: > 
       Jacques P. Bothma*, Hernan G. Garcia*, Samuel Ng, Michael Perry, Thomas
-      Gregor, and MIchael Levine.
+      Gregor, and Michael Levine
     journal: eLife
     volume: 4e07956
     links:
       PDF Full Text: Bothma2015.pdf
 
 2014:
-  - title: The influence of promoter architectures and regulatory motifs on gene expression in <i>Escherichia coli</i>
-    author: 'Mattias Rydenfelt, Hernan G. Garcia, Robert Sidney Cox III, Rob Phillips'
-    journal: 'PLOS One'
+  - title: >
+      The influence of promoter architectures and regulatory motifs 
+      on gene expression in <i>Escherichia coli</i>
+    author: >
+      Mattias Rydenfelt, Hernan G. Garcia, Robert Sidney Cox III, 
+      and Rob Phillips
+    journal: PLOS One
     volume: 10
     issue: (3)
     links:
@@ -240,15 +260,19 @@
       SI tables: Rydenfelt2014btables.zip
 
   - title: "The embryo as a laboratory: quantifying transcription in <i>Drosophila</i>"
-    author: Thomas Gregor, Hernan G. Garcia, Shawn C. Little
+    author: Thomas Gregor, Hernan G. Garcia, and Shawn C. Little
     journal: Trends in Genetics 
     volume: 30
     issue: (364)
     links:
       PDF full text: Gregor2014.pdf
   
-  - title: Dynamic Regulation of Eve Stripe 2 Expression Reveals Transcriptional Bursts in Living <i>Drosophila</i> Embryos
-    author: Jacques P. Bothma*, Hernan G. Garcia*, Emilia Esposito, Gavin Schlissel, Thomas Gregor, Michael Levine.
+  - title: >
+      Dynamic regulation of eve stripe 2 expression reveals 
+      transcriptional bursts in living <i>Drosophila</i> embryos
+    author: >
+      Jacques P. Bothma*, Hernan G. Garcia*, Emilia Esposito, 
+      Gavin Schlissel, Thomas Gregor, and Michael Levine
     journal: PNAS
     volume: 111
     issue: (29)
@@ -256,11 +280,11 @@
       PDF full text: Bothma2014.pdf
 
   - title: >
-      The Transcription Factor TItration Effect Dictates Level of Gene
-      Expression
+      The transcription factor titration effect dictates level of gene
+      expression
     author: >
-      Robert C. Brewster, Franz Weinert, Hernan G. Garcia, Linda SOng, Mattias
-      Rydenfelt, and ROb Phillips.
+      Robert C. Brewster, Franz Weinert, Hernan G. Garcia, Linda Song, Mattias
+      Rydenfelt, and Rob Phillips
     journal: Cell
     volume: 156
     links:
@@ -273,18 +297,18 @@
       coupled transcription from multiple promoters
     author: > 
       Mattias Rydenfelt, RObert Sidney Cox III, Hernan G. Garcia, and Rob
-      Phillips.
+      Phillips
     journal: Physical Review E
     volume: 89
     links:
       PDF Full Text: Rydenfelt2014.pdf
 2013:
   - title: >
-      The plasma membrane flatteens out oto fuel cell surface growth during
-      <i>Drosophila</i> cellularization.
+      The plasma membrane flattens out to fuel cell surface growth during
+      <i>Drosophila</i> cellularization
     author: >
       Lauren Figard, Heng Zu, Hernan G. Garcia, Ido Golding, and Anna Marie
-      Sokac.
+      Sokac
     journal: Developmental Cell
     volume: 27
     links:
@@ -295,7 +319,7 @@
       DNA sequence-dependent mechanics and protein-assisted bending in
       repressor-mediated DNA loop formation
     author: >
-      James Q. Boedicker, Hernan G. Garcia, Stephanie Johnson, and Rob Phillips.
+      James Q. Boedicker, Hernan G. Garcia, Stephanie Johnson, and Rob Phillips
     journal: Physical Biology
     volume: 10
     links:
@@ -306,7 +330,7 @@
       Quantitative imaging of transcription in living <i>Drosophila</i>
       embryos links polymerase activity to patterning
     author: >
-      Hernan G. Garcia, Mikhail Tikhonov, Albert Lin, and Thomas Gregor.
+      Hernan G. Garcia, Mikhail Tikhonov, Albert Lin, and Thomas Gregor
     journal: Current Biology
     volume: 23
     links:
@@ -314,9 +338,9 @@
       Supporting Information: Garcia2013supp.pdf
 
   - title: > 
-      Statistical Mechanics of MOnod-Wyman-Changeux (MWC) Models
+      Statistical Mechanics of Mnod-Wyman-Changeux (MWC) Models
     author: > 
-      Sarah Marzen, Hernan G. Garcia, and Rob Phillips.
+      Sarah Marzen, Hernan G. Garcia, and Rob Phillips
     journal: Journal of Molecular Biology
     volume: 23
     links: 
@@ -324,8 +348,8 @@
       Supporting Information: Marzen2013supp.pdf
 
   - title: > 
-      Theoretical and experimental dissection of DNA loop-mediated repression.
-    author: James Q. Boedicker*, Hernan G. Garcia*, and Rob Phillips.
+      Theoretical and experimental dissection of DNA loop-mediated repression
+    author: James Q. Boedicker*, Hernan G. Garcia*, and Rob Phillips
     journal: Physical Review Lettes
     volume: 110
     links:
@@ -334,11 +358,11 @@
 
 2012:
   - title: >
-        Operator Sequence alters gene expression independently of
-        transcription factor occupancy.
+        Operator sequence alters gene expression independently of
+        transcription factor occupancy
     author: > 
         Hernan G. Garcia*, Alvaro Sanchez*, James Q. Boedicker*, Melisa Osborne,
-        Jeff Gelles, Jané Kondev, and Rob Phillips.
+        Jeff Gelles, Jané Kondev, and Rob Phillips
     journal: Cell Reports 
     volume: 2
     links:
@@ -348,44 +372,48 @@
   - title: >
       Quantitative dissection of the simple repression input-output
       function
-    author: Hernan G. Garcia and Rob Phillips.
+    author: Hernan G. Garcia and Rob Phillips
     journal: PNAS
     volume: 108
     links: 
       PDF Full Text: Garcia2011c.pdf
       Supporting Information: Garcia2011cSupp.pdf
+  
   - title: > 
       The limits and validity of methods of measuring gene expression for the
       testing of quantitative models
     author: > 
-      Hernan G. Garcia,  Heun Jin Lee, James Q. Boedicker, and Rob Phillips.
+      Hernan G. Garcia,  Heun Jin Lee, James Q. Boedicker, and Rob Phillips
     journal: Biophysical Journal
     volume: 101
     links:
       PDF Full Text: Garcia2011b.pdf
       Supporting Information: Garcia2011bsupp.pdf
+  
   - title: Precision computational features in synthetic enhancers
-    author: Roee Amit, Hernan G. Garcia, Rob Phillips, and Scott E. Fraser.
+    author: Roee Amit, Hernan G. Garcia, Rob Phillips, and Scott E. Fraser
     journal: Cell
     volume: 7
     links:
       PDF Full Text: Amit2011.pdf
       Supporting Information: Amit2011supp.pdf
+  
   - title: >
       Effect of promoter architecture on the cell-to-cell variability in
       gene expression
     author: > 
       Alvaro Sanchez, Hernan G. Garcia, Daniel Jones, Rob Phillips, and Jané
-      Kondev.
+      Kondev
     journal: PLoS Computational Biology
     volume: 7
     links:
       PDF Full Text: Sanchez2011.pdf
       Supporting Information: Sanchez2011supp.pdf
+  
   - title: Thermodynamics of biological processes
     author: > 
       Hernan G. Garcia, Jané Kondev, Nigel ORme, Julie A. Theriot, and Rob
-      Phillips.
+      Phillips
     journal: Methods in Enzymology
     volume: 492
     links:
@@ -393,19 +421,19 @@
 
 2010:
   - title: >
-      Transcription by the numberss redux: experiments and calculations
+      Transcription by the numbers redux: experiments and calculations
       that surprise
     author: > 
       Hernan G. Garcia, Alvaro Sanchez, Thomas Kuhlman, Jané Kondev, and Rob
       Phillips.
-    journal: Trends in Cell BIology
+    journal: Trends in Cell Biology
     volume: 20
     links:
       PDF Full Text: Garcia2010.pdf
 
 2009:
   - title: >
-      First Principles Calculation of DNA looping in tethered particle
+      First principles calculation of DNA looping in tethered particle
       experiments
     author: >
       Kevin B. Towles, John F. Beausang, Hernan G. Garcia, Rob PHillips, and
@@ -414,12 +442,13 @@
     volume: 6
     links:
       PDF Full Text: Towles2009.pdf
+  
   - title: > 
       Concentration and length dependence of DNA looping in transcriptional 
       regulation
     author: > 
       Lin Han, Hernan G. Garcia, Seth BLumberg, Kevin B. Towles, John F.
-      Beausang, Philip C. Nelson, and Rob Phillips.
+      Beausang, Philip C. Nelson, and Rob Phillips
     journal: PLoS One
     volume: 4
     issue: (5)
@@ -428,15 +457,20 @@
       Supporting Information: Han2009supp.pdf
 
 2007:
-  - title: A First Exposure to Statistical Mechanics for Life Scientists
-    author: Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie Theriot, and Rob Phillips.
+  - title: A first exposure to statistical mechanics for life scientists
+    author: Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie Theriot, and Rob Phillips
     journal: arXiv
     volume: 0708.1899v1
     links:
       PDF Full Text: Garcia2007b.pdf
 
-  - title: "Biological consequences of Tightly Bent DNA: The Other Life of a Macromolecular Celebrity"
-    author: Hernan G. Garcia, Paul Grayson, Lin Han, Mandar Inamdar, Jane Kondev, Philip C. Nelson, Rob Phillips, Jonathan Widom, Paul A. Wiggins
+  - title: >
+      Biological consequences of tightly bent DNA: 
+      The other life of a macromolecular celebrity
+    author: >
+      Hernan G. Garcia, Paul Grayson, Lin Han, Mandar Inamdar, 
+      Jane Kondev, Philip C. Nelson, Rob Phillips, Jonathan Widom, 
+      and Paul A. Wiggins
     journal: Biopolymers
     volume: 85
     issue: (2) 
@@ -444,16 +478,21 @@
       PDF full text: Garcia2007a.pdf
 
 2005:
-  - title: "Transcriptional Regulation by the Numbers 2: Applications"
-    author: Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, Ulrich Gerland, Terence Hwa, Jane Kondev, Thomas Kuhlman, Rob Phillips
+  - title: "Transcriptional regulation by the numbers 2: Applications"
+    author: >
+      Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, 
+      Ulrich Gerland, Terence Hwa, Jane Kondev, Thomas Kuhlman, 
+      and Rob Phillips
     journal: Current Opinion in Genetics and Development
     volume: 15
     issue: (2)
     links:
       PDF full text: Bintu2005b.pdf
 
-  - title: "Transcriptional Regulation by the Numbers 1: Models"
-    author: "Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, Ulrich Gerland, Terence Hwa, Jane Kondev, Rob Phillips"  
+  - title: "Transcriptional regulation by the numbers 1: Models"
+    author: >
+      Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, 
+      Ulrich Gerland, Terence Hwa, Jane Kondev, and Rob Phillips  
     journal: Current Opinion in Genetics and Development
     volume: 15
     issue: (2)
