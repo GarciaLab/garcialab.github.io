@@ -40,14 +40,14 @@ Lighting Up the Central Dogma in Embryonic Development:
             Transcriptional Bursts in Living Drosophila Embryos
           link: "https://www.pnas.org/content/111/29/10598.short"
     
-    - title: Lighting up the transcription cycle using inference methods
+    - title: Lighting up the transcription cycle using computational methods
       counter: B
       video_url: >
         https://drive.google.com/file/d/1rY_GcIRCHyNX2PFeiE8NF7v_5t0UJAPX/preview
       video_desc: Active (green) and inactive (red) transcribing nuclei computationally identified using a Hidden Markov Model.
       desc: > 
-        We employ powerful computational methods to extract information about
-        the transcription cycle from MS2 data such as bursting kinetics and
+        We employ powerful computational inference methods to extract information about
+        the transcription cycle from our experimental MS2 data such as bursting kinetics and
         RNAP elongation rates.
       pubs:
         - author_year: Lammers et. al. (2020)
