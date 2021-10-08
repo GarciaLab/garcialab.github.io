@@ -19,9 +19,9 @@ Lighting Up the Central Dogma in Embryonic Development:
     - title: Lighting up transcriptional dynamics using MS2
       counter: A
       video_url: >
-        https://drive.google.com/file/d/1AsbiyWOpAaJZixmJ7cvFrkjoueO6pX4p/preview
+        https://drive.google.com/file/d/10YZW2oD5isuMSd5GYSV3RpokVjbLwgdj/preview
       video_desc:
-        A developing Drosophila embryo with labeled nuclei (red) and nascent eveBAC MS2 stem loops (green).
+        A developing <i>Drosophila</i> embryo with labeled nuclei (red) and nascent <i>eveBAC</i> MS2 stem loops (green).
       desc: >
         We have pioneered the MS2/MCP technology in developing fruit fly
         embryos, which allows for live-cell imaging of nascent RNA
@@ -37,11 +37,12 @@ Lighting Up the Central Dogma in Embryonic Development:
             Dynamic Regulation of Eve Stripe 2 Expression Reveals
             Transcriptional Bursts in Living Drosophila Embryos
           link: "https://www.pnas.org/content/111/29/10598.short"
+    
     - title: Lighting up the transcription cycle using inference methods
       counter: B
       video_url: >
-        https://drive.google.com/file/d/1lsZODBgt0rynhIqMzRbH96EcGqt9V-NM/preview
-      video_desc: Computationally identified active (green) and inactive (red) transcribing nuclei using a Hidden Markov Model.
+        https://drive.google.com/file/d/1rY_GcIRCHyNX2PFeiE8NF7v_5t0UJAPX/preview
+      video_desc: Active (green) and inactive (red) transcribing nuclei c omputationally identified using a Hidden Markov Model.
       desc: > 
         We employ powerful computational methods to extract information about
         the transcription cycle from MS2 data such as bursting kinetics and
@@ -56,13 +57,14 @@ Lighting Up the Central Dogma in Embryonic Development:
         - author_year: Liu et. al. (2020)
           title: Single-cell characterization of the eukaryotic transcription cycle using live imaging and statistical inference
           link: "https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3"
+    
     - title: Lighting up transcription factor dynamics using LlamaTags
       counter: C 
       video_url: >
-        https://drive.google.com/file/d/1n9Qlt_RX6ZKFMYPJZ1cYYAYadctSJAQJ/preview
+        https://drive.google.com/file/d/1wngzhCWF73PSQI5BV9g_4jMvuZVWK7py/preview
       video_desc:
-        A developing Drosophila embryo with llama-tag-labeled protein (green) and 
-        the corresponding mRNA transcript (red).
+        A developing Drosophila embryo with MS2-tagged nascent mRNA transcripts (red) and 
+        LlamaTag-labeled protein (green) of the transcription factor <i>fushi tarazu</i> (<i>ftz</i>).
       desc: > 
         Slowly maturing fluorescent fusions are insufficient to reveal
         transcription factor concentration dynamics in development. To
@@ -74,11 +76,16 @@ Lighting Up the Central Dogma in Embryonic Development:
         - author_year: Bothma et. al. (2018)
           title: "LlamaTags: A Versatile Tool to Image Transcription Factor Dynamics in Live Embryos"
           link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Bothma2018.pdf"
+    
     - title: Lighting up transcription factor binding dynamics
       counter: D 
-      image: single_bicoid_image.png
+      video_url: >
+        https://drive.google.com/file/d/1ejk_hA3vvS9Er_1AJcsFrXfVnP_XFPvv/preview
+      video_desc: >
+        Individual molecules of the maternal activator Bicoid bind in the nuclei of a developing </i>Drosophila</i> embryo. 
+        Movie taken on a lattice light sheet microscope.
       desc: > 
-        Using cutting-edge lattice light microscopy (with <a href="https://www.tjian-darzacq.mcb.berkeley.edu/"> Xavier Darzacq</a>, UC
+        Using cutting-edge lattice light sheet microscopy (with <a href="https://www.tjian-darzacq.mcb.berkeley.edu/"> Xavier Darzacq</a>, UC
         Berkeley), we have demonstrated the detection of the binding of
         individual activator molecules to the DNA in living embryos, and have
         discovered localized “hubs” of enriched binding throughout the
