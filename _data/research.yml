@@ -44,7 +44,9 @@ Lighting Up the Central Dogma in Embryonic Development:
       counter: B
       video_url: >
         https://drive.google.com/file/d/1rY_GcIRCHyNX2PFeiE8NF7v_5t0UJAPX/preview
-      video_desc: Active (green) and inactive (red) transcribing nuclei computationally identified using a Hidden Markov Model.
+      video_desc: >
+        Active (green) and inactive (red) nuclei transcribing <i>even-skipped</i> (<i>eve</i>) stripe 2
+        computationally identified using a Hidden Markov Model.
       desc: > 
         We employ powerful computational inference methods to extract information about
         the transcription cycle from our experimental MS2 data such as bursting kinetics and
