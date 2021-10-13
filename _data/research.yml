@@ -100,7 +100,7 @@ Lighting Up the Central Dogma in Embryonic Development:
           link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Mir2017.pdf"
 
 Lighting Up The Central Dogma Beyond Flies:
-  image: beyond_flies.png
+  image: lighting_up_beyond_flies.png
   description: > 
         Although we develop much of our technology in the context of the
         fruit fly embryo, we are implementing these tools in other
@@ -111,7 +111,15 @@ Lighting Up The Central Dogma Beyond Flies:
         href="https://www.stowers.org/faculty/krumlauf-lab">Robb
         Krumlauf</a>, Stowers Institute), and <i>C. elegans</i> (with <a
         href="http://mcb.berkeley.edu/labs/meyer/">Barbara Meyer</a>, UC
-        Berkeley).
+        Berkeley). <br/> <br/>
+        <i>Image: (left) A tobacco leaf epidermal cell expressing BFP-tagged 
+        histones and nascent mRNA transcripts from two reporter constructs 
+        tagged with PP7 (magenta, closed arrowhead) or MS2 (green, open arrowhead). <br/>
+        (center) A zebrafish embryo expressing mKate-tagged histones (magenta) and 
+        MS2-tagged her1 transcripts (green). Note the movement of her1-expressing cells
+        within the presomitic mesoderm as embryogenesis progresses. <br/>
+        (right) A C. elegans embryo expressing nascent mRNA transcripts labelled with 
+        MS2 stem loops (green arrows point to a subset of MS2 puncta). </i> 
   pubs:
     - author_year: Alamos et. al. (2021)
       title:  Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
