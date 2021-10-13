@@ -123,7 +123,8 @@ Lighting Up The Central Dogma Beyond Flies:
   pubs:
     - author_year: Alamos et. al. (2021)
       title:  Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
-      link: "https://doi.org/10.1038/s41477-021-00976-0"
+      link: >
+        https://doi.org/10.1038/s41477-021-00976-0 <br/><br/>
          
   
 
