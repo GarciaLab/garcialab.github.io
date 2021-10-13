@@ -113,9 +113,9 @@ Lighting Up The Central Dogma Beyond Flies:
         href="http://mcb.berkeley.edu/labs/meyer/">Barbara Meyer</a>, UC
         Berkeley).
   pubs:
-    - author_year: Alamos et. al. (2020)
+    - author_year: Alamos et. al. (2021)
       title:  Quantitative imaging of RNA polymerase II activity in plants reveals the single-cell basis of tissue-wide transcriptional dynamics
-      link: "https://www.biorxiv.org/content/10.1101/2020.08.30.274621v1"
+      link: "https://doi.org/10.1038/s41477-021-00976-0"
          
   
 
@@ -145,6 +145,12 @@ Physical Biology of Living Embryos:
         - author_year: Garcia et. al. (2016)
           title: Using synthetic biology to make cells tomorrow’s test tubes
           link: "https://mcb.berkeley.edu/labs/garcia/sites/mcb.berkeley.edu.labs.garcia/files/publications/Garcia2016_0.pdf"
+        - author_year: Reimer et. al. (2021)
+          title: Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
+          link: "https://doi.org/10.1101/2021.07.10.451524"
+        - author_year: Kim et. al. (2021)
+          title: Predictive modeling reveals that higher-order cooperativity drives transcriptional repression in a synthetic developmental
+          link: "https://doi.org/10.1101/2021.07.28.454075"
     - title: Regulation of DNA accessibility 
       image: zelda_accessibility.png
       desc: > 
