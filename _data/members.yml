@@ -25,19 +25,22 @@
   background: >
       Physics Graduate Student<br/>
       BS Physics, California Institute of Technology
+  email: ybadal
 
 - avatar: AnmolDesai.png
   name: Anmol Desai
   caste: undergrad
   background: >
       Physics Undergraduate Student
+  email: adesai
 
 - avatar: liz.jpg 
   name: Elizabeth Eck 
   caste: grad
   background: >
       NSF Biophysics Fellow<br/>
-      BS Physics and Biology, UC Santa Barbara 
+      BS Physics and Biology, UC Santa Barbara
+  email: eeck
 
 - avatar: juliaFaloSanjuan.jpg
   name: Julia Falo-Sanjuan
@@ -46,6 +49,7 @@
       EMBO/HFSP Postdoctoral Fellow<br/>
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
+  email: jfalo
   
 - avatar: laura.JPG
   name: Laura Fantone
@@ -53,6 +57,7 @@
   background: >
       Lab Manager<br/>
       PhD City University of New York
+  email: lfantone
 
 - avatar: KahminaFord.jpeg
   name: Kahmina Ford
@@ -60,6 +65,7 @@
   background: >
       Biophysics Rotation Student <br/>
       BS Physics (Biophysics Specialization), Central Washington University
+  email: kahminaford4
   
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
@@ -76,6 +82,7 @@
   background: >
       Physics Rotation Student<br/>
       BS Physics, Georgia Tech
+  email: nick_gravina
       
 - avatar: armanKarshenas.jpg
   name: Arman Karshenas
@@ -84,6 +91,7 @@
       Biophysics Rotation Student<br/>
       MPhil Genetics, University of Cambridge<br/>
       BA Electrical and Control Engineering, University of Oxford
+  email: arman_karshenas
       
 - avatar: yang.jpeg
   name: Yang Joon Kim
@@ -91,6 +99,7 @@
   background: >
       KFAS Biophysics Graduate Fellow<br/>
       BS Physics, Postech, South Korea
+  email: yjkim90
 
 - avatar: yasemin.jpg
   name: Yasemin Kiriscioglu
@@ -98,6 +107,7 @@
   background: >
     Physics Graduate Student<br/>
     BA in Physics & Mathematics, Harvard University
+  email: ykiriscioglu
 
 - avatar: nick.jpg
   name: Nicholas Lammers
@@ -105,6 +115,7 @@
   background: >
       Biophysics Graduate Student<br/>
       BA Physics and Philosophy, Colorado College
+  email: nlammers
 
 - avatar: gabriella.jpg
   name: Gabriella Martini
@@ -112,6 +123,7 @@
   background: >
       NSF Molecular & Cell Biology Graduate Fellow<br/>
       BS Physics, MIT
+  email: martini
 
 - avatar: bruno.jpg
   name: Bruno Moretti
@@ -119,6 +131,7 @@
   background: >
     CZ Biohub Collaborative Postdoctoral Fellow <br/>
     BS, PhD Physics, Univ. of Buenos Aires
+  email: bmoretti
 
 - avatar: AshmitaReddy.jpg
   name: Ashmita Reddy
@@ -126,12 +139,14 @@
   background: >
       Molecular and Cell Biology <br/>
       Undergraduate Student
+  email: ashmita.reddy
 
 - avatar: kaitlin.jpg
   name: Kaitlin Rhee
   caste: undergrad
   background: >
       Physics Undergraduate Student
+  email: krhee
 
 - avatar: brandonschlo.jpg
   name: Brandon Schlomann
@@ -139,6 +154,7 @@
   background: > 
     James S. McDonnell Postdoctoral Fellow<br/>
     PhD Physics, University of Oregon
+  email: bschloma
 
 - avatar: pranjal.jpg
   name: Pranjal Srivastava
@@ -146,6 +162,7 @@
   background: > 
     Chemical Biology and Applied Math<br/>
     UC Berkeley Undergraduate Student
+  email: pranjal.s
 
 - avatar: meghan.jpg
   name: Meghan Turner
@@ -153,6 +170,7 @@
   background: > 
       NSF Biophysics Graduate Fellow<br/>
       BS Biochemistry and Applied Math, University of Wisconsin-Madison
+  email: meghan_turner
 
 - avatar: jakezhao.jpg
   name: Jiaxi (Jake) Zhao 
@@ -160,3 +178,4 @@
   background: > 
       Physics Graduate Student<br/>
       BS in Physics, Tsinghua University, China
+  email: jiaxi.zhao
