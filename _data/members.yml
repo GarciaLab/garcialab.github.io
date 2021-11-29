@@ -58,14 +58,6 @@
       Lab Manager<br/>
       PhD City University of New York
   email: lfantone
-
-- avatar: KahminaFord.jpeg
-  name: Kahmina Ford
-  caste: rotation
-  background: >
-      Biophysics Rotation Student <br/>
-      BS Physics (Biophysics Specialization), Central Washington University
-  email: kahminaford4
   
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
@@ -83,15 +75,6 @@
       Physics Rotation Student<br/>
       BS Physics, Georgia Tech
   email: nick_gravina
-      
-- avatar: armanKarshenas.jpg
-  name: Arman Karshenas
-  caste: rotation
-  background: >
-      Biophysics Rotation Student<br/>
-      MPhil Genetics, University of Cambridge<br/>
-      BA Electrical and Control Engineering, University of Oxford
-  email: arman_karshenas
       
 - avatar: yang.jpeg
   name: Yang Joon Kim
@@ -125,6 +108,14 @@
       BS Physics, MIT
   email: martini
 
+- avatar: JoeyMcKenna.jpg
+  name: Joey McKenna
+  caste: rotation
+  background: >
+      Molecular and Cell Biology Rotation Student<br/>
+      BA Molecular and Cellular Biology, UC Berkeley
+  email: jkmckenna
+  
 - avatar: bruno.jpg
   name: Bruno Moretti
   caste: postdoc
