@@ -41,7 +41,30 @@
       DOI: "https://doi.org/10.1038/s41477-021-00976-0"
       PDF full text: "Alamos2021.pdf"
       Supporting Information: "Alamos2021supp.pdf"
-      Commentary: "AbleyLocke2021NaturePlantsCommentary.pdf"
+    commentary: 
+      - title: >
+          Noisy transcription under the spotlight
+        type: News and Views
+        author: Katey Abley and James C.W. Locke
+        journal: Nature Plants
+        volume: 7
+        issue: 996
+        year: 2021
+        links:
+          DOI: "https://doi.org/10.1038/s41477-021-00987-x"
+          PDF full text: "AbleyLocke2021NaturePlantsCommentary.pdf"
+      - title: >
+          Real time quantitative imaging of transcriptional activity
+          at the single cell level
+        type: Highlighted
+        author: Tatsuya Nobori
+        blog: 
+          name: Plantae
+          link: "https://plantae.org/"
+        year: 2020
+        links:
+          Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
+          Article Snapshot: "NoboriPlantae2020snapshot.pdf"
   
   - title: >
       Minimal synthetic enhancers reveal control of the probability of 
