@@ -58,9 +58,8 @@
           at the single cell level
         type: Highlighted
         author: Tatsuya Nobori
-        blog: 
-          name: Plantae
-          link: "https://plantae.org/"
+        blog: Plantae
+        webpage: "https://plantae.org/"
         year: 2020
         links:
           Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
