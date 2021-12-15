@@ -1,0 +1,18 @@
+- person:
+  name: Hernan Garcia
+  email: hggarcia@berkeley.edu 
+  role: Instructor
+  img: hernan.jpg
+  office_hours: Wednesdays 3pm - 4pm
+- person:
+  name: Yasemin Kiriscioglu
+  email: ykiriscioglu@berkeley.edu
+  role: GSI
+  img: yang.jpeg
+  office_hours: Fridays 12pm - 1pm
+- person:
+  name: Dusyant (Yovan) Badal
+  email: ybadal@berkeley.edu
+  role: GSI
+  img: jakezhao.jpg
+  office_hours: Fridays 1pm - 2pm
