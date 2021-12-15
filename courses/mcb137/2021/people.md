@@ -4,7 +4,7 @@
 
 
 **Course GSI:** Yasemin Kiriscioglu (ykiriscioglu@berkeley.edu, Office hours: Fridays
-*12:00 pm to 12:59 pm, & Yovan Badal (ybadal@berkeley.edu, Office hours:
+*12:00 pm to 12:59 pm, & Dushyant (Yovan) Badal (ybadal@berkeley.edu, Office hours:
 *Fridays 1:00 pm to 1:59 pm).
 
 
