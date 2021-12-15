@@ -85,16 +85,16 @@ people:
     img: hernan.jpg
     office_hours: Wednesdays 3pm - 4pm
   - person:
-    name: YangJoon Kim
-    email: yjkim90@berkeley.edu
+    name: Yasemin Kiriscioglu
+    email: ykiriscioglu@berkeley.edu
     role: GSI
-    img: yang.jpeg
+    img: yasemin.jpeg
     office_hours: Wednesdays 11pm - 12pm
   - person:
-    name: Jiaxi (Jake) Zhao
-    email: jiaxi.zhao@berkeley.edu
+    name: Dushyant (Yovan) Badal
+    email: ybadal@berkeley.edu
     role: GSI
-    img: jakezhao.jpg
+    img: yovanbadal.jpg
     office_hours: Wednesdays 11pm - 12pm
 
 Homework:
