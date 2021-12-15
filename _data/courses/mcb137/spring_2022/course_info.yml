@@ -98,7 +98,9 @@ people:
     office_hours: Wednesdays 11pm - 12pm
     
 Piazza:
-https://piazza.com/class/kx7v9ujrmff7cy
+  - set:
+    link: https://piazza.com/class/kx7v9ujrmff7cy
+
 
 Homework:
   - set:
