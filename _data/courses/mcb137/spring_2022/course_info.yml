@@ -109,7 +109,7 @@ Homework:
     solutions: 
       - name: Homework 1 Solutions
         type: protected
-        link: hw1_solns.pdf
+    #    link: hw1_solns.pdf
   - set:
     title: Homework 2
     link: MCB137+237-HW2-2020.pdf
@@ -126,7 +126,7 @@ Homework:
     solutions: 
       - name: Homework 2 Solutions 
         type: protected
-        link: hw2_solns.pdf
+     #   link: hw2_solns.pdf
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2020.pdf 
@@ -137,7 +137,7 @@ Homework:
         link: h3_solns.pdf
       - name: Python Code
         type: external
-        link: "https://drive.google.com/file/d/1_ncoLP1Vx3vWaxgbQB2RICG_Bo9RKjjs/view?usp=sharing"
+       # link: "https://drive.google.com/file/d/1_ncoLP1Vx3vWaxgbQB2RICG_Bo9RKjjs/view?usp=sharing"
   - set:
     title: Estimate Paragraph
     due: "2/13 at 3:30 PM"
@@ -156,10 +156,10 @@ Homework:
         link:
       - name: Python Code, Problem 2
         type: external 
-        link: "https://colab.research.google.com/drive/19FsGno7a0IC7wQIQbNGu1j1h9Pb_isp8?usp=sharing" 
+      #  link: "https://colab.research.google.com/drive/19FsGno7a0IC7wQIQbNGu1j1h9Pb_isp8?usp=sharing" 
       - name: Python Code, Problem 5
         type: external
-        link: "https://colab.research.google.com/drive/15ujgvsaMFevKvysIpdf0Wku4YS_63r6a?usp=sharing"
+     #   link: "https://colab.research.google.com/drive/15ujgvsaMFevKvysIpdf0Wku4YS_63r6a?usp=sharing"
   - set:
     name: First Estimate
     due: "2/27 at 3:30 PM"
@@ -180,10 +180,10 @@ Homework:
         link:
       - name: Python Code, Problem 1
         type: external
-        link: "https://colab.research.google.com/drive/1RQyQKLz9gbO5Ois5RMZKZr7sqwyvTsnk?usp=sharing"
+      #  link: "https://colab.research.google.com/drive/1RQyQKLz9gbO5Ois5RMZKZr7sqwyvTsnk?usp=sharing"
       - name: Python Code, Problem 2
         type: external
-        link: "https://colab.research.google.com/drive/1Iw0BluJK1G_tG_QFn6Aam6G6uFle-0Pr?usp=sharing"
+      #  link: "https://colab.research.google.com/drive/1Iw0BluJK1G_tG_QFn6Aam6G6uFle-0Pr?usp=sharing"
   - set: 
     title: Homework 6
     link: MCB137+237-HW6-2020.pdf
@@ -204,13 +204,13 @@ Homework:
         link: 
       - name: Python code, problem 1
         type: external
-        link: "https://colab.research.google.com/drive/1TbmwHQ5zlQXKfnoEUVfCQjVw-uzO6r03?usp=sharing"
+     #   link: "https://colab.research.google.com/drive/1TbmwHQ5zlQXKfnoEUVfCQjVw-uzO6r03?usp=sharing"
       - name: Python code, problem 2
         type: external
-        link: "https://colab.research.google.com/drive/18r9jFOjeGG2-nlNmOPSwQPbczQZPhr4x?usp=sharing"
+    #    link: "https://colab.research.google.com/drive/18r9jFOjeGG2-nlNmOPSwQPbczQZPhr4x?usp=sharing"
       - name: Python code, problem 3
         type: external
-        link: "https://colab.research.google.com/drive/1duKVCJxatuXzJgc_qW55cOxyU-LEE0ER?usp=sharing"
+    #    link: "https://colab.research.google.com/drive/1duKVCJxatuXzJgc_qW55cOxyU-LEE0ER?usp=sharing"
   - set:
     title: Homework 7
     link: MCB137+237-HW7-2020.pdf
@@ -225,7 +225,7 @@ Homework:
         link: 
       - name: Python Code, Problem 2
         type: external
-        link: "https://colab.research.google.com/drive/1CJlxJZ8zA-cVg_9VK3qLprBpBgAHTf5_?usp=sharing"
+      #  link: "https://colab.research.google.com/drive/1CJlxJZ8zA-cVg_9VK3qLprBpBgAHTf5_?usp=sharing"
   - set:
     title: Homework 8
     link: MCB137+237-HW8-2020.pdf
@@ -243,13 +243,13 @@ Homework:
         link: 
       - name: Python Code, Problem 2
         type: external
-        link: "https://colab.research.google.com/drive/1oJsBn1LsLCvJJdJfOulK05RsGUrwjOLv?usp=sharing"
+     #   link: "https://colab.research.google.com/drive/1oJsBn1LsLCvJJdJfOulK05RsGUrwjOLv?usp=sharing"
       - name: Python Code, Problem 4
         type: external
-        link: "https://colab.research.google.com/drive/145hiYqTdj9kICskcWNj_YnbEuL_QHeXz?usp=sharing"
+     #   link: "https://colab.research.google.com/drive/145hiYqTdj9kICskcWNj_YnbEuL_QHeXz?usp=sharing"
       - name: Python Code, Problem 5
         type: external
-        link: "https://drive.google.com/file/d/1Rr1VnX_YHvue6MmTk2J__nhMnDAvvwEG/view?usp=sharing"
+     #   link: "https://drive.google.com/file/d/1Rr1VnX_YHvue6MmTk2J__nhMnDAvvwEG/view?usp=sharing"
   - set: 
     title: Homework 9
     due: "4/16 at 3:30 PM"
@@ -269,16 +269,16 @@ Homework:
         link: Garcia2011c.pdf
       - name: Simple repression data 
         type: external
-        link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
+   #     link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
     solutions: 
       - name: Homework 9 solutions
         type: protected
       - name: Python Code, Problem 2
         type: external
-        link: "https://drive.google.com/file/d/1N6-iwGOIZ2qAM03-rpQqKt4COP2A8-wV/view?usp=sharing"
+   #     link: "https://drive.google.com/file/d/1N6-iwGOIZ2qAM03-rpQqKt4COP2A8-wV/view?usp=sharing"
       - name: Python Code, Problem 3
         type: external
-        link: "https://colab.research.google.com/drive/18OWiCd1gVdqXmXvFeKkUK3dru2XO4RHD?usp=sharing"
+   #     link: "https://colab.research.google.com/drive/18OWiCd1gVdqXmXvFeKkUK3dru2XO4RHD?usp=sharing"
   - set:
     title: Homework 10
     due: "4/23 at 3:30 PM"
@@ -288,13 +288,13 @@ Homework:
         type: protected
       - name: Python Code, Problem 1
         type: external
-        link: "https://colab.research.google.com/drive/1UVBYwjNjwWZsLvcqsM0UWFAvx6hJzwAa?usp=sharing"
+   #     link: "https://colab.research.google.com/drive/1UVBYwjNjwWZsLvcqsM0UWFAvx6hJzwAa?usp=sharing"
       - name: Python Code, Problem 3
         type: external
-        link: "https://colab.research.google.com/drive/1zSov3yUPKJRT7LV6CbPKo9JrP-x3h3Hz?usp=sharing"
+   #     link: "https://colab.research.google.com/drive/1zSov3yUPKJRT7LV6CbPKo9JrP-x3h3Hz?usp=sharing"
       - name: Python Code, Problem 4
         type: external
-        link: "https://colab.research.google.com/drive/1Gd04B--O7p0OfxYgtfaGgzl4rF4f9-V7?usp=sharing"
+   #     link: "https://colab.research.google.com/drive/1Gd04B--O7p0OfxYgtfaGgzl4rF4f9-V7?usp=sharing"
 
 syllabus:
   - entry:
