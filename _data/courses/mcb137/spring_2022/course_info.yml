@@ -58,10 +58,11 @@ policies: >
   <b>Homework assignments</b><br/>
   Homeworks are due at the beginning of class one week after they are posted.
   <br/>
-  Homeworks should be submitted through GradeScope (link) to the GSIs in PDF
-  form. Any other form of homework submission will not be accepted. No late
+  Homeworks should be submitted through GradeScope (https://www.gradescope.com/courses/340644)
+  to the GSIs in PDF form. Any other form of homework submission will not be accepted. No late
   homeworks. Time management is key. Start to work on your homework assignments
-  early and make use of office hours and our availability over Piazza.
+  early and make use of office hours and our availability over Piazza 
+  (https://piazza.com/class/kx7v9ujrmff7cy).
   <br/>
   It is important to describe your reasoning. Just writing an equation or
   drawing a plot does not constitute a satisfactory answer to a homework
@@ -76,6 +77,7 @@ policies: >
   reserve the right to regrade all the answers it that homework assignment.
   Your two worst scoring homeworks will not be considered for the final
   grade. We do not grade on a curve(distribution) or anything like that. 
+  
   
 people:
   - person:
@@ -99,19 +101,7 @@ people:
     
 
 
-Assignments:
-  - set:
-    title: Piazza
-    link: https://piazza.com/class/kx7v9ujrmff7cy
-    due: 
-    materials:
-      - name: 
-        type:
-        link:
-    solutions: 
-      - name: 
-        type: 
-        link: 
+Homework:
     
   - set:
     title: Homework 1
