@@ -4,10 +4,10 @@ title: MCB137/237 Spring 2022
 tagline: Physical Biology of the Cell
 course_id: mcb137
 term: spring
-year: 2020
+year: 2022
 header_img: teaching.jpg
 ---
-{% assign data_file = site.data.courses.mcb137.spring_2020 %}
+{% assign data_file = site.data.courses.mcb137.spring_2022 %}
 
 
 <div class='full'>
