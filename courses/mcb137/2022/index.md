@@ -7,7 +7,7 @@ term: spring
 year: 2022
 header_img: teaching.jpg
 ---
-{% assign data_file = site._data.courses.mcb137.spring_2022 %}
+{% assign data_file = site.data.courses.mcb137.spring_2022 %}
 
 
 <div class='full'>
