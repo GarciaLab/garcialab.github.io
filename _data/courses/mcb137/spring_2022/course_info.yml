@@ -97,12 +97,22 @@ people:
     img: yovanbadal.jpg
     office_hours: Wednesdays 11pm - 12pm
     
-Piazza:
+
+
+Assignments:
   - set:
+    title: Piazza
     link: https://piazza.com/class/kx7v9ujrmff7cy
-
-
-Homework:
+    due: 
+    materials:
+      - name: 
+        type:
+        link:
+    solutions: 
+      - name: 
+        type: 
+        link: 
+    
   - set:
     title: Homework 1
     link: MCB137+237-HW1-2020.pdf
