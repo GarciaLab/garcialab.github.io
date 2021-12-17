@@ -256,6 +256,7 @@
     links:
       DOI: "https://doi.org/10.1007/978-1-4939-8591-3_32"
       PDF Full Text: Mir2018.pdf
+      
   - title: Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis
     author: >
       Vincent Bourdreau, James Hazel, Jake Sellinger, Pan Chen, Kathryn Manakova, 
@@ -277,6 +278,25 @@
     links:
       PDF full text: Bothma2018.pdf
       SI Movies: "Bothma2018.avi"
+    commentary: 
+      - title: >
+          Ready, Set, Glow
+        type: Highlighted
+        author: Ruth Williams
+        blog: The Scientist
+        webpage: "https://www.the-scientist.com/"
+        year: 2018
+        links:
+          Article Link: "https://www.the-scientist.com/modus-operandi/ready--set--glow-64545"
+      - title:
+        type: Recommended
+        author: Adrienne Roeder and Mingyuan Zhu
+        blog: F1000Prime
+        webpage: "https://facultyopinions.com/"
+        year: 2018
+        links:
+          DOI: "https://doi.org/10.3410/f.733205368.793548141"
+      
   - title: Live imaging of mRNA synthesis in <i>Drosophila</i>
     author: Hernan G. Garcia and Thomas Gregor
     journal: "RNA Detection: Methods in Molecular Biology"
