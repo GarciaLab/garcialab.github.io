@@ -457,18 +457,14 @@
         volume: 23
         issue: ":R965"
         year: 2013
-        links:
-          PDF full text: "BothmaLevine2013CurrBiolCommentary.pdf"
       - title: >
           Seeing the pattern
         type: Highlighted
         author: Isabel Lokody
         journal: Nature Review Genetics
         volume: 14
-        issue: , 823
+        issue: ", 823"
         year: 2013
-        links:
-          PDF full text: "Lokody2013NatRevGeneCommentary.pdf"
       - title: >
           Measuring transcription to follow embryo development
         type: Highlighted
