@@ -124,7 +124,6 @@
     links:
       DOI: "https://doi.org/10.1016/j.cels.2021.06.002"
       PDF full text: "Belliveau2021.pdf"
-
 2020:
   - title: >
       A matter of time: Using dynamics and theory to uncover mechanisms of
@@ -166,7 +165,6 @@
     volume: 137
     links:
       PDF full text: "Garcia2020.pdf"
-
   - title: Kinetic sculpting of the seven stripes of the <i>Drosophila even-skipped</i> gene
     author: Augusto Berrocal, Nicholas Lammers, Hernan G. Garcia, and Michael Eisen
     journal: eLife
@@ -188,7 +186,6 @@
       DOI: "https://doi.org/10.1073/PNAS.1912500117"
       PDF full text: "Lammers2020.pdf"
       Supporting Information: "Lammers2020supp.pdf"
-
 2019: 
   - title: >
       Enhancer priming enables fast and sustained transcriptional responses to
@@ -200,19 +197,6 @@
     links:
       DOI: "https://doi.org/10.1016/j.devcel.2019.07.002"
       PDF Full Text: Falo-Sanjuan2019.pdf
-    commentary: 
-      - title: >
-          Bursting the notch bubble: New insights into in vivo transcriptional dynamics
-        type: Highlighted
-        author: Caroline Vissers and Ryoichiro Kageyama
-        journal: Dev Cell
-        volume: 50
-        issue: :393
-        year: 2019
-        links:
-          DOI: "https://doi.org/10.1016/j.devcel.2019.07.028"
-          PDF full text: "VisserKageyama2019DevCellCommentary.pdf"
-
   - title: Figure 1 theory meets Figure 2 experiments in the study of gene expression
     author: >
       Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, 
@@ -235,18 +219,6 @@
     links:
       DOI: "https://doi.org/10.1016/j.cub.2019.03.019"
       PDF Full Text: Yamada2019.pdf
-    commentary: 
-      - title: >
-          Gene regulation: Analog to digital conversion of transcription factor gradients
-        type: Highlighted
-        author: Dimitrios Papadopoulos and Pavel Tomancak
-        journal: Current Biology
-        volume: 29
-        issue: :R403
-        year: 2019
-        links:
-          DOI: "https://doi.org/10.1016/j.cub.2019.04.052"
-          PDF full text: "PapadopoulosTomancak2019CurrBiolCommentary.pdf"
  
 
 2018: 
@@ -260,7 +232,6 @@
     links:
       DOI: "https://doi.org/10.1007/978-1-4939-8591-3_32"
       PDF Full Text: Mir2018.pdf
-
   - title: Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis
     author: >
       Vincent Bourdreau, James Hazel, Jake Sellinger, Pan Chen, Kathryn Manakova, 
@@ -282,25 +253,6 @@
     links:
       PDF full text: Bothma2018.pdf
       SI Movies: "Bothma2018.avi"
-    commentary: 
-      - title: >
-          Ready, Set, Glow
-        type: Highlighted
-        author: Ruth Williams
-        blog: The Scientist
-        webpage: "https://www.the-scientist.com/"
-        year: 2018
-        links:
-          Article Link: "https://www.the-scientist.com/modus-operandi/ready--set--glow-64545"
-      - title: >
-        type: Recommended
-        author: Adrienne Roeder and Mingyuan Zhu
-        blog: F1000Prime
-        webpage: "https://facultyopinions.com/"
-        year: 2018
-        links:
-          DOI: "https://doi.org/10.3410/f.733205368.793548141"
-
   - title: Live imaging of mRNA synthesis in <i>Drosophila</i>
     author: Hernan G. Garcia and Thomas Gregor
     journal: "RNA Detection: Methods in Molecular Biology"
@@ -341,7 +293,6 @@
     volume: 4e07956
     links:
       PDF Full Text: Bothma2015.pdf
-
 2014:
   - title: >
       The influence of promoter architectures and regulatory motifs 
@@ -356,7 +307,6 @@
       PDF full text: Rydenfelt2014b.pdf
       SI figures: Rydenfelt2014bsupp.pdf
       SI tables: Rydenfelt2014btables.zip
-
   - title: "The embryo as a laboratory: quantifying transcription in <i>Drosophila</i>"
     author: Thomas Gregor, Hernan G. Garcia, and Shawn C. Little
     journal: Trends in Genetics 
@@ -376,7 +326,6 @@
     issue: (29)
     links: 
       PDF full text: Bothma2014.pdf
-
   - title: >
       The transcription factor titration effect dictates level of gene
       expression
@@ -389,30 +338,6 @@
       PDF Full Text: Brewster2014.pdf
       Supporting Information: Brewster2014supp.pdf
       Nature Commentary: Brewster2014NatureMethodsCommentary.pdf
-    commentary: 
-      - title: >
-          Target competition: transcription factors enter the limelight
-        type: Highlighted
-        author: Florian A. Karreth, Yvonne Tay, and Pier Paolo Pandolfi
-        journal: Genome Biology
-        volume: 15
-        issue: :114
-        year: 2014
-        links:
-          DOI: "https://doi.org/10.1186/gb4174"
-          PDF full text: "Karreth2014GenomeBiolCommentary.pdf"
-      - title: >
-          Synthetic biology: Tuning expression by numbers
-        type: Highlighted
-        author: Methods in Brief
-        journal: Nature Methods
-        volume: 11
-        issue: , 475
-        year: 2014
-        links:
-          DOI: "https://doi.org/10.1038/nmeth.2942"
-          PDF full text: "Brewster2014NatMethodsCommentary.pdf"
-
   - title: >
       The transcription factor titration effect: Statistical mechanical model of
       coupled transcription from multiple promoters
@@ -435,7 +360,6 @@
     links:
       PDF Full Text: Figard2013.pdf
       Supporting Information: Figard2013supp.pdf
-
   - title: >
       DNA sequence-dependent mechanics and protein-assisted bending in
       repressor-mediated DNA loop formation
@@ -457,35 +381,6 @@
     links:
       PDF Full Text: Garcia2013.pdf
       Supporting Information: Garcia2013supp.pdf
-    commentary: 
-      - title: >
-          Development: Lights, Camera, Action -- The Drosophila Embryo Goes Live!
-        type: Highlighted
-        author: Jacques Bothma and Michael Levine
-        journal: Current Biology
-        volume: 23
-        issue: :R965
-        year: 2013
-        links:
-          DOI: "https://doi.org/10.1016/j.cub.2013.09.054"
-          PDF full text: "BothmaLevine2013CurrBiolCommentary.pdf"
-      - title: >
-          Seeing the pattern
-        type: Highlighted
-        author: Isabel Lokody
-        journal: Nature Review Genetics
-        volume: 14
-        issue: , 823
-        year: 2013
-        links:
-          DOI: "https://doi.org/10.1038/nrg3619"
-          PDF full text: "Lokody2013NatRevGeneCommentary.pdf"
-      - title: >
-          Measuring transcription to follow embryo development
-        type: Highlighted
-        blog: BioTechniques
-        year: 2013
-
   - title: > 
       Statistical Mechanics of Mnod-Wyman-Changeux (MWC) Models
     author: > 
@@ -495,7 +390,6 @@
     links: 
       PDF Full Text: Marzen2013.pdf
       Supporting Information: Marzen2013supp.pdf
-
   - title: > 
       Theoretical and experimental dissection of DNA loop-mediated repression
     author: James Q. Boedicker*, Hernan G. Garcia*, and Rob Phillips
@@ -504,7 +398,6 @@
     links:
       PDF Full Text: Boedicker2013a.pdf
       Supporting Information: Boedicker2013asupp.pdf
-
 2012:
   - title: >
         Operator sequence alters gene expression independently of
@@ -516,7 +409,6 @@
     volume: 2
     links:
       PDF Full Text: Garcia2012a.pdf
-
 2011:
   - title: >
       Quantitative dissection of the simple repression input-output
@@ -579,7 +471,6 @@
     volume: 20
     links:
       PDF Full Text: Garcia2010.pdf
-
 2009:
   - title: >
       First principles calculation of DNA looping in tethered particle
@@ -604,7 +495,6 @@
     links:
       PDF Full Text: Han2009.pdf
       Supporting Information: Han2009supp.pdf
-
 2007:
   - title: A first exposure to statistical mechanics for life scientists
     author: Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie Theriot, and Rob Phillips
@@ -625,7 +515,6 @@
     issue: (2) 
     links:
       PDF full text: Garcia2007a.pdf
-
 2005:
   - title: "Transcriptional regulation by the numbers 2: Applications"
     author: >
@@ -647,4 +536,3 @@
     issue: (2)
     links: 
       PDF full text: Bintu2005a.pdf
-  
