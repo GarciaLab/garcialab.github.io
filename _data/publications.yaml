@@ -197,6 +197,20 @@
     links:
       DOI: "https://doi.org/10.1016/j.devcel.2019.07.002"
       PDF Full Text: Falo-Sanjuan2019.pdf
+    commentary: 
+      - title: >
+          Bursting the notch bubble: 
+          New insights into in vivo transcriptional dynamics
+        type: Highlighted
+        author: Caroline Vissers and Ryoichiro Kageyama
+        journal: Dev Cell
+        volume: 50
+        issue: ":393"
+        year: 2019
+        links:
+          DOI: "https://doi.org/10.1016/j.devcel.2019.07.028"
+          PDF full text: "VisserKageyama2019DevCellCommentary.pdf"
+      
   - title: Figure 1 theory meets Figure 2 experiments in the study of gene expression
     author: >
       Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan G. Garcia, 
