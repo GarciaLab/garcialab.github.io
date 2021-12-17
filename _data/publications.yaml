@@ -474,10 +474,10 @@
       - title: >
           Measuring transcription to follow embryo development
         type: Highlighted
-        author: Sarah C.P. Williams
-        blog: BioTechniques News
+	author: Sarah C.P. Williams
+	blog: BioTechniques News
 	webpage: "https://www.biotechniques.com/news/"
-        year: 2013
+	year: 2013
       
   - title: > 
       Statistical Mechanics of Mnod-Wyman-Changeux (MWC) Models
