@@ -202,8 +202,7 @@
       PDF Full Text: Falo-Sanjuan2019.pdf
     commentary: 
       - title: >
-          Bursting the notch bubble: 
-          New insights into in vivo transcriptional dynamics
+          Bursting the notch bubble: New insights into in vivo transcriptional dynamics
         type: Highlighted
         author: Caroline Vissers and Ryoichiro Kageyama
         journal: Dev Cell
@@ -238,8 +237,7 @@
       PDF Full Text: Yamada2019.pdf
     commentary: 
       - title: >
-          Gene regulation: 
-          Analog to digital conversion of transcription factor gradients
+          Gene regulation: Analog to digital conversion of transcription factor gradients
         type: Highlighted
         author: Dimitrios Papadopoulos and Pavel Tomancak
         journal: Current Biology
@@ -409,7 +407,7 @@
         author: Methods in Brief
         journal: Nature Methods
         volume: 11
-        issue: :475
+        issue: , 475
         year: 2014
         links:
           DOI: "https://doi.org/10.1038/nmeth.2942"
