@@ -478,8 +478,6 @@
         blog: BioTechniques News
 	webpage: "https://www.biotechniques.com/news/"
         year: 2013
-        links:
-	  Article Snapshot: "Williams2013BioTechniquesCommentary.pdf"
       
   - title: > 
       Statistical Mechanics of Mnod-Wyman-Changeux (MWC) Models
