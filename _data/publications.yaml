@@ -468,6 +468,9 @@
         volume: 14
         issue: ", 823"
         year: 2013
+        links:
+          DOI: "https://doi.org/10.1038/nrg3619"
+          PDF full text: "Lokody2013NatRevGeneCommentary.pdf"
       - title: >
           Measuring transcription to follow embryo development
         type: Highlighted
