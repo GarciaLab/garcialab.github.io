@@ -394,6 +394,16 @@
         year: 2014
         links:
           PDF full text: "Karreth2014GenomeBiolCommentary.pdf"
+      - title: >
+          Synthetic biology: Tuning expression by numbers
+        type: Highlighted
+        author: Methods in Brief
+        journal: Nature Methods
+        volume: 11
+        issue: ", 475"
+        year: 2014
+        links:
+          PDF full text: "Brewster2014NatureMethodsCommentary.pdf"
       
   - title: >
       The transcription factor titration effect: Statistical mechanical model of
