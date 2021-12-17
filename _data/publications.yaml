@@ -351,6 +351,7 @@
       PDF full text: Rydenfelt2014b.pdf
       SI figures: Rydenfelt2014bsupp.pdf
       SI tables: Rydenfelt2014btables.zip
+      
   - title: "The embryo as a laboratory: quantifying transcription in <i>Drosophila</i>"
     author: Thomas Gregor, Hernan G. Garcia, and Shawn C. Little
     journal: Trends in Genetics 
@@ -370,6 +371,7 @@
     issue: (29)
     links: 
       PDF full text: Bothma2014.pdf
+      
   - title: >
       The transcription factor titration effect dictates level of gene
       expression
@@ -381,7 +383,30 @@
     links:
       PDF Full Text: Brewster2014.pdf
       Supporting Information: Brewster2014supp.pdf
-      Nature Commentary: Brewster2014NatureMethodsCommentary.pdf
+    commentary: 
+      - title: >
+          Target competition: transcription factors enter the limelight
+        type: Highlighted
+        author: Florian A. Karreth, Yvonne Tay, and Pier Paolo Pandolfi
+        journal: Genome Biology
+        volume: 15
+        issue: ":114"
+        year: 2014
+        links:
+          DOI: "https://doi.org/10.1186/gb4174"
+          PDF full text: "Karreth2014GenomeBiolCommentary.pdf"
+      - title: >
+          Synthetic biology: Tuning expression by numbers
+        type: Highlighted
+        author: Methods in Brief
+        journal: Nature Methods
+        volume: 11
+        issue: , 475
+        year: 2014
+        links:
+          DOI: "https://doi.org/10.1038/nmeth.2942"
+          PDF full text: "Brewster2014NatureMethodsCommentary.pdf"
+      
   - title: >
       The transcription factor titration effect: Statistical mechanical model of
       coupled transcription from multiple promoters
