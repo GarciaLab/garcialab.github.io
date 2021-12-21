@@ -393,6 +393,7 @@
         issue: ":114"
         year: 2014
         links:
+          DOI: "https://doi.org/10.1186/gb4174"
           PDF full text: "Karreth2014GenomeBiolCommentary.pdf"
       - title: >
           Synthetic biology: Tuning expression by numbers
@@ -403,6 +404,7 @@
         issue: ", 475"
         year: 2014
         links:
+          DOI: "https://doi.org/10.1038/nmeth.2942"
           PDF full text: "Brewster2014NatureMethodsCommentary.pdf"
       
   - title: >
@@ -415,6 +417,8 @@
     volume: 89
     links:
       PDF Full Text: Rydenfelt2014.pdf
+
+
 2013:
   - title: >
       The plasma membrane flattens out to fuel cell surface growth during
