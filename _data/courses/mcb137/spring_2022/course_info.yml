@@ -302,36 +302,38 @@ Homework:
 
 syllabus:
   - entry:
-      date: 1/21
-      topics: > 
-        A feeling for the numbers in biology, Part I.
-        Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
-        discovery in the living world. What sets the scale of things?
-      materials: 
-        - name: "A feeling for the numbers: Powerpoint Presentation" 
-          type: protected
-        - name: >
-            Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
-            Next Physics, Only Better (Cohen 2004)
-          type: paper
-          link: Cohen2004.pdf
-        - name: >  
-            Theory in Biology: Fiture 1 or Figure 7? (Phillips 2015)
-          type: paper
-          link: Phillips2015.pdf 
-        - name: Distribution of biomass on Earth (Bar-On 2018)
-          type: paper
-          link: Bar-On2018.pdf
-        - name: The Tragic Matter (Schatz 2003)
-          type: paper
-          link: Schatz2003.pdf
-        - name: Polymerases and the Replisome (Baker 1998)
-          type: paper
-          link: Baker1998.pdf
-        - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington2016)
-          type: paper
-          link: Wigington2016.pdf
-        - name: PBoC Chapters 1 - 3
+    date: 1/21
+    topics: > 
+      A feeling for the numbers in biology.
+      Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
+      discovery in the living world.
+      What sets the scale of things?
+      The physical biology exam.
+    materials: 
+      - name: "A feeling for the numbers: Powerpoint Presentation" 
+        type: protected
+      - name: >
+          Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
+          Next Physics, Only Better (Cohen 2004)
+        type: paper
+        link: Cohen2004.pdf
+      - name: >  
+          Theory in Biology: Fiture 1 or Figure 7? (Phillips 2015)
+        type: paper
+        link: Phillips2015.pdf 
+      - name: Distribution of biomass on Earth (Bar-On 2018)
+        type: paper
+        link: Bar-On2018.pdf
+      - name: The Tragic Matter (Schatz 2003)
+        type: paper
+        link: Schatz2003.pdf
+      - name: Polymerases and the Replisome (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
+      - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington2016)
+        type: paper
+        link: Wigington2016.pdf
+      - name: PBoC Chapters 1 - 3
   - entry:
     date: 1/23
     topics: > 
