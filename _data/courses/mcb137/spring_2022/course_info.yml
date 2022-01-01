@@ -76,8 +76,7 @@ policies: >
   reserve the right to regrade all the answers it that homework assignment.
   Your two worst scoring homeworks will not be considered for the final
   grade. We do not grade on a curve(distribution) or anything like that. 
-  
-  
+   
 people:
   - person:
     name: Hernan Garcia
@@ -98,19 +97,16 @@ people:
     img: yovanbadal.jpg
     office_hours: TBD
     
-
-
-Homework:
-    
+Homework: 
   - set:
     title: Homework 1
     link: MCB137+237-HW1-2021.pdf
     due: "1/27 at 11:00 AM"
-    materials:
+    # materials:
   #    - name: Sender 2016
   #      type: paper
   #      link: Sender2016.pdf
-    solutions: 
+    # solutions: 
   #    - name: Homework 1 Solutions
   #      type: protected
   #      link: hw1_solns.pdf
@@ -239,7 +235,7 @@ Homework:
   #      type: paper
   #      link: Keller1986.pdf
   #    - name: Keller 1986 data
-  v      type: data
+  #      type: data
   #      link: Keller1986.xlsx
   #  solutions:
   #    - name: Homework 8 Solutions 
@@ -333,7 +329,7 @@ syllabus:
       - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington2016)
         type: paper
         link: Wigington2016.pdf
-      - name: Extra reading: PBoC Chapters 1 - 3
+      - name: "Extra reading: PBoC Chapters 1 - 3"
   - entry:
     date: 1/20
     topics: > 
