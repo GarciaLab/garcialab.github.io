@@ -333,13 +333,15 @@ syllabus:
   - entry:
     date: 1/20
     topics: > 
-      Scaling.
+      The scale and scaling of cellular structures and processes.
+      Nucleolus scaling in C. elegans.
+      Introduction to Python CoLab and making simple plots.
     #materials: 
     #  - name: Number of cells in the human body (Sender 2016)
     #    type: paper
     #    link: Sender2016
     discussion:
-    #  - name: Introduction to GradeScope and Python CoLab  
+      - name: Introduction to GradeScope and fitting data by eye using Python.
     #  - name: Simple estimates
     #  - name: PBoC Chapters 2 & 3
     #  - name: Kinder & Nelson Chapters 1 - 3
