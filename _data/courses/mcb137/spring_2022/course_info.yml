@@ -296,6 +296,11 @@ Homework:
   #      type: external
   # #     link: "https://colab.research.google.com/drive/1Gd04B--O7p0OfxYgtfaGgzl4rF4f9-V7?usp=sharing"
 
+syllabuspdf:
+  - entry:
+    text: here
+    link: MCB137L-237L-2022-Syllabus.pdf
+
 syllabus:
   - entry:
     date: 1/18
