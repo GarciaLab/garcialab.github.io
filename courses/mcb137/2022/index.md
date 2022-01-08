@@ -92,6 +92,8 @@ header_img: teaching.jpg
 
 <h3 class="banner"> Syllabus </h3>
 
+{{ data_file.course_info['syllabuspdf'] }}
+
 <table>
 <tr>
 <th><b> Number </b></th>
