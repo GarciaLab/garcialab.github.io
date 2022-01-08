@@ -92,7 +92,7 @@ header_img: teaching.jpg
 
 <h3 class="banner"> Syllabus </h3>
 
-<p>A pdf of the full course syllabus can be found [here](MCB137L-237L-2022-Syllabus.pdf).</p>
+<p>A pdf of the full course syllabus can be found <a href="MCB137L-237L-2022-Syllabus.pdf">here.</p>
 
 <table>
 <tr>
