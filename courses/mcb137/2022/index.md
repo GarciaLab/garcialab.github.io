@@ -92,7 +92,7 @@ header_img: teaching.jpg
 
 <h3 class="banner"> Syllabus </h3>
 
-<p>A pdf of the full course syllabus can be found <a href="syllabus_pdf/MCB137L-237L-2022-Syllabus.pdf">here.</a></p>
+{{ data_file.course_info['syllabuspdf'] }}
 
 <table>
 <tr>
