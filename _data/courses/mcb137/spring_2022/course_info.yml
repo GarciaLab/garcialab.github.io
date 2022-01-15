@@ -297,8 +297,8 @@ Homework:
   # #     link: "https://colab.research.google.com/drive/1Gd04B--O7p0OfxYgtfaGgzl4rF4f9-V7?usp=sharing"
 
 syllabuspdf: >
-  <p>A pdf of the full course syllabus can be found [here](MCB137L-237L-2022-Syllabus.pdf).</p>
-
+  <p>A pdf of the full course syllabus can be found <a href="syllabus_pdf/MCB137L-237L-2022-Syllabus.pdf">here.</a></p>
+  
 syllabus:
   - entry:
     date: 1/18
