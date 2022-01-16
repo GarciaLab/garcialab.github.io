@@ -301,7 +301,9 @@ syllabuspdf:
   
 syllabus:
   - entry:
-    date: 1/18
+    date: >
+      1/18
+      Zoom link: https://berkeley.zoom.us/j/93907305015
     topics: > 
       A feeling for the numbers in biology.
       Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
