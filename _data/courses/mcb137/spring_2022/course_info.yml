@@ -306,9 +306,9 @@ syllabuspdf:
 syllabus:
   - entry:
     date: >
-      1/18 <a href="https://berkeley.zoom.us/j/93907305015">Link to lecture</a>
+      1/18 <a href="https://www.dropbox.com/sh/5h0iasgcsbcvwmk/AAD-QMiomWs_p6zEKLaHMi1Ea?dl=0">Lecture recording</a>
     topics: > 
-      A feeling for the numbers in biology, Part 1.
+      A feeling for the numbers in biology.
       Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
       discovery in the living world.
       What sets the scale of things?
@@ -317,6 +317,9 @@ syllabus:
       - name: "A feeling for the numbers: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
+      - name: "Lecture 1 Notes" 
+        type: notes
+        link: lec1.pdf
       - name: >
           Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
           Next Physics, Only Better (Cohen 2004)
@@ -345,11 +348,9 @@ syllabus:
   - entry:
     date: 1/20 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: > 
-      A feeling for the numbers in biology, Part 2.
       The scale and scaling of cellular structures and processes.
       Nucleolus scaling in C. elegans.
       Introduction to Python CoLab and making simple plots.
-      Energetic scaling in the cell.
     #materials: 
     #  - name: Number of cells in the human body (Sender 2016)
     #    type: paper
