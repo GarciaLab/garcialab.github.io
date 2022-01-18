@@ -83,7 +83,7 @@ people:
     email: hggarcia@berkeley.edu 
     role: Instructor
     img: hernan.jpg
-    office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall, <a href="https://berkeley.zoom.us/j/98646776942">Zoom</a>
+    office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall, @ <a href="https://berkeley.zoom.us/j/98646776942">Zoom</a>
   - person:
     name: Yasemin Kiriscioglu
     email: ykiriscioglu@berkeley.edu
@@ -304,12 +304,7 @@ syllabus:
   - entry:
     date: >
       1/18
-<<<<<<< HEAD
-      <a href="https://berkeley.zoom.us/j/93907305015">Link to lecture</a>
-      
-=======
-      Zoom link: https://berkeley.zoom.us/j/93907305015
->>>>>>> parent of 87af1fc... Update course_info.yml
+    Zoom link:  <a href="https://berkeley.zoom.us/j/93907305015">Link to lecture</a>
     topics: > 
       A feeling for the numbers in biology.
       Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
