@@ -120,6 +120,9 @@ header_img: teaching.jpg
       {%if mat.type == 'external' %}
       <a href="{{mat.link}}">
       {%endif%}
+      {% if mat.type == 'notes'%}
+      <a href="{{site.baseurl}}/courses/mcb137/2022/lecture_notes/{{mat.link}}">
+      {% endif %}
       {{mat.name}}</a> </li> 
     {% else %}
     {{mat.name}}</li>
@@ -134,9 +137,6 @@ header_img: teaching.jpg
       {% if disc.link %}
       {% if mat.type == 'paper'%}
       <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-      {% endif %}
-      {% if mat.type == 'notes'%}
-      <a href="{{site.baseurl}}/courses/mcb137/2022/lecture_notes/{{mat.link}}">
       {% endif %}
       {%if disc.type == 'external' %}
       <a href="{{mat.link}}">
