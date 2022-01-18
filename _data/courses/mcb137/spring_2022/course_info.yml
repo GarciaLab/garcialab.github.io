@@ -311,8 +311,9 @@ syllabus:
       What sets the scale of things?
       The physical biology exam.
     materials: 
-      #- name: "A feeling for the numbers: Powerpoint Presentation" 
-      #  type: protected
+      - name: "A feeling for the numbers: Powerpoint Presentation" 
+        type: protected
+        link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
       - name: >
           Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
           Next Physics, Only Better (Cohen 2004)
