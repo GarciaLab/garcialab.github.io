@@ -312,7 +312,7 @@ syllabus:
       The physical biology exam.
     materials: 
       - name: "A feeling for the numbers: Powerpoint Presentation" 
-        type: protected
+        type: external
         link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
       - name: >
           Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
