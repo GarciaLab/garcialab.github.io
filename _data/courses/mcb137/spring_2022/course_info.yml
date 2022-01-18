@@ -346,9 +346,7 @@ syllabus:
     #    type: paper
     #    link: Sender2016
     discussion:
-      - name: Introduction to GradeScope and fitting data by eye using Python.
-      - name: Section 12-1pm: @ 
-      - name: Section 1-2pm: @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a>
+      - name: Introduction to GradeScope and fitting data by eye using Python. Section 1-2pm: @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a>
     #  - name: Simple estimates
     #  - name: PBoC Chapters 2 & 3
     #  - name: Kinder & Nelson Chapters 1 - 3
