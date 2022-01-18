@@ -135,12 +135,12 @@ header_img: teaching.jpg
       {% if mat.type == 'paper'%}
       <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
       {% endif %}
-      {%if disc.type == 'external' %}
-      <a href="{{mat.link}}">
-      {%endif%}
       {% if mat.type == 'notes'%}
       <a href="{{site.baseurl}}/courses/mcb137/2022/lecture_notes/{{mat.link}}">
       {% endif %}
+      {%if disc.type == 'external' %}
+      <a href="{{mat.link}}">
+      {%endif%}
       {{disc.name}}</a> </li> 
     {% else %}
     {{disc.name}}</li>
