@@ -108,7 +108,14 @@ header_img: teaching.jpg
 <tr>
   <td>{{no}}</td>
   <td>{{entry.date}}</td>
-  <td>{{entry.topics}}</td>
+  <td>
+  <ul>
+  {% for topic in entry.topics %}
+  <li>
+      {{topic}}</li>
+  {% endfor %}
+  </ul>
+  </td>
   <td>
   <ul>
   {% for mat in entry.materials %}
