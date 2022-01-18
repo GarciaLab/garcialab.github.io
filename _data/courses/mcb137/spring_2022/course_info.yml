@@ -89,7 +89,7 @@ people:
     email: ykiriscioglu@berkeley.edu
     role: GSI
     img: yasemin.jpg
-    office_hours: Tuesdays 3 pm - 4 pm @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a>
+    office_hours: Tuesdays 3 pm - 4 pm @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a> Discussion: Fridays 1-2 pm  @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a>
 
   - person:
     name: Dushyant (Yovan) Badal
@@ -346,7 +346,7 @@ syllabus:
     #    type: paper
     #    link: Sender2016
     discussion:
-      - name: Introduction to GradeScope and fitting data by eye using Python. Section 1-2pm: @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a>
+      - name: Introduction to GradeScope and fitting data by eye using Python.
     #  - name: Simple estimates
     #  - name: PBoC Chapters 2 & 3
     #  - name: Kinder & Nelson Chapters 1 - 3
