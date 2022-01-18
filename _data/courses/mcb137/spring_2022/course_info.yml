@@ -308,7 +308,7 @@ syllabus:
     date: >
       1/18 <a href="https://berkeley.zoom.us/j/93907305015">Link to lecture</a>
     topics: > 
-      A feeling for the numbers in biology.
+      A feeling for the numbers in biology, Part 1.
       Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
       discovery in the living world.
       What sets the scale of things?
@@ -345,9 +345,11 @@ syllabus:
   - entry:
     date: 1/20 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: > 
+      A feeling for the numbers in biology, Part 2.
       The scale and scaling of cellular structures and processes.
       Nucleolus scaling in C. elegans.
       Introduction to Python CoLab and making simple plots.
+      Energetic scaling in the cell.
     #materials: 
     #  - name: Number of cells in the human body (Sender 2016)
     #    type: paper
