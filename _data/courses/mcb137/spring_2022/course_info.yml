@@ -306,7 +306,7 @@ syllabuspdf:
 syllabus:
   - entry:
     date: >
-      1/18 <a href="https://www.dropbox.com/sh/5h0iasgcsbcvwmk/AAD-QMiomWs_p6zEKLaHMi1Ea?dl=0">Lecture recording</a>
+      1/18 # <a href="https://www.dropbox.com/sh/5h0iasgcsbcvwmk/AAD-QMiomWs_p6zEKLaHMi1Ea?dl=0">Lecture recording</a>
     topics:
       - "A feeling for the numbers in biology."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
