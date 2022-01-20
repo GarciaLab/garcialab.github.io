@@ -132,7 +132,7 @@ syllabus:
       - name: "A feeling for the numbers: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
-      - name: "Lecture 1 and 2 Notes" 
+      - name: "Lectures 1 and 2 Notes" 
         type: notes
         link: lec1.pdf
       - name: >
@@ -171,8 +171,8 @@ syllabus:
       - name: Simple estimates
   - entry:
     date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
-    topics: >
-      The scale and scaling of cellular structures and processes, Part 1.
+    topics: 
+      - "The scale and scaling of cellular structures and processes, Part 1."
       - "Nucleolus scaling in C. elegans."
       - "Introduction to Python CoLab and making simple plots."
     materials:
