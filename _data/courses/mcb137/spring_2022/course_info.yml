@@ -316,7 +316,7 @@ syllabus:
       - name: "A feeling for the numbers: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
-      - name: "Lecture 1 Notes" 
+      - name: "Lecture 1 and 2 Notes" 
         type: notes
         link: lec1.pdf
       - name: >
@@ -348,6 +348,16 @@ syllabus:
     date: 1/20 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "The physical biology exam, Part 2."
+    materials:
+    discussion:
+      - name: Introduction to GradeScope.
+      - name: Introduction to Python CoLab and making simple plots.
+      - name: Simple estimates
+    #  - name: PBoC Chapters 2 & 3
+    #  - name: Kinder & Nelson Chapters 1 - 3
+  - entry:
+    date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
+    topics: >
       - "The scale and scaling of cellular structures and processes."
       - "Nucleolus scaling in C. elegans."
       - "Introduction to Python CoLab and making simple plots."
@@ -355,17 +365,6 @@ syllabus:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (weber 2015)
         type: paper
         link: Weber2015.pdf
-    #  - name: Number of cells in the human body (Sender 2016)
-    #    type: paper
-    #    link: Sender2016
-    discussion:
-      - name: Introduction to GradeScope and fitting data by eye using Python.
-    #  - name: Simple estimates
-    #  - name: PBoC Chapters 2 & 3
-    #  - name: Kinder & Nelson Chapters 1 - 3
-  - entry:
-    date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
-    #topics: > 
     #  An obsession with dN/dt. Bacterial Growth Part I: Solving the
     #  Exponential Growth Equation
     #materials:
