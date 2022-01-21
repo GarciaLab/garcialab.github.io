@@ -173,7 +173,7 @@ syllabus:
     date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: 
       - "The scale and scaling of cellular structures and processes, Part 1."
-      - <ul>
+        <ul>
             <li>"Nucleolus scaling in C. elegans."</li>
             <li>"Introduction to Python CoLab and making simple plots."</li>
         </ul>
