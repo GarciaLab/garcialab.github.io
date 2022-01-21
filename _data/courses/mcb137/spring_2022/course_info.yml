@@ -172,11 +172,7 @@ syllabus:
   - entry:
     date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: 
-      - "The scale and scaling of cellular structures and processes, Part 1."
-        <ul>
-          <li>"Nucleolus scaling in C. elegans."</li>
-          <li>"Introduction to Python CoLab and making simple plots."</li>
-        </ul>
+      - "The scale and scaling of cellular structures and processes, Part 1."<ul><li>"Nucleolus scaling in C. elegans."</li><li>"Introduction to Python CoLab and making simple plots."</li></ul>
     materials:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
         type: paper
