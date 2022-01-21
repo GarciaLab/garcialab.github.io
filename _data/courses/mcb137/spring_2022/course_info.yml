@@ -132,7 +132,7 @@ syllabus:
       - name: "A feeling for the numbers: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
-      - name: "Lectures 1 and 2 Notes" 
+      - name: "Lecture 1 Notes" 
         type: notes
         link: lec1.pdf
       - name: >
@@ -165,6 +165,9 @@ syllabus:
     topics:
       - "The physical biology exam, Part 2."
     materials:
+      - name: "Lecture 2 Notes" 
+        type: notes
+        link: lec2.pdf
     discussion:
       - name: Introduction to GradeScope.
       - name: Introduction to Python CoLab and making simple plots.
@@ -172,11 +175,11 @@ syllabus:
   - entry:
     date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: 
-      - The scale and scaling of cellular structures and processes, Part 1.
+      - "The scale and scaling of cellular structures and processes, Part 1.
         <ul>
-            <li>"Nucleolus scaling in C. elegans."</li>
-            <li>"Introduction to Python CoLab and making simple plots."</li>
-        </ul>
+            <li>Nucleolus scaling in C. elegans.</li>
+            <li>Introduction to Python CoLab and making simple plots.</li>
+        </ul>"
     materials:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
         type: paper
