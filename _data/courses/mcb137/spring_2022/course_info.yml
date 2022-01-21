@@ -99,7 +99,7 @@ people:
     email: ybadal@berkeley.edu
     role: GSI
     img: yovanbadal.jpg
-    office_hours: Monday 2 pm - 3 pm @ <a href="https://berkeley.zoom.us/j/95708444100">Zoom</a> discussion- Fridays 12-2 pm <a href="https://berkeley.zoom.us/j/95708444100">Zoom</a>
+    office_hours: Monday 2 pm - 3 pm @ <a href="https://berkeley.zoom.us/j/95708444100">Zoom</a> discussion- Fridays 12-1 pm <a href="https://berkeley.zoom.us/j/95708444100">Zoom</a>
     
 Homework: 
   - set:
@@ -172,7 +172,7 @@ syllabus:
   - entry:
     date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: 
-      - "The scale and scaling of cellular structures and processes, Part 1."
+      - The scale and scaling of cellular structures and processes, Part 1.
         <ul>
             <li>"Nucleolus scaling in C. elegans."</li>
             <li>"Introduction to Python CoLab and making simple plots."</li>
