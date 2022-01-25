@@ -185,6 +185,9 @@ syllabus:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
         type: paper
         link: Weber2015.pdf
+      - name: The bioenergetic costs of a gene (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
   - entry:
     date: 1/27  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
