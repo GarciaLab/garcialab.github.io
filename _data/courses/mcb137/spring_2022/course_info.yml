@@ -178,7 +178,8 @@ syllabus:
       - "The scale and scaling of cellular structures and processes, Part 1.
         <ul>
             <li>Nucleolus scaling in C. elegans.</li>
-            <li>Introduction to Python CoLab and making simple plots.</li>
+            <li>Fitting data by eye with Python.</li>
+            <li>Surface to volume ratio and energy scaling in the cell.</li>
         </ul>"
     materials:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
@@ -186,21 +187,14 @@ syllabus:
         link: Weber2015.pdf
   - entry:
     date: 1/27  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
-    #topics: > 
-    #  Biological time scales. An aobsession with dN/dt. Bacterial Growth - Part
-    #  II: Solving the Exponential Growth Equation
-    #materials: 
-    #  - name: A theoretical study on the amount of ATP required for synthesis of microbial cell material
-    #    type: paper
-    #    link: Stouthamer1973.pdf
-    #  - name: DNA primase acts as a molecular brake in DNA replication (Van Oijen 2006)
-    #    type: paper
-    #    link: VanOijen2006.pdf
-    #  - name:  "Interdependence of Cell growth and Gene Expression: Origins and Consequences (Scott 2010)"
-    #    type: paper
-    #    link: Scott2010.pdf
+    topics:
+      - "The scale and scaling of cellular structures and processes, Part 2.
+        <ul>
+            <li>Time scales in biology.</li>
+            <li>Exponential growth by pen and paper, and by similation.</li>
+        </ul>"
     discussion:
-    #  - name: Measuring bacterial growth using image analysis, Part I
+      - name: Measuring bacterial growth using image analysis, Part 1.
     #  - name: Python Code
     #    type: external
     #    link: "https://colab.research.google.com/drive/1wk1XD1da6Kmo_ebNF1rQRKlPppsnjoKr" 
