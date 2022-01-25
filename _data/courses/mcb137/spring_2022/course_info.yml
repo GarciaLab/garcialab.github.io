@@ -179,7 +179,6 @@ syllabus:
         <ul>
             <li>Nucleolus scaling in C. elegans.</li>
             <li>Fitting data by eye with Python.</li>
-            <li>Surface to volume ratio and energy scaling in the cell.</li>
         </ul>"
     materials:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
@@ -193,6 +192,7 @@ syllabus:
     topics:
       - "The scale and scaling of cellular structures and processes, Part 2.
         <ul>
+            <li>Surface to volume ratio and energy scaling in the cell.</li>
             <li>Time scales in biology.</li>
             <li>Exponential growth by pen and paper, and by similation.</li>
         </ul>"
