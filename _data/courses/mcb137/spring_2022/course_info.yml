@@ -186,6 +186,9 @@ syllabus:
             <li>Fitting data by eye with Python.</li>
         </ul>"
     materials:
+      - name: "Lecture Notes" 
+        type: notes
+        link: lec3.pdf
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
         type: paper
         link: Weber2015.pdf
