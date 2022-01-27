@@ -218,7 +218,6 @@ syllabus:
       - name: "Colab Notebook Energy Scaling Cell" 
         type: external
         link: "https://drive.google.com/file/d/1Jx-Q6fLUlpmjrztrNmPQ7eAsOLYm7Sob/view?usp=sharing"
-     
     discussion:
       - name: Measuring bacterial growth using image analysis, Part 1.
     #  - name: Python Code
