@@ -189,7 +189,10 @@ syllabus:
             <li>Nucleolus scaling in C. elegans.</li>
             <li>Fitting data by eye with Python.</li>
         </ul>"
-    materials:
+    materials: 
+      - name: "A feeling for the numbers: Powerpoint Presentation" 
+        type: external
+        link: "https://www.dropbox.com/s/bbnh5it0k4o6wuv/MCB137%2B237-Scaling-Export.pptx?dl=0"
       - name: "Lecture Notes" 
         type: notes
         link: lec3.pdf
