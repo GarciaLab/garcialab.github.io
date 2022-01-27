@@ -202,6 +202,9 @@ syllabus:
       - name: The bioenergetic costs of a gene (Lynch 2015)
         type: paper
         link: Lynch2015.pdf
+      - name: "Colab Notebook Nucleolar Scaling Exercise"
+        type: external
+        link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
   - entry:
     date: 1/27  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
