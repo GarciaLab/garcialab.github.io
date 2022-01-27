@@ -114,6 +114,10 @@ Homework:
   #    - name: Homework 1 Solutions
   #      type: protected
   #      link: hw1_solns.pdf
+    - set:
+    title: Homework 2
+    link: MCB137+237-HW2-2022.pdf
+    due: "2/03 at 11:00 AM"
 
 
 syllabuspdf:
