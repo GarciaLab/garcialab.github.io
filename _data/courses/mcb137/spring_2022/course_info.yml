@@ -190,7 +190,7 @@ syllabus:
             <li>Fitting data by eye with Python.</li>
         </ul>"
     materials: 
-      - name: "A feeling for the numbers: Powerpoint Presentation" 
+      - name: "Scaling and Dimensional Analysis: Powerpoint Presentation" 
         type: external
         link: "https://www.dropbox.com/s/bbnh5it0k4o6wuv/MCB137%2B237-Scaling-Export.pptx?dl=0"
       - name: "Lecture Notes" 
