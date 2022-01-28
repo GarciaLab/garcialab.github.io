@@ -217,7 +217,7 @@ syllabus:
     materials: 
       - name: "Colab Notebook Energy Scaling Cell" 
         type: external
-        link: "https://drive.google.com/file/d/1Jx-Q6fLUlpmjrztrNmPQ7eAsOLYm7Sob/view?usp=sharing"
+        link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
     discussion:
       - name: Measuring bacterial growth using image analysis, Part 1.
     #  - name: Python Code
@@ -228,9 +228,12 @@ syllabus:
     #    link: 
   - entry:
     date: 2/1
-    #topics: > 
-    #  An obsession with dN/dt. Bacterial Growth Part III: The Physical Limits
-    #  to Bacterial Growth
+    topics:
+      - "The scale and scaling of cellular structures and processes, Part 3.
+        <ul>
+            <li>Time scales in biology.</li>
+            <li>Exponential growth by pen and paper, and by similation.</li>
+        </ul>"
   - entry:
     date: 2/3
     #topics: >
