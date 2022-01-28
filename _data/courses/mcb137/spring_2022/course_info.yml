@@ -199,9 +199,6 @@ syllabus:
       - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
         type: paper
         link: Weber2015.pdf
-      - name: The bioenergetic costs of a gene (Lynch 2015)
-        type: paper
-        link: Lynch2015.pdf
       - name: "Colab Notebook Nucleolar Scaling Exercise"
         type: external
         link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
@@ -218,6 +215,9 @@ syllabus:
       - name: "Lecture Notes" 
         type: notes
         link: lec04.pdf
+      - name: The bioenergetic costs of a gene (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
       - name: "Colab Notebook Energy Scaling Cell" 
         type: external
         link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
