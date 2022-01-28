@@ -34,14 +34,6 @@
       Physics Undergraduate Student
   email: adesai
 
-- avatar: liz.jpg 
-  name: Elizabeth Eck 
-  caste: grad
-  background: >
-      NSF Biophysics Fellow<br/>
-      BS Physics and Biology, UC Santa Barbara
-  email: eeck
-
 - avatar: juliaFaloSanjuan.jpg
   name: Julia Falo-Sanjuan
   caste: postdoc
@@ -83,14 +75,6 @@
       Physics Rotation Student <br/>
       BS Physics and Literature, MIT
   email: amherman
-  
-- avatar: yang.jpeg
-  name: Yang Joon Kim
-  caste:  grad
-  background: >
-      KFAS Biophysics Graduate Fellow<br/>
-      BS Physics, Postech, South Korea
-  email: yjkim90
 
 - avatar: yasemin.jpg
   name: Yasemin Kiriscioglu
