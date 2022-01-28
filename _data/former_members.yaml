@@ -56,6 +56,13 @@
       Physics Undergrad <br/>
       2015-2016
 
+- name: Elizabeth Eck 
+  caste: grad
+  background: >
+      NSF Biophysics Graduate Fellow<br/>
+      2016-2021
+  current: Postdoc, Antonio Giraldez Lab, Yale
+
 - name: Pirooz Fereydouni
   caste: undergrad
   position: >
@@ -79,6 +86,13 @@
       Physics & Math Undergrad  <br/>
       Summer 2016
   current: Graduate Student, Northwestern University
+
+- name: Yang Joon Kim
+  caste:  grad
+  background: >
+      KFAS Biophysics Graduate Fellow<br/>
+      2016-2021
+  current: Bioinformatics Data Scientist, Chan-Zuckerberg Biohub
 
 - name: Jonathan  Liu
   caste: grad
