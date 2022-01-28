@@ -221,7 +221,11 @@ syllabus:
         type: external
         link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
     discussion:
-      - name: Measuring bacterial growth using image analysis, Part 1.
+      - name: 'Measuring bacterial growth using image analysis, Part 1.
+              <ul>
+                 <li><a href="https://drive.google.com/drive/folders/18vdukHEwN_I7AVveEo_hmydzVXVb0Pim?usp=sharing">
+                 Colab Notebook + Data (Discussion I - Yovan)</a></li>
+              </ul>'
     #  - name: Python Code
     #    type: external
     #    link: "https://colab.research.google.com/drive/1wk1XD1da6Kmo_ebNF1rQRKlPppsnjoKr" 
