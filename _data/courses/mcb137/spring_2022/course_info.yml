@@ -215,6 +215,9 @@ syllabus:
             <li>Exponential growth by pen and paper, and by similation.</li>
         </ul>"
     materials: 
+      - name: "Lecture Notes" 
+        type: notes
+        link: lec04.pdf
       - name: "Colab Notebook Energy Scaling Cell" 
         type: external
         link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
