@@ -174,13 +174,12 @@ syllabus:
         link: lec2.pdf
     discussion:
       - name: Introduction to GradeScope.
-      - name: Introduction to Python, Colab and making simple plots.
-      - name: Simple estimates
-      - name: 'Discussion I (Yovan)
+      - name: 'Introduction to Python, Colab and making simple plots.
               <ul>
                  <li><a href="https://colab.research.google.com/drive/1rkRk-LzgIi7gY2TqXno8jbCSqBsKU5eU?usp=sharing">
-                 Colab Notebook</a></li>
+                 Colab Notebook (Discussion I - Yovan)</a></li>
               </ul>'
+      - name: Simple estimates
   - entry:
     date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: 
