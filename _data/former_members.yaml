@@ -20,7 +20,7 @@
 
 - name: Sathvik Anantakrishnan
   caste: undergrad
-  background: >
+  position: >
       Visiting Masters Student <br/>
       Summer & Fall 2021
   current: Masters Student, Biological Sciences, IIT, Madras
@@ -65,7 +65,7 @@
 
 - name: Elizabeth Eck 
   caste: grad
-  background: >
+  position: >
       NSF Biophysics Graduate Fellow<br/>
       2016-2021
   current: Postdoc, Antonio Giraldez Lab, Yale
@@ -96,7 +96,7 @@
 
 - name: Yang Joon Kim
   caste:  grad
-  background: >
+  position: >
       KFAS Biophysics Graduate Fellow<br/>
       2016-2021
   current: Bioinformatics Data Scientist, Chan-Zuckerberg Biohub
