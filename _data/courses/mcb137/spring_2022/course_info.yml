@@ -208,7 +208,7 @@ syllabus:
         <ul>
             <li>Surface to volume ratio and energy scaling in the cell.</li>
             <li>Time scales in biology.</li>
-            <li>Exponential growth by pen and paper, and by similation.</li>
+            <li>Exponential growth by pen and paper, and by simulation.</li>
         </ul>"
     materials: 
       - name: "Lecture Notes" 
@@ -238,7 +238,7 @@ syllabus:
       - "The scale and scaling of cellular structures and processes, Part 3.
         <ul>
             <li>Time scales in biology.</li>
-            <li>Exponential growth by pen and paper, and by similation.</li>
+            <li>Exponential growth by pen and paper, and by simulation.</li>
         </ul>"
   - entry:
     date: 2/3
