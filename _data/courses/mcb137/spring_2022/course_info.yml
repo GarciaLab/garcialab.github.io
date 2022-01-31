@@ -245,7 +245,7 @@ syllabus:
             <li>Exponential growth by pen and paper, and by simulation.</li>
         </ul>"
     materials:
-      - name: Bacterial growth: constant obsession with dN/dt (Neidhardt 2015)
+      - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015)"
         type: paper
         link: Neidhardt1999.pdf
   - entry:
