@@ -118,6 +118,10 @@ Homework:
     title: Homework 2
     link: MCB137+237-HW2-2022.pdf
     due: "2/03 at 11:00 AM"
+    materials:
+      - name: Data for problem 4
+        type: external
+        link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
 
 
 syllabuspdf:
