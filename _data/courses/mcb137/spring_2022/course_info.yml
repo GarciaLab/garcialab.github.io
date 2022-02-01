@@ -237,7 +237,7 @@ syllabus:
     #    type: external
     #    link: 
   - entry:
-    date: 2/1
+    date: 2/1 @ 219 Dwinelle
     topics:
       - "The scale and scaling of cellular structures and processes, Part 3.
         <ul>
@@ -249,7 +249,7 @@ syllabus:
         type: paper
         link: Neidhardt1999.pdf
   - entry:
-    date: 2/3
+    date: 2/3 @ 219 Dwinelle
     #topics: >
     #  Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion
     #  and Axonal Transport
