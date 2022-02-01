@@ -248,6 +248,9 @@ syllabus:
       - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015)"
         type: paper
         link: Neidhardt1999.pdf
+      - name: "Colab Notebook Bacterial Growth Simulation"
+        type: external
+        link: "https://drive.google.com/file/d/1n3z-vkCkRdP1k4VkRBXs_jDy8gv4SpaX/view?usp=sharing"
   - entry:
     date: 2/3 @ 219 Dwinelle
     #topics: >
