@@ -149,13 +149,9 @@ Homework:
   - set:
     title: Homework 8
     link: 
-    due: "3/24 at 11:00 AM"
-  - set:
-    title: Homework 9
-    link: 
     due: "3/31 at 11:00 AM"
   - set:
-    title: Homework 10
+    title: Homework 9
     link: 
     due: "4/7 at 11:00 AM"
   - set:
@@ -171,7 +167,6 @@ Homework:
     link: 
     due: "4/21 at 11:00 AM"
   - set:
-    title: Homework 11
     title: Second estimate (MCB137L) and poster session (MCB237L)
     due: "4/28 at 11:00 AM"
 
