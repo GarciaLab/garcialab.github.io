@@ -122,6 +122,60 @@ Homework:
       - name: Data for problem 4
         type: external
         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
+  - set:
+    title: Homework 3
+    link: 
+    due: "2/10 at 11:00 AM"
+  - set:
+    title: Homework 4
+    link: 
+    due: "2/17 at 11:00 AM"
+  - set:
+    title: Homework 5
+    link: 
+    due: "2/24 at 11:00 AM"
+  - set:
+    title: First estimate (MCB137L) and model proposal (MCB237L)
+    link: 
+    due: "3/3 at 11:00 AM"
+  - set:
+    title: Homework 6
+    link: 
+    due: "3/10 at 11:00 AM"
+  - set:
+    title: Homework 7
+    link: 
+    due: "3/17 at 11:00 AM"
+  - set:
+    title: Homework 8
+    link: 
+    due: "3/24 at 11:00 AM"
+  - set:
+    title: Homework 9
+    link: 
+    due: "3/31 at 11:00 AM"
+  - set:
+    title: Homework 10
+    link: 
+    due: "4/7 at 11:00 AM"
+  - set:
+    title: Homework 10
+    link: 
+    due: "4/14 at 11:00 AM"
+  - set:
+    title: Homework 11
+    link: 
+    due: "4/14 at 11:00 AM"
+  - set:
+    title: Homework 11
+    link: 
+    due: "4/21 at 11:00 AM"
+  - set:
+    title: Homework 11
+    link: First estimate (MCB137L) and posted session (MCB237L)
+    due: "4/28 at 11:00 AM"
+
+
 
 
 syllabuspdf:
@@ -507,5 +561,5 @@ syllabus:
     #  Second Project Presentations, Part I
   - entry:
     date: 4/28
-    #topics: > 
-    #  Second Project Presentations, Part II
+    topics:
+      - "MCB237L poster session and end-of-course party!"
