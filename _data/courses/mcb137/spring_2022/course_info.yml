@@ -310,26 +310,29 @@ syllabus:
     topics: >
       Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion
       and Axonal Transport
-    #materials: 
-    #  - name: "Diffusion: Powerpoint Presentation"
-    #    type: protected
-    #    link: 
-    #  - name: >
-    #      On the implications of a Sex Difference in the REaction Times of
-    #      Sprinters at the Beijing Olympics (Lipps 2011)
-    #    type: paper
-    #    link: Lipps2011
-    #  - name: >
-    #      All-optical electrophysiology in mammalian neurotns using engineered
-    #      microbial rhodopsins (Hochbaum 2014)
-    #    type: paper
-    #    link: Hochbaum2014.pdf
-    #  - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
-    #    type: paper
-    #    link: Droz1962.pdf
-    #  - name: One at a time, live tracking of NGF axonal transport using quantum dots
-    #    type: paper
-    #    link: Cui2007.pdf
+    materials: 
+      - name: "Diffusion: Powerpoint Presentation"
+        type: protected
+        link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
+      - name: >
+          On the implications of a Sex Difference in the Reaction Times of
+          Sprinters at the Beijing Olympics (Lipps 2011)
+        type: paper
+        link: Lipps2011.pdf
+      - name: >
+          All-optical electrophysiology in mammalian neurotns using engineered
+          microbial rhodopsins (Hochbaum 2014)
+        type: paper
+        link: Hochbaum2014.pdf
+      - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
+        type: paper
+        link: Droz1962.pdf
+      - name: One at a time, live tracking of NGF axonal transport using quantum dots
+        type: paper
+        link: Cui2007.pdf
+      - name: "Single-molecule investigations of the stringent response machinery in living bacterial cells (English 2011)"
+        type: paper
+        link: English2011.pdf
     #  - name: Axonal Transport (MOrfini 2011)
     #    type: paper
     #    link: Morfini2011.pdf
