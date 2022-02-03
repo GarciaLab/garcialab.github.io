@@ -307,9 +307,9 @@ syllabus:
         link: "https://drive.google.com/file/d/1n3z-vkCkRdP1k4VkRBXs_jDy8gv4SpaX/view?usp=sharing"
   - entry:
     date: 2/3 @ 219 Dwinelle
-    #topics: >
-    #  Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion
-    #  and Axonal Transport
+    topics: >
+      Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion
+      and Axonal Transport
     #materials: 
     #  - name: "Diffusion: Powerpoint Presentation"
     #    type: protected
@@ -340,19 +340,19 @@ syllabus:
     #    link: Yildiz2003.pdf
     #  - name: PBoC Chapter 13
   - entry:
-    date: 2/8
-    #topics: > 
-    #  Diffusion, the null hypothesis of biological dynamics, Part II. Diffusion
-    #  using continuum theory and diffusion by coin flips
+    date: 2/8 @ <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
+    topics: > 
+      Diffusion, the null hypothesis of biological dynamics, Part II. Diffusion
+      using by coin flips
     #materials: 
     #  - name:  Diffusion by coin flips (Python Code)
     #    type: external
     #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
   - entry: 
-    date: 2/10
-    #topics: > 
-    #  Diffusion, the null hypothesis of biological dymaics, Part III: Diffusion
-    #  using Continuum Theory and Diffusion by Coinflips
+    date: 2/10 @ <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
+    topics: > 
+      Diffusion, the null hypothesis of biological dymaics, Part III: Diffusion
+      by Coinflips
     #materials:
     #  - name: >
     #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
