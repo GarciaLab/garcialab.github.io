@@ -312,7 +312,7 @@ syllabus:
       and Axonal Transport
     materials: 
       - name: "Diffusion: Powerpoint Presentation"
-        type: protected
+        type: external
         link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
       - name: >
           On the implications of a Sex Difference in the Reaction Times of
