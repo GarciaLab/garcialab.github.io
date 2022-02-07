@@ -274,7 +274,7 @@ syllabus:
         type: external
         link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
     discussion:
-      - name: 'Measuring bacterial growth using image analysis, Part 1.
+      - name: 'Measuring bacterial growth using image analysis, Part I.
               <ul>
                  <li><a href="https://drive.google.com/drive/folders/18vdukHEwN_I7AVveEo_hmydzVXVb0Pim?usp=sharing">
                  Colab Notebook + Data (Discussion I - Yovan)</a></li>
@@ -328,6 +328,8 @@ syllabus:
       - name: "Single-molecule investigations of the stringent response machinery in living bacterial cells (English 2011)"
         type: paper
         link: English2011.pdf
+    discussion:
+      - name: 'Measuring bacterial growth using image analysis, Part II.
     #  - name: Axonal Transport (MOrfini 2011)
     #    type: paper
     #    link: Morfini2011.pdf
