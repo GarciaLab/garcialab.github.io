@@ -59,10 +59,8 @@ header_img: teaching.jpg
   {%if mat.link %}
     {% if mat.type == 'paper' %}
     <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-    {%endif%}
     {% else if mat.type == 'external' %}
     <a href="{{mat.link}}">
-    {%endif%}
     {% else if mat.type == 'chapter' %}
     <a href="{{site.baseurl}}/courses/chapters/{{mat.link}}">
     {% endif %}
