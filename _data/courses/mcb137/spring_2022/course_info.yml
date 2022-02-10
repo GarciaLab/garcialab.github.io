@@ -106,6 +106,8 @@ Homework:
     title: Homework 1
     link: MCB137+237-HW1-2022.pdf
     due: "1/27 at 11:00 AM"
+    materials:
+      - name: PBoC3 Chapter 2
     # materials:
   #    - name: Sender 2016
   #      type: paper
@@ -146,6 +148,9 @@ Homework:
       - name: Liu 2013
         type: paper
         link: Liu2013.pdf
+      - name: PBoC3 Chapter 5
+        type: chapter
+        link: PBoC_chap5.pdf
   - set:
     title: Homework 5
     link: 
@@ -382,6 +387,10 @@ syllabus:
     #      target microtubule ends (Helenius2006.pdf)
     #    type: paper
     #    link: Helenius2006
+    materials:
+       -  name: Lecture Notes
+          type: notes
+          link: lec08.pdf
     discussion:
     #  - name: Chi-square minimization to measure the growth rate (Python Code)
     #    type: external
