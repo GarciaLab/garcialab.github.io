@@ -396,6 +396,9 @@ syllabus:
        - name: Lecture Notes
          type: notes
          link: lec08.pdf
+       - name: Colab Notebook Diffusion by Master Equation
+         type: external
+         link: "https://colab.research.google.com/drive/1qcO_laLpgMeZdW06bFe1SzSZF3Z_h4IM?usp=sharing"
     discussion:
     #  - name: Chi-square minimization to measure the growth rate (Python Code)
     #    type: external
