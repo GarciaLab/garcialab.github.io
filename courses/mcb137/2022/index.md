@@ -61,6 +61,8 @@ header_img: teaching.jpg
     <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
     {% else if mat.type == 'external' %}
     <a href="{{mat.link}}">
+    {% else if mat.type == 'chapter' %}
+    <a href="{{site.baseurl}}/courses/chapters/{{mat.link}}">
     {% endif %}
   {{mat.name}}</a></li>
   {%else %}
