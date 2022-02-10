@@ -108,6 +108,8 @@ Homework:
     due: "1/27 at 11:00 AM"
     materials:
       - name: PBoC3 Chapter 2
+        type: chapter
+        link: PBoC3_chap2.pdf
     # materials:
   #    - name: Sender 2016
   #      type: paper
@@ -388,9 +390,12 @@ syllabus:
     #    type: paper
     #    link: Helenius2006
     materials:
-       -  name: Lecture Notes
-          type: notes
-          link: lec08.pdf
+       - name: Pre-Lecture 8 recording
+         type: external
+         link: "https://www.dropbox.com/s/hwtbvidouam1e2o/MCB137-237-Lecture08.mp4?dl=0"
+       - name: Lecture Notes
+         type: notes
+         link: lec08.pdf
     discussion:
     #  - name: Chi-square minimization to measure the growth rate (Python Code)
     #    type: external
