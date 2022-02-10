@@ -374,8 +374,8 @@ syllabus:
   - entry: 
     date: 2/10 @ 219 Dwinelle # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: > 
-      Diffusion, the null hypothesis of biological dymaics, Part III: Diffusion
-      by Coinflips
+      Diffusion, the null hypothesis of biological dynamics, Part III: Diffusion
+      by Solving the Chemical Master Equation
     #materials:
     #  - name: >
     #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
