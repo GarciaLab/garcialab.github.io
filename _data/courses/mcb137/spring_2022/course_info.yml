@@ -400,7 +400,7 @@ syllabus:
          type: external
          link: "https://colab.research.google.com/drive/1qcO_laLpgMeZdW06bFe1SzSZF3Z_h4IM?usp=sharing"
     discussion:
-       - name: "Measuring bacterial growth using image analysis, Part III (Chi-Square Minimization)."
+       - name: "Measuring bacterial growth using image analysis, Part III (Least Squares Fitting)."
     #    type: external
     #    link: "https://colab.research.google.com/drive/1GnCI6OkBdVZUovVnz_ur0IF7OlJgXHLh"
   - entry:
