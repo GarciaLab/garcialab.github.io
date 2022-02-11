@@ -405,23 +405,20 @@ syllabus:
     #    link: "https://colab.research.google.com/drive/1GnCI6OkBdVZUovVnz_ur0IF7OlJgXHLh"
   - entry:
     date: 2/15
-    #topics: >
-    #  Diffusion, the null hypothesis of biological dynamics, Part IV. Diffusion
-    #  using master equations and FRAMP: Measuring diffusion using
-    #  photobleaching
+    topics: >
+      Biological Dynamics, Part I: The mean dynamics of the constitutive promoter
   - entry: 
     date: 2/17
-    #topics: > 
-    #  Diffusion, the null hypothesis of biological dynamics, Part V. A
-    #  universal diffusion speed limit ofr enzyme catalysis and other reactions
+    topics: > 
+      Biological Dynamics, Part II: The single-cell distribution of the constitutive promoter
     #discussion:
     #  - name: Diffusion by master equations, Part I (Python Code)
     #    type: external
     #    link: "https://colab.research.google.com/drive/1gdm53PuUoGZRKa_Anx_bqxzlYOyP0Shh"
   - entry: 
     date: 2/22
-    #topics: > 
-    #  Study hall to prepare for your first estimate
+    topics: > 
+      Thinking Big About Data: The great probability distributions of biology
   - entry:
     date: 2/24
     #topics: Biological Dynamics, Part I. The mean dynamics of the constitutive promoter
