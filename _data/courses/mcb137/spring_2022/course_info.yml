@@ -410,6 +410,10 @@ syllabus:
     date: 2/15
     topics: >
       Biological Dynamics, Part I: The mean dynamics of the constitutive promoter
+    materials:
+       - name: "The Protocol of Biological Dynamics: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1gp2vorlJkd8AcqnhWPdzSYvv74pagqohP6UUzfAser0/edit?usp=sharing"
   - entry: 
     date: 2/17
     topics: > 
