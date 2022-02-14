@@ -171,11 +171,11 @@ Homework:
         type: paper
         link: Abu-Arish2010.pdf
       - name: Liu 2013 Data
-        type: chapter
-        link: Liu2013Data.xlsx
+        type: external
+        link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing"
       - name: Driever 1988 Data
-        type: chapter
-        link: Driever1988Data.xlsx  
+        type: external
+        link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing" 
   - set:
     title: First estimate (MCB137L) and model proposal (MCB237L)
     link: 
