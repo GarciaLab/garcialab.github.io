@@ -453,10 +453,11 @@ syllabus:
   - entry: 
     date: 2/22
     topics: > 
-      Thinking Big About Data: The great probability distributions of biology
+      Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
   - entry:
     date: 2/24
-    #topics: Biological Dynamics, Part I. The mean dynamics of the constitutive promoter
+    topics: > 
+      Regulatory Biology and Statistical Mechanics: Simple Repression
     #materials:
     #  - name: "Biological Dynamics: Powerpoint Slides"
     #    type: protected
