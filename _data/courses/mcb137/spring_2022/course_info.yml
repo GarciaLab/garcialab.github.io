@@ -382,7 +382,7 @@ syllabus:
     #    link: Yildiz2003.pdf
     #  - name: PBoC Chapter 13
   - entry:
-    date: 2/8 @ <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
+    date: 2/8 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics: > 
       Diffusion, the null hypothesis of biological dynamics, Part II. Diffusion
       using by coin flips
@@ -426,7 +426,7 @@ syllabus:
     #    type: external
     #    link: "https://colab.research.google.com/drive/1GnCI6OkBdVZUovVnz_ur0IF7OlJgXHLh"
   - entry:
-    date: 2/15
+    date: 2/15 @ 219 Dwinelle
     topics: >
       Biological Dynamics, Part I: The mean dynamics of the constitutive promoter
     materials:
@@ -437,7 +437,7 @@ syllabus:
          type: external
          link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
   - entry: 
-    date: 2/17
+    date: 2/17 @ 219 Dwinelle
     topics: > 
       Biological Dynamics, Part II: The single-cell distribution of the constitutive promoter
     #discussion:
@@ -451,7 +451,7 @@ syllabus:
                  Colab Notebook (Discussion I - Yovan)</a></li>
               </ul>'
   - entry: 
-    date: 2/22
+    date: 2/22 @ 219 Dwinelle
     topics: > 
       Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
     materials:
