@@ -454,6 +454,10 @@ syllabus:
     date: 2/22
     topics: > 
       Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
+    materials:
+      - name: "Regulatory Biology and The Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation" 
+        type: external
+        link: https://docs.google.com/presentation/d/1YC0WzNkhilGLF6qEB4DkK1n0df1FTeb1eN16t9vWEOk/edit?usp=sharing
   - entry:
     date: 2/24
     topics: > 
