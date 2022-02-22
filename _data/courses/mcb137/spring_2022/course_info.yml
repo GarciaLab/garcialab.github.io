@@ -444,7 +444,7 @@ syllabus:
     #  - name: Diffusion by master equations, Part I (Python Code)
     #    type: external
     #    link: "https://colab.research.google.com/drive/1gdm53PuUoGZRKa_Anx_bqxzlYOyP0Shh"
-    materials:
+    discussion:
       - name: 'Constitutive gene expression by master equation
               <ul>
                  <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
