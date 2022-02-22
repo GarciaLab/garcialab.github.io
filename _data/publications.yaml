@@ -1,3 +1,17 @@
+2022:
+  - title: >
+      Chromatin changes in Phytochrome Interacting Factor-regulated genes 
+      parallel their rapid transcriptional response to light
+    author: > 
+      Eduardo González-Grandío, Simón Álamos, Yu Zhang, 
+      Jutta Dalton-Roesler, Krishna K. Niyogi, Hernan G. Garcia, 
+      and Peter H. Quail
+    journal: Frontiers in Plant Science
+    volume: 13:803441
+    links:
+      DOI: "https://doi.org/10.3389/fpls.2022.803441"
+      PDF full text: "Gonzalez-Grandio2022.pdf"
+
 2021:
   - title: >
       Single cell biology—a Keystone Symposia report
@@ -17,19 +31,6 @@
     links:
       DOI: "http://doi.org/10.1111/nyas.14692"
       PDF full text: "Cable2021.pdf"
-      
-  - title: >
-      Chromatin changes in PIF-regulated genes parallel 
-      their rapid transcriptional response to light
-    author: > 
-      Eduardo González-Grandío, Simón Álamos, Yu Zhang, 
-      Jutta Dalton-Roesler, Krishna K. Niyogi, Hernan G. Garcia, 
-      and Peter H. Quail
-    journal: preprint on bioRxiv
-    volume: 2021.10.04.463089
-    links:
-      DOI: "https://doi.org/10.1101/2021.10.04.463089"
-      PDF full text: "Gonzalez-Grandio2021.pdf"
       
   - title: >
       Quantitative imaging of RNA polymerase II activity in plants reveals 
