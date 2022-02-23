@@ -458,6 +458,9 @@ syllabus:
       - name: "Regulatory Biology and The Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1YC0WzNkhilGLF6qEB4DkK1n0df1FTeb1eN16t9vWEOk/edit?usp=sharing
+      - name: "A first exposure to statistical mechanics for life scientists: applications to binding (Garcia 2015)"
+        type: paper
+        link: Garcia2007b.pdf
   - entry:
     date: 2/24
     topics: > 
