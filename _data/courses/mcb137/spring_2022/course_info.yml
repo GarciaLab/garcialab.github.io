@@ -472,6 +472,12 @@ syllabus:
        - name: "Lecture Notes: Simple Repression"
          type: notes
          link: lec12.pdf
+       - name: "Quantitative dissection of the simple repression input-output function"
+         type: paper
+         link: Garcia2011c.pdf
+       - name: The transcription factor titration effect dictates level of gene expression
+         type: paper
+         link: Brewster2014.pdf
     discussion:
     #  - name: Diffusion by master equations, Part II
   - entry: 
