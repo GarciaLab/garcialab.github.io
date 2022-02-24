@@ -465,16 +465,13 @@ syllabus:
     date: 2/24
     topics: > 
       Regulatory Biology and Statistical Mechanics: Simple Repression
-    #materials:
-    #  - name: "Biological Dynamics: Powerpoint Slides"
-    #    type: protected
-    #    link:
-    #  - name: Real-Time Kinetics of Gene Activity in Individual Bacteria (Golding 2005)
-    #    type: paper
-    #    link: Golding2005.pdf
-    #  - name: mRNA synthesis/degradation simulation (Python Code)
-    #    type: external
-    #    link: "https://colab.research.google.com/drive/12p7cPBQG16IBIBlTvGjwXq2xsgTgjwgi"
+    materials:
+       - name: Pre-Lecture 12 recording: Simple Repression
+         type: external
+         link: "https://www.dropbox.com/s/95y8yai5a2w09vm/2022-02-23-SimpleRepression.mp4?dl=0"
+       - name: Lecture Notes: Simple Repression
+         type: notes
+         link: Notes - Lecture 12- Regulatory Biology - Simple Repression.pdf
     discussion:
     #  - name: Diffusion by master equations, Part II
   - entry: 
