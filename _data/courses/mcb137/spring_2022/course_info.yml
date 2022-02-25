@@ -450,6 +450,11 @@ syllabus:
                  <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
                  Colab Notebook (Discussion I - Yovan)</a></li>
               </ul>'
+      - name: 'Constitutive gene expression by master equation, Part I
+              <ul>
+                <li><a href="https://colab.research.google.com/drive/1FqWMigWESg7lUIyXR5PnU04d8P6xs-Dp?usp=sharing">
+                Colab Notebook (Discussion I - Yasemin)</a><li>
+              </ul>
   - entry: 
     date: 2/22 @ 219 Dwinelle
     topics: > 
