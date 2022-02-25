@@ -479,7 +479,12 @@ syllabus:
          type: paper
          link: Brewster2014.pdf
     discussion:
-    #  - name: Diffusion by master equations, Part II
+       - name: 'Diffusion by master equations, Part II'
+       - name: 'Expression under the Lacl repressor, Part I.
+              <ul>
+                 <li><a href="https://tinyurl.com/y8535kdx">
+                 Colab Notebook + Data (Discussion I - Yovan)</a></li>
+              </ul>'
   - entry: 
     date: 3/1
     #topics: > 
