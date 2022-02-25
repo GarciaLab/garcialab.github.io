@@ -445,7 +445,7 @@ syllabus:
     #    type: external
     #    link: "https://colab.research.google.com/drive/1gdm53PuUoGZRKa_Anx_bqxzlYOyP0Shh"
     discussion:
-      - name: 'Constitutive gene expression by master equation
+      - name: 'Constitutive gene expression by master equation, Part I
               <ul>
                  <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
                  Colab Notebook (Discussion I - Yovan)</a></li>
@@ -479,7 +479,11 @@ syllabus:
          type: paper
          link: Brewster2014.pdf
     discussion:
-       - name: 'Diffusion by master equations, Part II'
+       - name: 'Constitutive gene expression by master equation, Part II
+              <ul>
+                 <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
+                 Colab Notebook (Discussion I - Yovan)</a></li>
+              </ul>'
        - name: 'Expression under the Lacl repressor, Part I.
               <ul>
                  <li><a href="https://tinyurl.com/y8535kdx">
