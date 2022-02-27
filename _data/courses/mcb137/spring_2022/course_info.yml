@@ -493,17 +493,21 @@ syllabus:
               </ul>'
   - entry: 
     date: 3/1
-    #topics: > 
-    #  Biological dynamics, part II: The single-cell distribution of the constitutive promoter
+    topics: 
+      - "Defiance Is the Secret of Life, Part I
+        <ul>
+            <li>Energy for fun and profit</li>
+            <li>Entropy maximization and the 2nd law of thermodynamics</li>
+        </ul>"
   - entry: 
     date: 3/3
-    #topics: > 
-    #  Membraneless organelles adn phase transitions in biology, Part I. Entropy
-    #  maximization and the second law of thermodynamics
-    #materials:
-    #  - name: "Phase Separatation: Powerpoint Presentation"
-    #    type: protected
-    #    link:   
+    topics: 
+      - "Defiance Is the Secret of Life, Part II
+        <ul>
+            <li>Biological batteries</li>
+            <li>Defying diffusion</li>
+            <li>The chemical potential</li>
+        </ul>"
     discussion:
     #  - name: mRNA distributions by chemical master equations, Part I (Python Code)
     #    type: external
