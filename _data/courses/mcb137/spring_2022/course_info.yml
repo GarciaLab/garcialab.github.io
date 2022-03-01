@@ -184,6 +184,13 @@ Homework:
     title: Homework 6
     link: 
     due: "3/10 at 11:00 AM"
+    materials:
+      - name: Petkova 2014
+        type: paper
+        link: Petkova2014.pdf
+      - name: Taniguchi 2010
+        type: paper
+        link: Taniguchi2010.pdf
   - set:
     title: Homework 7
     link: 
