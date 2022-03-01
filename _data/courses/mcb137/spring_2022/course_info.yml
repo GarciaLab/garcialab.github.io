@@ -499,6 +499,10 @@ syllabus:
             <li>Energy for fun and profit</li>
             <li>Entropy maximization and the 2nd law of thermodynamics</li>
         </ul>"
+    materials:
+       - name: Engineering Maxwell's demon
+         type: paper
+         link: Lu2014.pdf
   - entry: 
     date: 3/3
     topics: 
