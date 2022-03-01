@@ -503,6 +503,15 @@ syllabus:
        - name: Engineering Maxwell's demon
          type: paper
          link: Lu2014.pdf
+       - name: "Pre-Lecture 13 recording: Entropy Maximization and Chemical Potential"
+         type: external
+         link: "https://www.dropbox.com/s/95y8yai5a2w09vm/2022-02-23-SimpleRepression.mp4?dl=0"
+       - name: "Lecture Notes:  Entropy Maximization and Chemical Potential"
+         type: notes
+         link: lec13.pdf
+       - name: "Lecture 13 slides"
+         type: external
+         link: "https://docs.google.com/presentation/d/1KmYtRZBTV4zLEGj8NxHO27buhieLM1sf/edit?usp=sharing&ouid=107215104885062279090&rtpof=true&sd=true"
   - entry: 
     date: 3/3
     topics: 
