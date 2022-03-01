@@ -512,6 +512,9 @@ syllabus:
        - name: "Lecture 13 slides"
          type: external
          link: "https://docs.google.com/presentation/d/1KmYtRZBTV4zLEGj8NxHO27buhieLM1sf/edit?usp=sharing&ouid=107215104885062279090&rtpof=true&sd=true"
+       - name: "YouTube: Defiance is the Secret of Life"
+         type: external
+         link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
   - entry: 
     date: 3/3
     topics: 
