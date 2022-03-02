@@ -104,6 +104,7 @@ header_img: teaching.jpg
 <th><b> Topics </b></th>
 <th><b> Materials</b></th>
 <th><b> Discussion</b></th>
+<th><b> Videos</b></th>
 </tr>
 {% assign no = 1 %}
 {% for entry in data_file.course_info['syllabus'] %}
@@ -155,6 +156,14 @@ header_img: teaching.jpg
     {{disc.name}}</li>
     {% endif %}  
   {% endfor %} 
+  </ul>
+  </td>
+  <td>
+  <ul>
+  {% for video in entry.videos %}
+  <li>
+        <a href="{{video.link}}">{{video.name}}</a>{{topic}}</li>
+  {% endfor %}
   </ul>
   </td>
 
