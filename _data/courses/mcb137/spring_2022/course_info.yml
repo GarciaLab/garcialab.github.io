@@ -128,8 +128,8 @@ Homework:
         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
     solutions:
       - name: Homework 2 Solutions
-        type: homework
-        link: MCB137_2022_HW2_Solutions.pdf
+        type: external
+        link: "https://drive.google.com/drive/folders/1c47mId5PW3DF7M5OtmLVbvgcYzmOv88v?usp=sharing"
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2022.pdf
