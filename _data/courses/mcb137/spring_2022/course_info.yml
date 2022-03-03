@@ -128,7 +128,7 @@ Homework:
         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
     solutions:
       - name: Homework 2 Solutions
-        type: protected
+        type: homework
         link: MCB137_2022_HW2_Solutions.pdf
   - set:
     title: Homework 3
