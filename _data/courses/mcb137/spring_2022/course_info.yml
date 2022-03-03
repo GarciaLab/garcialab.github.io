@@ -126,6 +126,10 @@ Homework:
       - name: Data for problem 4
         type: external
         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
+    solutions:
+      - name: Homework 2 Solutions
+        type: protected
+        link: MCB137_2022_HW2_Solutions.pdf
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2022.pdf
