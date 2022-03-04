@@ -114,10 +114,10 @@ Homework:
   #    - name: Sender 2016
   #      type: paper
   #      link: Sender2016.pdf
-    # solutions: 
-  #    - name: Homework 1 Solutions
-  #      type: protected
-  #      link: hw1_solns.pdf
+     solutions: 
+      - name: Homework 1 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1G10Z0p02TTpQtbE2-B-tFTe9OaP2yU5M/view?usp=sharing"
   - set:
     title: Homework 2
     link: MCB137+237-HW2-2022.pdf
@@ -129,7 +129,7 @@ Homework:
     solutions:
       - name: Homework 2 Solutions
         type: external
-        link: "https://drive.google.com/drive/folders/1c47mId5PW3DF7M5OtmLVbvgcYzmOv88v?usp=sharing"
+        link: "https://drive.google.com/file/d/1SGRt0fPahzg9mbSvGoCtoOYS8Ngne-aU/view?usp=sharing"
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2022.pdf
