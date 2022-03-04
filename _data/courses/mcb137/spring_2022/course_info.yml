@@ -110,11 +110,7 @@ Homework:
       - name: PBoC3 Chapter 2
         type: chapter
         link: PBoC3_chap2.pdf
-    # materials:
-  #    - name: Sender 2016
-  #      type: paper
-  #      link: Sender2016.pdf
-     solutions: 
+    solutions: 
       - name: Homework 1 Solutions
         type: external
         link: "https://drive.google.com/file/d/1G10Z0p02TTpQtbE2-B-tFTe9OaP2yU5M/view?usp=sharing"
