@@ -537,13 +537,15 @@ syllabus:
     #    link: "https://drive.google.com/file/d/1CWT2ApqbWseArDmvRLUI4TQPWjdnosXw/view?usp=sharing"
 
   - entry: 
-    date: 3/8
+    date: 3/8 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
+    topics:
+      - "Guest Lecturer: Rob Phillips"
     #topics: >
     #  Membraneless organelles and phase transitions in biology, Part II: Free energy minimization
   - entry:
     date: 3/10 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
-      - Guest Lecturer: Rob Phillips
+      - "Guest Lecturer: Rob Phillips"
     #topics: >
     #  Membraneless organelles and phase transitions in biology, Part III: Free
     #  energy minimization and the emergence of phase separation
