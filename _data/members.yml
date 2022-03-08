@@ -36,14 +36,6 @@
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
   
-- avatar: laura.JPG
-  name: Laura Fantone
-  caste: admin
-  background: >
-      Lab Manager<br/>
-      PhD City University of New York
-  email: lfantone
-  
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
@@ -76,6 +68,15 @@
       Physics Rotation Student <br/>
       BS Physics and Literature, MIT
   email: amherman
+  
+- avatar: CharlotteJennings.jpg
+  name: Charlotte Jennings
+  caste: admin
+  background: >
+      Lab Manager<br/>
+      BS Biological Sciences, Carnegie Mellon University
+      PhD candidate, Integrative Biology, UC Berkeley
+  email: cjennings
 
 - avatar: yasemin.jpg
   name: Yasemin Kiriscioglu
