@@ -548,8 +548,8 @@ syllabus:
       - "Guest Lecturer: Rob Phillips"
     materials:
        - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
-       - type: paper
-       - link: Zuckerman2020.pdf
+         type: paper
+         link: Zuckerman2020.pdf
     #topics: >
     #  Membraneless organelles and phase transitions in biology, Part III: Free
     #  energy minimization and the emergence of phase separation
