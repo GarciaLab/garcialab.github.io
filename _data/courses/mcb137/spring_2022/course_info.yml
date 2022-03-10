@@ -547,7 +547,7 @@ syllabus:
     topics:
       - "Guest Lecturer: Rob Phillips"
     materials:
-       - name: "Key biology you should have learned in physics class (Zuckerman 2020)
+       - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
        - type: paper
        - link: Zuckerman2020.pdf
     #topics: >
