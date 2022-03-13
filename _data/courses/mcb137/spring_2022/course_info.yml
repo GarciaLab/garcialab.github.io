@@ -579,7 +579,7 @@ syllabus:
     topics:
       - "Defiance Is the Secret of Life, Part V
         <ul>
-            <li>Review of 15 and 16</li>
+            <li>Review of lectures 15 and 16</li>
             <li>Phosphorylation and the ATP battery</li>
         </ul>"
     #materials:
@@ -588,9 +588,11 @@ syllabus:
     #    link: 
   - entry:
     date: 3/17
-    #topics: >
-    #  A life-or-death decision: The Lambda Switch, Part II. The statistical
-    #  mechanics protocol: ion channels and constitutive promoters
+    topics:
+      - "Defiance Is the Secret of Life, Part VI
+        <ul>
+            <li>Defying specificity: Kinetic proofreading</li>
+        </ul>"
     #materials:
     #  - name:  Plotting the Promoter Fraction Bound (Python Code)
     #    type: external
