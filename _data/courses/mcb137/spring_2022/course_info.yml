@@ -527,25 +527,32 @@ syllabus:
     topics: 
       - "Defiance Is the Secret of Life, Part II
         <ul>
-            <li>Biological batteries</li>
-            <li>Defying diffusion</li>
-            <li>The chemical potential</li>
+            <li>Entropic forces: A DNA entropic spring</li>
         </ul>"
     discussion:
     #  - name: mRNA distributions by chemical master equations, Part I (Python Code)
     #    type: external
     #    link: "https://drive.google.com/file/d/1CWT2ApqbWseArDmvRLUI4TQPWjdnosXw/view?usp=sharing"
-
   - entry: 
     date: 3/8 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "Guest Lecturer: Rob Phillips"
+      - "Defiance Is the Secret of Life, Part III
+        <ul>
+            <li>Biological batteries</li>
+            <li>Defying diffusion: The proton gradient battery</li>
+            <li>The chemical potential</li>
+        </ul>"
     #topics: >
     #  Membraneless organelles and phase transitions in biology, Part II: Free energy minimization
   - entry:
     date: 3/10 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "Guest Lecturer: Rob Phillips"
+      - "Defiance Is the Secret of Life, Part IV
+        <ul>
+            <li>Getting energy out of concentration gradients: Symporters</li>
+        </ul>"
     materials:
        - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
          type: paper
@@ -569,11 +576,12 @@ syllabus:
     #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
   - entry:
     date: 3/15
-    #topics: >
-    #  Membraneless organelles and phase transitions in biology, Part IV:
-    #  Biological regulation of phase transitions. A life-or-death decision: THe
-    #  lambda Switchh, Part I. The statistical mechanics rprotocol: ion channels
-    #  and constitutive promoters
+    topics:
+      - "Defiance Is the Secret of Life, Part V
+        <ul>
+            <li>Review of 15 and 16</li>
+            <li>Phosphorylation and the ATP battery</li>
+        </ul>"
     #materials:
     #  - name: "The Lambda Switch: Powerpoint Presentation"
     #    type: protected
