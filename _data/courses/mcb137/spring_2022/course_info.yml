@@ -557,6 +557,9 @@ syllabus:
        - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
          type: paper
          link: Zuckerman2020.pdf
+       - name: "General Principles of Secondary Active Transporter Function (Beckstein 2022)"
+         type: paper
+         link: Beckstein2022.pdf
     #topics: >
     #  Membraneless organelles and phase transitions in biology, Part III: Free
     #  energy minimization and the emergence of phase separation
