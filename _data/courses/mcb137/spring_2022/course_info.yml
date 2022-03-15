@@ -612,8 +612,7 @@ syllabus:
     #  by Lac and Lambdaa repressor
   - entry:
     date: 3/31
-    topics: >
-      Guest Lecturer: Uri Alon
+    #topics: >
     #materials: 
     #  - name: >
     #      Channel Gating Kinetics of Purified Sodium CHannels Modified by
