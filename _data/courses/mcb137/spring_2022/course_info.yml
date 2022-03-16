@@ -184,6 +184,10 @@ Homework:
       - name: Driever 1988 Data
         type: external
         link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing" 
+    solutions:
+      - name: Homework 5 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1_GdYcOMFU3UTnsQ3KYygcNWo2h3WqazY/view?usp=sharing"   
   - set:
     title: First estimate (MCB137L) and model proposal (MCB237L)
     link: 
