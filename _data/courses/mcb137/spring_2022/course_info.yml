@@ -589,10 +589,10 @@ syllabus:
             <li>Review of lectures 15 and 16</li>
             <li>Phosphorylation and the ATP battery</li>
         </ul>"
-    #materials:
-    #  - name: "The Lambda Switch: Powerpoint Presentation"
-    #    type: protected
-    #    link: 
+    materials:
+      - name: "Lecture Notes" 
+        type: notes
+        link: lec17.pdf
   - entry:
     date: 3/17
     topics:
