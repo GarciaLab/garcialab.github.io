@@ -157,6 +157,10 @@ Homework:
       - name: PBoC3 Chapter 5
         type: chapter
         link: PBoC3_chap5.pdf
+    solutions:
+      - name: Homework 4 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1QkHSMlQk8uopzDme9yYVO1CnGz5k0C_4/view?usp=sharing"   
   - set:
     title: Homework 5
     link: MCB137+237-HW5-2022.pdf
