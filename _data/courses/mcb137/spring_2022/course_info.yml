@@ -623,6 +623,12 @@ syllabus:
       - name: "Lecture Notes"
         type: notes
         link: lec17.pdf
+      - name: "Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity (Hopfield 1974)"
+        type: paper
+        link: Hopfield1974.pdf
+      - name: "Kinetic amplification of enzyme discrimination (Ninio 1974)"
+        type: paper
+        link: Ninio1974.pdf
     discussion: 
     #  - name: "Sequencing Depth: Binomial and Poisson distribution"
   - entry:
