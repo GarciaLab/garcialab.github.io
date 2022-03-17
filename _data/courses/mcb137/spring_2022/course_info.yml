@@ -619,6 +619,10 @@ syllabus:
     #  - name: Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)
     #    type: paper
     #    link: Brangwynne2009.pdf
+    materials:
+      - name: "Lecture Notes"
+        type: notes
+        link: lec17.pdf
     discussion: 
     #  - name: "Sequencing Depth: Binomial and Poisson distribution"
   - entry:
