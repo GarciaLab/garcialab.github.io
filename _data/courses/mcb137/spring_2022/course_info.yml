@@ -203,6 +203,10 @@ Homework:
       - name: Taniguchi 2010
         type: paper
         link: Taniguchi2010.pdf
+     solutions:
+      - name: Homework 6 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1d_koQgep8n61_akPFVyhGrprBHxa7F9K/view?usp=sharing"  
   - set:
     title: Homework 7
     link:  MCB137+237-HW7-2022.pdf
