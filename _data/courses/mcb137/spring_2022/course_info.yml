@@ -691,16 +691,18 @@ syllabus:
      #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   - entry:
     date: 4/12
-    #topics: >
-    #  Coronavirus by the numbers, Part I 
-    #materials: 
-    #  - name: "Coronavirus by the Numbers: Powerpoint Presentation"
-    #    type: protected
-    #    link:
+    topics:
+      - Divide and Conquer: Compartmentalization in Space and Time
+        <ul>
+            <li>Guest lecturers: Jane Kondev (Brandeis University), Julie Theoriot (Univeristy of Washington) and Christina Hueschen (Stanford University)</li>
+        </ul>"
   - entry: 
     date: 4/14
-    #topics: > 
-    #  Coronavirus by the Numbers, Part II
+    topics:
+      - Defiance revisited: How to make a spatial gradient
+        <ul>
+            <li>Guest lecturers: Jane Kondev (Brandeis University), Julie Theoriot (Univeristy of Washington) and Christina Hueschen (Stanford University)</li>
+        </ul>"
     #discussion:
     #  - name: Gneetic Oscillators (Python Code) 
     #    type: external
