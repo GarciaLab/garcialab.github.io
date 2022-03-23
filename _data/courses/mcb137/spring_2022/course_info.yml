@@ -633,23 +633,20 @@ syllabus:
     #  - name: "Sequencing Depth: Binomial and Poisson distribution"
   - entry:
     date: 3/29
-    #topics: >
-    #  A life-or-death decision: THe Lambda Switch , Part III. Simple repression
-    #  by Lac and Lambdaa repressor
+    topics:
+      - "Molecular Switches:
+        <ul>
+            <li>A life-or-death decision: The lambda switch</li>
+            <li>The second secret of life: Protein allostery and the MWC model</li>
+        </ul>"
   - entry:
     date: 3/31
-    #topics: >
-    #materials: 
-    #  - name: >
-    #      Channel Gating Kinetics of Purified Sodium CHannels Modified by
-    #      Batrachotoxin (Keller 1986)
-    #    type: paper
-    #    link: Keller1986.pdf
-    #  - name: >
-    #      A FIrst Exposure to Statistical Mechanics of Life Scientists:
-    #      Applications to Binding (Garcia 2007)
-    #    type: paper
-    #    link: Garcia2007b.pdf
+    topics:
+      - "Dynamical systems:
+        <ul>
+            <li>Mutual repression switches</li>
+            <li>Epidemiology: The SRI model and flattening the curve</li>
+        </ul>"
     discussion:
     #  - name: LacI Repressor Analysis, Part I (Python Code)
     #    type: external
