@@ -689,14 +689,14 @@ syllabus:
   - entry:
     date: 4/12
     topics:
-      - Divide and Conquer: Compartmentalization in Space and Time
+      - "Divide and Conquer: Compartmentalization in Space and Time
         <ul>
             <li>Guest lecturers: Jane Kondev (Brandeis University), Julie Theoriot (Univeristy of Washington) and Christina Hueschen (Stanford University)</li>
         </ul>"
   - entry: 
     date: 4/14
     topics:
-      - Defiance revisited: How to make a spatial gradient
+      - "Defiance revisited: How to make a spatial gradient
         <ul>
             <li>Guest lecturers: Jane Kondev (Brandeis University), Julie Theoriot (Univeristy of Washington) and Christina Hueschen (Stanford University)</li>
         </ul>"
