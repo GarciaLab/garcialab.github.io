@@ -215,6 +215,10 @@ Homework:
     title: Homework 8
     link: MCB137+237-HW8-2022.pdf
     due: "3/31 at 11:00 AM"
+    materials:
+      - name: Data for problem 1
+        type: external
+        link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
   - set:
     title: Homework 9
     link: 
