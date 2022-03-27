@@ -61,6 +61,8 @@ header_img: teaching.jpg
     <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
     {% elsif mat.type == 'chapter' %}
     <a href="{{site.baseurl}}/courses/chapters/{{mat.link}}">
+    {% elsif mat.type == 'data' %}
+    <a href="{{site.baseurl}}/courses/data/{{mat.link}}">
     {% elsif mat.type == 'external' %}
     <a href="{{mat.link}}">
     {% endif %}
