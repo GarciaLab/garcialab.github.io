@@ -219,6 +219,12 @@ Homework:
       - name: Data for problem 1
         type: external
         link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
+      - name: Briggs 2004
+        type: paper
+        link: Briggs2004.pdf
+      - name: Whitman 1998
+        type: paper
+        link: Whitman1998.pdf
   - set:
     title: Homework 9
     link: 
