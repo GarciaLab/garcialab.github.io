@@ -219,6 +219,9 @@ Homework:
       - name: Data for problem 1
         type: external
         link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
+      - name: Garcia et al. (2011c)
+        type: paper
+        link: Garcia2011c.pdf
       - name: Briggs et al. (2004) (use Fig. 1 here)
         type: paper
         link: Briggs2004.pdf
