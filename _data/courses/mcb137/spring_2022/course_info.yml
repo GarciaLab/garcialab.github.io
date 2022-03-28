@@ -211,6 +211,11 @@ Homework:
     title: Homework 7
     link:  MCB137+237-HW7-2022.pdf
     due: "3/17 at 11:00 AM"
+    solutions:
+      - name: Homework 7 Solutions
+        type: external
+        link:"https://drive.google.com/file/d/1gWP_eyo-y-7Q_-TdV1MbhBFy2l-dKYLa/view?usp=sharing"
+      
   - set:
     title: Homework 8
     link: MCB137+237-HW8-2022.pdf
