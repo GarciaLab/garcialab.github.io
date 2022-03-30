@@ -658,19 +658,21 @@ syllabus:
   - entry:
     date: 3/29
     topics:
-      - "Molecular Switches:
-        <ul>
-            <li>A life-or-death decision: The lambda switch</li>
-            <li>The second secret of life: Protein allostery and the MWC model</li>
-        </ul>"
+      - "Lecture cancelled"
+      #- "Molecular Switches:
+      #  <ul>
+      #      <li>A life-or-death decision: The lambda switch</li>
+      #      <li>The second secret of life: Protein allostery and the MWC model</li>
+      #  </ul>"
   - entry:
     date: 3/31
     topics:
-      - "Dynamical systems:
-        <ul>
-            <li>Mutual repression switches</li>
-            <li>Epidemiology: The SRI model and flattening the curve</li>
-        </ul>"
+      - "Guest Lecturer: Rob Phillips"
+      #- "Dynamical systems:
+      #  <ul>
+      #      <li>Mutual repression switches</li>
+      #      <li>Epidemiology: The SRI model and flattening the curve</li>
+      #  </ul>"
     discussion:
     #  - name: LacI Repressor Analysis, Part I (Python Code)
     #    type: external
