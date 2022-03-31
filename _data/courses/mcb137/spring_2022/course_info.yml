@@ -243,6 +243,10 @@ Homework:
     title: Homework 9
     link: MCB137+237-HW9-2022.pdf
     due: "4/7 at 11:00 AM"
+    materials:
+      - name: Garcia et al. (2007b)
+        type: paper
+        link: Garcia2007b.pdf
   - set:
     title: Homework 10
     link: 
