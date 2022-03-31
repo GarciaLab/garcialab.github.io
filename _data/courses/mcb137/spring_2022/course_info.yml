@@ -668,11 +668,11 @@ syllabus:
     date: 3/31 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "Guest Lecturer: Rob Phillips"
-      #- "Dynamical systems:
-      #  <ul>
-      #      <li>Mutual repression switches</li>
-      #      <li>Epidemiology: The SRI model and flattening the curve</li>
-      #  </ul>"
+      - "Molecular Switches:
+        <ul>
+            <li>Protein-protein cooperativity</li>
+            <li>The MWC model</li>
+        </ul>"
     discussion:
     #  - name: LacI Repressor Analysis, Part I (Python Code)
     #    type: external
@@ -680,34 +680,20 @@ syllabus:
   
   - entry: 
     date: 4/5
-    #topics: > 
-    #  A life-or-death decision: The Lambda Switch, Part V. A dynamical systems view of the Lambda switch
+    topics:
+      - "Dynamical systems:
+        <ul>
+            <li>Mutual repression switches</li>
+            <li>Epidemiology: The SRI model and flattening the curve</li>
+        </ul>"
   - entry:
     date: 4/7
-    #topics: > 
-    #  A life-or-death decision: The Lambda switch, Part VI. A dynamical systems view of the Lambda Switch
-    #materials: 
-    #  - name: Mutual Repression (Python Code)
-    #    type: external
-    #    link: "https://colab.research.google.com/drive/1O6TyEtgWbi0o2yuhYbMJrU67sagUur8Y?usp=sharing"
-    #  - name: The stoichiometry of Gag protein in HIV-1 (Briggs 2004)
-    #    type: paper
-    #    link: Briggs2004.pdf
-    #  - name: >
-    #      The mechanism of HIV-1 Core Assembly: Insightes from
-    #      Three-Dimensional Reconstructions of Authentic Virions (Briggs 2006)
-    #    type: paper
-    #    link: Briggs2006.pdf
-    #  - name: > 
-    #      Quantitative dissection of the simple repression input-output function (Garcia 2011)
-    #    type: paper
-    #    link: Garcia2011c.pdf
-    #  - name: "Prokaryontes: The unseen majority (Whitman 1998)"
-    #    type: paper
-    #    link: Whitman1998.pdf
-    #  - name: "Data folder for simple repression" 
-    #    type: external
-    #    link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
+    topics:
+      - "Stochastic simulations:
+        <ul>
+            <li>The stochastic simulation protocol </li>
+            <li>Simulating stochastic mRNA production dynamics</li>
+        </ul>"
     discussion:
      # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
      #   type: external
