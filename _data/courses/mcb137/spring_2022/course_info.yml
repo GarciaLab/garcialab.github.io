@@ -683,7 +683,7 @@ syllabus:
     #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
   - entry: 
-    date: 4/5
+    date: 4/5 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "Dynamical systems:
         <ul>
@@ -691,7 +691,7 @@ syllabus:
             <li>Epidemiology: The SRI model and flattening the curve</li>
         </ul>"
   - entry:
-    date: 4/7
+    date: 4/7 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "Stochastic simulations:
         <ul>
