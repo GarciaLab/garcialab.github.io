@@ -680,7 +680,7 @@ syllabus:
     materials:
       - name: "Lecture Notes"
         type: notes
-        link: lec18.pdf
+        link: lec20.pdf
     discussion:
     #  - name: LacI Repressor Analysis, Part I (Python Code)
     #    type: external
