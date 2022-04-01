@@ -677,6 +677,10 @@ syllabus:
             <li>Protein-protein cooperativity</li>
             <li>The MWC model</li>
         </ul>"
+    materials:
+      - name: "Lecture Notes"
+        type: notes
+        link: lec18.pdf
     discussion:
     #  - name: LacI Repressor Analysis, Part I (Python Code)
     #    type: external
