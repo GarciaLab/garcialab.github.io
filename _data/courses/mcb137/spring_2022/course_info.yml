@@ -694,6 +694,16 @@ syllabus:
             <li>Mutual repression switches</li>
             <li>Epidemiology: The SRI model and flattening the curve</li>
         </ul>"
+    materials:
+      - name: "In Class Notes" 
+        type: notes
+        link: lec21_3.pdf
+      - name: "Lecture Notes I" 
+        type: notes
+        link: lec21_1.pdf
+      - name: "Lecture Notes II" 
+        type: notes
+        link: lec21_2.pdf
   - entry:
     date: 4/7 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
