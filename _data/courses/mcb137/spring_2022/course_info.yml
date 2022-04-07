@@ -693,7 +693,7 @@ syllabus:
   - entry: 
     date: 4/5 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
-      - "Dynamical systems:
+      - "Dynamical systems, Part I:
         <ul>
             <li>Mutual repression switches</li>
             <li>Epidemiology: The SRI model and flattening the curve</li>
@@ -711,10 +711,10 @@ syllabus:
   - entry:
     date: 4/7 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
-      - "Stochastic simulations:
+      - "Dynamical systems, Part I:
         <ul>
-            <li>The stochastic simulation protocol </li>
-            <li>Simulating stochastic mRNA production dynamics</li>
+            <li>Mutual repression switches</li>
+            <li>Epidemiology: The SRI model and flattening the curve</li>
         </ul>"
     discussion:
      # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
@@ -740,12 +740,12 @@ syllabus:
     #    link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
   - entry: 
     date: 4/19
-    #topics: > 
-    #  Dynamics of epidemics, Part I
-    #materials: 
-    #  - name: Please fill out the course survey
-    #    type: external
-    #    link: "http://course-evaluations.berkeley.edu/"
+    topics: 
+      - "Stochastic simulations:
+        <ul>
+            <li>The stochastic simulation protocol </li>
+            <li>Simulating stochastic mRNA production dynamics</li>
+        </ul>"
   - entry:
     date: 4/21
     #topics: > 
@@ -756,8 +756,11 @@ syllabus:
     #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
   - entry:
     date: 4/26
-    #topics: > 
-    #  Second Project Presentations, Part I
+    topics:
+      - "Active matter
+        <ul>
+            <li>Guest lecturer: Christina Hueschen (Stanford University)</li>
+        </ul>"
   - entry:
     date: 4/28 @ VLSB courtyard
     topics:
