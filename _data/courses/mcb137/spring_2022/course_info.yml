@@ -720,6 +720,10 @@ syllabus:
      # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
      #   type: external
      #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
+    materials:
+      - name: "In Class Notes" 
+        type: notes
+        link: lec22.pdf   
   - entry:
     date: 4/12
     topics:
