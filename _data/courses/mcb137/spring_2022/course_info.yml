@@ -702,6 +702,9 @@ syllabus:
       - name: "In Class Notes" 
         type: notes
         link: lec21_3.pdf
+      - name: Lecture slides
+        type: external
+        link: "https://docs.google.com/presentation/d/101YeyFlLHmNSTVXTnBuCv7NG9CBkYWjH_82Y4h0_rXI/edit?usp=sharing"
       #- name: "Lecture Notes I" 
       #  type: notes
       #  link: lec21_1.pdf
