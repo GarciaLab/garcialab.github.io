@@ -699,7 +699,7 @@ syllabus:
             <li>Epidemiology: The SRI model and flattening the curve</li>
         </ul>"
     materials:
-      - name: "In Class Notes" 
+      - name: "Lecture Notes" 
         type: notes
         link: lec21_3.pdf
       - name: Lecture slides
@@ -724,7 +724,7 @@ syllabus:
      #   type: external
      #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
     materials:
-      - name: "In Class Notes" 
+      - name: "Lecture Notes" 
         type: notes
         link: lec22.pdf   
   - entry:
