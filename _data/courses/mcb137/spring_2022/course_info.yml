@@ -555,7 +555,7 @@ syllabus:
             <li>Entropy maximization and the 2nd law of thermodynamics</li>
         </ul>"
     materials:
-       - name: Engineering Maxwell's demon
+       - name: "Engineering Maxwell's demon"
          type: paper
          link: Lu2014.pdf
        - name: "Pre-Lecture 13 recording: Entropy Maximization and Chemical Potential"
@@ -699,12 +699,12 @@ syllabus:
             <li>Epidemiology: The SRI model and flattening the curve</li>
         </ul>"
     materials:
+      - name: "Dynamical Systems: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/101YeyFlLHmNSTVXTnBuCv7NG9CBkYWjH_82Y4h0_rXI/edit?usp=sharing"
       - name: "Lecture Notes" 
         type: notes
         link: lec21_3.pdf
-      - name: Lecture slides
-        type: external
-        link: "https://docs.google.com/presentation/d/101YeyFlLHmNSTVXTnBuCv7NG9CBkYWjH_82Y4h0_rXI/edit?usp=sharing"
       #- name: "Lecture Notes I" 
       #  type: notes
       #  link: lec21_1.pdf
