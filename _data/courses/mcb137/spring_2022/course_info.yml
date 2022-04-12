@@ -734,7 +734,10 @@ syllabus:
     materials:
       - name: "Lecture Notes" 
         type: notes
-        link: lec22.pdf   
+        link: lec22.pdf
+      - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
+        type: external
+        link: "https://www.dropbox.com/s/nmb8ksf10e45g7v/MCB137%2B237-DefianceV2-Export.pptx?dl=0"
   - entry:
     date: 4/12
     topics:
@@ -743,6 +746,10 @@ syllabus:
             <li>Guest lecturers: Jane Kondev (Brandeis University) and Christina Hueschen (Stanford University)</li>
             <li>Michealis-Menten enzyme kinetics</li>
         </ul>"
+    materials:
+      - name: "Lecture slides"
+        type: external
+        link: "https://www.dropbox.com/s/k95iny349bwtb1b/MCB137%2B237-Compartmentilzation-Export.pptx?dl=0"
   - entry: 
     date: 4/14
     topics:
