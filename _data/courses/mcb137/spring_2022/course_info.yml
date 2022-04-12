@@ -738,16 +738,18 @@ syllabus:
   - entry:
     date: 4/12
     topics:
-      - "Divide and Conquer: Compartmentalization in Space and Time
+      - "Divide and Conquer: Compartmentalization in Space and Time, Part I
         <ul>
-            <li>Guest lecturers: Jane Kondev (Brandeis University), Julie Theoriot (Univeristy of Washington) and Christina Hueschen (Stanford University)</li>
+            <li>Guest lecturers: Jane Kondev (Brandeis University) and Christina Hueschen (Stanford University)</li>
+            <li>Michealis-Menten enzyme kinetics</li>
         </ul>"
   - entry: 
     date: 4/14
     topics:
-      - "Defiance revisited: How to make a spatial gradient
+      - "Divide and Conquer: Compartmentalization in Space and Time, Part II
         <ul>
-            <li>Guest lecturers: Jane Kondev (Brandeis University), Julie Theoriot (Univeristy of Washington) and Christina Hueschen (Stanford University)</li>
+            <li>Guest lecturers: Jane Kondev (Brandeis University) and Christina Hueschen (Stanford University)</li>
+            <li>Compartmentalization of enzymatic reactions in the carboxysome</li>
         </ul>"
     #discussion:
     #  - name: Gneetic Oscillators (Python Code) 
