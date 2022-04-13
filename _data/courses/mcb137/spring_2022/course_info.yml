@@ -701,6 +701,7 @@ syllabus:
         type: notes
         link: lec20.pdf
     discussion:
+       - name: 'A simple model of cytoskeletal growth, Part I'
     #  - name: LacI Repressor Analysis, Part I (Python Code)
     #    type: external
     #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
@@ -746,7 +747,7 @@ syllabus:
         type: external
         link: "https://www.dropbox.com/s/nmb8ksf10e45g7v/MCB137%2B237-DefianceV2-Export.pptx?dl=0"
     discussion:
-       - name: 'A simple model of cytoskeletal growth
+       - name: 'A simple model of cytoskeletal growth, Part II
               <ul>
                  <li><a href="https://colab.research.google.com/drive/1wlANr_hYz-uXHxWO1MW5LxGT85zXQMa1?usp=sharing">
                  Colab Notebook (Discussion I - Yovan)</a></li>
