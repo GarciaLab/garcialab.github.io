@@ -271,6 +271,9 @@ Homework:
        - name: Rosenfeld (2005)
          type: paper
          link: Rosenfeld2005.pdf
+       - name: Eden (2011)
+         type: paper
+         link: Eden2011.pdf
   - set:
     title: Second estimate (MCB137L) and poster session (MCB237L)
     due: "4/28 at 11:00 AM"
