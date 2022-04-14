@@ -265,8 +265,12 @@ Homework:
         link: Sturtevant1913.pdf
   - set:
     title: Homework 11 (extra credit)
-    link: 
+    link: MCB137+237-HW11-2022.pdf
     due: "4/21 at 11:00 AM"
+    materials:
+       - name: Rosenfeld (2005)
+         type: paper
+         link: Rosenfeld2005.pdf
   - set:
     title: Second estimate (MCB137L) and poster session (MCB237L)
     due: "4/28 at 11:00 AM"
