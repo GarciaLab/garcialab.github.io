@@ -675,7 +675,7 @@ syllabus:
     materials:
       - name: "Lecture Notes"
         type: notes
-        link: lec17.pdf
+        link: lec18.pdf
       - name: "Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity (Hopfield 1974)"
         type: paper
         link: Hopfield1974.pdf
