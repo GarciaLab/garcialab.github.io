@@ -795,6 +795,10 @@ syllabus:
             <li>Simulating stochastic mRNA production dynamics</li>
         </ul>"
       - "Fill out <a href='http://course-evaluations.berkeley.edu/'> course evaluations</a>."
+    videos:
+      - name: A Stochastic View of Biology
+        link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
+    
   - entry:
     date: 4/21
     topics:
