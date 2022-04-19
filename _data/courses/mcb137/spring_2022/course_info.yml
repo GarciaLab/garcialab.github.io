@@ -786,6 +786,10 @@ syllabus:
     #  - name: Gneetic Oscillators (Python Code) 
     #    type: external
     #    link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
+    materials:
+      - name: "Lecture notes"
+        type: notes
+        link: lec24.pdf
   - entry: 
     date: 4/19
     topics: 
