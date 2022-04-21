@@ -806,10 +806,11 @@ syllabus:
   - entry:
     date: 4/21
     topics:
-      - "Active matter
-        <ul>
-            <li>Guest lecturer: Christina Hueschen (Stanford University)</li>
-        </ul>"
+      -"Class canceled"
+      #- "Active matter
+      #  <ul>
+      #      <li>Guest lecturer: Christina Hueschen (Stanford University)</li>
+      #  </ul>"
     #  Dynamics of epidemics, part II. Physical biology of the Cell Recap
     #materials: 
     #  - name: SIR Model (Python Code)
@@ -818,6 +819,8 @@ syllabus:
   - entry:
     date: 4/26
     topics:
+      - "Exit Talk: Breaking the Standard Model (of Embryonic Development)"
+      - "Fill out course survey:"
   - entry:
     date: 4/28 @ VLSB courtyard
     topics:
