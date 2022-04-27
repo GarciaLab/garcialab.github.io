@@ -691,7 +691,7 @@ syllabus:
   - entry:
     date: 3/29
     topics:
-      - "Lecture cancelled"
+      "Lecture cancelled"
       #- "Molecular Switches:
       #  <ul>
       #      <li>A life-or-death decision: The lambda switch</li>
