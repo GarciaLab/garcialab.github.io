@@ -204,12 +204,79 @@
       2017-2019
   current: Graduate Student, Biophysics, Stanford University
 
+- name: Alex Barbier-Chebbah
+  caste: visitor
+  position: >
+      Visiting Masters Student <br/>
+      Spring 2017
+- name: Jack Bateman
+  caste: visitor
+  position: >
+      Visiting Professor (Sabbatical) <br/>
+      Spring 2016
+  current: Associate Professor, Biology, Bowdoin College
+- name: Shelby Blythe
+  caste: visitor
+  position: >
+      Visiting Postdoctoral Fellow <br/>
+      July 2015
+  current: Assistant Professor, Molecular Biosciences, Northwestern University
+- name: Vincent Bordeau
+  caste: visitor
+  position: Visiting Student
+- name: Paul Jeammet
+  caste: visitor
+  position: >
+      Visiting Masters Student <br/>
+      Spring 2018
+- name: Donald Hansen
+  caste: visitor
+  position: >
+      Visiting Masters Student <br/>
+      2019
+- name: Lishibanya Mohapatra
+  caste: visitor
+  position: >
+      Visiting PhD Student <br/>
+      March 2015
+  current: Assistant Professor, Physics & Astronomy, Rochester Institute of Technology
+- name: Bruno Moretti
+  caste: visitor
+  position: >
+      Visiting PhD Student <br/>
+      Spring 2016
+- name: Shanshan Qin
+  caste: visitor
+  position: >
+      Visiting PhD Student <br/>
+      Summer 2016
+  current: Postdoctoral Fellow, Pehlevan Group, Harvard University
+- name: Allyson Sgro
+  caste: visitor
+  position: >
+      Visiting Postdoctoral Fellow <br/>
+      April 2015
+  current: Assistant Professor, Biomedical Engineering, Boston University
+- name: Harinder Singh
+  caste: visitor
+  position: >
+      Visiting Scholar <br/>
+      May 2015
+  current: Director,  Division of Immunobiology, Cincinati Children's Hospital Medical Center
+- name: Heng Xu
+  caste: visitor
+  position: >
+      Visiting Postdoc <br/>
+      January 2015
+  current: Postdoctoral Fellow, Baylor College of Medicine
+
 - name: Evan Mladina
   caste: tech
   position: Intern
 - name: Aaron Perez
   caste: tech
   position: Intern
+  
 - name: Abrar Abidi 
   caste: rotation
   position: >
@@ -333,71 +400,6 @@
   position: >
       MCB Rotation Student <br/>
       Spring 2020
-- name: Alex Barbier-Chebbah
-  caste: visitor
-  position: >
-      Visiting Masters Student <br/>
-      Spring 2017
-- name: Jack Bateman
-  caste: visitor
-  position: >
-      Visiting Professor (Sabbatical) <br/>
-      Spring 2016
-  current: Associate Professor, Biology, Bowdoin College
-- name: Shelby Blythe
-  caste: visitor
-  position: >
-      Visiting Postdoctoral Fellow <br/>
-      July 2015
-  current: Assistant Professor, Molecular Biosciences, Northwestern University
-- name: Vincent Bordeau
-  caste: visitor
-  position: Visiting Student
-- name: Paul Jeammet
-  caste: visitor
-  position: >
-      Visiting Masters Student <br/>
-      Spring 2018
-- name: Donald Hansen
-  caste: visitor
-  position: >
-      Visiting Masters Student <br/>
-      2019
-- name: Lishibanya Mohapatra
-  caste: visitor
-  position: >
-      Visiting PhD Student <br/>
-      March 2015
-  current: Assistant Professor, Physics & Astronomy, Rochester Institute of Technology
-- name: Bruno Moretti
-  caste: visitor
-  position: >
-      Visiting PhD Student <br/>
-      Spring 2016
-- name: Shanshan Qin
-  caste: visitor
-  position: >
-      Visiting PhD Student <br/>
-      Summer 2016
-  current: Postdoctoral Fellow, Pehlevan Group, Harvard University
-- name: Allyson Sgro
-  caste: visitor
-  position: >
-      Visiting Postdoctoral Fellow <br/>
-      April 2015
-  current: Assistant Professor, Biomedical Engineering, Boston University
-- name: Harinder Singh
-  caste: visitor
-  position: >
-      Visiting Scholar <br/>
-      May 2015
-  current: Director,  Division of Immunobiology, Cincinati Children's Hospital Medical Center
-- name: Heng Xu
-  caste: visitor
-  position: >
-      Visiting Postdoc <br/>
-      January 2015
-  current: Postdoctoral Fellow, Baylor College of Medicine
 
   
 
