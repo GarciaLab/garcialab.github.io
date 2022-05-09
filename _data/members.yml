@@ -52,20 +52,12 @@
       Physics Graduate Student<br/>
       BS Physics, Georgia Tech
   email: nick_gravina
-
-- avatar: AlexHaugan.jpg
-  name: Alex Haugan
-  caste: rotation
-  background: >
-      Molecular and Cell Biology Rotation Student<br/>
-      BS Molecular, Cell, Developmental Biology, University of Washington
-  email: alexhaugan
   
 - avatar: AndreaHerman.jpg
   name: Andrea Herman
-  caste: rotation
+  caste: grad
   background: >
-      Physics Rotation Student <br/>
+      Physics Graduate Student <br/>
       BS Physics and Literature, MIT
   email: amherman
   
@@ -85,6 +77,14 @@
     BA in Physics & Mathematics, Harvard University
   email: ykiriscioglu
 
+- avatar: noHeadshot_HGLabDrosLogo.png
+  name: Heinz Koeppl
+  caste: visitor
+  position: >
+      Visiting Professor on Sabbatical <br/>
+      Prof. of Electrical Engineering and Information Technology <br/>
+      at Technische Universität Darmstadt
+      
 - avatar: nick.jpg
   name: Nicholas Lammers
   caste: grad
@@ -100,22 +100,6 @@
       NSF Molecular & Cell Biology Graduate Fellow<br/>
       BS Physics, MIT
   email: martini
-
-- avatar: JoeyMcKenna.jpg
-  name: Joey McKenna
-  caste: rotation
-  background: >
-      Molecular and Cell Biology Rotation Student<br/>
-      BA Molecular and Cell Biology, UC Berkeley
-  email: jkmckenna
-  
-- avatar: ClaudiaMedrano.jpeg
-  name: Claudia Medrano
-  caste: rotation
-  background: >
-      Molecular and Cell Biology Rotation Student<br/>
-      BS Molecular Biology, UC San Diego
-  email: claudiamedrano
   
 - avatar: bruno.jpg
   name: Bruno Moretti
