@@ -32,17 +32,22 @@ header_img: people_cropped.png
             <a data-cat='grad' href='#'>Graduate Students</a>
           </li>
           <li>
+              <a data-cat='management' href='#'>Lab Managers & Admins</a>
+            </li>
+          <li>
             <a data-cat='rotation' href='#'>Rotation Students</a>
           </li>
-
          <li>
-            <a data-cat='postdoc' href='#'>Post-docs</a>
+            <a data-cat='postdoc' href='#'>Postdocs</a>
           </li>
           <li>
-            <a data-cat='tech' href='#'>Technicians & Admin</a>
+            <a data-cat='tech' href='#'>Lab Technicians & Interns</a>
           </li>
           <li>
             <a data-cat='undergrad' href='#'>Undergraduates</a>
+          </li>
+          <li>
+            <a data-cat='visitor' href='#'>Visitors</a>
           </li>
         </ul>
       </div>
@@ -63,6 +68,8 @@ header_img: people_cropped.png
             {% assign position = "Lab Manager" %}
           {% elsif member.caste == 'rotation' %}
             {% assign position = "Rotation Student" %}
+          {% elsif member.caste == 'visitor' %}
+            {% assign position = "Visitor" %}
           {% else %}
             {% assign position = " " %}
           {% endif %}
@@ -108,6 +115,9 @@ header_img: people_cropped.png
               <a data-cat='grad' href='#'>Graduate Students</a>
             </li>
             <li>
+              <a data-cat='management' href='#'>Lab Managers & Admins</a>
+            </li>
+            <li>
               <a data-cat='rotation' href='#'>Rotation Students</a>
             </li>
 
@@ -115,7 +125,7 @@ header_img: people_cropped.png
               <a data-cat='postdoc' href='#'>Post-docs</a>
             </li>
             <li>
-              <a data-cat='tech' href='#'>Technicians, Interns, & Admin</a>
+              <a data-cat='tech' href='#'>Lab Technicians & Interns</a>
             </li>
             <li>
               <a data-cat='undergrad' href='#'>Undergraduates</a>
