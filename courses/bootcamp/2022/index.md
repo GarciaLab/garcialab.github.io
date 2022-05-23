@@ -1,13 +1,13 @@
 ---
 layout: course
-title: MCB bootcamp summer 2022
+title: Physical Biology Bootcamp at UC Berkeley
 tagline: 
 course_id: 
 term: summer
 year: 2022
 header_img: teaching.jpg
 ---
-{% assign data_file = site.data.courses.mcb137.spring_2022 %}
+{% assign data_file = site.data.courses.bootcamp.2022 %}
 
 
 <div class='full'>
