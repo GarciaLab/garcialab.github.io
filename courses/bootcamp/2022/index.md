@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Physical Biology Bootcamp at UC Berkeley
+title: Physical Biology Bootcamp
 tagline: 
 course_id: 
 term: summer
 year: 2022
 header_img: teaching.jpg
 ---
-{% assign data_file = site.data.courses.bootcamp.2022 %}
+{% assign data_file = site.data.bootcamp.2022 %}
 
 
 <div class='full'>
