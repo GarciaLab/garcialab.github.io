@@ -1,84 +1,11 @@
 about: >
-  Biology is being revolutionized by new experimental techniques that have
-  made it possible to quantitatively query the inner workings of molecules,
-  cells and multicellular organisms in ways that were previously
-  unimaginable. The objective of this course is to respond to this deluge of
-  quantitative data through quantitative models and the use of biological
-  numeracy. The course will explore the description of a broad array of
-  topics from modern biology using the language of physics and mathematics.
-  One style of thinking we will emphasize imagines the kinds of simple
-  calculations that one can do with a stick in the sand.
 
-  <br/><br/>
-  We will draw examples from broad swaths of modern biology from our
-  department and beyond including cell biology (signaling and regulation,
-  cell motility), physiology (metabolism, swimming), developmental biology
-  (patterning of body plans, how size and number of organelles and tissues
-  are controlled), neuroscience (action potentials and ion channel gating)
-  and evolution (population genetics) in order to develop theoretical models
-  that make precise predictions about biological phenomena. These predictions
-  will be tested through the hands-on analysis of experimental data and by
-  performing numerical simulations using Python. Physical biology will be
-  introduced as an exciting new tool to complement other approaches within
-  biology such as genetics, genomics and structural biology. The course will
-  introduce students to the enabling power of biological numeracy in
-  scientific discovery and make it possible for them to use these tools in
-  their own future research.
 
 structure: >
-  The class as a whole will meet twice a week for one hour and a half -
-  Tuesdays and Thursdays, 11am - 12:30pm. The first few lectures will
-  be on Zoom at the address linked in the Syllabus section below, and
-  in 219 Dwinelle once in-person classes resume. This
-  time will be devoted to lectures, discussions and hands-on activities
-  including Python exercises. Further, the class will be split into weekly
-  one-hour lab sessions. During these lab sessions, students will work
-  closely with the GSIs to implement the concepts they learned in class in
-  the context of different biological problems. Homework assignment will be
-  given every week and will represent 75% of the final grade. Twice during
-  the semester, students will prepare a project. The first project will be a
-  written assignment, while the second project will be presented in class.
-  These projects will represent 25% of the final grade.
-  <br/><br/>
-  For undergraduate students (MCB137L), the projects will consist on carrying
-  out an estimate on a biological phenomenon of interest following the style
-  presented in class. These presentations will be five minutes long.
-  <br/><br/>
-  For graduate students (MCB237L) the project will consist on presenting a
-  theoretical model developed in a recent paper of their choosing to the
-  class. These presentations will be ten minutes long.
+ 
 
 policies: > 
-  <b>Attending class and office hours</b><br/>
-  If you miss classes, it is your responsibility to get notes from one of your
-  classmates. You cannot expect the instructor or GSI to redo the lecture
-  during office hours.
-  <br/>
-  Being able to attend office hours are a key to success. If you cannot attend
-  any of the three offered office hours, you might want to reconsider taking
-  this course.
-  <br/><br/>
-  <b>Homework assignments</b><br/>
-  Homeworks are due at the beginning of class one week after they are posted.
-  <br/>
-  Homeworks should be submitted through <a href="https://www.gradescope.com/courses/340644">Gradescope</a>
-  to the GSIs in PDF form. Any other form of homework submission will not be accepted. No late
-  homeworks. Time management is key. Start to work on your homework assignments
-  early and make use of office hours and our availability over <a href="https://piazza.com/class/kx7v9ujrmff7cy">Piazza</a>.
-  <br/>
-  It is important to describe your reasoning. Just writing an equation or
-  drawing a plot does not constitute a satisfactory answer to a homework
-  problem. All plots in the homeworks need to have labeled axes. All code used
-  needs to be submitted through GraceScope by the homework due date. You can
-  work in groups, but the answers should be your own. This includes the code!
-  <br/>
-  <br/>
-  <b>Grading</b><br/>
-  Regrading is done only until a week after the homework solutions are
-  posted. If you ask us to regrade an answer in a homework assignment, we
-  reserve the right to regrade all the answers it that homework assignment.
-  Your two worst scoring homeworks will not be considered for the final
-  grade. We do not grade on a curve(distribution) or anything like that. 
+
    
 people:
   - person:
@@ -86,20 +13,42 @@ people:
     email: hggarcia@berkeley.edu 
     role: Instructor
     img: hernan.jpg
-    office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall, @ <a href="https://berkeley.zoom.us/j/98646776942">Zoom</a>
+    office_hours: TBD 
+    
   - person:
-    name: Yasemin Kiriscioglu
-    email: ykiriscioglu@berkeley.edu
-    role: GSI
-    img: yasemin.jpg
-    office_hours: Tuesdays 3 pm - 4 pm @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a> discussion- Fridays 1-2 pm in 2030 Valley Life Sciences
-
+    name: Priya Moorjani
+    email: moorjani@berkeley.edu
+    role: Instructor
+    img: moorjani.jpg
+    office_hours: TBD
+    
   - person:
-    name: Dushyant (Yovan) Badal
-    email: ybadal@berkeley.edu
+    name: Brandon Schlomann
+    email: bschloma@berkeley.edu
     role: GSI
-    img: yovanbadal.jpg
-    office_hours: Mondays 2 pm - 3 pm @ 235 Barker, @ <a href="https://berkeley.zoom.us/j/95708444100">Zoom</a> discussion- Fridays 12-1 pm in 2030 Valley Life Sciences
+    img: brandonschlo.jpg
+    office_hours: TBD
+    
+  - person:
+    name: Bruno Moretti
+    email: bmoretti@berkeley.edu
+    role: GSI
+    img: bruno.jpg
+    office_hours: TBD
+    
+  - person:
+    name: Arman Karshenas
+    email: arman_karshenas@gmail.com
+    role: GSI
+    img: armanKarshenas.jpg
+    office_hours: TBD
+    
+  - person:
+    name: Julia Falo-Sanjuan
+    email: jfalo@berkeley.edu
+    role: GSI
+    img: juliaFaloSanjuan.jpg
+    office_hours: TBD
     
 Homework: 
   - set:
