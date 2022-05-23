@@ -4,16 +4,34 @@
   email: hggarcia@berkeley.edu 
   role: Instructor
   img: hernan.jpg
-  office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall
+  office_hours: TBD 
 - person:
-  name: Yasemin Kiriscioglu
-  email: ykiriscioglu@berkeley.edu
-  role: GSI
-  img: yasemin.jpg
-  office_hours: Tuesdays 3pm - 4pm @ TBD
+  name: Priya Moorjani
+  email: moorjani@berkeley.edu
+  role: Instructor
+  img: moorjani.jpg
+  office_hours: TBD
 - person:
-  name: Dushyant (Yovan) Badal
-  email: ybadal@berkeley.edu
+  name: Brandon Schlomann
+  email: bschloma@berkeley.edu
   role: GSI
-  img: yovanbadal.jpg
-  office_hours: Fridays 1pm - 2pm @ TBD
+  img: brandonschlo.jpg
+  office_hours: TBD
+- person:
+  name: Bruno Moretti
+  email: bmoretti@berkeley.edu
+  role: GSI
+  img: bruno.jpg
+  office_hours: TBD
+- person:
+  name: Arman Karshenas
+  email: arman_karshenas@gmail.com
+  role: GSI
+  img: armanKarshenas.jpg
+  office_hours: TBD
+- person:
+  name: Julia Falo-Sanjuan
+  email: jfalo@berkeley.edu
+  role: GSI
+  img: juliaFaloSanjuan.jpg
+  office_hours: TBD
