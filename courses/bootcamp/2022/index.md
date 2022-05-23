@@ -25,7 +25,7 @@ header_img: teaching.jpg
           <h5 class='subbanner' style="width: 95%; fontsize: 1em;"> {{person.name}} - {{person.role}}</h5>
           <img alt="" src="{{site.baseurl}}/images/people/{{person.img}}" />
             <p style="text-align: center;">
-                  {{person.email}}<br/>
+                  {{person.email}}<br/></p>
                   
           </li>
         {% endfor %}
