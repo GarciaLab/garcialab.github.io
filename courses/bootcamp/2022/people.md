@@ -1,12 +1,14 @@
 
 <b>Course instructor:</b> Hernan Garcia (hggarcia@berkeley.edu). Office hours:
-*Wednesdays 3pm to 4pm.
+TBD.
+
+<b>Course instructor:</b> Priya Moorjani (moorjani@berkeley.edu). Office hours:
+TBD.
+
+**Course GSI:** Brandon Schlomann (bschloma@berkeley.edu, Office hours: TBD , Bruno Moretti (bmoretti@berkeley.edu, Office hours:
+TBD), Arman Karshenas (arman_karshenas@berkeley.edu, Office hours: TBD).
 
 
-**Course GSI:** Yasemin Kiriscioglu (ykiriscioglu@berkeley.edu, Office hours: Tuesdays 3:00-4:00 pm , & Dushyant (Yovan) Badal (ybadal@berkeley.edu, Office hours:
-*Fridays 1:00 pm to 1:59 pm).
-
-
-*NOTE: For transparency, rather than emailing Hernan, Yasemin or Yovan, we
+*NOTE: For transparency, rather than emailing the instructors, we
 encourage you to message us through the course's Piazza website about any
 questions regarding homeworks and class logistics.*
