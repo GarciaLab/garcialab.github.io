@@ -47,7 +47,26 @@ people:
     role: GSI
     img: juliaFaloSanjuan.jpg
     office_hours: 
+  - person:
+    name: Yasemin Kiriscioglu
+    email: ykiriscioglu@berkeley.edu
+    role: GSI
+    img: yasemin.jpg
+    office_hours: 
     
+  - person:
+    name: Andrea Herman
+    email: amherman@berkeley.edu
+    role: GSI
+    img: AndreaHerman.jpg
+    office_hours: 
+    
+  - person:
+    name: Nick Gravina
+    email: nick_gravina@berkeley.edu
+    role: GSI
+    img: nickGravina.jpeg
+    office_hours: 
 
 syllabuspdf:
   # link: MCB137L-237L-2022-Syllabus.pdf
