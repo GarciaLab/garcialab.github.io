@@ -63,6 +63,12 @@
       Physics Undergrad <br/>
       2015-2016
 
+- name: Anmol Desai
+  caste: undergrad
+  position: >
+      Physics Undergraduate Student<br/>
+      2021-2022
+  
 - name: Elizabeth Eck 
   caste: grad
   position: >
@@ -108,6 +114,13 @@
       2016-2021
   current: Bioinformatics Data Scientist, Chan-Zuckerberg Biohub
 
+- name: Nicholas Lammers
+  caste: grad
+  position: >
+      Biophysics Graduate Student<br/>
+      2017-2022
+  current: Postdoc, Trapnell Lab, University of Washington
+  
 - name: Jonathan Liu
   caste: grad
   position: >
@@ -153,6 +166,13 @@
       NSF Biophysics Graduate Fellow <br/>
       2015-2021
   current: Software Engineer, Stealth-mode startup
+
+- name: Kaitlin Rhee
+  caste: undergrad
+  position: >
+      Physics Undergraduate Student<br/>
+      2018-2022
+  current: PhD Student, Harvard University
 
 - name: Abhishek Sethi
   caste: tech
@@ -223,16 +243,29 @@
 - name: Vincent Bordeau
   caste: visitor
   position: Visiting Student
-- name: Paul Jeammet
-  caste: visitor
-  position: >
-      Visiting Masters Student <br/>
-      Spring 2018
+
 - name: Donald Hansen
   caste: visitor
   position: >
       Visiting Masters Student <br/>
       2019
+      
+- name: Paul Jeammet
+  caste: visitor
+  position: >
+      Visiting Masters Student <br/>
+      Spring 2018
+      
+- name: Heinz Koeppl
+  caste: visitor
+  position: >
+      Visiting Professor<br/>
+      Spring 2022
+  current: >
+      Professor, Electrical Engineering and Information Technology <br/>
+      Director, Self-Organizing Systems Lab <br/>
+      at Technische Universität Darmstadt
+
 - name: Lishibanya Mohapatra
   caste: visitor
   position: >
