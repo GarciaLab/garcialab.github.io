@@ -20,13 +20,6 @@
       BS Physics, California Institute of Technology
   email: ybadal
 
-- avatar: AnmolDesai.png
-  name: Anmol Desai
-  caste: undergrad
-  background: >
-      Physics Undergraduate Student
-  email: adesai
-
 - avatar: juliaFaloSanjuan.jpg
   name: Julia Falo-Sanjuan
   caste: postdoc
@@ -35,6 +28,13 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
+  
+- avatar: noHeadshot_HGLabDrosLogo.png
+  name: Genesis Ferrer-Imbert
+  caste: rotation
+  background: >
+      Biophysics Rotation Student<br/>
+  email: 
   
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
@@ -86,24 +86,6 @@
     BA in Physics & Mathematics, Harvard University
   email: ykiriscioglu
 
-- avatar: HeinzKoeppl.jpg
-  name: Heinz Koeppl
-  caste: visitor
-  background: >
-      Visiting Professor<br/>
-      Professor, Electrical Engineering and Information Technology <br/>
-      Director, Self-Organizing Systems Lab <br/>
-      at Technische Universität Darmstadt
-  email:
-      
-- avatar: nick.jpg
-  name: Nicholas Lammers
-  caste: grad
-  background: >
-      Biophysics Graduate Student<br/>
-      BA Physics and Philosophy, Colorado College
-  email: nlammers
-
 - avatar: gabriella.jpg
   name: Gabriella Martini
   caste: grad
@@ -128,13 +110,6 @@
       Undergraduate Student
   email: ashmita.reddy
 
-- avatar: kaitlin.jpg
-  name: Kaitlin Rhee
-  caste: undergrad
-  background: >
-      Physics Undergraduate Student
-  email: krhee
-
 - avatar: brandonschlo.jpg
   name: Brandon Schlomann
   caste: postdoc
@@ -158,7 +133,14 @@
       NSF Biophysics Graduate Fellow<br/>
       BS Biochemistry and Applied Math, University of Wisconsin-Madison
   email: meghan_turner
-
+  
+- avatar: noHeadshot_HGLabDrosLogo.png
+  name: Alicia Zhang
+  caste: undergrad
+  background: >
+      Undergraduate Student<br/>
+  email: 
+  
 - avatar: jakezhao.jpg
   name: Jiaxi (Jake) Zhao 
   caste: grad
