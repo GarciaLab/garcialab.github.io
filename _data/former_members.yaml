@@ -23,12 +23,12 @@
   position: >
       Visiting Masters Student <br/>
       Summer & Fall 2021
-  current: Masters Student, Biological Sciences, IIT, Madras
+  current: PhD Student, Biophysics Graduate Group, UC Berkeley
 
 - name: Max Aragon 
   caste: undergrad
   position: Physics Undergrad Student
-  current: Graduate Student, Princeton Neuroscience Institute
+  current: PhD Student, Princeton Neuroscience Institute
 
 - name: Augusto Berrocal
   caste: grad
@@ -49,7 +49,7 @@
   position: >
       Junior Specialist <br/>
       2016-2019
-  current: Graduate Student, UW-Madison
+  current: PhD Student, UW-Madison
 
 - name: Jinny Chung
   caste: undergrad
@@ -94,7 +94,7 @@
   position: >
       MCB Undergrad  <br/>
       2017-2021
-  current: Graduate Student, Johns Hopkins
+  current: PhD Student, Bioengineering, Johns Hopkins University
 
 - name: Anjali Kaira
   caste: undergrad
@@ -105,7 +105,7 @@
   position: >
       Physics & Math Undergrad  <br/>
       Summer 2016
-  current: Graduate Student, Northwestern University
+  current: PhD Student, Northwestern University
 
 - name: Yang Joon Kim
   caste:  grad
@@ -133,20 +133,21 @@
   position: >
       High School Intern  <br/>
       Summer 2018
+  current: Undergraduate, UC Berkeley
 
 - name: Emma Luu
   caste: tech
   position: >
       Physics Undergrad & Junior Specialist <br/>
       2017-2020
-  current: Graduate Student, Biophysics, UC Davis
+  current: PhD Student, Biophysics, UC Davis
 
 - name: Sean Medin
   caste: undergrad
   position: >
       Physics Undergrad Student <br/>
       2017-2019
-  current: Graduate Student, Cornell University
+  current: PhD Student, Cornell University
 
 - name: Matthew Norstad
   caste: tech
@@ -165,7 +166,7 @@
   position: >
       NSF Biophysics Graduate Fellow <br/>
       2015-2021
-  current: Software Engineer, Stealth-mode startup
+  current: Software Engineer, Ultima Genomics
 
 - name: Kaitlin Rhee
   caste: undergrad
@@ -221,7 +222,7 @@
   position: >
       Physics Undergrad Student <br/>
       2017-2019
-  current: Graduate Student, Biophysics, Stanford University
+  current: PhD Student, Biophysics, Stanford University
 
 - name: Alex Barbier-Chebbah
   caste: visitor
