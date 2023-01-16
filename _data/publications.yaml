@@ -121,10 +121,11 @@
     author: >
       Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, 
       Meghan A. Turner, Stephen Small, and Hernan G. Garcia
-    journal: preprint on bioRxiv
+    journal: eLife
     volume: 2021.07.28.454075
     links:
-      DOI: "https://doi.org/10.1101/2021.07.28.454075"
+      DOI: "https://doi.org/10.7554/eLife.73395"
+      PDF full text: "YangeLife2022"
   
   - title: >
       Live imaging and biophysical modeling support a button-based mechanism
