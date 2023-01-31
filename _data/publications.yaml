@@ -108,12 +108,13 @@
       Minimal synthetic enhancers reveal control of the probability of 
       transcriptional engagement and its timing by a morphogen
     author: >
-      Armando Reimer, Simon Alamos, Clay Westrum, Meghan A. Turner, 
+      Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, 
       Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
-    journal: preprint on bioRxiv
-    volume: 2021.07.10.451524
+    journal: Cell Systems
+    volume: Cell Systems 14, 1-17
     links:
-      DOI: "https://doi.org/10.1101/2021.07.10.451524"
+      DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
+      PDF: "SimonArmando2023.pdf"
   
   - title: >
       Predictive modeling reveals that higher-order cooperativity drives 
