@@ -1,3 +1,16 @@
+2023: 
+- title: >
+      Minimal synthetic enhancers reveal control of the probability of 
+      transcriptional engagement and its timing by a morphogen
+    author: >
+      Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, 
+      Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
+    journal: Cell Systems
+    volume: Cell Systems 14, 1-17
+    links:
+      DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
+      PDF: "SimonArmando2023.pdf"
+
 2022:
   - title: >
       Optogenetic dissection of transcriptional repression in a multicellular organism
@@ -49,6 +62,17 @@
     links:
       DOI: "https://doi.org/10.3389/fpls.2022.803441"
       PDF full text: "Gonzalez-Grandio2022.pdf"
+ - title: >
+      Predictive modeling reveals that higher-order cooperativity drives 
+      transcriptional repression in a synthetic developmental
+    author: >
+      Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, 
+      Meghan A. Turner, Stephen Small, and Hernan G. Garcia
+    journal: eLife
+    volume: 11:e73395
+    links:
+      DOI: "https://doi.org/10.7554/eLife.73395"
+      PDF full text: "YangeLife2022"
 
 2021:
   - title: >
@@ -103,30 +127,6 @@
         links:
           Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
           Article Snapshot: "NoboriPlantae2020snapshot.pdf"
-  
-  - title: >
-      Minimal synthetic enhancers reveal control of the probability of 
-      transcriptional engagement and its timing by a morphogen
-    author: >
-      Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, 
-      Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
-    journal: Cell Systems
-    volume: Cell Systems 14, 1-17
-    links:
-      DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
-      PDF: "SimonArmando2023.pdf"
-  
-  - title: >
-      Predictive modeling reveals that higher-order cooperativity drives 
-      transcriptional repression in a synthetic developmental
-    author: >
-      Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, 
-      Meghan A. Turner, Stephen Small, and Hernan G. Garcia
-    journal: eLife
-    volume: 2021.07.28.454075
-    links:
-      DOI: "https://doi.org/10.7554/eLife.73395"
-      PDF full text: "YangeLife2022"
   
   - title: >
       Live imaging and biophysical modeling support a button-based mechanism
