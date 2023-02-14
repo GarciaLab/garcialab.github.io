@@ -1,15 +1,13 @@
 2023: 
 - title: >
-      Minimal synthetic enhancers reveal control of the probability of 
-      transcriptional engagement and its timing by a morphogen
-    author: >
-      Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, 
-      Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
-    journal: Cell Systems
-    volume: Cell Systems 14, 1-17
-    links:
-      DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
-      PDF: "SimonArmando2023.pdf"
+    Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
+  author: >
+    Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
+  journal: Cell Systems
+  volume: Cell Systems 14, 1-17
+  links:
+    DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
+    PDF: "SimonArmando2023.pdf"
 
 2022:
   - title: >
@@ -50,23 +48,18 @@
       DOI: "https://doi.org/10.1101/2022.07.01.498451"
       PDF full text: "Lammers2022.pdf"
   - title: >
-      Chromatin changes in Phytochrome Interacting Factor-regulated genes 
-      parallel their rapid transcriptional response to light
+      Chromatin changes in Phytochrome Interacting Factor-regulated genes parallel their rapid transcriptional response to light
     author: > 
-      Eduardo González-Grandío, Simón Álamos, Yu Zhang, 
-      Jutta Dalton-Roesler, Krishna K. Niyogi, Hernan G. Garcia, 
-      and Peter H. Quail
+      Eduardo González-Grandío, Simón Álamos, Yu Zhang, Jutta Dalton-Roesler, Krishna K. Niyogi, Hernan G. Garcia, and Peter H. Quail
     journal: Frontiers in Plant Science
     volume: 13:803441
     links:
       DOI: "https://doi.org/10.3389/fpls.2022.803441"
       PDF full text: "Gonzalez-Grandio2022.pdf"
  - title: >
-      Predictive modeling reveals that higher-order cooperativity drives 
-      transcriptional repression in a synthetic developmental
+     Predictive modeling reveals that higher-order cooperativity drives transcriptional repression in a synthetic developmental
     author: >
-      Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, 
-      Meghan A. Turner, Stephen Small, and Hernan G. Garcia
+      Yang Joon Kim, Kaitlin Rhee, Jonathan Liu, Paul Jeammet, Meghan A. Turner, Stephen Small, and Hernan G. Garcia
     journal: eLife
     volume: 11:e73395
     links:
