@@ -49,7 +49,6 @@
     links:
       DOI: "https://doi.org/10.1101/2022.07.01.498451"
       PDF full text: "Lammers2022.pdf"
- 
   - title: >
       Chromatin changes in Phytochrome Interacting Factor-regulated genes 
       parallel their rapid transcriptional response to light
@@ -93,7 +92,6 @@
     links:
       DOI: "http://doi.org/10.1111/nyas.14692"
       PDF full text: "Cable2021.pdf"
-      
   - title: >
       Quantitative imaging of RNA polymerase II activity in plants reveals 
       the single-cell basis of tissue-wide transcriptional dynamics
@@ -105,28 +103,28 @@
       PDF full text: "Alamos2021.pdf"
       Supporting Information: "Alamos2021supp.pdf"
     commentary: 
-      - title: >
-          Noisy transcription under the spotlight
-        type: News and Views
-        author: Katey Abley and James C.W. Locke
-        journal: Nature Plants
-        volume: 7
-        issue: :996
-        year: 2021
-        links:
-          DOI: "https://doi.org/10.1038/s41477-021-00987-x"
-          PDF full text: "AbleyLocke2021NaturePlantsCommentary.pdf"
-      - title: >
-          Real time quantitative imaging of transcriptional activity
-          at the single cell level
-        type: Highlighted
-        author: Tatsuya Nobori
-        blog: Plantae
-        webpage: "https://plantae.org/"
-        year: 2020
-        links:
-          Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
-          Article Snapshot: "NoboriPlantae2020snapshot.pdf"
+  - title: >
+      Noisy transcription under the spotlight
+      type: News and Views
+     author: Katey Abley and James C.W. Locke
+     journal: Nature Plants
+     volume: 7
+     issue: :996
+     year: 2021
+     links:
+       DOI: "https://doi.org/10.1038/s41477-021-00987-x"
+       PDF full text: "AbleyLocke2021NaturePlantsCommentary.pdf"
+  - title: >
+      Real time quantitative imaging of transcriptional activity
+      at the single cell level
+    type: Highlighted
+    author: Tatsuya Nobori
+    blog: Plantae
+    webpage: "https://plantae.org/"
+    year: 2020
+    links:
+       Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
+       Article Snapshot: "NoboriPlantae2020snapshot.pdf"
   
   - title: >
       Live imaging and biophysical modeling support a button-based mechanism
