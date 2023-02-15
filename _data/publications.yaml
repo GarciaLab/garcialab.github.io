@@ -7,7 +7,17 @@
     volume: Cell Systems 14, 1-17
     links:
       DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
-      PDF: "SimonArmando2023.pdf"
+      PDF: "SimonArmando2023.pdf"  
+  - title: >
+      Unified bursting strategies in ectopic and endogenous even-skipped expression patterns
+    author: >
+      Augusto Berrocal, Nicholas C Lammers, Hernan G Garcia, Michael B Eisen
+    journal: preprint on bioRxiv
+    volume: 2023.02.09.527927
+    links:
+      DOI: "https://doi.org/10.1101/2023.02.09.527927"
+      PDF: "Augusto2023.pdf"
+      
 
 2022:
   - title: >
