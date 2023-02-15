@@ -1,13 +1,13 @@
 2023: 
-- title: >
-    Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
-  author: >
-    Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
-  journal: Cell Systems
-  volume: Cell Systems 14, 1-17
-  links:
-    DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
-    PDF: "SimonArmando2023.pdf"
+  - title: >
+      Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
+    author: >
+      Simon Alamos, Armando Reimer, Clay Westrum, Meghan A. Turner, Paul Talledo, Jiaxi Zhao, and Hernan G Garcia
+    journal: Cell Systems
+    volume: Cell Systems 14, 1-17
+    links:
+      DOI: "https://doi.org/10.1016/j.cels.2022.12.008"
+      PDF: "SimonArmando2023.pdf"
 
 2022:
   - title: >
