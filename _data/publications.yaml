@@ -17,7 +17,16 @@
     links:
       DOI: "https://doi.org/10.1101/2023.02.09.527927"
       PDF: "Augusto2023.pdf"
-      
+  - title: >
+      Competing constraints shape the non-equilibrium limits of 
+      cellular decision making
+    author: >
+      Nicholas C. Lammers, Avi I. Flamholz, and Hernan G. Garcia
+    journal: PNAS
+    volume: 120 - No. 10
+    links:
+      DOI: "https://doi.org/10.1073/pnas.2211203120"
+      PDF full text: "N.Lammers2023.pdf"
 
 2022:
   - title: >
@@ -47,16 +56,6 @@
     links:
       DOI: "https://doi.org/10.1101/2022.10.17.512504"
       PDF full text: "Meyer2022.pdf"
-  - title: >
-      Competing constraints shape the non-equilibrium limits of 
-      cellular decision making
-    author: >
-      Nicholas C. Lammers, Avi I. Flamholz, and Hernan G. Garcia
-    journal: preprint on bioRxiv
-    volume: 2022.07.01.498451
-    links:
-      DOI: "https://doi.org/10.1101/2022.07.01.498451"
-      PDF full text: "Lammers2022.pdf"
   - title: >
       Chromatin changes in Phytochrome Interacting Factor-regulated genes parallel their rapid transcriptional response to light
     author: > 
