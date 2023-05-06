@@ -11,7 +11,14 @@
 #     A short description with <br/>
 #     breaking to a new line
 # 
-
+- avatar: VinuHarihar.jpg
+  name: Vinayak Harihar
+  caste: grad 
+  background: >
+      Biophysics Graduate Student <br/>
+      BA Biophysics/Applied Mathematics and Statistics (double major), The John Hopkins University
+  email: vinayak.harihar
+  
 - avatar: yovanbadal.jpg
   name: Dushyant (Yovan) Badal
   caste: grad
@@ -141,8 +148,7 @@
       Undergraduate Student in Molecular Cell Biology<br/>
       University of California, Berkeley 
   email: tiffanypai
-  
-      
+       
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
