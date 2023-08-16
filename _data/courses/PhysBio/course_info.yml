@@ -80,32 +80,11 @@ policies: >
   Your two worst scoring homeworks will not be considered for the final
   grade. We do not grade on a curve(distribution) or anything like that. 
    
-people:
-  - person:
-    name: Hernan Garcia
-    email: hggarcia@berkeley.edu 
-    role: Instructor
-    img: hernan.jpg
-    office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall, @ <a href="https://berkeley.zoom.us/j/98646776942">Zoom</a>
-  - person:
-    name: Yasemin Kiriscioglu
-    email: ykiriscioglu@berkeley.edu
-    role: GSI
-    img: yasemin.jpg
-    office_hours: Tuesdays 3 pm - 4 pm @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a> discussion- Fridays 1-2 pm in 2030 Valley Life Sciences
-
-  - person:
-    name: Dushyant (Yovan) Badal
-    email: ybadal@berkeley.edu
-    role: GSI
-    img: yovanbadal.jpg
-    office_hours: Mondays 2 pm - 3 pm @ 235 Barker, @ <a href="https://berkeley.zoom.us/j/95708444100">Zoom</a> discussion- Fridays 12-1 pm in 2030 Valley Life Sciences
-    
 Homework: 
   - set:
-    title: Homework 1
-    link: MCB137+237-HW1-2022.pdf
-    due: "1/27 at 11:00 AM"
+    title: E. coli growth rate
+    link: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/Python-Basics-Simulation-Bacterial-Growth_PBoC2020.ipynb"
+    due: "Aug 2023"
     materials:
       - name: PBoC3 Chapter 2
         type: chapter
