@@ -48,43 +48,12 @@ structure: >
   theoretical model developed in a recent paper of their choosing to the
   class. These presentations will be ten minutes long.
 
-policies: > 
-  <b>Attending class and office hours</b><br/>
-  If you miss classes, it is your responsibility to get notes from one of your
-  classmates. You cannot expect the instructor or GSI to redo the lecture
-  during office hours.
-  <br/>
-  Being able to attend office hours are a key to success. If you cannot attend
-  any of the three offered office hours, you might want to reconsider taking
-  this course.
-  <br/><br/>
-  <b>Homework assignments</b><br/>
-  Homeworks are due at the beginning of class one week after they are posted.
-  <br/>
-  Homeworks should be submitted through <a href="https://www.gradescope.com/courses/340644">Gradescope</a>
-  to the GSIs in PDF form. Any other form of homework submission will not be accepted. No late
-  homeworks. Time management is key. Start to work on your homework assignments
-  early and make use of office hours and our availability over <a href="https://piazza.com/class/kx7v9ujrmff7cy">Piazza</a>.
-  <br/>
-  It is important to describe your reasoning. Just writing an equation or
-  drawing a plot does not constitute a satisfactory answer to a homework
-  problem. All plots in the homeworks need to have labeled axes. All code used
-  needs to be submitted through GraceScope by the homework due date. You can
-  work in groups, but the answers should be your own. This includes the code!
-  <br/>
-  <br/>
-  <b>Grading</b><br/>
-  Regrading is done only until a week after the homework solutions are
-  posted. If you ask us to regrade an answer in a homework assignment, we
-  reserve the right to regrade all the answers it that homework assignment.
-  Your two worst scoring homeworks will not be considered for the final
-  grade. We do not grade on a curve(distribution) or anything like that. 
-   
 Homework: 
   - set:
     title: E. coli growth rate
     link: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/Python-Basics-Simulation-Bacterial-Growth_PBoC2020.ipynb"
     due: "Aug 2023"
+    type: external 
     materials:
       - name: PBoC3 Chapter 2
         type: chapter
