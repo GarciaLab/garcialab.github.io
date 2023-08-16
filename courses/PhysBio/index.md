@@ -2,7 +2,7 @@
 layout: course
 title: Studies in the Physical Biology at UC Berkeley 
 tagline: Physical Biology of the Cell
-course_id: 
+course_id: PhysBio
 term: 
 year: 
 header_img: teaching.jpg
@@ -32,7 +32,27 @@ header_img: teaching.jpg
 </tr>
 {% for hw in data_file.course_info['Homework'] %}
 <tr>
-  <td>{%if hw.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/hw/{{hw.link}}">{{hw.title}}</a>{%else %}{{hw.title}}{%endif%}</td>
+    <td>
+  <ul>
+  {% for hw in data_file.course_info['Homework'] %}
+  <li>
+  {%if hw.link %}
+    {% if hw.type == 'paper' %}
+    <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
+    {% elsif hw.type == 'chapter' %}
+    <a href="{{site.baseurl}}/courses/chapters/{{mat.link}}">
+    {% elsif hw.type == 'data' %}
+    <a href="{{site.baseurl}}/courses/data/{{mat.link}}">
+    {% elsif hw.type == 'external' %}
+    <a href="{{mat.link}}">
+    {% endif %}
+  {{hw.title}}</a></li>
+  {%else %}
+  {{hw.title}}</li>
+  {%endif%}
+  {%endfor%}
+  </ul>
+  </td>
   <td> {{hw.due}} </td>
   <td>
   <ul>
