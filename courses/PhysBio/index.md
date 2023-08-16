@@ -1,10 +1,10 @@
 ---
 layout: course
-title: MCB137/237 Spring 2022
+title: Studies in the Physical Biology at UC Berkeley 
 tagline: Physical Biology of the Cell
-course_id: mcb137
-term: spring
-year: 2022
+course_id: 
+term: 
+year: 
 header_img: teaching.jpg
 ---
 {% assign data_file = site.data.courses.mcb137.spring_2022 %}
@@ -16,37 +16,19 @@ header_img: teaching.jpg
 {{ data_file.course_info['about']}}
 <br/>
 <br/>
-<h3 class="banner"> People </h3>
 
-<div class='mod modGallery' style="margin: auto; display: block;">
-      <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
-      {% for person in data_file.course_info['people'] %}
-        <li style="padding: 5px;">
-          <h5 class='subbanner' style="width: 95%; fontsize: 1em;"> {{person.name}} - {{person.role}}</h5>
-          <img alt="" src="{{site.baseurl}}/images/people/{{person.img}}" />
-            <p style="text-align: center;">
-                  {{person.email}}<br/>
-                  Office Hours: <br/>{{person.office_hours}}</p><br/>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-
-<h3 class="banner"> Course Structure </h3>
+<h3 class="banner"> Content Structure </h3>
 {{ data_file.course_info['structure'] }}
 
-<h3 class="banner">Course Policies </h3>
-{{ data_file.course_info['policies'] }}
 
-<h3 class="banner"> Homework </h3>
+<h3 class="banner"> E. coli growth simulations </h3>
 <div>
 <table>
 <tr>
-  <th><b>Title</b></th>
-  <th><b>Due Date</b></th>
-  <th><b>Required Materials</b></th>
-  <th><b>Solutions</b></th>  
+  <th><b>Example</b></th>
+  <th><b>Date Last Updated </b></th>
+  <th><b>Code</b></th>
+  <th><b>Data</b></th>  
 </tr>
 {% for hw in data_file.course_info['Homework'] %}
 <tr>
@@ -93,86 +75,6 @@ header_img: teaching.jpg
 {%endfor%}
 </table>
 
-
-<h3 class="banner"> Syllabus </h3>
-{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
-
-<p>A pdf of the full course syllabus can be found {%if syllabus_pdf.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/syllabus_pdf/{{syllabus_pdf.link}}">here</a>{%else %}TBA{%endif%}.</p>
-
-<table>
-<tr>
-<th><b> Number </b></th>
-<th><b> Date </b></th>
-<th><b> Topics </b></th>
-<th><b> Materials</b></th>
-<th><b> Discussion</b></th>
-<th><b> Videos</b></th>
-</tr>
-{% assign no = 1 %}
-{% for entry in data_file.course_info['syllabus'] %}
-<tr>
-  <td>{{no}}</td>
-  <td>{{entry.date}}</td>
-  <td>
-  <ul>
-  {% for topic in entry.topics %}
-  <li>
-      {{topic}}</li>
-  {% endfor %}
-  </ul>
-  </td>
-  <td>
-  <ul>
-  {% for mat in entry.materials %}
-  <li>
-      {% if mat.link %}
-      {% if mat.type == 'paper'%}
-      <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-      {% endif %} 
-      {%if mat.type == 'external' %}
-      <a href="{{mat.link}}">
-      {%endif%}
-      {% if mat.type == 'notes'%}
-      <a href="{{site.baseurl}}/courses/mcb137/2022/lecture_notes/{{mat.link}}">
-      {% endif %}
-      {{mat.name}}</a> </li> 
-    {% else %}
-    {{mat.name}}</li>
-    {% endif %}  
-  {% endfor %} 
-  </ul>
-  </td>
-  <td>
-  <ul>
-  {% for disc in entry.discussion %}
-  <li>
-      {% if disc.link %}
-      {% if mat.type == 'paper'%}
-      <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-      {% endif %}
-      {%if disc.type == 'external' %}
-      <a href="{{mat.link}}">
-      {%endif%}
-      {{disc.name}}</a> </li> 
-    {% else %}
-    {{disc.name}}</li>
-    {% endif %}  
-  {% endfor %} 
-  </ul>
-  </td>
-  <td>
-  <ul>
-  {% for video in entry.videos %}
-  <li>
-        <a href="{{video.link}}">{{video.name}}</a>{{topic}}</li>
-  {% endfor %}
-  </ul>
-  </td>
-
- 
-  </tr>
-{% assign no = no | plus: 1 %}
-{% endfor %}
 <tr>
 
 
