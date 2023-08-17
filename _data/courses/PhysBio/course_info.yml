@@ -23,7 +23,7 @@ Ecoli:
       - name: Image dataset
         type: external
         link: "https://github.com/GarciaLab/TeachingCode/tree/master/Ecoli/Colony%20Growth/ColonyGrowthData"
-  GeneExpression:
+GeneExpression:
     - set:
       title: Master equation
       due: "Aug 2023"
