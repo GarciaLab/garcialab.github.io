@@ -23,4 +23,18 @@ Ecoli:
       - name: Image dataset
         type: external
         link: "https://github.com/GarciaLab/TeachingCode/tree/master/Ecoli/Colony%20Growth/ColonyGrowthData"
-  
+  GeneExpression:
+    - set:
+      title: Master equation
+      due: "Aug 2023"
+      materials: 
+        - name: Jupyter notebook
+          type: external
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/MasterEquation/gene_expression_master_equation_PBoC2020.ipynb"
+    - set: 
+      title: Stochastic simulation 
+      due: "Aug 2023" 
+      materials: 
+        - name: Jupyter notebook
+          type: external 
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/StochasticSimulation/mRNAStochasticSimulation.m"
