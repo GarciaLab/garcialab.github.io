@@ -27,29 +27,12 @@ header_img: teaching.jpg
 {% for entry in data_file.course_info['content'] %}
 <tr>
   <td>{{entry.title}}</td>
-  <td> <a href="ecoli">{{entry.title}}</a></td>
-    <ul>
-    {% for sol in hw.solutions %}
-    <li>
-    {% if sol.link %}
-    {% if sol.type == 'external' %}
-    <a href="{{sol.link}}"> {{sol.name}}</a></li> 
-    {% else %}
-    {{sol.name}}</li>
-    {% endif %}
-    {% else %}
-    {{sol.name}}</li>
-    {%endif%}
-    {% endfor %}
-    </ul></td>
-
-</tr>
+  <td> <a href="{{entry.id}}">{{entry.title}}</a></td>
 {%endfor%}
 </table>
-{{ data_file.course_info['structure'] }}
 
 <a id="ecoli">
-<h3 class="banner"> E. coli growth simulations </h3>
+<h3 class="banner"> E. coli growth simulations </h3></a>
 <div>
 <table>
 <tr>
@@ -102,7 +85,7 @@ header_img: teaching.jpg
 </tr>
 {%endfor%}
 </table>
-</a>
+
 
 <h3 class="banner"> Gene expression  </h3>
 <div>
