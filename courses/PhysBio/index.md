@@ -25,11 +25,11 @@ header_img: teaching.jpg
 </ul>
 
 
-<h3 class="banner", id="ecoli"> E. coli growth simulations </h3>
+<h3 class="banner"> E. coli growth simulations </h3>
 <div>
 <table>
 <tr>
-  <th><b>Example</b></th>
+  <th><b><a id = "ecoli">Example</a></b></th>
   <th><b>Date Last Updated </b></th>
   <th><b>Code</b></th>
   <th><b>Data</b></th>  
