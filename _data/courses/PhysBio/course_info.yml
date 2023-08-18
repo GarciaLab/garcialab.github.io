@@ -4,7 +4,7 @@ about: >
 content: >
   - set:
     title: E. coli by numbers 
-
+    id: ecoli
 Ecoli: 
   - set:
     title: E. coli growth rate
