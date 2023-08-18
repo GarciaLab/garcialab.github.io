@@ -134,7 +134,8 @@ header_img: teaching.jpg
 {%endfor%}
 </table>
 
-<h3 class="banner"> BiologicalDynamics  </h3>
+
+<h3 class="banner"> Biological dynamics  </h3>
 <div>
 <table>
 <tr>
