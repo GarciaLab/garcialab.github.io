@@ -17,7 +17,7 @@ header_img: teaching.jpg
 <br/>
 <br/>
 
-<h3 class="banner"> Content Structure </h3>
+<h3 class="banner"> Table of Contents </h3>
 {{ data_file.course_info['structure'] }}
 
 
