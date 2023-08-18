@@ -20,16 +20,16 @@ header_img: teaching.jpg
 <h3 class="banner"> Table of Contents </h3>
 <ul>
   {% for entry in data_file.course_info['content'] %}
-  <li><a href="{{entry.id}}">{{entry.title}}</a></li>
+  <li><a href="#{{entry.id}}">{{entry.title}}</a></li>
   {%endfor%}
 </ul>
 
 
-<h3 class="banner"> E. coli growth simulations </h3>
+<h3 class="banner", id="ecoli"> E. coli growth simulations </h3>
 <div>
 <table>
 <tr>
-  <th><a id="ecoli"><b>Example</b></a></th>
+  <th><b>Example</b></th>
   <th><b>Date Last Updated </b></th>
   <th><b>Code</b></th>
   <th><b>Data</b></th>  
