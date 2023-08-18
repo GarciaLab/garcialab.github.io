@@ -11,6 +11,7 @@ content:
 - set: 
   title: Biological Dynamics 
   id: biodynamic
+  
 Ecoli: 
   - set:
     title: E. coli growth rate by Euler method 
@@ -36,6 +37,7 @@ Ecoli:
       - name: Image dataset
         type: external
         link: "https://github.com/GarciaLab/TeachingCode/tree/master/Ecoli/Colony%20Growth/ColonyGrowthData"
+        
 GeneExpression:
     - set:
       title: Master equation
@@ -61,5 +63,12 @@ GeneExpression:
         - name: Video test 
           type: external 
           link: "https://www.youtube.com/watch?v=Vt67mCMlajI&pp=ygUNaGVybmFuIGdhcmNpYQ%3D%3D"
+          
 BiologicalDynamics: 
-
+    - set: 
+      title: Gene expression dynamics 
+      due: "Aug 2023"
+      materials: 
+        - name: Jupyter notebook 
+          type: external
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/DynamicalSystems/MutualRepression/Day7-EquationsOfBiologicalDynamics.ipynb"
