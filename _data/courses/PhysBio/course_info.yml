@@ -2,9 +2,9 @@ about: >
   ABOUT
 
 content:
-  - set:
-    title: E. coli by numbers 
-    id: ecoli
+- set:
+  title: E. coli by numbers 
+  id: ecoli
 Ecoli: 
   - set:
     title: E. coli growth rate
