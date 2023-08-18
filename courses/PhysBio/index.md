@@ -144,7 +144,7 @@ header_img: teaching.jpg
   <th><b>Code</b></th>
   <th><b>Data</b></th>  
 </tr>
-{% for hw in data_file.course_info['GeneExpression'] %}
+{% for hw in data_file.course_info['BiologicalDynamics'] %}
 <tr>
   <td>{%if hw.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/hw/{{hw.link}}">{{hw.title}}</a>{%else %}{{hw.title}}{%endif%}</td>
   <td> {{hw.due}} </td>
