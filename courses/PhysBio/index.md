@@ -36,7 +36,7 @@ header_img: teaching.jpg
 </tr>
 {% for hw in data_file.course_info['Ecoli'] %}
 <tr>
-  <td>{%if hw.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/hw/{{hw.link}}">{{hw.title}}</a>{%else %}{{hw.title}}{%endif%}</td>
+  <td>{{hw.title}}</td>
   <td> {{hw.due}} </td>
   <td>
   <ul>
@@ -74,7 +74,6 @@ header_img: teaching.jpg
     {%endif%}
     {% endfor %}
     </ul></td>
-
 </tr>
 {%endfor%}
 </table>
@@ -84,14 +83,14 @@ header_img: teaching.jpg
 <div>
 <table>
 <tr>
-  <th><b><a id = "gexpression">Example</b></a></th>
+  <th><b><a id = "gexpression">Example</a></b></th>
   <th><b>Date Last Updated </b></th>
   <th><b>Code</b></th>
   <th><b>Data</b></th>  
 </tr>
 {% for hw in data_file.course_info['GeneExpression'] %}
 <tr>
-  <td>{%if hw.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/hw/{{hw.link}}">{{hw.title}}</a>{%else %}{{hw.title}}{%endif%}</td>
+  <td>{{hw.title}} </td>
   <td> {{hw.due}} </td>
   <td>
   <ul>
@@ -129,7 +128,6 @@ header_img: teaching.jpg
     {%endif%}
     {% endfor %}
     </ul></td>
-
 </tr>
 {%endfor%}
 </table>
@@ -139,14 +137,14 @@ header_img: teaching.jpg
 <div>
 <table>
 <tr>
-  <th><b><a id = "biodynamic">Example</b></a></th>
+  <th><b><a id = "biodynamic">Example</a></b></th>
   <th><b>Date Last Updated </b></th>
   <th><b>Code</b></th>
   <th><b>Data</b></th>  
 </tr>
 {% for hw in data_file.course_info['BiologicalDynamics'] %}
 <tr>
-  <td>{%if hw.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/hw/{{hw.link}}">{{hw.title}}</a>{%else %}{{hw.title}}{%endif%}</td>
+  <td>{{hw.title}}</td>
   <td> {{hw.due}} </td>
   <td>
   <ul>
