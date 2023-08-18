@@ -5,14 +5,26 @@ content:
 - set:
   title: E. coli by numbers 
   id: ecoli
+- set:
+  title: Gene expression 
+  id: gexpression
+- set: 
+  title: Biological Dynamics 
+  id: biodynamic
 Ecoli: 
   - set:
-    title: E. coli growth rate
+    title: E. coli growth rate by Euler method 
     due: "Aug 2023" 
     materials:
       - name: Jupyter notebook
         type: external
         link: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/Python-Basics-Simulation-Bacterial-Growth_PBoC2020.ipynb"
+  - set: 
+    title: E. coli logistic growth rate
+    due: "Aug 2023"
+    materials: 
+      - name: Jupyter notebook 
+        type: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/Ext1-logistic-growth.ipynb"
   - set:
     title: E. coli colony growth rate
     due: "Aug 2023"
@@ -49,3 +61,5 @@ GeneExpression:
         - name: Video test 
           type: external 
           link: "https://www.youtube.com/watch?v=Vt67mCMlajI&pp=ygUNaGVybmFuIGdhcmNpYQ%3D%3D"
+BiologicalDynamics: 
+
