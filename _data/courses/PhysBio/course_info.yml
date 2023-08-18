@@ -35,6 +35,16 @@ GeneExpression:
       title: Stochastic simulation 
       due: "Aug 2023" 
       materials: 
-        - name: Jupyter notebook
+        - name: Matlab script
           type: external 
           link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/StochasticSimulation/mRNAStochasticSimulation.m"
+    - set: 
+      title: Thermodynamic simulation 
+      due: "Aug 2023" 
+      materials: 
+        - name: Jupyter notebook
+          type: external 
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/ThermodynamicModels/lacI_titration_PBoC2020.ipynb"
+        - name: Video test 
+          type: external 
+          link: "https://www.youtube.com/watch?v=Vt67mCMlajI&pp=ygUNaGVybmFuIGdhcmNpYQ%3D%3D"
