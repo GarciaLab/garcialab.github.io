@@ -1,7 +1,7 @@
 about: >
   ABOUT
 
-content: >
+content:
   - set:
     title: E. coli by numbers 
     id: ecoli
