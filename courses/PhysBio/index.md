@@ -31,12 +31,12 @@ header_img: teaching.jpg
 {%endfor%}
 </table>
 
-<a id="ecoli">
-<h3 class="banner"> E. coli growth simulations </h3></a>
+
+<h3 class="banner"> E. coli growth simulations </h3>
 <div>
 <table>
 <tr>
-  <th><b>Example</b></th>
+  <th><a id="ecoli"><b>Example</b></a></th>
   <th><b>Date Last Updated </b></th>
   <th><b>Code</b></th>
   <th><b>Data</b></th>  
