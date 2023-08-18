@@ -18,18 +18,11 @@ header_img: teaching.jpg
 <br/>
 
 <h3 class="banner"> Table of Contents </h3>
-<div>
-<table>
-<tr>
-  <th><b>Project title </b></th>
-  <th><b>Link </b></th>
-</tr>
-{% for entry in data_file.course_info['content'] %}
-<tr>
-  <td>{{entry.title}}</td>
-  <td> <a href="{{entry.id}}">{{entry.title}}</a></td>
-{%endfor%}
-</table>
+<ul>
+  {% for entry in data_file.course_info['content'] %}
+  <li><a href="{{entry.id}}">{{entry.title}}</a></li>
+  {%endfor%}
+</ul>
 
 
 <h3 class="banner"> E. coli growth simulations </h3>
