@@ -1,8 +1,9 @@
 about: >
   ABOUT
 
-structure: >
-  Table of contents: 
+content: >
+  - set:
+    title: E. coli by numbers 
 
 Ecoli: 
   - set:
