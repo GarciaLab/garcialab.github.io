@@ -18,9 +18,37 @@ header_img: teaching.jpg
 <br/>
 
 <h3 class="banner"> Table of Contents </h3>
+<div>
+<table>
+<tr>
+  <th><b>Project title </b></th>
+  <th><b>Link </b></th>
+</tr>
+{% for entry in data_file.course_info['content'] %}
+<tr>
+  <td>{{entry.title}}</td>
+  <td> <a href="ecoli">{{entry.title}}</a></td>
+    <ul>
+    {% for sol in hw.solutions %}
+    <li>
+    {% if sol.link %}
+    {% if sol.type == 'external' %}
+    <a href="{{sol.link}}"> {{sol.name}}</a></li> 
+    {% else %}
+    {{sol.name}}</li>
+    {% endif %}
+    {% else %}
+    {{sol.name}}</li>
+    {%endif%}
+    {% endfor %}
+    </ul></td>
+
+</tr>
+{%endfor%}
+</table>
 {{ data_file.course_info['structure'] }}
 
-
+<a id="ecoli">
 <h3 class="banner"> E. coli growth simulations </h3>
 <div>
 <table>
@@ -74,6 +102,7 @@ header_img: teaching.jpg
 </tr>
 {%endfor%}
 </table>
+</a>
 
 <h3 class="banner"> Gene expression  </h3>
 <div>
