@@ -1,4 +1,13 @@
 2023: 
+ - title: >
+      Optogenetic control of YAP reveals a dynamic communication code for stem cell fate and proliferation
+    author: >
+      Kirstin Meyer, Nicholas C. Lammers, Lukasz J. Bugaj, Hernan G. Garcia, and Orion D. Weiner
+    journal: Nature Communications 
+    volume: 14, Article number: 6929  
+    links:
+      DOI: "https://doi.org/10.1038/s41467-023-42643-2"
+      PDF full text: "Meyer2023.pdf"
   - title: >
       Temperature variation drives coordinated scaling of temporal and dynamic features of transcription in embryonic development
     author: >
@@ -74,15 +83,6 @@
     links:
       DOI: "https://doi.org/10.1101/2022.11.20.517211"
       PDF full text: "Zhao2022(2).pdf"
-  - title: >
-      Decoding of YAP levels and dynamics by pluripotency factors
-    author: >
-      Kirstin Meyer, Nicholas C. Lammers, Lukasz J. Bugaj, Hernan G. Garcia, and Orion D. Weiner
-    journal: preprint on bioRxiv
-    volume: 2022.10.17.512504
-    links:
-      DOI: "https://doi.org/10.1101/2022.10.17.512504"
-      PDF full text: "Meyer2022.pdf"
   - title: >
       Chromatin changes in Phytochrome Interacting Factor-regulated genes parallel their rapid transcriptional response to light
     author: > 
