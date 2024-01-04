@@ -1,0 +1,13 @@
+- person:
+  name: Hernan Garcia
+  email: hggarcia@berkeley.edu 
+  role: Instructor
+  img: hernan.jpg
+  office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall
+- person:
+  name: Nick Gravina
+  email: nick_gravina@berkeley.edu
+  role: GSI
+  img: nickGravina.jpg
+  office_hours: Fridays 12 - 1pm @ TBD
+
