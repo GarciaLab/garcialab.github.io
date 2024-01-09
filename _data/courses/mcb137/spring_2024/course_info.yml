@@ -27,9 +27,7 @@ about: >
 
 structure: >
   The class as a whole will meet twice a week for one hour and a half -
-  Tuesdays and Thursdays, 11am - 12:30pm. The first few lectures will
-  be on Zoom at the address linked in the Syllabus section below, and
-  in 219 Dwinelle once in-person classes resume. This
+  Tuesdays and Thursdays from 2pm-3:30pm in 85 Evans. This
   time will be devoted to lectures, discussions and hands-on activities
   including Python exercises. Further, the class will be split into weekly
   one-hour lab sessions. During these lab sessions, students will work
@@ -61,10 +59,10 @@ policies: >
   <b>Homework assignments</b><br/>
   Homeworks are due at the beginning of class one week after they are posted.
   <br/>
-  Homeworks should be submitted through <a href="https://www.gradescope.com/courses/340644">Gradescope</a>
+  Homeworks should be submitted through <a href="https://www.gradescope.com/courses/700676">Gradescope</a>
   to the GSIs in PDF form. Any other form of homework submission will not be accepted. No late
   homeworks. Time management is key. Start to work on your homework assignments
-  early and make use of office hours and our availability over <a href="https://piazza.com/class/kx7v9ujrmff7cy">Piazza</a>.
+  early and make use of office hours and our availability over <a href="https://piazza.com/class/lr0plqdj7uv5q">Piazza</a>.
   <br/>
   It is important to describe your reasoning. Just writing an equation or
   drawing a plot does not constitute a satisfactory answer to a homework
@@ -91,8 +89,8 @@ people:
     name: Nick Gravina
     email: nick_gravina@berkeley.edu
     role: GSI
-    img: nickGravina.jpg
-    office_hours: Tuesdays 3 pm - 4 pm @ <a href="https://berkeley.zoom.us/j/3760356456">Zoom</a> discussion- Fridays 1-2 pm in 2030 Valley Life Sciences
+    img: nickGravina.jpeg
+    office_hours: Fridays 1pm - 2pm @ 505 Weill Hall, discussion- Fridays 12-1 pm in 259 Dwinelle 
     
 Homework: 
 #   - set:
@@ -283,7 +281,7 @@ syllabuspdf:
 syllabus:
   - entry:
     date: >
-      1/18 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
+      1/16 @ 85 Evans
     topics:
       - "A feeling for the numbers in biology."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
@@ -322,7 +320,7 @@ syllabus:
         link: Parsegian1997.pdf
       - name: "Extra reading: PBoC Chapters 1 - 3"
   - entry:
-    date: 1/20 <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
+    date: 1/18 @ 85 Evans
     topics:
       - "The physical biology exam, Part 2."
     materials:
@@ -338,7 +336,7 @@ syllabus:
               </ul>'
       - name: Simple estimates
   - entry:
-    date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
+    date: 1/23 @ 85 Evans
     topics: 
       - "The scale and scaling of cellular structures and processes, Part 1.
         <ul>
@@ -359,7 +357,7 @@ syllabus:
         type: external
         link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
   - entry:
-    date: 1/27  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
+    date: 1/25  <a href="https://berkeley.zoom.us/j/93907305015">Lecture</a>
     topics:
       - "The scale and scaling of cellular structures and processes, Part 2.
         <ul>
@@ -390,7 +388,7 @@ syllabus:
     #    type: external
     #    link: 
   - entry:
-    date: 2/1 @ 219 Dwinelle
+    date: 1/30 @ 219 Dwinelle
     topics:
       - "The scale and scaling of cellular structures and processes, Part 3.
         <ul>
