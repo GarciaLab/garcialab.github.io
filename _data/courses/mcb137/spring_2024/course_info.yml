@@ -282,59 +282,59 @@ syllabus:
   - entry:
     date: >
       1/16 @ 85 Evans
-    topics:
-      - "A feeling for the numbers in biology."
-      - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
-      - "What sets the scale of things?"
-      - "The physical biology exam, Part 1."
-    materials: 
-      - name: "A feeling for the numbers: Powerpoint Presentation" 
-        type: external
-        link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
-      - name: "Lecture Notes" 
-        type: notes
-        link: lec1.pdf
-      - name: >
-          Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
-          Next Physics, Only Better (Cohen 2004)
-        type: paper
-        link: Cohen2004.pdf
-      - name: >  
-          Theory in Biology: Figure 1 or Figure 7? (Phillips 2015)
-        type: paper
-        link: Phillips2015.pdf 
-      - name: Distribution of biomass on Earth (Bar-On 2018)
-        type: paper
-        link: Bar-On2018.pdf
-      - name: The Tragic Matter (Schatz 2003)
-        type: paper
-        link: Schatz2003.pdf
-      - name: Polymerases and the Replisome (Baker 1998)
-        type: paper
-        link: Baker1998.pdf
-      - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington 2016)
-        type: paper
-        link: Wigington2016.pdf
-      - name: "Harness the Hubris: Useful things physicists could do in biology (Parsegian 1997)"
-        type: paper
-        link: Parsegian1997.pdf
-      - name: "Extra reading: PBoC Chapters 1 - 3"
-  - entry:
-    date: 1/18 @ 85 Evans
-    topics:
-      - "The physical biology exam, Part 2."
-    materials:
-      - name: "Lecture Notes" 
-        type: notes
-        link: lec2.pdf
-    discussion:
-      - name: Introduction to GradeScope.
-      - name: 'Introduction to Python, Colab and making simple plots.
-              <ul>
-                 <li><a href="https://colab.research.google.com/drive/1rkRk-LzgIi7gY2TqXno8jbCSqBsKU5eU?usp=sharing">
-                 Colab Notebook (Discussion I - Yovan)</a></li>
-              </ul>'
-      - name: Simple estimates
+  #   topics:
+  #     - "A feeling for the numbers in biology."
+  #     - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
+  #     - "What sets the scale of things?"
+  #     - "The physical biology exam, Part 1."
+  #   materials: 
+  #     - name: "A feeling for the numbers: Powerpoint Presentation" 
+  #       type: external
+  #       link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
+  #     - name: "Lecture Notes" 
+  #       type: notes
+  #       link: lec1.pdf
+  #     - name: >
+  #         Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
+  #         Next Physics, Only Better (Cohen 2004)
+  #       type: paper
+  #       link: Cohen2004.pdf
+  #     - name: >  
+  #         Theory in Biology: Figure 1 or Figure 7? (Phillips 2015)
+  #       type: paper
+  #       link: Phillips2015.pdf 
+  #     - name: Distribution of biomass on Earth (Bar-On 2018)
+  #       type: paper
+  #       link: Bar-On2018.pdf
+  #     - name: The Tragic Matter (Schatz 2003)
+  #       type: paper
+  #       link: Schatz2003.pdf
+  #     - name: Polymerases and the Replisome (Baker 1998)
+  #       type: paper
+  #       link: Baker1998.pdf
+  #     - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington 2016)
+  #       type: paper
+  #       link: Wigington2016.pdf
+  #     - name: "Harness the Hubris: Useful things physicists could do in biology (Parsegian 1997)"
+  #       type: paper
+  #       link: Parsegian1997.pdf
+  #     - name: "Extra reading: PBoC Chapters 1 - 3"
+  # - entry:
+  #   date: 1/18 @ 85 Evans
+  #   topics:
+  #     - "The physical biology exam, Part 2."
+  #   materials:
+  #     - name: "Lecture Notes" 
+  #       type: notes
+  #       link: lec2.pdf
+  #   discussion:
+  #     - name: Introduction to GradeScope.
+  #     - name: 'Introduction to Python, Colab and making simple plots.
+  #             <ul>
+  #                <li><a href="https://colab.research.google.com/drive/1rkRk-LzgIi7gY2TqXno8jbCSqBsKU5eU?usp=sharing">
+  #                Colab Notebook (Discussion I - Yovan)</a></li>
+  #             </ul>'
+  #     - name: Simple estimates
   - entry:
     date: 1/23 @ 85 Evans
     topics: 
