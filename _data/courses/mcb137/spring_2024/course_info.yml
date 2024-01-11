@@ -26,26 +26,18 @@ about: >
   their own future research.
 
 structure: >
-  The class as a whole will meet twice a week for one hour and a half -
+  The class as a whole will meet twice a week for one hour and a half: 
   Tuesdays and Thursdays from 2pm-3:30pm in 85 Evans. This
   time will be devoted to lectures, discussions and hands-on activities
   including Python exercises. Further, the class will be split into weekly
   one-hour lab sessions. During these lab sessions, students will work
   closely with the GSIs to implement the concepts they learned in class in
   the context of different biological problems. Homework assignment will be
-  given every week and will represent 75% of the final grade. Twice during
-  the semester, students will prepare a project. The first project will be a
-  written assignment, while the second project will be presented in class.
-  These projects will represent 25% of the final grade.
-  <br/><br/>
-  For undergraduate students (MCB137L), the projects will consist on carrying
-  out an estimate on a biological phenomenon of interest following the style
-  presented in class. These presentations will be five minutes long.
-  <br/><br/>
-  For graduate students (MCB237L) the project will consist on presenting a
-  theoretical model developed in a recent paper of their choosing to the
-  class. These presentations will be ten minutes long.
-
+  given every week and will represent 70% of the final grade. At the end of
+  the semester, students will prepare a written project. The project
+  will be based  on performing an estimate based on an extensive list we
+  will provide.
+    
 policies: > 
   <b>Attending class and office hours</b><br/>
   If you miss classes, it is your responsibility to get notes from one of your
@@ -76,7 +68,7 @@ policies: >
   posted. If you ask us to regrade an answer in a homework assignment, we
   reserve the right to regrade all the answers it that homework assignment.
   Your two worst scoring homeworks will not be considered for the final
-  grade. We do not grade on a curve(distribution) or anything like that. 
+  grade. We do not grade on a curve or anything like that. 
    
 people:
   - person:
@@ -84,13 +76,13 @@ people:
     email: hggarcia@berkeley.edu 
     role: Instructor
     img: hernan.jpg
-    office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall, @ <a href="https://berkeley.zoom.us/j/98646776942">Zoom</a>
+    office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall
   - person:
     name: Nick Gravina
     email: nick_gravina@berkeley.edu
     role: GSI
     img: nickGravina.jpeg
-    office_hours: Fridays 1pm - 2pm @ 505 Weill Hall, discussion- Fridays 12-1 pm in 259 Dwinelle 
+    office_hours: Fridays 1pm - 2pm @ 505 Weill Hall, Discussion: Fridays 12-1 pm in 259 Dwinelle 
     
 Homework: 
 #   - set:
