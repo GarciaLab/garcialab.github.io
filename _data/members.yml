@@ -11,7 +11,13 @@
 #     A short description with <br/>
 #     breaking to a new line
 # 
-
+- avatar: AaronF.jpg 
+  name: Aaron Fultineer
+  caste: rotation 
+  background: > 
+      Physics Graduate Student <br/>
+      BS Physics and Mathematics, University of Denver
+  email: aaron_fultineer
 - avatar: AndreaHerman.jpg
   name: Andrea Herman
   caste: grad
