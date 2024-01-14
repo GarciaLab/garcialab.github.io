@@ -85,18 +85,18 @@ people:
     office_hours: 'Fridays 1pm - 2pm @ 505 Weill Hall, Discussion: Fridays 12-1 pm in 259 Dwinelle' 
     
 Homework: 
-#   - set:
-#     title: Homework 1
-#     link: MCB137+237-HW1-2022.pdf
-#     due: "1/27 at 11:00 AM"
-#     materials:
-#       - name: PBoC3 Chapter 2
-#         type: chapter
-#         link: PBoC3_chap2.pdf
-#     solutions: 
-#       - name: Homework 1 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1G10Z0p02TTpQtbE2-B-tFTe9OaP2yU5M/view?usp=sharing"
+  - set:
+    title: Homework 1
+    link: MCB137+237-HW1-2024.pdf
+    due: "1/25 at 2:00 PM"
+    materials:
+      - name: PBoC3 Chapter 2
+        type: chapter
+        link: PBoC3_chap2.pdf
+    solutions: 
+      - name: Homework 1 Solutions
+        type: external
+        link: ""
 #   - set:
 #     title: Homework 2
 #     link: MCB137+237-HW2-2022.pdf
