@@ -94,9 +94,9 @@ Homework:
         type: chapter
         link: PBoC3_chap2.pdf
     solutions: 
-      - name: Homework 1 Solutions
+      - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
         type: external
-        link: ""
+        link: "https://tinyurl.com/yl5efg55"
 #   - set:
 #     title: Homework 2
 #     link: MCB137+237-HW2-2022.pdf
@@ -278,9 +278,9 @@ syllabus:
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
       - "What sets the scale of X?"
     materials: 
-      - name: "A feeling for the numbers: Powerpoint Presentation" 
+      - name: "Biology by the Numbers: Powerpoint Presentation" 
         type: external
-        link: https://docs.google.com/presentation/d/1UXBSdjHdQA4ZYlMhj6QnFiVHnsGJ6U23/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true
+        link: https://docs.google.com/presentation/d/1sLp8mZFsu0_SHced-DCcgWm7sKsmwubU/edit#slide=id.p1
       - name: "Lecture Notes" 
         type: notes
         link: lec1.pdf
