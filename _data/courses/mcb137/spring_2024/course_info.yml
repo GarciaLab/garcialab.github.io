@@ -284,30 +284,45 @@ syllabus:
 #      - name: "Lecture Notes" 
 #        type: notes
 #        link: lec1.pdf
-      - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology.>
-          Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
-          Next Physics, Only Better (Cohen 2004)
+      - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
-      - name: >  
-          Theory in Biology: Figure 1 or Figure 7? (Phillips 2015)
+      - name: Article by Rob Phillips arguing for models to precede experiments, and not to be relegated to the last figure of papers. (Phillips 2015)
         type: paper
-        link: Phillips2015.pdf 
-      - name: Distribution of biomass on Earth (Bar-On 2018)
+        link: Phillips2015.pdf
+      - name: Jeremy Gunawardena reminds us that models in biology are not supposed to be accurate descriptions of nature, but just accurate descriptions of our “pathetic thinking”. (Gunawardena 2014)
         type: paper
-        link: Bar-On2018.pdf
-      - name: The Tragic Matter (Schatz 2003)
-        type: paper
-        link: Schatz2003.pdf
-      - name: Polymerases and the Replisome (Baker 1998)
-        type: paper
-        link: Baker1998.pdf
-      - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington 2016)
-        type: paper
-        link: Wigington2016.pdf
-      - name: "Harness the Hubris: Useful things physicists could do in biology (Parsegian 1997)"
+        link: Gunawardena2014.pdf
+      - name: Harness the Hubris: Useful things physicists could do in biology. A great debate between Bob Austin and Adrian Parsegian about the role of Physics in Biology (Parsegian 1997)
         type: paper
         link: Parsegian1997.pdf
+      - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
+        type: paper
+        link: Stouthamer1973.pdf
+      - name: A revised estimate of the number (and types) of human and bacterial cells in our body. (Sender 2016)
+        type: paper
+        link: Sender2016.pdf
+      - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
+        type: paper
+        link: Schmidt2016.pdf
+#       - name: Distribution of biomass on Earth (Bar-On 2018)
+#        type: paper
+#        link: Bar-On2018.pdf
+#      - name: The Tragic Matter (Schatz 2003)
+#        type: paper
+#        link: Schatz2003.pdf
+      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
+      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf 
+      - name: Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)
+        type: paper
+        link: Chure2022.pdf       
+#      - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington 2016)
+#        type: paper
+#        link: Wigington2016.pdf
       #- name: "Extra reading: PBoC Chapters 1 - 3"
     videos: 
       - name: "Biology by the Numbers"
