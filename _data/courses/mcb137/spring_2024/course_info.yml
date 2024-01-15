@@ -317,7 +317,7 @@ syllabus:
       - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
         type: paper
         link: Lynch2015.pdf 
-      - name: Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)
+      - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
         type: paper
         link: Chure2022.pdf       
 #      - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington 2016)
