@@ -90,13 +90,13 @@ Homework:
     link: MCB137+237-HW1-2024.pdf
     due: "1/25 at 2:00 PM"
     materials:
-      - name: PBoC3 Chapter 2
-        type: chapter
-        link: PBoC3_chap2.pdf
+#      - name: PBoC3 Chapter 2
+#        type: chapter
+#        link: PBoC3_chap2.pdf
     solutions: 
-      - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
-        type: external
-        link: "https://tinyurl.com/yl5efg55"
+#      - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
+#        type: external
+#        link: "https://tinyurl.com/yl5efg55"
 #   - set:
 #     title: Homework 2
 #     link: MCB137+237-HW2-2022.pdf
