@@ -272,7 +272,7 @@ syllabuspdf:
   
 syllabus:
   - entry:
-    date: 1/16 Lecture @ 85 Evans. <a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
+    date: 1/16 Lecture @ 85 Evans. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
     topics:
       - "A feeling for the numbers in biology."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
