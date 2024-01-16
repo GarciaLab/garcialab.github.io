@@ -281,9 +281,6 @@ syllabus:
       - name: "Biology by the Numbers: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1sLp8mZFsu0_SHced-DCcgWm7sKsmwubU/edit#slide=id.p1
-#      - name: "Lecture Notes" 
-#        type: notes
-#        link: lec1.pdf
       - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
