@@ -325,7 +325,7 @@ syllabus:
       # - name: "Biology by the Numbers"
       #   link: "https://www.youtube.com/playlist?list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw"
       - name: A Feeling for the Numbers in Biology (<a href="https://www.youtube.com/watch?v=gkBiot7gb8A&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=1&pp=iAQB">Video</a>)
-        link: #"https://www.youtube.com/watch?v=gkBiot7gb8A&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=1&pp=iAQB"
+#       link: #"https://www.youtube.com/watch?v=gkBiot7gb8A&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=1&pp=iAQB"
       - name: 'Physical Biology Exam
               <ul>
                  <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
