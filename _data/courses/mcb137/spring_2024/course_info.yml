@@ -284,6 +284,9 @@ syllabus:
       - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
+      - name: Paul Nurse reflects on the great ideas of biology. We will explore these ideas throughout the course from a quantitative perspective. (Nurse 2003)
+        type: paper
+        link: Nurse2003.pdf        
       - name: Article by Rob Phillips arguing for models to precede experiments, and not to be relegated to the last figure of papers. (Phillips 2015)
         type: paper
         link: Phillips2015.pdf
