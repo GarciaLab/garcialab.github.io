@@ -360,12 +360,12 @@ syllabus:
   #     - name: Simple estimates
   - entry:
     date: 1/23 Lecture @ 85 Evans
-  #   topics: 
-  #     - "The scale and scaling of cellular structures and processes, Part 1.
-  #       <ul>
-  #           <li>Nucleolus scaling in C. elegans.</li>
-  #           <li>Fitting data by eye with Python.</li>
-  #       </ul>"
+    topics: 
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
+          <ul>
+              <li>Time evolution in biology.</li>
+              <li>Control of and limits to bacterial growth.</li>
+          </ul>"
   #   materials: 
   #     - name: "Scaling and Dimensional Analysis: Powerpoint Presentation" 
   #       type: external
