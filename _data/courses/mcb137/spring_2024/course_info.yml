@@ -346,7 +346,7 @@ syllabus:
                 <li>Exhausting ATP Pool (<a href="https://www.youtube.com/watch?v=o5rVLrAw6JY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=8&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1GXbhBA2-EFiu0CRpoDZkBHCds8xgj0zJ/view?usp=drive_link">Notes</a>)</li>
                 <li>DNA Replication Error Rate (<a href="https://www.youtube.com/watch?v=sDgCMIQfl_g&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=9&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/12aLWa2sEWr7VTrkJnNglRrwtjLoNKOvA/view?usp=sharing">Notes</a>)</li>
               </ul>'
-      - name: 'Human Impacts Exam (<a href="https://youtu.be/VY23Pgfc01k?si=ygu8WM9hzURVRWBZ">Video</a>)
+      - name: 'Human Impacts Exam (<a href="https://youtu.be/VY23Pgfc01k?=si=ygu8WM9hzURVRWBZ">Video</a>)
               <ul>
                 <li>Cows vs Humans (<a href="https://www.youtube.com/watch?v=6883vXh9xek&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=11&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1tNpnimpUPpO8glZLeax1_OthZDjeSErG/view?usp=drive_link">Notes</a>)</li>
               </ul>'
@@ -359,13 +359,13 @@ syllabus:
   #             </ul>'
   #     - name: Simple estimates
   - entry:
-    date: 1/23 Lecture @ 85 Evans
-    topics: 
-        - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
-          <ul>
-              <li>Time evolution in biology.</li>
-              <li>Control of and limits to bacterial growth.</li>
-          </ul>"
+    # date: 1/23 Lecture @ 85 Evans
+    # topics: 
+    #     - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
+    #       <ul>
+    #           <li>Time evolution in biology.</li>
+    #           <li>Control of and limits to bacterial growth.</li>
+    #       </ul>"
   #   materials: 
   #     - name: "Scaling and Dimensional Analysis: Powerpoint Presentation" 
   #       type: external
