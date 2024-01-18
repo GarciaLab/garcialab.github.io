@@ -373,28 +373,30 @@ syllabus:
   #     - name: "Lecture Notes" 
   #       type: notes
   #       link: lec3.pdf
-  #     - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
-  #       type: paper
-  #       link: Weber2015.pdf
+      - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
+        type: paper
+        link: Weber2015.pdf
   #     - name: "Colab Notebook Nucleolar Scaling Exercise"
   #       type: external
   #       link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
   - entry:
     date: 1/25  Lecture @ 85 Evans
-  #   topics:
-  #     - "The scale and scaling of cellular structures and processes, Part 2.
-  #       <ul>
-  #           <li>Surface to volume ratio and energy scaling in the cell.</li>
-  #           <li>Time scales in biology.</li>
-  #           <li>Exponential growth by pen and paper, and by simulation.</li>
-  #       </ul>"
+    topics: 
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
+          <ul>
+              <li>Time evolution in biology.</li>
+              <li>Control of and limits to bacterial growth.</li>
+          </ul>"
   #   materials: 
   #     - name: "Lecture Notes" 
   #       type: notes
   #       link: lec04.pdf
-  #     - name: The bioenergetic costs of a gene (Lynch 2015)
-  #       type: paper
-  #       link: Lynch2015.pdf
+      - name: The bioenergetic costs of a gene (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
+      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
+        type: paper
+        link: Campos2014.pdf
   #     - name: "Colab Notebook Energy Scaling Cell" 
   #       type: external
   #       link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
@@ -412,12 +414,13 @@ syllabus:
   #   #    link: 
   - entry:
     date: 1/30 Lecture @ 85 Evans
-  #   topics:
-  #     - "The scale and scaling of cellular structures and processes, Part 3.
-  #       <ul>
-  #           <li>Time scales in biology.</li>
-  #           <li>Exponential growth by pen and paper, and by simulation.</li>
-  #       </ul>"
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution.
+          <ul>
+              <li>The Great Probability Distributions of Biology</li>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
+              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+          </ul>"
   #   materials:
   #     - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015)"
   #       type: paper
@@ -427,9 +430,13 @@ syllabus:
   #       link: "https://drive.google.com/file/d/1n3z-vkCkRdP1k4VkRBXs_jDy8gv4SpaX/view?usp=sharing"
   - entry:
     date: 2/1 Lecture @ 85 Evans
-  #   topics: >
-  #     Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion
-  #     and Axonal Transport
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution.
+          <ul>
+              <li>The Great Probability Distributions of Biology</li>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
+              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+          </ul>"
   #   materials: 
   #     - name: "Diffusion: Powerpoint Presentation"
   #       type: external
@@ -466,9 +473,13 @@ syllabus:
     # #  - name: PBoC Chapter 13
   - entry:
     date: 2/6 Lecture @ 85 Evans
-  #   topics: > 
-  #     Diffusion, the null hypothesis of biological dynamics, Part II. Diffusion
-  #     using by coin flips
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution.
+          <ul>
+              <li>The Great Probability Distributions of Biology</li>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
+              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+          </ul>"
   #   materials:
   #     - name: "Lecture Notes" 
   #       type: notes
@@ -482,9 +493,11 @@ syllabus:
   #   #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
   - entry: 
     date: 2/8 Lecture @ 85 Evans # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
-  #   topics: > 
-  #     Diffusion, the null hypothesis of biological dynamics, Part III: Diffusion
-  #     by Solving the Chemical Master Equation
+    topics: 
+        - "Null Hypotheses in Biology: The Exponential Distribution.
+          <ul>
+              <li>Waiting times for photobelaching and ion channel dynamics.</li>
+          </ul>"
   #   #materials:
   #   #  - name: >
   #   #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
@@ -510,8 +523,14 @@ syllabus:
   #   #    link: "https://colab.research.google.com/drive/1GnCI6OkBdVZUovVnz_ur0IF7OlJgXHLh"
   - entry:
     date: 2/13 Lecture @ 85 Evans
-  #   topics: >
-  #     Biological Dynamics, Part I: The mean dynamics of the constitutive promoter
+    topics: 
+        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+          <ul>
+              <li>Diffusion and axonal transport.</li>
+              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              <li>FRAP: Measuring diffusion using photobleaching</li>
+              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+          </ul>"
   #   materials:
   #      - name: "The Protocol of Biological Dynamics: Powerpoint Presentation"
   #        type: external
@@ -521,8 +540,14 @@ syllabus:
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
   - entry: 
     date: 2/15 Lecture @ 85 Evans
-  #   topics: > 
-  #     Biological Dynamics, Part II: The single-cell distribution of the constitutive promoter
+     topics: 
+        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+          <ul>
+              <li>Diffusion and axonal transport.</li>
+              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              <li>FRAP: Measuring diffusion using photobleaching</li>
+              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+          </ul>"
   #   #discussion:
   #   #  - name: Diffusion by master equations, Part I (Python Code)
   #   #    type: external
@@ -548,8 +573,14 @@ syllabus:
   #       link: Garcia2007b.pdf
   - entry:
     date: 2/22 Lecture @ 85 Evans
-  #   topics: > 
-  #     Regulatory Biology and Statistical Mechanics: Simple Repression
+     topics: 
+        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+          <ul>
+              <li>Diffusion and axonal transport.</li>
+              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              <li>FRAP: Measuring diffusion using photobleaching</li>
+              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+          </ul>"
   #   materials:
   #      - name: "Pre-Lecture 12 recording: Simple Repression"
   #        type: external
@@ -576,12 +607,13 @@ syllabus:
   #             </ul>'
   - entry: 
     date: 2/27 Lecture @ 85 Evans
-    # topics: 
-    #   - "Defiance Is the Secret of Life, Part I
-    #     <ul>
-    #         <li>Energy for fun and profit</li>
-    #         <li>Entropy maximization and the 2nd law of thermodynamics</li>
-    #     </ul>"
+    topics: 
+        - "Entropy Rules.
+          <ul>
+              <li>Entropy maximization and the mathematics of superaltives.</li>
+              <li>Entropic forces: A DNA entropic spring</li>
+              <li>Phase transitions in biology</li>
+          </ul>"
     # materials:
     #    - name: "Engineering Maxwell's demon"
     #      type: paper
@@ -600,11 +632,13 @@ syllabus:
     #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
   - entry: 
     date: 2/29 Lecture @ 85 Evans
-    # topics: 
-    #   - "Defiance Is the Secret of Life, Part II
-    #     <ul>
-    #         <li>Entropic forces: A DNA entropic spring</li>
-    #     </ul>"
+    topics: 
+        - "Entropy Rules.
+          <ul>
+              <li>Entropy maximization and the mathematics of superaltives.</li>
+              <li>Entropic forces: A DNA entropic spring</li>
+              <li>Phase transitions in biology</li>
+          </ul>"
     # discussion:
     #    - name: 'Expression under the LacI repressor, Part II.
     #           <ul>
@@ -613,24 +647,22 @@ syllabus:
     #           </ul>'
   - entry: 
     date: 3/5 Lecture @ 85 Evans
-    # topics:
-    #   - "Guest Lecturer: Rob Phillips"
-    #   - "Defiance Is the Secret of Life, Part III
-    #     <ul>
-    #         <li>Biological batteries</li>
-    #         <li>Defying diffusion: The proton gradient battery</li>
-    #         <li>The chemical potential</li>
-    #     </ul>"
-    # #topics: >
-    # #  Membraneless organelles and phase transitions in biology, Part II: Free energy minimization
+    topics: 
+        - "Entropy Rules.
+          <ul>
+              <li>Entropy maximization and the mathematics of superaltives.</li>
+              <li>Entropic forces: A DNA entropic spring</li>
+              <li>Phase transitions in biology</li>
+          </ul>"
   - entry:
     date: 3/7 Lecture @ 85 Evans
-    # topics:
-    #   - "Guest Lecturer: Rob Phillips"
-    #   - "Defiance Is the Secret of Life, Part IV
-    #     <ul>
-    #         <li>Getting energy out of concentration gradients: Symporters</li>
-    #     </ul>"
+    topics: 
+        - "Entropy Rules.
+          <ul>
+              <li>Entropy maximization and the mathematics of superaltives.</li>
+              <li>Entropic forces: A DNA entropic spring</li>
+              <li>Phase transitions in biology</li>
+          </ul>"
     # materials:
     #    - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
     #      type: paper
@@ -662,23 +694,26 @@ syllabus:
     # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
   - entry:
     date: 3/12 Lecture @ 85 Evans
-    # topics:
-    #   - "Defiance Is the Secret of Life, Part V
-    #     <ul>
-    #         <li>Review of lectures 15 and 16</li>
-    #         <li>Phosphorylation and the ATP battery</li>
-    #     </ul>"
+    topics: 
+        - "The Boltzmann Distribution and Statistical Mechanics.
+          <ul>
+              <li>Ion channels and two-state systems.</li>
+              <li>The ubiquitous nature of binding problems in biology</li>
+              <li>Regulatory biology: simple repression in the lac operon</li>
+          </ul>"
     # materials:
     #   - name: "Lecture Notes" 
     #     type: notes
     #     link: lec17.pdf
   - entry:
     date: 3/14 Lecture @ 85 Evans
-    # topics:
-    #   - "Defiance Is the Secret of Life, Part VI
-    #     <ul>
-    #         <li>Defying specificity: Kinetic proofreading</li>
-    #     </ul>"
+    topics: 
+        - "The Boltzmann Distribution and Statistical Mechanics.
+          <ul>
+              <li>Ion channels and two-state systems.</li>
+              <li>The ubiquitous nature of binding problems in biology</li>
+              <li>Regulatory biology: simple repression in the lac operon</li>
+          </ul>"
     # #materials:
     # #  - name:  Plotting the Promoter Fraction Bound (Python Code)
     # #    type: external
@@ -704,13 +739,14 @@ syllabus:
     #           </ul>'
   - entry:
     date: 3/19 Lecture @ 85 Evans
-    # topics:
-    #   "Lecture cancelled"
-    #   #- "Molecular Switches:
-    #   #  <ul>
-    #   #      <li>A life-or-death decision: The lambda switch</li>
-    #   #      <li>The second secret of life: Protein allostery and the MWC model</li>
-    #   #  </ul>"
+    topics: 
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+          <ul>
+              <li>Energy estimates in biology.</li>
+              <li>Biological batteries</li>
+              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
   - entry:
     date: 3/21 Lecture @ 85 Evans
     # topics:
@@ -732,12 +768,14 @@ syllabus:
   
   - entry: 
     date: 4/2 Lecture @ 85 Evans
-    # topics:
-    #   - "Dynamical systems, Part I:
-    #     <ul>
-    #         <li>Mutual repression switches</li>
-    #         <li>Epidemiology: The SRI model and flattening the curve</li>
-    #     </ul>"
+    topics: 
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+          <ul>
+              <li>Energy estimates in biology.</li>
+              <li>Biological batteries</li>
+              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
     # materials:
     #   - name: "Dynamical Systems: Powerpoint Presentation"
     #     type: external
@@ -753,12 +791,14 @@ syllabus:
     #   #link: lec21_2.pdf
   - entry:
     date: 4/4 Lecture @ 85 Evans
-    # topics:
-    #   - "Dynamical systems, Part II:
-    #     <ul>
-    #         <li>Mutual repression switches</li>
-    #         <li>Epidemiology: The SRI model and flattening the curve</li>
-    #     </ul>"
+    topics: 
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+          <ul>
+              <li>Energy estimates in biology.</li>
+              <li>Biological batteries</li>
+              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
     # discussion:
     #  # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
     #  #   type: external
@@ -778,24 +818,28 @@ syllabus:
     #           </ul>'
   - entry:
     date: 4/9 Lecture @ 85 Evans
-    # topics:
-    #   - "Divide and Conquer: Compartmentalization in Space and Time, Part I
-    #     <ul>
-    #         <li>Guest lecturers: Jane Kondev (Brandeis University) and Christina Hueschen (Stanford University)</li>
-    #         <li>Michealis-Menten enzyme kinetics</li>
-    #     </ul>"
+    topics: 
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+          <ul>
+              <li>Energy estimates in biology.</li>
+              <li>Biological batteries</li>
+              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
     # materials:
     #   - name: "Lecture slides"
     #     type: external
     #     link: "https://www.dropbox.com/s/k95iny349bwtb1b/MCB137%2B237-Compartmentilzation-Export.pptx?dl=0"
   - entry: 
     date: 4/11 Lecture @ 85 Evans
-    # topics:
-    #   - "Divide and Conquer: Compartmentalization in Space and Time, Part II
-    #     <ul>
-    #         <li>Guest lecturers: Jane Kondev (Brandeis University) and Christina Hueschen (Stanford University)</li>
-    #         <li>Compartmentalization of enzymatic reactions in the carboxysome</li>
-    #     </ul>"
+    topics: 
+        - "Biological Networks.
+          <ul>
+              <li>A life-or-death decision: the Lambda switch.</li>
+              <li>Epidemiology and the SIR model</li>
+              <li>A genome-wide view of biological networks</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
     # #discussion:
     # #  - name: Gneetic Oscillators (Python Code) 
     # #    type: external
@@ -806,26 +850,28 @@ syllabus:
     #     link: lec24.pdf
   - entry: 
     date: 4/16 Lecture @ 85 Evans
-    # topics: 
-    #   - "Stochastic simulations:
-    #     <ul>
-    #         <li>The stochastic simulation protocol </li>
-    #         <li>Simulating stochastic mRNA production dynamics</li>
-    #     </ul>"
-    #   - "Fill out <a href='http://course-evaluations.berkeley.edu/'> course evaluations</a>."
+    topics: 
+        - "Biological Networks.
+          <ul>
+              <li>A life-or-death decision: the Lambda switch.</li>
+              <li>Epidemiology and the SIR model</li>
+              <li>A genome-wide view of biological networks</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
     # videos:
     #   - name: A Stochastic View of Biology
     #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
     
   - entry:
     date: 4/18 Lecture @ 85 Evans
-    # topics:
-    #   -"Class canceled"
-    #   #- "Active matter
-    #   #  <ul>
-    #   #      <li>Guest lecturer: Christina Hueschen (Stanford University)</li>
-    #   #  </ul>"
-    # #  Dynamics of epidemics, part II. Physical biology of the Cell Recap
+    topics: 
+        - "Biological Networks.
+          <ul>
+              <li>A life-or-death decision: the Lambda switch.</li>
+              <li>Epidemiology and the SIR model</li>
+              <li>A genome-wide view of biological networks</li>
+              <li>Biological specificity: Kinetic proofreading</li>
+          </ul>"
     # #materials: 
     # #  - name: SIR Model (Python Code)
     # #    type: external
