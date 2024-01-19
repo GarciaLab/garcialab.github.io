@@ -540,7 +540,7 @@ syllabus:
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
   - entry: 
     date: 2/15 Lecture @ 85 Evans
-     topics: 
+    topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
               <li>Diffusion and axonal transport.</li>
@@ -573,7 +573,7 @@ syllabus:
   #       link: Garcia2007b.pdf
   - entry:
     date: 2/22 Lecture @ 85 Evans
-     topics: 
+    topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
               <li>Diffusion and axonal transport.</li>
