@@ -364,28 +364,15 @@ syllabus:
         - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
           <ul>
             <li>Time evolution in biology.</li>
-            <li>Control of and limits to bacterial growth.</li>
+            <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
           </ul>"
     materials: 
-  #     - name: "Scaling and Dimensional Analysis: Powerpoint Presentation" 
-  #       type: external
-  #       link: "https://www.dropbox.com/s/bbnh5it0k4o6wuv/MCB137%2B237-Scaling-Export.pptx?dl=0"
-  #     - name: "Lecture Notes" 
-  #       type: notes
-  #       link: lec3.pdf
-  #    - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
-  #      type: paper
-  #      link: Weber2015.pdf
-  #     - name: "Colab Notebook Nucleolar Scaling Exercise"
-  #       type: external
-  #       link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
   - entry:
     date: 1/25  Lecture @ 85 Evans
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
           <ul>
-              <li>Time evolution in biology.</li>
-              <li>Control of and limits to bacterial growth.</li>
+              <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
           </ul>"
     materials: 
   #     - name: "Lecture Notes" 
