@@ -314,12 +314,10 @@ syllabus:
                 <li>How many porta potties do you need for an outdoor concert? (<a href="https://youtu.be/1lnB90WDmQ0">Video</a>, <a href="https://drive.google.com/file/d/1As0Jtiole0XVBHhAePyO6nSxlgFWVRc7/view?usp=drive_link">Notes</a>) </li>
                 <li>What Sets the Scale of Mountain Height? (<a href="https://youtu.be/8FQH0mssnhM">Video</a>, <a href="https://drive.google.com/file/d/1QJIv_M88hScbWBxLnxCGYeVqA0Nghx9X/view?usp=drive_link">Notes</a>) </li>
               </ul>'
-        link: ""
       - name: 'Physical Biology Exam
               <ul>
                 <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
               </ul>'
-        link: ""
   - entry:
     date: 1/18 Lecture @ 85 Evans
     topics:
@@ -348,12 +346,10 @@ syllabus:
                 <li>Exhausting ATP Pool (<a href="https://www.youtube.com/watch?v=o5rVLrAw6JY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=8&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1GXbhBA2-EFiu0CRpoDZkBHCds8xgj0zJ/view?usp=drive_link">Notes</a>)</li>
                 <li>DNA Replication Error Rate (<a href="https://www.youtube.com/watch?v=sDgCMIQfl_g&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=9&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/12aLWa2sEWr7VTrkJnNglRrwtjLoNKOvA/view?usp=sharing">Notes</a>)</li>
               </ul>'
-        link: ""
       - name: 'Human Impacts Exam (<a href="https://youtu.be/VY23Pgfc01k?=si=ygu8WM9hzURVRWBZ">Video</a>)
               <ul>
                 <li>Cows vs Humans (<a href="https://www.youtube.com/watch?v=6883vXh9xek&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=11&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1tNpnimpUPpO8glZLeax1_OthZDjeSErG/view?usp=drive_link">Notes</a>)</li>
               </ul>'
-        link: ""
   #   discussion:
   #     - name: Introduction to GradeScope.
   #     - name: 'Introduction to Python, Colab and making simple plots.
@@ -370,7 +366,7 @@ syllabus:
             <li>Time evolution in biology.</li>
             <li>Control of and limits to bacterial growth.</li>
           </ul>"
-  #   materials: 
+    materials: 
   #     - name: "Scaling and Dimensional Analysis: Powerpoint Presentation" 
   #       type: external
   #       link: "https://www.dropbox.com/s/bbnh5it0k4o6wuv/MCB137%2B237-Scaling-Export.pptx?dl=0"
@@ -391,7 +387,7 @@ syllabus:
               <li>Time evolution in biology.</li>
               <li>Control of and limits to bacterial growth.</li>
           </ul>"
-  #   materials: 
+    materials: 
   #     - name: "Lecture Notes" 
   #       type: notes
   #       link: lec04.pdf
