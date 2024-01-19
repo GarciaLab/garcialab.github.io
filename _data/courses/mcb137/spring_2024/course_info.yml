@@ -305,9 +305,6 @@ syllabus:
       - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
         type: paper
         link: Baker1998.pdf
-      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
-        type: paper
-        link: Lynch2015.pdf 
       - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
         type: paper
         link: Chure2022.pdf       
@@ -329,6 +326,9 @@ syllabus:
       - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
         type: paper
         link: Stouthamer1973.pdf
+      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
       - name: A revised estimate of the number (and types) of human and bacterial cells in our body. (Sender 2016)
         type: paper
         link: Sender2016.pdf
