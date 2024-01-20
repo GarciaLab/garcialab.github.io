@@ -429,7 +429,7 @@ syllabus:
   #   #  - name: Data
   #   #    type: external
   #   #    link: 
-      videos:
+    videos:
       - name: 'Bacterial Growth
               <ul>
                 <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics(<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
