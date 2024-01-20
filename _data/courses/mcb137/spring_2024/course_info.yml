@@ -385,6 +385,12 @@ syllabus:
   #     - name: "Colab Notebook Nucleolar Scaling Exercise"
   #       type: external
   #       link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
+    videos:
+      - name: 'Bacterial Growth
+              <ul>
+                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics(<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
+                <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
+              </ul>'
   - entry: #4
     date: 1/25  Lecture @ 85 Evans
     topics: 
@@ -423,6 +429,12 @@ syllabus:
   #   #  - name: Data
   #   #    type: external
   #   #    link: 
+      videos:
+      - name: 'Bacterial Growth
+              <ul>
+                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics(<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
+                <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
+              </ul>'
   - entry:
     date: 1/30 Lecture @ 85 Evans
     topics: 
