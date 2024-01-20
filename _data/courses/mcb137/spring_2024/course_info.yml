@@ -271,7 +271,7 @@ syllabuspdf:
   link: MCB137L-237L-2024-Syllabus.pdf
   
 syllabus:
-  - entry:
+  - entry: #1
     date: 1/16 Lecture @ 85 Evans. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
     topics:
       - "A feeling for the numbers in biology."
@@ -318,7 +318,7 @@ syllabus:
               <ul>
                 <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
               </ul>'
-  - entry:
+  - entry: #2
     date: 1/18 Lecture @ 85 Evans
     topics:
        - "A Feeling for the Numbers in Biology, Part II."
@@ -358,7 +358,7 @@ syllabus:
   #                Colab Notebook (Discussion I - Yovan)</a></li>
   #             </ul>'
   #     - name: Simple estimates
-  - entry:
+  - entry: #3
     date: 1/23 Lecture @ 85 Evans
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
@@ -367,7 +367,25 @@ syllabus:
             <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
           </ul>"
     materials: 
-  - entry:
+      - name: "Stuff(t) (or the protocols of Biological Dynamics): Powerpoint Presentation)" 
+        type: external
+        link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+  #     - name: "Lecture Notes" 
+  #       type: notes
+  #       link: lec3.pdf
+      - name: "Bacterial growth (ChatGPT Export)"
+        type: external
+        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+      - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
+        type: paper
+        link: Weber2015.pdf
+      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
+        type: paper
+        link: Campos2014.pdf
+  #     - name: "Colab Notebook Nucleolar Scaling Exercise"
+  #       type: external
+  #       link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
+  - entry: #4
     date: 1/25  Lecture @ 85 Evans
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
@@ -378,12 +396,18 @@ syllabus:
   #     - name: "Lecture Notes" 
   #       type: notes
   #       link: lec04.pdf
-  #    - name: The bioenergetic costs of a gene (Lynch 2015)
-  #      type: paper
-  #      link: Lynch2015.pdf
-  #    - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
-  #      type: paper
-  #      link: Campos2014.pdf
+      - name: "Stuff(t) (or the protocols of Biological Dynamics): Powerpoint Presentation)" 
+        type: external
+        link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Bacterial growth (ChatGPT Export)"
+        type: external
+        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+      - name: The bioenergetic costs of a gene (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
+      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
+        type: paper
+        link: Campos2014.pdf
   #     - name: "Colab Notebook Energy Scaling Cell" 
   #       type: external
   #       link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
