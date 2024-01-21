@@ -400,11 +400,9 @@ syllabus:
   - entry: #5
     date: 1/30 Lecture @ 85 Evans
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution.
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
           <ul>
-              <li>The Great Probability Distributions of Biology</li>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
-              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+              <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
           </ul>"
     materials:
       - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
