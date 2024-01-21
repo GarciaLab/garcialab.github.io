@@ -370,9 +370,9 @@ syllabus:
       - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation)" 
         type: external
         link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
-#      - name: "Bacterial growth (a chat with ChatGPT)"
-#        type: external
-#        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+      - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
+        type: paper
+        link: Neidhardt1999.pdf
     videos:
       - name: 'Bacterial Growth
               <ul>
@@ -394,11 +394,7 @@ syllabus:
               <ul>
                 <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
               </ul>'
-    materials:
-      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
-        type: paper
-        link: Campos2014.pdf
-  - entry:
+  - entry: #5
     date: 1/30 Lecture @ 85 Evans
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution.
@@ -407,13 +403,10 @@ syllabus:
               <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
               <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
           </ul>"
-  #   materials:
-  #     - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015)"
-  #       type: paper
-  #       link: Neidhardt1999.pdf
-  #     - name: "Colab Notebook Bacterial Growth Simulation"
-  #       type: external
-  #       link: "https://drive.google.com/file/d/1n3z-vkCkRdP1k4VkRBXs_jDy8gv4SpaX/view?usp=sharing"
+    materials:
+      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
+        type: paper
+        link: Campos2014.pdf
   - entry:
     date: 2/1 Lecture @ 85 Evans
     topics: 
