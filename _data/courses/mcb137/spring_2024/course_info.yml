@@ -367,29 +367,16 @@ syllabus:
             <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
           </ul>"
     materials: 
-      - name: "Stuff(t) (or the protocols of Biological Dynamics): Powerpoint Presentation)" 
+      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation)" 
         type: external
         link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
-  #     - name: "Lecture Notes" 
-  #       type: notes
-  #       link: lec3.pdf
-      - name: "Bacterial growth (ChatGPT Export)"
-        type: external
-        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
-      - name: Inverse size scaling of the nucleolus by a concentration-dependent phase transition (Weber 2015)
-        type: paper
-        link: Weber2015.pdf
-      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
-        type: paper
-        link: Campos2014.pdf
-  #     - name: "Colab Notebook Nucleolar Scaling Exercise"
-  #       type: external
-  #       link: "https://colab.research.google.com/drive/1RkIWUNkDozhwHU8WnPnMZiDdpApsMw4X?usp=sharing"
+#      - name: "Bacterial growth (a chat with ChatGPT)"
+#        type: external
+#        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
     videos:
       - name: 'Bacterial Growth
               <ul>
-                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics(<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
-                <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
+                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
               </ul>'
   - entry: #4
     date: 1/25  Lecture @ 85 Evans
@@ -399,42 +386,18 @@ syllabus:
               <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
           </ul>"
     materials: 
-  #     - name: "Lecture Notes" 
-  #       type: notes
-  #       link: lec04.pdf
-      - name: "Stuff(t) (or the protocols of Biological Dynamics): Powerpoint Presentation)" 
-        type: external
-        link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
-      - name: "Bacterial growth (ChatGPT Export)"
+      - name: "Bacterial growth (a chat with ChatGPT)"
         type: external
         link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
-      - name: The bioenergetic costs of a gene (Lynch 2015)
-        type: paper
-        link: Lynch2015.pdf
-      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
-        type: paper
-        link: Campos2014.pdf
-  #     - name: "Colab Notebook Energy Scaling Cell" 
-  #       type: external
-  #       link: "https://colab.research.google.com/drive/1M1eIDq3OR9d6opmnrwPAj2uox6C9NZhb?usp=sharing"
-  #   discussion:
-  #     - name: 'Measuring bacterial growth using image analysis, Part I.
-  #             <ul>
-  #                <li><a href="https://drive.google.com/drive/folders/18vdukHEwN_I7AVveEo_hmydzVXVb0Pim?usp=sharing">
-  #                Colab Notebook + Data (Discussion I - Yovan)</a></li>
-  #             </ul>'
-  #   #  - name: Python Code
-  #   #    type: external
-  #   #    link: "https://colab.research.google.com/drive/1wk1XD1da6Kmo_ebNF1rQRKlPppsnjoKr" 
-  #   #  - name: Data
-  #   #    type: external
-  #   #    link: 
     videos:
       - name: 'Bacterial Growth
               <ul>
-                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics(<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
                 <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
               </ul>'
+    materials:
+      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
+        type: paper
+        link: Campos2014.pdf
   - entry:
     date: 1/30 Lecture @ 85 Evans
     topics: 
