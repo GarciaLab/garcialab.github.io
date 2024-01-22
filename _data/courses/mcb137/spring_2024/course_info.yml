@@ -400,7 +400,7 @@ syllabus:
   - entry: #5
     date: 1/30 Lecture @ 85 Evans
     topics: 
-        - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
           <ul>
               <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
           </ul>"
