@@ -97,15 +97,15 @@ Homework:
 #      - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
 #        type: external
 #        link: "https://tinyurl.com/yl5efg55"
-#   - set:
-#     title: Homework 2
-#     link: MCB137+237-HW2-2022.pdf
-#     due: "2/03 at 11:00 AM"
-#     materials:
+  - set:
+    title: Homework 2
+    link: MCB137+237-HW2-2024.pdf
+    due: "2/01 at 2:00 PM"
+    materials:
 #       - name: Data for problem 4
 #         type: external
 #         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
-#     solutions:
+    solutions:
 #       - name: Homework 2 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1SGRt0fPahzg9mbSvGoCtoOYS8Ngne-aU/view?usp=sharing"
