@@ -374,12 +374,12 @@ syllabus:
         type: paper
         link: Neidhardt1999.pdf
     videos:
-      - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
-        type: external
-        link: https://youtu.be/HvMVPfMD1og
       - name: 'Lecture Recording from 1/23'
         type: external
         link: https://bcourses.berkeley.edu/courses/1534077/external_tools/90481
+      - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
+        type: external
+        link: https://youtu.be/HvMVPfMD1og
       - name: 'Bacterial Growth
               <ul>
                 <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
