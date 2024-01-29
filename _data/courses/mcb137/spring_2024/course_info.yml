@@ -405,55 +405,65 @@ syllabus:
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
           <ul>
-              <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
+              <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
           </ul>"
     materials:
       - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
         type: paper
         link: Campos2014.pdf
-  - entry:
+      - name: "Suckjoon Jun’s mother machine used to measure and understand the distribution of bacterial cell sizes at birth and at division (Taheiri-Araghi 2015)"
+        type: paper
+        link: TaheriAraghi2015.pdf
+      - name: "Measuring E. coli size over 50,000 generations in the Lenski experiment (Grant 2021)"
+        type: paper
+        link: Grant2021.pdf
+  - entry: #6
     date: 2/1 Lecture @ 85 Evans
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution.
-          <ul>
-              <li>The Great Probability Distributions of Biology</li>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
-              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
-          </ul>"
-  #   materials: 
-  #     - name: "Diffusion: Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
-  #     - name: >
-  #         On the implications of a Sex Difference in the Reaction Times of
-  #         Sprinters at the Beijing Olympics (Lipps 2011)
-  #       type: paper
-  #       link: Lipps2011.pdf
-  #     - name: >
-  #         All-optical electrophysiology in mammalian neurotns using engineered
-  #         microbial rhodopsins (Hochbaum 2014)
-  #       type: paper
-  #       link: Hochbaum2014.pdf
-  #     - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
-  #       type: paper
-  #       link: Droz1962.pdf
-  #     - name: One at a time, live tracking of NGF axonal transport using quantum dots (Cui 2007)
-  #       type: paper
-  #       link: Cui2007.pdf
-  #     - name: "Single-molecule investigations of the stringent response machinery in living bacterial cells (English 2011)"
-  #       type: paper
-  #       link: English2011.pdf
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part IV.
+      <ul>
+          <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
+      </ul>"
+        # - "Null Hypotheses in Biology: The Poisson Distribution.
+        #   <ul>
+        #       <li>The Great Probability Distributions of Biology</li>
+        #       <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
+        #       <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+        #   </ul>"
+    materials: 
+      # # - name: "Diffusion: Powerpoint Presentation"
+      # #   type: external
+      # #   link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
+      # - name: >
+      #     On the implications of a Sex Difference in the Reaction Times of
+      #     Sprinters at the Beijing Olympics (Lipps 2011)
+      #   type: paper
+      #   link: Lipps2011.pdf
+      # - name: >
+      #     All-optical electrophysiology in mammalian neurotns using engineered
+      #     microbial rhodopsins (Hochbaum 2014)
+      #   type: paper
+      #   link: Hochbaum2014.pdf
+      # - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
+      #   type: paper
+      #   link: Droz1962.pdf
+      # - name: One at a time, live tracking of NGF axonal transport using quantum dots (Cui 2007)
+      #   type: paper
+      #   link: Cui2007.pdf
+      # - name: "Single-molecule investigations of the stringent response machinery in living bacterial cells (English 2011)"
+      #   type: paper
+      #   link: English2011.pdf
     # discussion:
     #   - name: "Measuring bacterial growth using image analysis, Part II."
-    # #  - name: Axonal Transport (MOrfini 2011)
-    # #    type: paper
-    # #    link: Morfini2011.pdf
-    # #  - name: >
-    # #      Myosin V Walks Hand-Over-Hand: Single Fluorophore IMaging with 1.5-nm
-    # #      Localization (Yildiz 2003)
-    # #    type: paper
-    # #    link: Yildiz2003.pdf
-    # #  - name: PBoC Chapter 13
+    #  - name: Axonal Transport (MOrfini 2011)
+    #    type: paper
+    #    link: Morfini2011.pdf
+    #  - name: >
+    #      Myosin V Walks Hand-Over-Hand: Single Fluorophore IMaging with 1.5-nm
+    #      Localization (Yildiz 2003)
+    #    type: paper
+    #    link: Yildiz2003.pdf
+    #  - name: PBoC Chapter 13
   - entry:
     date: 2/6 Lecture @ 85 Evans
     topics: 
