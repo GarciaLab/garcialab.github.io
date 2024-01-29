@@ -272,7 +272,7 @@ syllabuspdf:
   
 syllabus:
   - entry: #1
-    date: 1/16 Lecture @ 85 Evans. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
+    date: 1/16 Lecture @ 251 Dwinelle. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
     topics:
       - "A feeling for the numbers in biology."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
@@ -319,7 +319,7 @@ syllabus:
                 <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
               </ul>'
   - entry: #2
-    date: 1/18 Lecture @ 85 Evans
+    date: 1/18 Lecture @ 251 Dwinelle
     topics:
        - "A Feeling for the Numbers in Biology, Part II."
     materials:
@@ -359,7 +359,7 @@ syllabus:
   #             </ul>'
   #     - name: Simple estimates
   - entry: #3
-    date: 1/23 Lecture @ 85 Evans
+    date: 1/23 Lecture @ 251 Dwinelle
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
           <ul>
@@ -385,7 +385,7 @@ syllabus:
                 <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
               </ul>'
   - entry: #4
-    date: 1/25  Lecture @ 85 Evans
+    date: 1/25  Lecture @ 251 Dwinelle
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
           <ul>
@@ -401,7 +401,7 @@ syllabus:
                 <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
               </ul>'
   - entry: #5
-    date: 1/30 Lecture @ 85 Evans
+    date: 1/30 Lecture @ 251 Dwinelle
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
           <ul>
@@ -418,7 +418,7 @@ syllabus:
         type: paper
         link: Grant2021.pdf
   - entry: #6
-    date: 2/1 Lecture @ 85 Evans
+    date: 2/1 Lecture @ 251 Dwinelle
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part IV.
       <ul>
@@ -465,7 +465,7 @@ syllabus:
     #    link: Yildiz2003.pdf
     #  - name: PBoC Chapter 13
   - entry:
-    date: 2/6 Lecture @ 85 Evans
+    date: 2/6 Lecture @ 251 Dwinelle
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution.
           <ul>
@@ -485,7 +485,7 @@ syllabus:
   #   #    type: external
   #   #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
   - entry: 
-    date: 2/8 Lecture @ 85 Evans # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
+    date: 2/8 Lecture @ 251 Dwinelle # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: 
         - "Null Hypotheses in Biology: The Exponential Distribution.
           <ul>
@@ -515,7 +515,7 @@ syllabus:
   #   #    type: external
   #   #    link: "https://colab.research.google.com/drive/1GnCI6OkBdVZUovVnz_ur0IF7OlJgXHLh"
   - entry:
-    date: 2/13 Lecture @ 85 Evans
+    date: 2/13 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
@@ -532,7 +532,7 @@ syllabus:
   #        type: external
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
   - entry: 
-    date: 2/15 Lecture @ 85 Evans
+    date: 2/15 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
@@ -554,7 +554,7 @@ syllabus:
   #                Colab Notebook (Discussion I - Yasemin)</a></li>
   #             </ul>'
   - entry: 
-    date: 2/20 Lecture @ 85 Evans
+    date: 2/20 Lecture @ 251 Dwinelle
   #   topics: > 
   #     Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
   #   materials:
@@ -565,7 +565,7 @@ syllabus:
   #       type: paper
   #       link: Garcia2007b.pdf
   - entry:
-    date: 2/22 Lecture @ 85 Evans
+    date: 2/22 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
@@ -599,7 +599,7 @@ syllabus:
   #                Colab Notebook + Data (Discussion I - Yovan)</a></li>
   #             </ul>'
   - entry: 
-    date: 2/27 Lecture @ 85 Evans
+    date: 2/27 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -624,7 +624,7 @@ syllabus:
     #    - name: Defiance is the Secret of Life
     #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
   - entry: 
-    date: 2/29 Lecture @ 85 Evans
+    date: 2/29 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -639,7 +639,7 @@ syllabus:
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry: 
-    date: 3/5 Lecture @ 85 Evans
+    date: 3/5 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -648,7 +648,7 @@ syllabus:
               <li>Phase transitions in biology</li>
           </ul>"
   - entry:
-    date: 3/7 Lecture @ 85 Evans
+    date: 3/7 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -686,7 +686,7 @@ syllabus:
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
   - entry:
-    date: 3/12 Lecture @ 85 Evans
+    date: 3/12 Lecture @ 251 Dwinelle
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -699,7 +699,7 @@ syllabus:
     #     type: notes
     #     link: lec17.pdf
   - entry:
-    date: 3/14 Lecture @ 85 Evans
+    date: 3/14 Lecture @ 251 Dwinelle
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -731,7 +731,7 @@ syllabus:
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry:
-    date: 3/19 Lecture @ 85 Evans
+    date: 3/19 Lecture @ 251 Dwinelle
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
@@ -741,7 +741,7 @@ syllabus:
               <li>Biological specificity: Kinetic proofreading</li>
           </ul>"
   - entry:
-    date: 3/21 Lecture @ 85 Evans
+    date: 3/21 Lecture @ 251 Dwinelle
     # topics:
     #   - "Guest Lecturer: Rob Phillips"
     #   - "Molecular Switches:
@@ -760,7 +760,7 @@ syllabus:
     # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
   - entry: 
-    date: 4/2 Lecture @ 85 Evans
+    date: 4/2 Lecture @ 251 Dwinelle
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
@@ -783,7 +783,7 @@ syllabus:
     #   #  type: notes      
     #   #link: lec21_2.pdf
   - entry:
-    date: 4/4 Lecture @ 85 Evans
+    date: 4/4 Lecture @ 251 Dwinelle
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
@@ -810,7 +810,7 @@ syllabus:
     #              Colab Notebook (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry:
-    date: 4/9 Lecture @ 85 Evans
+    date: 4/9 Lecture @ 251 Dwinelle
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
@@ -824,7 +824,7 @@ syllabus:
     #     type: external
     #     link: "https://www.dropbox.com/s/k95iny349bwtb1b/MCB137%2B237-Compartmentilzation-Export.pptx?dl=0"
   - entry: 
-    date: 4/11 Lecture @ 85 Evans
+    date: 4/11 Lecture @ 251 Dwinelle
     topics: 
         - "Biological Networks.
           <ul>
@@ -842,7 +842,7 @@ syllabus:
     #     type: notes
     #     link: lec24.pdf
   - entry: 
-    date: 4/16 Lecture @ 85 Evans
+    date: 4/16 Lecture @ 251 Dwinelle
     topics: 
         - "Biological Networks.
           <ul>
@@ -856,7 +856,7 @@ syllabus:
     #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
     
   - entry:
-    date: 4/18 Lecture @ 85 Evans
+    date: 4/18 Lecture @ 251 Dwinelle
     topics: 
         - "Biological Networks.
           <ul>
@@ -870,12 +870,12 @@ syllabus:
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
   - entry:
-    date: 4/23 Lecture @ 85 Evans
+    date: 4/23 Lecture @ 251 Dwinelle
     # topics:
     #   - "Exit Talk: Breaking the Standard Model (of Embryonic Development)"
     #   - "Fill out course survey:"
   - entry:
-    date: 4/25 Lecture @ 85 Evans
+    date: 4/25 Lecture @ 251 Dwinelle
     # topics:
     #   - "MCB237L poster session and end-of-course party!"
      
