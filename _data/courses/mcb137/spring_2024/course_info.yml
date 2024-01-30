@@ -109,11 +109,11 @@ Homework:
 #       - name: Homework 2 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1SGRt0fPahzg9mbSvGoCtoOYS8Ngne-aU/view?usp=sharing"
-#   - set:
-#     title: Homework 3
-#     link: MCB137+237-HW3-2022.pdf
-#     due: "2/10 at 11:00 AM"
-#     solutions:
+  - set:
+    title: Homework 3
+    link: MCB137+237-HW3-2024.pdf
+    due: "2/8 at 2:00 PM"
+    solutions:
 #       - name: Homework 3 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1H0-1xiBJ_XW0SAVpcbXYdGwAElghvvcE/view?usp=sharing"
@@ -367,7 +367,7 @@ syllabus:
             <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
           </ul>"
     materials: 
-      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation)" 
+      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
         type: external
         link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
       - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
@@ -408,6 +408,9 @@ syllabus:
               <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
           </ul>"
     materials:
+      - name: "Stuff(*t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
       - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
         type: paper
         link: Campos2014.pdf
@@ -431,6 +434,9 @@ syllabus:
         #       <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
         #   </ul>"
     materials: 
+      - name: "Stuff(*t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
       # # - name: "Diffusion: Powerpoint Presentation"
       # #   type: external
       # #   link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
