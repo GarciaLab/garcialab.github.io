@@ -408,7 +408,7 @@ syllabus:
               <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
           </ul>"
     materials:
-      - name: "Stuff(*t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
+      - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
         type: external
         link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
       - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
@@ -434,7 +434,7 @@ syllabus:
         #       <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
         #   </ul>"
     materials: 
-      - name: "Stuff(*t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
+      - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
         type: external
         link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
       # # - name: "Diffusion: Powerpoint Presentation"
