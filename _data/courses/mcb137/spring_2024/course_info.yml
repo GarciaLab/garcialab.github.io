@@ -373,6 +373,9 @@ syllabus:
       - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
         type: paper
         link: Neidhardt1999.pdf
+      - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
+        type: paper
+        link: Monod1949.pdf
     videos:
       - name: 'Lecture Recording from 1/23'
         type: external
@@ -470,49 +473,73 @@ syllabus:
     #    type: paper
     #    link: Yildiz2003.pdf
     #  - name: PBoC Chapter 13
-  - entry:
+  - entry: #7
     date: 2/6 Lecture @ 251 Dwinelle
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution.
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
           <ul>
               <li>The Great Probability Distributions of Biology</li>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
-              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+              <li>The constitutive promoter.</li>
           </ul>"
-  #   materials:
-  #     - name: "Lecture Notes" 
-  #       type: notes
-  #       link: lec07.pdf
-  #     - name: "Colab Notebook Random Walk Simulation"
-  #       type: external
-  #       link: "https://drive.google.com/file/d/1FmJzApCCnBe5d13wHNlgZTSU7wsLCwoB/view?usp=sharing"
-  #   #materials: 
-  #   #  - name:  Diffusion by coin flips (Python Code)
-  #   #    type: external
-  #   #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
-  - entry: 
+    materials:
+      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+      # - name: "Lecture Notes" 
+      #   type: notes
+      #   link: lec07.pdf
+      # - name: "Colab Notebook Random Walk Simulation"
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1FmJzApCCnBe5d13wHNlgZTSU7wsLCwoB/view?usp=sharing"
+      - name: "Groundbreaking measurement of gene expression dynamics in single E. coli cells using the MS2 system (Golding 2005)"
+        type: paper
+        link: Golding2005.pdf
+      - name: "Great smFISH experiment showing that, while some genes follow a Poisson distribution of mRNA molecules, some don't (Zenklusen 2008)"
+        type: paper
+        link: Zenklusen2008.pdf
+      - name: "Predicting transcriptional noise from DNA architecture in simple repression (Jones 2014)"
+        type: paper
+        link: Jones2014.pdf
+      - name: "Examining the distribution of flying bombs hitting London during WWII using the Poisson distribution (Clarke 1946)"
+        type: paper
+        link: Clarke1946.pdf
+      - name: "Induction kinetics of the lac operon as reported by protein activity (Marbach2012)"
+        type: paper
+        link: Marbach2012.pdf
+    #materials: 
+    #  - name:  Diffusion by coin flips (Python Code)
+    #    type: external
+    #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
+  - entry: #8
     date: 2/8 Lecture @ 251 Dwinelle # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: 
-        - "Null Hypotheses in Biology: The Exponential Distribution.
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
           <ul>
-              <li>Waiting times for photobelaching and ion channel dynamics.</li>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
           </ul>"
-  #   #materials:
-  #   #  - name: >
-  #   #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
-  #   #      target microtubule ends (Helenius2006.pdf)
-  #   #    type: paper
-  #   #    link: Helenius2006
-  #   materials:
-  #      - name: Pre-Lecture 8 recording
-  #        type: external
-  #        link: "https://www.dropbox.com/s/hwtbvidouam1e2o/MCB137-237-Lecture08.mp4?dl=0"
-  #      - name: Lecture Notes
-  #        type: notes
-  #        link: lec08.pdf
-  #      - name: Colab Notebook Diffusion by Master Equation
-  #        type: external
-  #        link: "https://colab.research.google.com/drive/1qcO_laLpgMeZdW06bFe1SzSZF3Z_h4IM?usp=sharing"
+    materials:
+      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+      - name: "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris (Tabula Muris 2018)"
+        type: paper
+        link: TabulaMuris2018.pdf
+    #  - name: >
+    #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
+    #      target microtubule ends (Helenius2006.pdf)
+    #    type: paper
+    #    link: Helenius2006
+    # materials:
+    #    - name: Pre-Lecture 8 recording
+    #      type: external
+    #      link: "https://www.dropbox.com/s/hwtbvidouam1e2o/MCB137-237-Lecture08.mp4?dl=0"
+    #    - name: Lecture Notes
+    #      type: notes
+    #      link: lec08.pdf
+    #    - name: Colab Notebook Diffusion by Master Equation
+    #      type: external
+    #      link: "https://colab.research.google.com/drive/1qcO_laLpgMeZdW06bFe1SzSZF3Z_h4IM?usp=sharing"
   #   discussion:
   #      - name: 'Measuring bacterial growth using image analysis, Part III.
   #             <ul>
@@ -523,12 +550,9 @@ syllabus:
   - entry:
     date: 2/13 Lecture @ 251 Dwinelle
     topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+        - "Null Hypotheses in Biology: The Exponential Distribution.
           <ul>
-              <li>Diffusion and axonal transport.</li>
-              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
-              <li>FRAP: Measuring diffusion using photobleaching</li>
-              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+              <li>Waiting times for photobelaching and ion channel dynamics.</li>
           </ul>"
   #   materials:
   #      - name: "The Protocol of Biological Dynamics: Powerpoint Presentation"
@@ -561,6 +585,13 @@ syllabus:
   #             </ul>'
   - entry: 
     date: 2/20 Lecture @ 251 Dwinelle
+        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+          <ul>
+              <li>Diffusion and axonal transport.</li>
+              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              <li>FRAP: Measuring diffusion using photobleaching</li>
+              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+          </ul>"
   #   topics: > 
   #     Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
   #   materials:
