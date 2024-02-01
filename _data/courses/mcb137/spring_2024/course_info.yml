@@ -370,6 +370,9 @@ syllabus:
       - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
         type: external
         link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Bacterial growth: Colab Notebook"
+        type: external
+        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
       - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
         type: paper
         link: Neidhardt1999.pdf
@@ -414,6 +417,9 @@ syllabus:
       - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
         type: external
         link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
+      - name: "Timer Model: Colab Notebook"
+        type: external
+        link: "https://colab.research.google.com/drive/1d7U8o4dOK7AVTZzKH90fPbY2dUYZB-zH?usp=sharing"
       - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
         type: paper
         link: Campos2014.pdf
