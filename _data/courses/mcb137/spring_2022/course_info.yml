@@ -111,9 +111,9 @@ Homework:
         type: chapter
         link: PBoC3_chap2.pdf
     solutions: 
-      - name: Homework 1 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1G10Z0p02TTpQtbE2-B-tFTe9OaP2yU5M/view?usp=sharing"
+      # - name: Homework 1 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1G10Z0p02TTpQtbE2-B-tFTe9OaP2yU5M/view?usp=sharing"
   - set:
     title: Homework 2
     link: MCB137+237-HW2-2022.pdf
@@ -123,17 +123,17 @@ Homework:
         type: external
         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
     solutions:
-      - name: Homework 2 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1SGRt0fPahzg9mbSvGoCtoOYS8Ngne-aU/view?usp=sharing"
+      # - name: Homework 2 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1SGRt0fPahzg9mbSvGoCtoOYS8Ngne-aU/view?usp=sharing"
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2022.pdf
     due: "2/10 at 11:00 AM"
     solutions:
-      - name: Homework 3 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1H0-1xiBJ_XW0SAVpcbXYdGwAElghvvcE/view?usp=sharing"
+      # - name: Homework 3 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1H0-1xiBJ_XW0SAVpcbXYdGwAElghvvcE/view?usp=sharing"
   - set:
     title: Homework 4
     link: MCB137+237-HW4-2022.pdf
@@ -158,9 +158,9 @@ Homework:
         type: chapter
         link: PBoC3_chap5.pdf
     solutions:
-      - name: Homework 4 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1QkHSMlQk8uopzDme9yYVO1CnGz5k0C_4/view?usp=sharing"   
+      # - name: Homework 4 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1QkHSMlQk8uopzDme9yYVO1CnGz5k0C_4/view?usp=sharing"   
   - set:
     title: Homework 5
     link: MCB137+237-HW5-2022.pdf
@@ -185,9 +185,9 @@ Homework:
         type: external
         link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing" 
     solutions:
-      - name: Homework 5 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1_GdYcOMFU3UTnsQ3KYygcNWo2h3WqazY/view?usp=sharing"   
+      # - name: Homework 5 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1_GdYcOMFU3UTnsQ3KYygcNWo2h3WqazY/view?usp=sharing"   
   - set:
     title: First estimate (MCB137L) and model proposal (MCB237L)
     link: 
@@ -203,18 +203,18 @@ Homework:
       - name: Taniguchi 2010
         type: paper
         link: Taniguchi2010.pdf
-    solutions:
-      - name: Homework 6 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1d_koQgep8n61_akPFVyhGrprBHxa7F9K/view?usp=sharing"  
+    # solutions:
+    #   - name: Homework 6 Solutions
+    #     type: external
+    #     link: "https://drive.google.com/file/d/1d_koQgep8n61_akPFVyhGrprBHxa7F9K/view?usp=sharing"  
   - set:
     title: Homework 7
     link:  MCB137+237-HW7-2022.pdf
     due: "3/17 at 11:00 AM"
     solutions:
-      - name: Homework 7 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1gWP_eyo-y-7Q_-TdV1MbhBFy2l-dKYLa/view?usp=sharing"
+      # - name: Homework 7 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1gWP_eyo-y-7Q_-TdV1MbhBFy2l-dKYLa/view?usp=sharing"
       
   - set:
     title: Homework 8
@@ -240,9 +240,9 @@ Homework:
         type: data
         link: Keller1986.xlsx
     solutions:
-      - name: Homework 8 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1Om3rAVbz9XXrXxdof7pz-PKX8wBSqxKk/view?usp=sharing"
+      # - name: Homework 8 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1Om3rAVbz9XXrXxdof7pz-PKX8wBSqxKk/view?usp=sharing"
   - set:
     title: Homework 9
     link: MCB137+237-HW9-2022.pdf
@@ -252,9 +252,9 @@ Homework:
         type: paper
         link: Garcia2007b.pdf
     solutions:
-      - name: Homework 9 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1V_53W6YO4JiJROPEjkc0Cq-BhoD91z8r/view?usp=sharing"
+      # - name: Homework 9 Solutions
+      #   type: external
+      #   link: "https://drive.google.com/file/d/1V_53W6YO4JiJROPEjkc0Cq-BhoD91z8r/view?usp=sharing"
   - set:
     title: Homework 10
     link: MCB137+237-HW10-2022_corrected.pdf
