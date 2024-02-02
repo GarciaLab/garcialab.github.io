@@ -76,7 +76,7 @@ people:
     email: hggarcia@berkeley.edu 
     role: Instructor
     img: hernan.jpg
-    office_hours: Wednesdays 2:30pm - 3:30pm @ 505 Weill Hall and on <a href="https://berkeley.zoom.us/j/98546643139">Zoom</a>
+    office_hours: Mondays 3:30pm - 4:30pm @ 505 Weill Hall and on <a href="https://berkeley.zoom.us/j/98546643139">Zoom</a>
   - person:
     name: Nick Gravina
     email: nick_gravina@berkeley.edu
@@ -112,7 +112,7 @@ Homework:
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2024.pdf
-    due: "2/8 at 2:00 PM"
+    due: "2/13 at 2:00 PM"
     solutions:
 #       - name: Homework 3 Solutions
 #         type: external
