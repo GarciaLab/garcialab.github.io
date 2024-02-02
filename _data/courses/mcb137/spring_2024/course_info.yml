@@ -94,9 +94,9 @@ Homework:
 #        type: chapter
 #        link: PBoC3_chap2.pdf
     solutions: 
-#      - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
-#        type: external
-#        link: "https://tinyurl.com/yl5efg55"
+     - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
+       type: external
+       link: "https://drive.google.com/file/d/1x3plnG8VIPc53iR1ly10dkoggV6P-sis/view?usp=sharing"
   - set:
     title: Homework 2
     link: MCB137+237-HW2-2024.pdf
