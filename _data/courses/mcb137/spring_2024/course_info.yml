@@ -117,10 +117,10 @@ Homework:
 #       - name: Homework 3 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1H0-1xiBJ_XW0SAVpcbXYdGwAElghvvcE/view?usp=sharing"
-#   - set:
-#     title: Homework 4
-#     link: MCB137+237-HW4-2022.pdf
-#     due: "2/17 at 11:00 AM"
+  - set:
+    title: Homework 4
+    link: MCB137+237-HW4-2024.pdf
+    due: "2/20 at 2:00 PM"
 #     materials:
 #       - name: Data for problem 5
 #         type: external
