@@ -559,7 +559,7 @@ syllabus:
               <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.<\li>
               <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
           </ul>"
-    materials:
+    # materials:
       # - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
       #   type: external
       #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
