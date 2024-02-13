@@ -521,8 +521,7 @@ syllabus:
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
           <ul>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
-              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+              <li>Chemical master equation of the constitutive promoter.</li>
           </ul>"
     materials:
       - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
@@ -552,8 +551,20 @@ syllabus:
                  <li><a href="https://colab.research.google.com/drive/1q4FrDIKP_Kf5Kx_LsL8GFdHEEdnFOUD5?usp=sharing">
                  Colab Notebook</a></li>
               </ul>'
-  - entry:
+  - entry: #9
     date: 2/13 Lecture @ 251 Dwinelle
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part III.
+          <ul>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.<\li>
+              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+          </ul>"
+    materials:
+      # - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+      #   type: external
+      #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  - entry: #10
+    date: 2/15 Lecture @ 251 Dwinelle
     topics: 
         - "Null Hypotheses in Biology: The Exponential Distribution.
           <ul>
@@ -567,7 +578,7 @@ syllabus:
   #        type: external
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
   - entry: 
-    date: 2/15 Lecture @ 251 Dwinelle
+    date: 2/20 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
@@ -589,7 +600,7 @@ syllabus:
       #            Colab Notebook (Discussion I - Yasemin)</a></li>
       #         </ul>'
   - entry: 
-    date: 2/20 Lecture @ 251 Dwinelle
+    date: 2/22 Lecture @ 251 Dwinelle
     topics:
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
@@ -608,7 +619,7 @@ syllabus:
   #       type: paper
   #       link: Garcia2007b.pdf
   - entry:
-    date: 2/22 Lecture @ 251 Dwinelle
+    date: 2/27 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
           <ul>
@@ -642,7 +653,7 @@ syllabus:
   #                Colab Notebook + Data (Discussion I - Yovan)</a></li>
   #             </ul>'
   - entry: 
-    date: 2/27 Lecture @ 251 Dwinelle
+    date: 2/29 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -667,7 +678,7 @@ syllabus:
     #    - name: Defiance is the Secret of Life
     #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
   - entry: 
-    date: 2/29 Lecture @ 251 Dwinelle
+    date: 3/5 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -682,7 +693,7 @@ syllabus:
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry: 
-    date: 3/5 Lecture @ 251 Dwinelle
+    date: 3/7 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -691,7 +702,7 @@ syllabus:
               <li>Phase transitions in biology</li>
           </ul>"
   - entry:
-    date: 3/7 Lecture @ 251 Dwinelle
+    date: 3/12 Lecture @ 251 Dwinelle
     topics: 
         - "Entropy Rules.
           <ul>
@@ -729,7 +740,7 @@ syllabus:
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
   - entry:
-    date: 3/12 Lecture @ 251 Dwinelle
+    date: 3/14 Lecture @ 251 Dwinelle
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -742,7 +753,7 @@ syllabus:
     #     type: notes
     #     link: lec17.pdf
   - entry:
-    date: 3/14 Lecture @ 251 Dwinelle
+    date: 3/19 Lecture @ 251 Dwinelle
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -774,7 +785,7 @@ syllabus:
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry:
-    date: 3/19 Lecture @ 251 Dwinelle
+    date: 3/21 Lecture @ 251 Dwinelle
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
