@@ -558,10 +558,14 @@ syllabus:
           <ul>
               <li>Waiting times for photobelaching and ion channel dynamics.</li>
           </ul>"
-  #   materials:
-  #      - name: "The Protocol of Biological Dynamics: Powerpoint Presentation"
-  #        type: external
-  #        link: "https://docs.google.com/presentation/d/1gp2vorlJkd8AcqnhWPdzSYvv74pagqohP6UUzfAser0/edit?usp=sharing"
+    materials:
+        - name: Measurement of distribution of RNAP molecules along a ribosomal gene using electron microscopy (Voulgaris 1999).
+          type: paper
+          link: Voulgaris1999.pdf
+        - name: Modeling the waiting time distribution between transcriptional initiation events (Choubey 2018).
+          type: paper
+          link: Choubey2018.pdf
+
   #      - name: Colab Notebook Mean Dynamics of the Constitutive Promoter
   #        type: external
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
