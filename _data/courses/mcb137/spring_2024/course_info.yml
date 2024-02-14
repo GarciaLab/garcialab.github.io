@@ -121,25 +121,13 @@ Homework:
     title: Homework 4
     link: MCB137+237-HW4-2024.pdf
     due: "2/20 at 2:00 PM"
-#     materials:
-#       - name: Data for problem 5
-#         type: external
-#         link: "https://drive.google.com/drive/folders/1bEG4syTm0krC7GwL8DZUUkTVCD3Fmy65?usp=sharing"
-#       - name: Helenius 2006
-#         type: paper
-#         link: Helenius2006.pdf
-#       - name: Sender 2016
-#         type: paper
-#         link: Sender2016b.pdf
-#       - name: Petkova 2014
-#         type: paper
-#         link: Petkova2014.pdf
-#       - name: Liu 2013
-#         type: paper
-#         link: Liu2013.pdf
-#       - name: PBoC3 Chapter 5
-#         type: chapter
-#         link: PBoC3_chap5.pdf
+    materials:
+      - name: Petkova 2014
+        type: paper
+        link: Petkova2014.pdf
+      - name: Drocco 2011
+        type: paper
+        link: Drocco2011.pdf
 #     solutions:
 #       - name: Homework 4 Solutions
 #         type: external
