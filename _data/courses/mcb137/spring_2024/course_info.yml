@@ -559,6 +559,9 @@ syllabus:
               <li>Waiting times for photobelaching and ion channel dynamics.</li>
           </ul>"
     materials:
+        - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
+          type: external
+          link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
         - name: Measurement of distribution of RNAP molecules along a ribosomal gene using electron microscopy (Voulgaris 1999).
           type: paper
           link: Voulgaris1999.pdf
@@ -569,7 +572,7 @@ syllabus:
   #      - name: Colab Notebook Mean Dynamics of the Constitutive Promoter
   #        type: external
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
-  - entry: 
+  - entry: #11
     date: 2/20 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
@@ -579,6 +582,10 @@ syllabus:
               <li>FRAP: Measuring diffusion using photobleaching</li>
               <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
+    materials:
+        - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
+          type: external
+          link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   #   #discussion:
   #   #  - name: Diffusion by master equations, Part I (Python Code)
   #   #    type: external
@@ -591,7 +598,7 @@ syllabus:
       #            <li><a href="https://colab.research.google.com/drive/1FqWMigWESg7lUIyXR5PnU04d8P6xs-Dp?usp=sharing">
       #            Colab Notebook (Discussion I - Yasemin)</a></li>
       #         </ul>'
-  - entry: 
+  - entry: #12
     date: 2/22 Lecture @ 251 Dwinelle
     topics:
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
@@ -601,6 +608,10 @@ syllabus:
               <li>FRAP: Measuring diffusion using photobleaching</li>
               <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
+    materials:
+        - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
+          type: external
+          link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   #   topics: > 
   #     Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
   #   materials:
@@ -610,7 +621,7 @@ syllabus:
   #     - name: "A first exposure to statistical mechanics for life scientists: applications to binding (Garcia 2015)"
   #       type: paper
   #       link: Garcia2007b.pdf
-  - entry:
+  - entry: #13
     date: 2/27 Lecture @ 251 Dwinelle
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics.
@@ -620,6 +631,10 @@ syllabus:
               <li>FRAP: Measuring diffusion using photobleaching</li>
               <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
+    materials:
+        - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
+          type: external
+          link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   #   materials:
   #      - name: "Pre-Lecture 12 recording: Simple Repression"
   #        type: external
