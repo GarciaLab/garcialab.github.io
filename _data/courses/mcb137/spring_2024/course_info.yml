@@ -135,10 +135,10 @@ Homework:
 #       - name: Homework 4 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1QkHSMlQk8uopzDme9yYVO1CnGz5k0C_4/view?usp=sharing"   
-#   - set:
-#     title: Homework 5
-#     link: MCB137+237-HW5-2022.pdf
-#     due: "2/24 at 11:00 AM"
+  - set:
+    title: Homework 5
+    link: MCB137+237-HW5-2024.pdf
+    due: "2/27 at 2:00 PM"
 #     materials:
 #       - name: Bailey 1976
 #         type: paper
