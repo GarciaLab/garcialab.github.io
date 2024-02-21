@@ -139,25 +139,25 @@ Homework:
     title: Homework 5
     link: MCB137+237-HW5-2024.pdf
     due: "2/27 at 2:00 PM"
-#     materials:
-#       - name: Bailey 1976
-#         type: paper
-#         link: Bailey1976.pdf
-#       - name: Liu 2013
-#         type: paper
-#         link: Liu2013.pdf
-#       - name: Drocco 2011
-#         type: paper
-#         link: Drocco2011.pdf
-#       - name: Abu-Arish 2010
-#         type: paper
-#         link: Abu-Arish2010.pdf
-#       - name: Liu 2013 Data
-#         type: external
-#         link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing"
-#       - name: Driever 1988 Data
-#         type: external
-#         link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing" 
+    materials:
+      - name: Bailey 1976
+        type: paper
+        link: Bailey1976.pdf
+      - name: Tabula Muris 2018
+        type: paper
+        link: TabulaMuris2018.pdf
+      # - name: Drocco 2011
+      #   type: paper
+      #   link: Drocco2011.pdf
+      # - name: Abu-Arish 2010
+      #   type: paper
+      #   link: Abu-Arish2010.pdf
+      # - name: Liu 2013 Data
+      #   type: external
+      #   link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing"
+      # - name: Driever 1988 Data
+      #   type: external
+      #   link: "https://drive.google.com/drive/folders/17C09hV73twfzymOCEgfvtJZneeiBAS-0?usp=sharing" 
 #     solutions:
 #       - name: Homework 5 Solutions
 #         type: external
