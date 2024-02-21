@@ -655,14 +655,12 @@ syllabus:
   #                <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
   #                Colab Notebook + Data (Discussion I - Yovan)</a></li>
   #             </ul>'
-  - entry: 
+  - entry: #14
     date: 2/29 Lecture @ 251 Dwinelle
     topics: 
-        - "Entropy Rules.
+        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part IV.
           <ul>
-              <li>Entropy maximization and the mathematics of superaltives.</li>
-              <li>Entropic forces: A DNA entropic spring</li>
-              <li>Phase transitions in biology</li>
+              <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
           </ul>"
     # materials:
     #    - name: "Engineering Maxwell's demon"
