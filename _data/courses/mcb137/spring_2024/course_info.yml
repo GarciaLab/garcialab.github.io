@@ -578,12 +578,12 @@ syllabus:
   - entry: #11
     date: 2/20 Lecture @ 251 Dwinelle
     topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
           <ul>
               <li>Diffusion and axonal transport.</li>
-              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
-              <li>FRAP: Measuring diffusion using photobleaching</li>
-              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+              #<li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              #<li>FRAP: Measuring diffusion using photobleaching</li>
+              s<li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
     materials:
         - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
@@ -604,12 +604,13 @@ syllabus:
   - entry: #12
     date: 2/22 Lecture @ 251 Dwinelle (<a href="https://berkeley.zoom.us/j/94775122834">Zoom</a>)
     topics:
-        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part II.
           <ul>
-              <li>Diffusion and axonal transport.</li>
-              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
-              <li>FRAP: Measuring diffusion using photobleaching</li>
-              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+              #<li>Diffusion and axonal transport.</li>
+              <li>Diffusion by coin flips.</li>
+              #<li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              #<li>FRAP: Measuring diffusion using photobleaching</li>
+              #<li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
     materials:
         - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
@@ -627,10 +628,11 @@ syllabus:
   - entry: #13
     date: 2/27 Lecture @ 251 Dwinelle
     topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part III.
           <ul>
-              <li>Diffusion and axonal transport.</li>
-              <li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              #<li>Diffusion and axonal transport.</li>
+              #<li>The binomial distribution: Coin flips, carboxysome partitioning and calibrating fluorescent protein counts</li>
+              <li>Solving diffusion using chemical master equations.</li>
               <li>FRAP: Measuring diffusion using photobleaching</li>
               <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
