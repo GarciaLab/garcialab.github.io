@@ -605,7 +605,10 @@ syllabus:
           <ul>
               <li>Diffusion by coin flips.</li>
           </ul>"
-    #materials:
+    materials:
+      - name: "Lecture Notes"
+        type: notes
+        link: lec12-Diffusion.pdf
        # - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
       #    type: external
        #   link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
