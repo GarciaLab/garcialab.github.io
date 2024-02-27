@@ -167,16 +167,25 @@ Homework:
 #     link: 
 #     due: "3/3 at 11:00 AM"
 #   - set:
-#     title: Homework 6
-#     link: MCB137+237-HW6-2022.pdf
-#     due: "3/10 at 11:00 AM"
-#     materials:
-#       - name: Petkova 2014
-#         type: paper
-#         link: Petkova2014.pdf
-#       - name: Taniguchi 2010
-#         type: paper
-#         link: Taniguchi2010.pdf
+    title: Homework 6
+    link: MCB137+237-HW6-2024.pdf
+    due: "3/5 at 2:00 PM"
+    materials:
+      - name: Petkova 2014
+        type: paper
+        link: Petkova2014.pdf
+      - name: Liu 2013
+        type: paper 
+        link: liu2013.pdf
+      - name: Helenius 2006
+        type: paper
+        link: Helenius2006.pdf
+      - name: Abu-Arish 2010
+        type: paper
+        link: Abu-Arish2010.pdf
+      - name: Drocco 2011
+        type: paper
+        link: Drocco2011.pdf
 #     solutions:
 #       - name: Homework 6 Solutions
 #         type: external
