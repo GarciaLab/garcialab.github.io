@@ -176,7 +176,7 @@ Homework:
         link: Petkova2014.pdf
       - name: Liu 2013
         type: paper 
-        link: liu2013.pdf
+        link: Liu2013.pdf
       - name: Helenius 2006
         type: paper
         link: Helenius2006.pdf
@@ -186,6 +186,10 @@ Homework:
       - name: Drocco 2011
         type: paper
         link: Drocco2011.pdf
+      - name: Keller 1986
+        type: paper
+        link: Keller1986.pdf
+      
 #     solutions:
 #       - name: Homework 6 Solutions
 #         type: external
