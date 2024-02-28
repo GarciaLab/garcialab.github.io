@@ -603,6 +603,9 @@ syllabus:
       - name: 'Introduction to Diffusion'
         type: external
         link: "https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+      - name: 'Measuring diffusion by tracking single molecules'
+        type: external
+        link: "https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
   #   #discussion:
   #   #  - name: Diffusion by master equations, Part I (Python Code)
   #   #    type: external
