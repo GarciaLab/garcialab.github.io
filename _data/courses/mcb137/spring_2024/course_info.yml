@@ -599,6 +599,10 @@ syllabus:
         - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
           type: external
           link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
+    videos:
+      - name: 'Introduction to Diffusion'
+        type: external
+        link: "https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
   #   #discussion:
   #   #  - name: Diffusion by master equations, Part I (Python Code)
   #   #    type: external
@@ -622,6 +626,10 @@ syllabus:
       - name: "Lecture Notes: Diffusion by coin flips"
         type: notes
         link: lec12-Diffusion.pdf
+    videos:
+      - name: 'Diffusion by Coin Flips'
+        type: external
+        link: "https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
        # - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
       #    type: external
        #   link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
@@ -643,6 +651,10 @@ syllabus:
               <li>FRAP: Measuring diffusion using photobleaching</li>
               <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
           </ul>"
+    videos:
+      - name: 'Diffusion by Chemical Master Equation'
+        type: external
+        link: "https://www.youtube.com/watch?v=7FIM0fzBtpE&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
    # materials:
    #     - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
    #       type: external
