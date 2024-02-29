@@ -133,7 +133,7 @@ header_img: teaching.jpg
       <a href="{{mat.link}}">
       {%endif%}
       {% if mat.type == 'notes'%}
-      <a href="{{site.baseurl}}/courses/mcb137/2022/lecture_notes/{{mat.link}}">
+      <a href="{{site.baseurl}}/courses/mcb137/2024/lecture_notes/{{mat.link}}">
       {% endif %}
       {{mat.name}}</a> </li> 
     {% else %}
