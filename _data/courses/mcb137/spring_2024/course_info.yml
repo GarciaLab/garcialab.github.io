@@ -180,6 +180,9 @@ Homework:
       - name: Helenius 2006
         type: paper
         link: Helenius2006.pdf
+      - name: Helenius Data
+        type: external
+        link: "https://docs.google.com/spreadsheets/d/1mOC3yCbbTqKdE_vzBxB91IzIlvNnb6kr/edit?usp=drive_link&ouid=108481937167618261589&rtpof=true&sd=true"
       - name: Abu-Arish 2010
         type: paper
         link: Abu-Arish2010.pdf
