@@ -639,6 +639,9 @@ syllabus:
       - name: "Lecture Notes: Diffusion by coin flips"
         type: notes
         link: lec12_Diffusion.pdf
+      - name: "Diffusion by Coin Flips: Colab Notebook"
+        type: external
+        link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
     videos:
       - name: 'Diffusion by Coin Flips'
         type: external
@@ -668,10 +671,10 @@ syllabus:
       - name: 'Diffusion by Chemical Master Equation'
         type: external
         link: "https://www.youtube.com/watch?v=7FIM0fzBtpE&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
-   # materials:
-   #     - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
-   #       type: external
-  #        link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+   materials:
+       - name: "Diffusion by Chemical Master Equation and FRAP: Colab Notebook"
+         type: external
+         link: "https://drive.google.com/file/d/1UXwZ319O_NiLKidnlMuM8S8Je8MF92ro/view?usp=sharing"
   #   materials:
   #      - name: "Pre-Lecture 12 recording: Simple Repression"
   #        type: external
@@ -685,17 +688,12 @@ syllabus:
   #      - name: The transcription factor titration effect dictates level of gene expression
   #        type: paper
   #        link: Brewster2014.pdf
-  #   discussion:
-  #      - name: 'Constitutive gene expression by master equation, Part II
-  #             <ul>
-  #                <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
-  #                Colab Notebook (Discussion I - Yovan)</a></li>
-  #             </ul>'
-  #      - name: 'Expression under the LacI repressor, Part I.
-  #             <ul>
-  #                <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
-  #                Colab Notebook + Data (Discussion I - Yovan)</a></li>
-  #             </ul>'
+    discussion:
+       - name: 'FRAP: Measuring diffusion using photobleaching
+              <ul>
+                 <li><a href="https://colab.research.google.com/drive/1P3dvewKtUqBRu_x1bQI6pCIjn879AKbe?usp=sharing">
+                 Colab Notebook</a></li>
+              </ul>'
   - entry: #14
     date: 2/29 Lecture @ 251 Dwinelle
     topics: 
