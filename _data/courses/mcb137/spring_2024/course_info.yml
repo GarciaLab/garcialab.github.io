@@ -198,13 +198,20 @@ Homework:
 #         type: external
 #         link: "https://drive.google.com/file/d/1d_koQgep8n61_akPFVyhGrprBHxa7F9K/view?usp=sharing"  
 #   - set:
-#     title: Homework 7
-#     link:  MCB137+237-HW7-2022.pdf
-#     due: "3/17 at 11:00 AM"
-#     solutions:
-#       - name: Homework 7 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1gWP_eyo-y-7Q_-TdV1MbhBFy2l-dKYLa/view?usp=sharing"
+    title: Homework 7
+    link:  MCB137+237-HW7-2024.pdf
+    due: "3/12 at 2:00 PM"
+    materials: 
+      - name: Dong 1996
+        type: paper
+        link: Dong1996.pdf
+      - name: Klumpp 2013
+        type: paper 
+        link: Klumpp2013.pdf
+    # solutions:
+    #   - name: Homework 7 Solutions
+    #     type: external
+    #     link: "https://drive.google.com/file/d/1gWP_eyo-y-7Q_-TdV1MbhBFy2l-dKYLa/view?usp=sharing"
       
 #   - set:
 #     title: Homework 8
