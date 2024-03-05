@@ -730,6 +730,10 @@ syllabus:
     #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
+    materials: 
+      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #16
     date: 3/7 Lecture @ 251 Dwinelle
     topics: 
