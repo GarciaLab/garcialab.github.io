@@ -717,14 +717,12 @@ syllabus:
     # videos:
     #    - name: Defiance is the Secret of Life
     #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
-  - entry: 
+  - entry: #15
     date: 3/5 Lecture @ 251 Dwinelle
     topics: 
-        - "Entropy Rules.
+        - "Phase Transitions in Biology, Part I.
           <ul>
-              <li>Entropy maximization and the mathematics of superaltives.</li>
-              <li>Entropic forces: A DNA entropic spring</li>
-              <li>Phase transitions in biology</li>
+              <li>Entropy maximization</li>
           </ul>"
     # discussion:
     #    - name: 'Expression under the LacI repressor, Part II.
@@ -732,23 +730,20 @@ syllabus:
     #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
-  - entry: 
+  - entry: #16
     date: 3/7 Lecture @ 251 Dwinelle
     topics: 
-        - "Entropy Rules.
+        - "Phase Transitions in Biology, Part II.
           <ul>
-              <li>Entropy maximization and the mathematics of superaltives.</li>
-              <li>Entropic forces: A DNA entropic spring</li>
-              <li>Phase transitions in biology</li>
+              <li>Free Energy Minimization.</li>
           </ul>"
-  - entry:
+  - entry: #17
     date: 3/12 Lecture @ 251 Dwinelle
     topics: 
-        - "Entropy Rules.
+        - "Phase Transitions in Biology, Part III.
           <ul>
-              <li>Entropy maximization and the mathematics of superaltives.</li>
-              <li>Entropic forces: A DNA entropic spring</li>
-              <li>Phase transitions in biology</li>
+              <li>Drawing Phase Diagrams</li>
+              <li>Biological Control of Phase Separation</li>
           </ul>"
     # materials:
     #    - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
@@ -779,8 +774,19 @@ syllabus:
     # #  - name: Plotting hte free energy of a phase-separated system (Python Code)
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
-  - entry:
+  - entry: #18
     date: 3/14 Lecture @ 251 Dwinelle
+    topics: 
+        - "Phase Separation in Biology, Part IV.
+          <ul>
+              <li>A Dynamical Systems View</li>
+          </ul>"
+    # materials:
+    #   - name: "Lecture Notes" 
+    #     type: notes
+    #     link: lec17.pdf
+  - entry: #19
+    date: 3/19 Lecture @ 251 Dwinelle
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -792,15 +798,6 @@ syllabus:
     #   - name: "Lecture Notes" 
     #     type: notes
     #     link: lec17.pdf
-  - entry:
-    date: 3/19 Lecture @ 251 Dwinelle
-    topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics.
-          <ul>
-              <li>Ion channels and two-state systems.</li>
-              <li>The ubiquitous nature of binding problems in biology</li>
-              <li>Regulatory biology: simple repression in the lac operon</li>
-          </ul>"
     # #materials:
     # #  - name:  Plotting the Promoter Fraction Bound (Python Code)
     # #    type: external
