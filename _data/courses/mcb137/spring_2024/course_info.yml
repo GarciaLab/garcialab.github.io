@@ -741,6 +741,10 @@ syllabus:
           <ul>
               <li>Free Energy Minimization.</li>
           </ul>"
+    materials: 
+      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #17
     date: 3/12 Lecture @ 251 Dwinelle
     topics: 
@@ -749,6 +753,10 @@ syllabus:
               <li>Drawing Phase Diagrams</li>
               <li>Biological Control of Phase Separation</li>
           </ul>"
+    materials: 
+      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
     # materials:
     #    - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
     #      type: paper
@@ -785,6 +793,10 @@ syllabus:
           <ul>
               <li>A Dynamical Systems View</li>
           </ul>"
+    materials: 
+      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
     # materials:
     #   - name: "Lecture Notes" 
     #     type: notes
