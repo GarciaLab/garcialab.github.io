@@ -736,6 +736,7 @@ syllabus:
         - "Phase Transitions in Biology, Part II.
           <ul>
               <li>Free Energy Minimization.</li>
+              <li>Drawing Phase Diagrams.</li>
           </ul>"
     materials: 
       - name: "Phase Transitions in Biology: Powerpoint Presentation"
@@ -746,13 +747,13 @@ syllabus:
     topics: 
         - "Phase Transitions in Biology, Part III.
           <ul>
-              <li>Drawing Phase Diagrams</li>
-              <li>Biological Control of Phase Separation</li>
+              <li>A dynamical systems view of phase separation</li>
+              <li>Scaling of nucleolar size</li>
           </ul>"
     materials: 
-      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+      - name: "Phase Separation and Scaling in Biology: Powerpoint Presentation"
         type: external
-        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+        link: "https://docs.google.com/presentation/d/1Qp0YHRZqgIFIxhHZzZdZz4xB1GSTtr6_/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
       - name: "Weber2015 data: fixed number"
         type: external
         link: "https://drive.google.com/file/d/1bvggk199c2Q5-RadhV4UlQWfLQjMAzKn/view?usp=sharing"
@@ -791,9 +792,11 @@ syllabus:
   - entry: #18
     date: 3/14 Lecture @ 251 Dwinelle
     topics: 
-        - "Phase Separation in Biology, Part IV.
+        - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
-              <li>A Dynamical Systems View</li>
+              <li>Ion channels and two-state systems.</li>
+              <li>The ubiquitous nature of binding problems in biology</li>
+              <li>Regulatory biology: simple repression in the lac operon</li>
           </ul>"
     materials: 
       - name: "Phase Transitions in Biology: Powerpoint Presentation"
