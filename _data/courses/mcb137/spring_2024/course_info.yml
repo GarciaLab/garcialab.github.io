@@ -212,29 +212,26 @@ Homework:
     #     type: external
     #     link: "https://drive.google.com/file/d/1gWP_eyo-y-7Q_-TdV1MbhBFy2l-dKYLa/view?usp=sharing"
       
-#   - set:
-#     title: Homework 8
-#     link: MCB137+237-HW8-2022.pdf
-#     due: "3/31 at 11:00 AM"
-#     materials:
-#       - name: Data for problem 1
-#         type: external
-#         link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
-#       - name: Garcia et al. (2011c)
-#         type: paper
-#         link: Garcia2011c.pdf
-#       - name: Briggs et al. (2004) (use Fig. 1 here)
-#         type: paper
-#         link: Briggs2004.pdf
-#       - name: Whitman et al. (1998)
-#         type: paper
-#         link: Whitman1998.pdf
-#       - name: Briggs et al. (2006)
-#         type: paper
-#         link: Briggs2006.pdf
-#       - name: Keller et al. (1986) ion channel data
-#         type: data
-#         link: Keller1986.xlsx
+  - set:
+    title: Homework 8
+    link: MCB137+237-HW8-2022.pdf
+    due: "3/31 at 11:00 AM"
+    materials:
+      - name: Rosenfeld (2005)
+        type: paper
+        link: Rosenfeld2005.pdf
+      - name: Briggs et al. (2004) (use Fig. 1 here)
+        type: paper
+        link: Briggs2004.pdf
+      - name: Whitman et al. (1998)
+        type: paper
+        link: Whitman1998.pdf
+      - name: Briggs et al. (2006)
+        type: paper
+        link: Briggs2006.pdf
+      - name: Keller et al. (1986) ion channel data
+        type: data
+        link: Keller1986.xlsx
 #     solutions:
 #       - name: Homework 8 Solutions
 #         type: external
