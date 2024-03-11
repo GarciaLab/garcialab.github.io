@@ -799,9 +799,9 @@ syllabus:
               <li>Regulatory biology: simple repression in the lac operon</li>
           </ul>"
     materials: 
-      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+      - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
         type: external
-        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+        link: "https://docs.google.com/presentation/d/16_69PbyGcY-hBxS6dtjJoEwo6sYGvbBt/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
     # materials:
     #   - name: "Lecture Notes" 
     #     type: notes
