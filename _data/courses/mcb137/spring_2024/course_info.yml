@@ -792,11 +792,10 @@ syllabus:
   - entry: #18
     date: 3/14 Lecture @ 251 Dwinelle
     topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics.
+        - "The Boltzmann Distribution and Statistical Mechanics, Part I.
           <ul>
-              <li>Ion channels and two-state systems.</li>
               <li>The ubiquitous nature of binding problems in biology</li>
-              <li>Regulatory biology: simple repression in the lac operon</li>
+              <li>Regulatory biology: the constitutive promoter revisited</li>
           </ul>"
     materials: 
       - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
@@ -811,9 +810,7 @@ syllabus:
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
-              <li>Ion channels and two-state systems.</li>
-              <li>The ubiquitous nature of binding problems in biology</li>
-              <li>Regulatory biology: simple repression in the lac operon</li>
+              <li>Regulatory biology: simple repression</li>
           </ul>"
     materials: 
       - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
@@ -846,15 +843,14 @@ syllabus:
     #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
-  - entry:
+  - entry: #20
     date: 3/21 Lecture @ 251 Dwinelle
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
-              <li>Energy estimates in biology.</li>
-              <li>Biological batteries</li>
-              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
-              <li>Biological specificity: Kinetic proofreading</li>
+              <li>Simple Activation</li>
+              <li>Cooperativity</li>
+              <li>Logic Gates</li>
           </ul>"
   - entry:
     date: 3/21 Lecture @ 251 Dwinelle
@@ -876,7 +872,7 @@ syllabus:
     # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
   - entry: 
-    date: 4/2 Lecture @ 251 Dwinelle
+    date: 4/2 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
@@ -899,7 +895,7 @@ syllabus:
     #   #  type: notes      
     #   #link: lec21_2.pdf
   - entry:
-    date: 4/4 Lecture @ 251 Dwinelle
+    date: 4/4 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
           <ul>
