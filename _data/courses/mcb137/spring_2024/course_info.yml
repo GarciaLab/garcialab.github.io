@@ -852,8 +852,12 @@ syllabus:
               <li>Cooperativity</li>
               <li>Logic Gates</li>
           </ul>"
-  - entry:
-    date: 3/21 Lecture @ 251 Dwinelle
+    materials:
+      - name: "Buchler 2003: Building transcriptional logic gates using statistical mechanics"
+        type: paper
+        link: Buchler2003a.pdf
+  # - entry:
+  #   date: 3/21 Lecture @ 251 Dwinelle
     # topics:
     #   - "Guest Lecturer: Rob Phillips"
     #   - "Molecular Switches:
