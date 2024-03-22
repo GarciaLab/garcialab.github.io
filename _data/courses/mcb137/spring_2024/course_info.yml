@@ -244,6 +244,9 @@ Homework:
       - name: Garcia et al. (2007b)
         type: paper
         link: Garcia2007b.pdf
+      - name: Keller et al. (1986) ion channel data
+        type: data
+        link: Keller1986.xlsx
 #     solutions:
 #       - name: Homework 9 Solutions
 #         type: external
