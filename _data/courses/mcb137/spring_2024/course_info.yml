@@ -251,14 +251,23 @@ Homework:
 #       - name: Homework 9 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1V_53W6YO4JiJROPEjkc0Cq-BhoD91z8r/view?usp=sharing"
-#   - set:
-#     title: Homework 10
-#     link: MCB137+237-HW10-2022_corrected.pdf
-#     due: "4/14 at 11:00 AM"
-#     materials:
-#       - name: Sturtevant (1913)
-#         type: paper
-#         link: Sturtevant1913.pdf
+  - set:
+    title: Homework 10
+    link: MCB137+237-HW10-2022_corrected.pdf
+    due: "4/09 at 2:00 PM"
+    materials:
+        - name: Expression data
+          type: external
+          link: https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing
+        - name: Garcia et al. (22011c)
+          type: paper
+          link: Garcia2011c.pdf
+        - name: Segmentation Code from Discussion
+          type: external
+          link: https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing
+      # - name: Sturtevant (1913)
+      #   type: paper
+      #   link: Sturtevant1913.pdf
 #   - set:
 #     title: Homework 11 (extra credit)
 #     link: MCB137+237-HW11-2022.pdf
@@ -859,6 +868,10 @@ syllabus:
       - name: "Buchler 2003: Building transcriptional logic gates using statistical mechanics"
         type: paper
         link: Buchler2003a.pdf
+    discussion:
+      - name: LacI Repressor Analysis, Part I (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing"
   # - entry:
   #   date: 3/21 Lecture @ 251 Dwinelle
     # topics:
