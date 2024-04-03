@@ -869,9 +869,11 @@ syllabus:
         type: paper
         link: Buchler2003a.pdf
     discussion:
-      - name: LacI Repressor Analysis, Part I (Python Code)
-        type: external
-        link: "https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing"
+       - name: 'LacI Repressor Analysis, Part I (Python Code)
+              <ul>
+                 <li><a href="https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing">
+                 Colab Notebook</a></li>
+              </ul>'"
   # - entry:
   #   date: 3/21 Lecture @ 251 Dwinelle
     # topics:
