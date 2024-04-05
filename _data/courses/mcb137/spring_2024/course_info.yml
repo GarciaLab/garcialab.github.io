@@ -277,8 +277,8 @@ Homework:
          type: paper
          link: Schmidt2016.pdf
        - name: Jarzynski (2014)
-          type: paper
-          link: Jarzynski2014.pdf
+         type: paper
+         link: Jarzynski2014.pdf
 #   - set:
 #     title: Second estimate (MCB137L) and poster session (MCB237L)
 #     due: "4/28 at 11:00 AM"
