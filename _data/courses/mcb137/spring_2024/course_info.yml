@@ -268,20 +268,14 @@ Homework:
       # - name: Sturtevant (1913)
       #   type: paper
       #   link: Sturtevant1913.pdf
-#   - set:
-#     title: Homework 11 (extra credit)
-#     link: MCB137+237-HW11-2022.pdf
-#     due: "4/21 at 11:00 AM"
-#     materials:
-#        - name: Rosenfeld (2005)
-#          type: paper
-#          link: Rosenfeld2005.pdf
-#        - name: Eden (2011)
-#          type: paper
-#          link: Eden2011.pdf
-#        - name: Nusslein-Volhard (1984)
-#          type: paper
-#          link: Nusslein-Volhard1984.pdf
+  - set:
+    title: Homework 11 (extra credit)
+    link: MCB137+237-HW11-2022.pdf
+    due: "4/16 at 2:00 PM"
+    materials:
+       - name: Schmidt et al. (2016)
+         type: paper
+         link: Schmidt2016.pdf
 #   - set:
 #     title: Second estimate (MCB137L) and poster session (MCB237L)
 #     due: "4/28 at 11:00 AM"
@@ -931,9 +925,9 @@ syllabus:
     #  #   type: external
     #  #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
     materials:
-      # - name: "Lecture Notes" 
-      #   type: notes
-      #   link: lec22.pdf
+      - name: "Lecture Notes" 
+        type: notes
+        link: lec22_2024.pdf
       - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
         type: external
         link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
