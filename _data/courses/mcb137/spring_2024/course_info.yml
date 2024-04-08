@@ -232,10 +232,10 @@ Homework:
       # - name: Keller et al. (1986) ion channel data
       #   type: data
       #   link: Keller1986.xlsx
-#     solutions:
-#       - name: Homework 8 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1Om3rAVbz9XXrXxdof7pz-PKX8wBSqxKk/view?usp=sharing"
+    solutions:
+      - name: Homework 8 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1wESL_0gCJcjYSVPk-VGYIJoAyQrRVV8b/view?usp=drive_link"
   - set:
     title: Homework 9
     link: MCB137+237-HW9-2024.pdf
