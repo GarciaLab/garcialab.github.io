@@ -279,9 +279,19 @@ Homework:
        - name: Jarzynski (2014)
          type: paper
          link: Jarzynski2014.pdf
-#   - set:
-#     title: Second estimate (MCB137L) and poster session (MCB237L)
-#     due: "4/28 at 11:00 AM"
+  - set:
+    title: "Homework 12: Final Project"
+    due: "4/30 at 2:00 PM"
+    link: MCB137+237-HW12-2024.pdf
+  - set:
+    title: "Homework 13: Extra Credit"
+    due: "5/7 at 2:00 PM"
+    link: MCB137+237-HW13-ExtraCredit-2024.pdf
+    materials:
+      - name: "Final Project Guidelines"
+        type: external
+        link: "https://docs.google.com/document/d/1
+
 
 
 
@@ -855,7 +865,7 @@ syllabus:
   - entry: #20
     date: 3/21 Lecture @ 251 Dwinelle
     topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+        - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
               <li>Simple Activation</li>
               <li>Cooperativity</li>
@@ -890,15 +900,13 @@ syllabus:
     # #    type: external
     # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
-  - entry: 
+  - entry: #21
     date: 4/2 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
     topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part I.
           <ul>
               <li>Energy estimates in biology.</li>
               <li>Biological batteries</li>
-              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
-              <li>Biological specificity: Kinetic proofreading</li>
           </ul>"
     materials:
       - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
@@ -913,15 +921,12 @@ syllabus:
     #   #- name: "Lecture Notes II" 
     #   #  type: notes      
     #   #link: lec21_2.pdf
-  - entry:
+  - entry: #22
     date: 4/4 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
     topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part II.
           <ul>
-              <li>Energy estimates in biology.</li>
-              <li>Biological batteries</li>
               <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
-              <li>Biological specificity: Kinetic proofreading</li>
           </ul>"
     # discussion:
     #  # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
@@ -940,73 +945,73 @@ syllabus:
     #              <li><a href="https://colab.research.google.com/drive/1wlANr_hYz-uXHxWO1MW5LxGT85zXQMa1?usp=sharing">
     #              Colab Notebook (Discussion I - Yovan)</a></li>
     #           </ul>'
-  - entry:
+  - entry: #23
     date: 4/9 Lecture @ 251 Dwinelle
     topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit.
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part III.
           <ul>
-              <li>Energy estimates in biology.</li>
-              <li>Biological batteries</li>
-              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
-              <li>Biological specificity: Kinetic proofreading</li>
+              <li>Charging up the ATP battery.</li>
+              <li>Using the ATP battery</li>
           </ul>"
     materials:
       - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
         type: external
         link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-  - entry: 
+  - entry: #24
     date: 4/11 Lecture @ 251 Dwinelle
     topics: 
-        - "Biological Networks.
+        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part IV.
           <ul>
-              <li>A life-or-death decision: the Lambda switch.</li>
-              <li>Epidemiology and the SIR model</li>
-              <li>A genome-wide view of biological networks</li>
-              <li>Biological specificity: Kinetic proofreading</li>
+              <li>Regulatory defiance.</li>
           </ul>"
     # #discussion:
     # #  - name: Gneetic Oscillators (Python Code) 
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
-    # materials:
-    #   - name: "Lecture notes"
-    #     type: notes
-    #     link: lec24.pdf
-  - entry: 
+    materials:
+      - name: "Regulatory Defiance: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  - entry: #25
     date: 4/16 Lecture @ 251 Dwinelle
     topics: 
         - "Biological Networks.
           <ul>
               <li>A life-or-death decision: the Lambda switch.</li>
               <li>Epidemiology and the SIR model</li>
-              <li>A genome-wide view of biological networks</li>
-              <li>Biological specificity: Kinetic proofreading</li>
           </ul>"
     # videos:
     #   - name: A Stochastic View of Biology
     #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
-    
-  - entry:
+    materials:
+      - name: "Biological Networks: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  - entry: #26
     date: 4/18 Lecture @ 251 Dwinelle
     topics: 
         - "Biological Networks.
           <ul>
               <li>A life-or-death decision: the Lambda switch.</li>
               <li>Epidemiology and the SIR model</li>
-              <li>A genome-wide view of biological networks</li>
-              <li>Biological specificity: Kinetic proofreading</li>
           </ul>"
-    # #materials: 
+    materials: 
+      - name: "Biological Networks: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
     # #  - name: SIR Model (Python Code)
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
-  - entry:
+  - entry: #27
     date: 4/23 Lecture @ 251 Dwinelle
-    # topics:
-    #   - "Exit Talk: Breaking the Standard Model (of Embryonic Development)"
-    #   - "Fill out course survey:"
-  - entry:
+    topics: 
+        - "Biological Networks.
+          <ul>
+              <li>A life-or-death decision: the Lambda switch.</li>
+              <li>Epidemiology and the SIR model</li>
+          </ul>"
+  - entry: #28
     date: 4/25 Lecture @ 251 Dwinelle
-    # topics:
-    #   - "MCB237L poster session and end-of-course party!"
+    topics:
+      - "Study Hall - No Lecture"
      
