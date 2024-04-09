@@ -288,13 +288,18 @@ Homework:
     due: "5/7 at 2:00 PM"
     link: MCB137+237-HW13-ExtraCredit-2024.pdf
     materials:
-      - name: "Final Project Guidelines"
-        type: external
-        link: "https://docs.google.com/document/d/1
-
-
-
-
+      - name: "Brangwynne et al. (2009)"
+        type: paper
+        link: Brangwynne2009.pdf
+      - name: "Schmidt et al. (2016)"
+        type: paper
+        link: Schmidt2016.pdf
+      - name: "Nusslein-Volhard and Wieschaus (1984)"
+        type: paper
+        link: Nusslein-Volhard1984.pdf
+      - name: "Liu et al. (2013)"
+        type: paper
+        link: Liu2013.pdf
 
 syllabuspdf:
   link: MCB137L-237L-2024-Syllabus.pdf
