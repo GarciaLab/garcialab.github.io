@@ -276,6 +276,9 @@ Homework:
        - name: Schmidt et al. (2016)
          type: paper
          link: Schmidt2016.pdf
+       - name: Schmidt et al. Data
+         type: data
+         link: Schmidt2016.xlsx
        - name: Jarzynski (2014)
          type: paper
          link: Jarzynski2014.pdf
