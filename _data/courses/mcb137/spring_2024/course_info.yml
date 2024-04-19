@@ -1017,11 +1017,11 @@ syllabus:
   - entry: #27
     date: 4/23 Lecture @ 251 Dwinelle
     topics: 
-        - "Biological Networks.
-          <ul>
-              <li>A life-or-death decision: the Lambda switch.</li>
-              <li>Epidemiology and the SIR model</li>
-          </ul>"
+        - "Physical Biology of the Cell"
+    materials:
+      - name: "Course Evaluation"
+        type: external
+        link: "https://course-evaluations.berkeley.edu/Berkeley/"
   - entry: #28
     date: 4/25 Lecture @ 251 Dwinelle
     topics:
