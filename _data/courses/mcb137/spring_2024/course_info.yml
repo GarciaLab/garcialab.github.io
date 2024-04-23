@@ -265,9 +265,10 @@ Homework:
         - name: Segmentation Code from Discussion
           type: external
           link: https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing
-      # - name: Sturtevant (1913)
-      #   type: paper
-      #   link: Sturtevant1913.pdf
+    solutions:
+      - name: Homework 10 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1m5E-AfypGwnCcNkWBUH2tGICoNG16aOl/view?usp=drive_link"
   - set:
     title: Homework 11
     link: MCB137+237-HW11-2024.pdf
@@ -282,10 +283,6 @@ Homework:
        - name: Jarzynski (2014)
          type: paper
          link: Jarzynski2014.pdf
-    solutions:
-      - name: Homework 11 Solutions
-        type: external
-        link: "https://drive.google.com/file/d/1m5E-AfypGwnCcNkWBUH2tGICoNG16aOl/view?usp=drive_link"
   - set:
     title: "Homework 12: Final Project"
     due: "4/30 at 2:00 PM"
