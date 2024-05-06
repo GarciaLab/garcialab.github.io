@@ -1,3 +1,7 @@
+- name: Xiuyuan (Arthur) Cheng
+  caste: rotation 
+  position: >
+      MCB Rotation Student <br/> 
 - name: Jazmin Sandhu
   caste: undergrad
   position: >
@@ -507,11 +511,6 @@
       Biophysics Rotation Student <br/>
       Summer 2022
       
-- name: Vinayak Harihar 
-  caste: rotation
-  position: >
-      Biophysics Rotation Student <br/>
-      Fall 2022
       
 - name: Meghan Turner
   caste: grad
