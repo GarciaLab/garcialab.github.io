@@ -291,6 +291,10 @@ Homework:
     title: "Homework 12: Final Project"
     due: "4/30 at 2:00 PM"
     link: MCB137+237-HW12-2024.pdf
+    solutions:
+      - name: "Homework 12 Solutions"
+        type: external
+        link: "https://drive.google.com/drive/folders/1rtGXjHQF6fr1w1xiyG9ZZpc-QxSTmS_S?usp=sharing"
   - set:
     title: "Homework 13: Extra Credit"
     due: "5/7 at 2:00 PM"
@@ -308,6 +312,10 @@ Homework:
       - name: "Liu et al. (2013)"
         type: paper
         link: Liu2013.pdf
+    # solutions:
+    #   - name: "Homework 13 Solutions"
+    #     type: external
+    #     link: "https://drive.google.com/file/d/1
 
 syllabuspdf:
   link: MCB137L-237L-2024-Syllabus.pdf
