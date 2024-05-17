@@ -62,6 +62,12 @@
       PhD  Physics, Caltech<br/>
       BS Physics, University of Buenos Aires
   email: hggarcia [at] berkeley [dot] edu
+- avatar: Emily.jpg
+  name: Emily Dong
+  caste: undergrad 
+  background: > 
+      Undergraduate Student in Biology and Physics<br/>
+      Scripps College 
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
@@ -84,12 +90,19 @@
       Physics Graduate Student<br/>
       BS Physics, Georgia Tech
   email: nick_gravina
+- avatar: Nishanth.JPG 
+  name: Nishanth Chavourkar 
+  caste: undergrad 
+  background: > 
+      Undergraduate Student in Physics <br/>
+      University of California, Berkeley
+  email: nchavourkar
 - avatar: tiffany.png
   name: Tiffany Pai
   caste: undergrad
   background: >
       Undergraduate Student in Molecular Cell Biology<br/>
-      University of California, Berkeley 
+      University of California, Berkeley  
   email: tiffanypai
 - avatar: VinuHarihar.jpg
   name: Vinayak (Vinu) Harihar
