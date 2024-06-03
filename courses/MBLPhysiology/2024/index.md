@@ -26,23 +26,16 @@ header_img: teaching.jpg
           <img alt="" src="{{site.baseurl}}/images/people/{{person.img}}" />
             <p style="text-align: center;">
                   {{person.email}}<br/>
-                  Office Hours: <br/>{{person.office_hours}}</p><br/>
           </li>
         {% endfor %}
       </ul>
     </div>
   </div>
 
-<h3 class="banner"> Course Structure </h3>
-{{ data_file.course_info['structure'] }}
 
+<h3 class="banner"> Syllabus </h3>
+{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
 
-
-
-#<h3 class="banner"> Syllabus </h3>
-#{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
-
-#<p>A pdf of the full course syllabus can be found {%if syllabus_pdf.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/syllabus_pdf/{{syllabus_pdf.link}}">here</a>{%else %}TBA{%endif%}.</p>
 
 <table>
 <tr>
