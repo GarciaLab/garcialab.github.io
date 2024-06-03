@@ -36,62 +36,7 @@ header_img: teaching.jpg
 <h3 class="banner"> Course Structure </h3>
 {{ data_file.course_info['structure'] }}
 
-<h3 class="banner">Course Policies </h3>
-{{ data_file.course_info['policies'] }}
 
-<h3 class="banner"> Homework </h3>
-<div>
-<table>
-<tr>
-  <th><b>Title</b></th>
-  <th><b>Due Date</b></th>
-  <th><b>Required Materials</b></th>
-  <th><b>Solutions</b></th>  
-</tr>
-{% for hw in data_file.course_info['Homework'] %}
-<tr>
-  <td>{%if hw.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/hw/{{hw.link}}">{{hw.title}}</a>{%else %}{{hw.title}}{%endif%}</td>
-  <td> {{hw.due}} </td>
-  <td>
-  <ul>
-  {% for mat in hw.materials %}
-  <li>
-  {%if mat.link %}
-    {% if mat.type == 'paper' %}
-    <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-    {% elsif mat.type == 'chapter' %}
-    <a href="{{site.baseurl}}/courses/chapters/{{mat.link}}">
-    {% elsif mat.type == 'data' %}
-    <a href="{{site.baseurl}}/courses/data/{{mat.link}}">
-    {% elsif mat.type == 'external' %}
-    <a href="{{mat.link}}">
-    {% endif %}
-  {{mat.name}}</a></li>
-  {%else %}
-  {{mat.name}}</li>
-  {%endif%}
-  {%endfor%}
-  </ul>
-  </td>
-  <td> 
-    <ul>
-    {% for sol in hw.solutions %}
-    <li>
-    {% if sol.link %}
-    {% if sol.type == 'external' %}
-    <a href="{{sol.link}}"> {{sol.name}}</a></li> 
-    {% else %}
-    {{sol.name}}</li>
-    {% endif %}
-    {% else %}
-    {{sol.name}}</li>
-    {%endif%}
-    {% endfor %}
-    </ul></td>
-
-</tr>
-{%endfor%}
-</table>
 
 
 <h3 class="banner"> Syllabus </h3>
