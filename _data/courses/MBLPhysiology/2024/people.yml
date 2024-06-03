@@ -1,10 +1,18 @@
 - person:
   name: Hernan Garcia
+  role: Instructor  
   email: hggarcia@berkeley.edu 
   img: hernan.jpg
 - person:
   name: Christina Hueschen
+  role: Instructor
   email: chueschen@ucsd.edu
   img: ChristinaHueschen.jpeg
+- person:
+  name: Yovan Badal
+  role: TA
+  email: ybadal@berkeley.edu
+  img: yovanbadal.jpg
+
 
 
