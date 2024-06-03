@@ -1,13 +1,13 @@
 ---
 layout: course
-title: MCB137/237 Spring 2024
-tagline: Physical Biology of the Cell
-course_id: mcb137
-term: spring
+title: MBL Physiology Course 2024
+tagline: Theory Skills Week Module
+course_id: PhysioTheory
+term: summer
 year: 2024
 header_img: teaching.jpg
 ---
-{% assign data_file = site.data.courses.mcb137.spring_2024 %}
+{% assign data_file = site.data.courses.MBLPhysiology.2024 %}
 
 
 <div class='full'>
