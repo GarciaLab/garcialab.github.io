@@ -1,14 +1,15 @@
 about: >
   Testing rendering.
-  # In our time together in the theory module of skills week, we’ll take a tour
-  # through the worlds of numerical thinking in biology and simple physical models of
-  # biological systems. We’ll try our hand at order-of-magnitude estimates and pen-and-paper
-  # models of phenomena like biological growth, diffusion, phase separation, polymerization,
-  # and more! For some topics, we’ll complement our calculations with Python simulations.
-  # You’ll also prepare and present an order-of-magnitude (‘Fermi’) estimate related to
-  # your own interests or research. Our main goal is to explore together how powerful
-  # (and fun!) numerical and physical thinking can be as a tool in understanding biology.
-
+  
+# In our time together in the theory module of skills week, we’ll take a tour
+# through the worlds of numerical thinking in biology and simple physical models of
+# biological systems. We’ll try our hand at order-of-magnitude estimates and pen-and-paper
+# models of phenomena like biological growth, diffusion, phase separation, polymerization,
+# and more! For some topics, we’ll complement our calculations with Python simulations.
+# You’ll also prepare and present an order-of-magnitude (‘Fermi’) estimate related to
+# your own interests or research. Our main goal is to explore together how powerful
+# (and fun!) numerical and physical thinking can be as a tool in understanding biology.
+#
 #structure: >
 #  The class as a whole will meet twice a week for one hour and a half: 
 #  Tuesdays and Thursdays from 2pm-3:30pm in 251 Dwinelle. This
