@@ -52,7 +52,7 @@ about: >
 #  reserve the right to regrade all the answers it that homework assignment.
 #  Your two worst scoring homeworks will not be considered for the final
 #  grade. We do not grade on a curve or anything like that. 
-people:
+people: >
   - person:
     name: Hernan Garcia
     email: hggarcia@berkeley.edu 
