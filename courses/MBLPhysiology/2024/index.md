@@ -39,7 +39,7 @@ header_img: teaching.jpg
 
 <table>
 <tr>
-<th><b> Date </b></th>
+<th><b> Day </b></th>
 <th><b> Topics </b></th>
 <th><b> Materials</b></th>
 <th><b> Videos</b></th>
