@@ -79,5 +79,32 @@ syllabus:
                 <li>ATP Consumption per Volume of Cytoplasm (<a href="https://www.youtube.com/watch?v=1gx5pnmxSFY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=7&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1Hm33sDSLGUK-qS7c0KT_ET3BGfS623Lg/view?usp=drive_link">Notes</a>)</li>
                 <li>Exhausting ATP Pool (<a href="https://www.youtube.com/watch?v=o5rVLrAw6JY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=8&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1GXbhBA2-EFiu0CRpoDZkBHCds8xgj0zJ/view?usp=drive_link">Notes</a>)</li>
                 <li>DNA Replication Error Rate (<a href="https://www.youtube.com/watch?v=sDgCMIQfl_g&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=9&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/12aLWa2sEWr7VTrkJnNglRrwtjLoNKOvA/view?usp=sharing">Notes</a>)</li>
-              </ul>'              
-
+              </ul>'
+  - entry: #2
+    date: Monday
+    topics: 
+        - "Diffusion as Biology's Null Hypothesis for Dynamics.
+          <ul>
+              <li>Diffusion and axonal transport.</li>
+              <li>Diffusion by coin flips.</li>
+          </ul>"
+    materials:
+        - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
+          type: external
+          link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
+        - name: "Lecture Notes: Diffusion by coin flips"
+          type: notes
+          link: lec12_Diffusion.pdf
+      - name: "Diffusion by Coin Flips: Colab Notebook"
+          type: external
+          link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
+    videos:
+      - name: 'Introduction to Diffusion'
+        type: external
+        link: "https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+      - name: 'Measuring diffusion by tracking single molecules'
+        type: external
+        link: "https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"              
+      - name: 'Diffusion by Coin Flips'
+        type: external
+        link: "https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
