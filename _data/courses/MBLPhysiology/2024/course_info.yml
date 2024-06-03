@@ -64,6 +64,11 @@ people:
     email: chueschen@ucsd.edu
     role: Instructor
     img: ChristinaHueschen.jpg
+  - person:
+    name: Yovan Badal
+    email: ybadal@berkeley.edu
+    role: TA
+    img: yovanbadal.jpg
     
   
 syllabus:
