@@ -34,6 +34,7 @@ header_img: teaching.jpg
 
 
 <h3 class="banner"> Syllabus </h3>
+{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
 
 
 <table>
