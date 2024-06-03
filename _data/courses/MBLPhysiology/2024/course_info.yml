@@ -58,16 +58,19 @@ people:
     email: hggarcia@berkeley.edu 
     role: Instructor
     img: hernan.jpg
+    office_hours: NA
   - person:
     name: Christina Hueschen
     email: chueschen@ucsd.edu
     role: Instructor
     img: ChristinaHueschen.jpg
+    office_hours: NA
   - person:
     name: Yovan Badal
     email: ybadal@berkeley.edu
     role: TA
     img: yovanbadal.jpg
+    office_hours: NA
     
 syllabus:
   - entry: #1
