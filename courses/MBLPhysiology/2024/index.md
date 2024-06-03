@@ -26,7 +26,6 @@ header_img: teaching.jpg
           <img alt="" src="{{site.baseurl}}/images/people/{{person.img}}" />
             <p style="text-align: center;">
                   {{person.email}}<br/>
-                  Office Hours: <br/>{{person.office_hours}}</p><br/>
           </li>
         {% endfor %}
       </ul>
