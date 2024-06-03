@@ -78,5 +78,44 @@ syllabus:
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
       - "What sets the scale of X?"
     materials: 
+      - name: "Biology by the Numbers: Powerpoint Presentation" 
+        type: external
+        link: https://docs.google.com/presentation/d/1sLp8mZFsu0_SHced-DCcgWm7sKsmwubU/edit#slide=id.p1
+      - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
+        type: paper
+        link: Cohen2004.pdf
+      - name: Paul Nurse reflects on the great ideas of biology. We will explore these ideas throughout the course from a quantitative perspective. (Nurse 2003)
+        type: paper
+        link: Nurse2003.pdf
+      - name: Article by Rob Phillips arguing for models to precede experiments, and not to be relegated to the last figure of papers. (Phillips 2015)
+        type: paper
+        link: Phillips2015.pdf
+      - name: Jeremy Gunawardena reminds us that models in biology are not supposed to be accurate descriptions of nature, but just accurate descriptions of our “pathetic thinking”. (Gunawardena 2014)
+        type: paper
+        link: Gunawardena2014.pdf
+      - name: "Harness the Hubris: Useful things physicists could do in biology. A great debate between Bob Austin and Adrian Parsegian about the role of Physics in Biology (Parsegian 1997)"
+        type: paper
+        link: Parsegian1997.pdf
+#       - name: Distribution of biomass on Earth (Bar-On 2018)
+#        type: paper
+#        link: Bar-On2018.pdf
+#      - name: The Tragic Matter (Schatz 2003)
+#        type: paper
+#        link: Schatz2003.pdf
+      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
+      - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
+        type: paper
+        link: Chure2022.pdf       
     videos: 
+      - name: 'A Feeling for the Numbers in Biology (<a href="https://www.youtube.com/watch?v=gkBiot7gb8A&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=1&pp=iAQB">Video</a>)
+              <ul>
+                <li>How many porta potties do you need for an outdoor concert? (<a href="https://youtu.be/1lnB90WDmQ0">Video</a>, <a href="https://drive.google.com/file/d/1As0Jtiole0XVBHhAePyO6nSxlgFWVRc7/view?usp=drive_link">Notes</a>) </li>
+                <li>What Sets the Scale of Mountain Height? (<a href="https://youtu.be/8FQH0mssnhM">Video</a>, <a href="https://drive.google.com/file/d/1QJIv_M88hScbWBxLnxCGYeVqA0Nghx9X/view?usp=drive_link">Notes</a>) </li>
+              </ul>'
+      - name: 'Physical Biology Exam
+              <ul>
+                <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
+              </ul>'
      
