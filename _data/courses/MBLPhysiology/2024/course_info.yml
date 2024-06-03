@@ -80,7 +80,7 @@ syllabus:
     materials: 
       - name: "Biology by the Numbers: Powerpoint Presentation" 
         type: external
-        link: https://docs.google.com/presentation/d/1sLp8mZFsu0_SHced-DCcgWm7sKsmwubU/edit#slide=id.p1
+        link: https://docs.google.com/presentation/d/1ZLZJCBbO3-IYnyadga2ew8Nfq_dVhzse/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
       - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
@@ -96,18 +96,21 @@ syllabus:
       - name: "Harness the Hubris: Useful things physicists could do in biology. A great debate between Bob Austin and Adrian Parsegian about the role of Physics in Biology (Parsegian 1997)"
         type: paper
         link: Parsegian1997.pdf
-#       - name: Distribution of biomass on Earth (Bar-On 2018)
-#        type: paper
-#        link: Bar-On2018.pdf
-#      - name: The Tragic Matter (Schatz 2003)
-#        type: paper
-#        link: Schatz2003.pdf
       - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
         type: paper
         link: Baker1998.pdf
-      - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
+      - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
         type: paper
-        link: Chure2022.pdf       
+        link: Stouthamer1973.pdf
+      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
+      - name: A revised estimate of the number (and types) of human and bacterial cells in our body. (Sender 2016)
+        type: paper
+        link: Sender2016.pdf
+      - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
+        type: paper
+        link: Schmidt2016.pdf
     videos: 
       - name: 'A Feeling for the Numbers in Biology (<a href="https://www.youtube.com/watch?v=gkBiot7gb8A&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=1&pp=iAQB">Video</a>)
               <ul>
@@ -117,5 +120,13 @@ syllabus:
       - name: 'Physical Biology Exam
               <ul>
                 <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
-              </ul>'
-     
+      - name: 'Physical Biology Exam
+                <li>Sun vs Human Power (<a href="https://www.youtube.com/watch?v=DO75RSTrTVc&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=3&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1dBF5tOiOJxemu_-_czbIHXgeRe2eCwc5/view?usp=drive_link">Notes</a>)</li>
+                <li>Number of Genes in E. coli (<a href="https://www.youtube.com/watch?v=2ROIEuitjMA&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=4&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1wGeYFxNMjxrWnMMVE-4eVzZHUj-DMiKv/view?usp=drive_link">Notes</a>)</li>
+                <li>Most Abundant Cell Type (<a href="https://www.youtube.com/watch?v=rRshG5hhtVE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=5&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1_SAr7UCZ_IZYKYNpGND_t_eYJKTFKr30/view?usp=drive_link">Notes</a>)</li>
+                <li>Carbon Transporters in a Bacterium (<a href="https://www.youtube.com/watch?v=EuocMDgwP_s&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=6&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/13rgX5evoFpFF1QdE1WGucXYwnsJXIzVx/view?usp=drive_link">Notes</a>)</li>
+                <li>ATP Consumption per Volume of Cytoplasm (<a href="https://www.youtube.com/watch?v=1gx5pnmxSFY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=7&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1Hm33sDSLGUK-qS7c0KT_ET3BGfS623Lg/view?usp=drive_link">Notes</a>)</li>
+                <li>Exhausting ATP Pool (<a href="https://www.youtube.com/watch?v=o5rVLrAw6JY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=8&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1GXbhBA2-EFiu0CRpoDZkBHCds8xgj0zJ/view?usp=drive_link">Notes</a>)</li>
+                <li>DNA Replication Error Rate (<a href="https://www.youtube.com/watch?v=sDgCMIQfl_g&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=9&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/12aLWa2sEWr7VTrkJnNglRrwtjLoNKOvA/view?usp=sharing">Notes</a>)</li>
+              </ul>'              
+
