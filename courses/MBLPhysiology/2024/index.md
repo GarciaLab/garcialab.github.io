@@ -49,7 +49,6 @@ header_img: teaching.jpg
 {% assign no = 1 %}
 {% for entry in data_file.course_info['syllabus'] %}
 <tr>
-  <td>{{no}}</td>
   <td>{{entry.date}}</td>
   <td>
   <ul>
@@ -80,25 +79,7 @@ header_img: teaching.jpg
   {% endfor %} 
   </ul>
   </td>
-#  <td>
-#  <ul>
-#  {% for disc in entry.discussion %}
-#  <li>
-#      {% if disc.link %}
-#      {% if mat.type == 'paper'%}
-#      <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-#      {% endif %}
-#      {%if disc.type == 'external' %}
-#      <a href="{{mat.link}}">
-#      {%endif%}
-#      {{disc.name}}</a> </li> 
-#    {% else %}
-#    {{disc.name}}</li>
-#    {% endif %}  
-#  {% endfor %} 
-#  </ul>
-#  </td>
-  <td>
+ <td>
   <ul>
   {% for video in entry.videos %}
   <li>
