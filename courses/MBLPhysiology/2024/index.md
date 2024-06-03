@@ -39,18 +39,18 @@ header_img: teaching.jpg
 
 
 
-<h3 class="banner"> Syllabus </h3>
-{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
+#<h3 class="banner"> Syllabus </h3>
+#{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
 
-<p>A pdf of the full course syllabus can be found {%if syllabus_pdf.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/syllabus_pdf/{{syllabus_pdf.link}}">here</a>{%else %}TBA{%endif%}.</p>
+#<p>A pdf of the full course syllabus can be found {%if syllabus_pdf.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/{{page.year}}/syllabus_pdf/{{syllabus_pdf.link}}">here</a>{%else %}TBA{%endif%}.</p>
 
 <table>
 <tr>
-<th><b> Number </b></th>
-<th><b> Date </b></th>
+#<th><b> Number </b></th>
+<th><b> Day </b></th>
 <th><b> Topics </b></th>
 <th><b> Materials</b></th>
-<th><b> Discussion</b></th>
+#<th><b> Discussion</b></th>
 <th><b> Videos</b></th>
 </tr>
 {% assign no = 1 %}
@@ -87,24 +87,24 @@ header_img: teaching.jpg
   {% endfor %} 
   </ul>
   </td>
-  <td>
-  <ul>
-  {% for disc in entry.discussion %}
-  <li>
-      {% if disc.link %}
-      {% if mat.type == 'paper'%}
-      <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
-      {% endif %}
-      {%if disc.type == 'external' %}
-      <a href="{{mat.link}}">
-      {%endif%}
-      {{disc.name}}</a> </li> 
-    {% else %}
-    {{disc.name}}</li>
-    {% endif %}  
-  {% endfor %} 
-  </ul>
-  </td>
+#  <td>
+#  <ul>
+#  {% for disc in entry.discussion %}
+#  <li>
+#      {% if disc.link %}
+#      {% if mat.type == 'paper'%}
+#      <a href="{{site.baseurl}}/courses/papers/{{mat.link}}">
+#      {% endif %}
+#      {%if disc.type == 'external' %}
+#      <a href="{{mat.link}}">
+#      {%endif%}
+#      {{disc.name}}</a> </li> 
+#    {% else %}
+#    {{disc.name}}</li>
+#    {% endif %}  
+#  {% endfor %} 
+#  </ul>
+#  </td>
   <td>
   <ul>
   {% for video in entry.videos %}
