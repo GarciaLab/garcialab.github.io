@@ -82,22 +82,22 @@ syllabus:
               </ul>'
   - entry: #2
     date: Monday
-    topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics.
-          <ul>
-              <li>Diffusion and axonal transport.</li>
-              <li>Diffusion by coin flips.</li>
-          </ul>"
+    topics:
+      - "Diffusion as Biology's Null Hypothesis for Dynamics.
+        <ul>
+          <li>Diffusion and axonal transport.</li>
+          <li>Diffusion by coin flips.</li>
+        </ul>"
     materials:
-        - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
-          type: external
-          link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
-        - name: "Lecture Notes: Diffusion by coin flips"
-          type: notes
-          link: lec12_Diffusion.pdf
+      - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
+      - name: "Lecture Notes: Diffusion by coin flips"
+        type: notes
+        link: lec12_Diffusion.pdf
       - name: "Diffusion by Coin Flips: Colab Notebook"
-          type: external
-          link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
+        type: external
+        link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
     videos:
       - name: 'Introduction to Diffusion'
         type: external
