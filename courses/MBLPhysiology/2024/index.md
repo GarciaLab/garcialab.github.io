@@ -1,7 +1,7 @@
 ---
 layout: course
-title: MBL Physiology Course 2024
-tagline: Theory Skills Week Module
+title: Physical Biology Module
+tagline: MBL Physiology Course 2024
 course_id: PhysioTheory
 term: summer
 year: 2024
