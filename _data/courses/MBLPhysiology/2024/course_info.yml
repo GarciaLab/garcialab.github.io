@@ -70,7 +70,8 @@ people:
     img: yovanbadal.jpg
     
 syllabus:
-  - date: Monday
+  - entry: #1
+    date: Monday
     topics:
       - "A feeling for the numbers in biology."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
