@@ -94,9 +94,6 @@ syllabus:
       - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
         type: external
         link: "https://docs.google.com/presentation/d/1jYsqn2bmV0U_QqxBasVao6lxpX9kTZLa/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
-      - name: "Bacterial growth: Colab Notebook"
-        type: external
-        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
       - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
         type: paper
         link: Neidhardt1999.pdf
@@ -107,9 +104,6 @@ syllabus:
         type: external
         link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
     videos:
-      - name: 'Lecture Recording from 1/23'
-        type: external
-        link: https://bcourses.berkeley.edu/courses/1534077/external_tools/90481
       - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
         type: external
         link: https://youtu.be/HvMVPfMD1og
@@ -139,12 +133,7 @@ syllabus:
         type: external
         link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
     videos:
-      - name: 'Introduction to Diffusion'
-        type: external
-        link: "https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
-      - name: 'Measuring diffusion by tracking single molecules'
-        type: external
-        link: "https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"              
-      - name: 'Diffusion by Coin Flips'
-        type: external
-        link: "https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+      - name: 'Introduction to Diffusion (<a href="https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1z8ujbcYQFq76iJE2J0xeQCx1v-whMGZV/view?usp=sharing">Notes</a>)
+      - name: 'Measuring diffusion by tracking single molecules (<a href="https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1Fp9JfGCsK3m8NoEFZF5qp5TUPZGGX71Y/view?usp=sharing">Notes</a>)
+      - name: 'Diffusion by Coin Flips (<a href="https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1E4ZhfGQe8u4sms3TIRnF8G7kcLDMZ9Ko/view?usp=sharing">Notes</a>)
+          
