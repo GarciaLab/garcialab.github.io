@@ -136,4 +136,59 @@ syllabus:
       - name: 'Introduction to Diffusion (<a href="https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1z8ujbcYQFq76iJE2J0xeQCx1v-whMGZV/view?usp=sharing">Notes</a>)'
       - name: 'Measuring diffusion by tracking single molecules (<a href="https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1Fp9JfGCsK3m8NoEFZF5qp5TUPZGGX71Y/view?usp=sharing">Notes</a>)'
       - name: 'Diffusion by Coin Flips (<a href="https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1E4ZhfGQe8u4sms3TIRnF8G7kcLDMZ9Ko/view?usp=sharing">Notes</a>)'
+
+
+  - entry: #4
+    date: Monday
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
+          <ul>
+              <li>The Great Probability Distributions of Biology</li>
+              <li>The constitutive promoter.</li>
+          </ul>"
+    materials:
+      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1Sf-IKW2jUNhwP9dpb6m4F1WPu1eP7kXL/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Dynamics of the Constitutive Promoter: Class Notes"
+        type: external
+        link: "https://drive.google.com/file/d/10d-L-5suI4lqRcGeSidiiKPMByI2sRQ3/view?usp=sharing"
+      - name: "Groundbreaking measurement of gene expression dynamics in single E. coli cells using the MS2 system (Golding 2005)"
+        type: paper
+        link: Golding2005.pdf
+      - name: Colab Notebook Mean Dynamics of the Constitutive Promoter
+        type: external
+        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
+      - name: "Induction kinetics of the lac operon as reported by protein activity (Marbach2012)"
+        type: paper
+        link: Marbach2012.pdf
+
+  - entry: #5
+    date: Saturday
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
+          <ul>
+              <li>Chemical master equation of the constitutive promoter.</li>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+          </ul>"
+
+          </ul>"
+    materials:
+      - name: "mRNA Distribution of the Constitutive Promoter: Class Notes"
+        type: external
+        link: "https://drive.google.com/file/d/1IReowrmK9s4lqg8FGt3e5uzRM5LlI6C-/view?usp=sharing"
+      - name: "Great smFISH experiment showing that, while some genes follow a Poisson distribution of mRNA molecules, some don't (Zenklusen 2008)"
+        type: paper
+        link: Zenklusen2008.pdf
+      - name: "Predicting transcriptional noise from DNA architecture in simple repression (Jones 2014)"
+        type: paper
+        link: Jones2014.pdf
+      - name: "Examining the distribution of flying bombs hitting London during WWII using the Poisson distribution (Clarke 1946)"
+        type: paper
+        link: Clarke1946.pdf
+      - name: "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris (Tabula Muris 2018)"
+        type: paper
+        link: TabulaMuris2018.pdf
+
           
