@@ -141,11 +141,11 @@ syllabus:
   - entry: #4
     date: Monday
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
-          <ul>
-              <li>The Great Probability Distributions of Biology</li>
-              <li>The constitutive promoter.</li>
-          </ul>"
+      - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
+        <ul>
+          <li>The Great Probability Distributions of Biology</li>
+          <li>The constitutive promoter.</li>
+        </ul>"
     materials:
       - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
         type: external
@@ -166,14 +166,12 @@ syllabus:
   - entry: #5
     date: Saturday
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
-          <ul>
-              <li>Chemical master equation of the constitutive promoter.</li>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
-              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
-          </ul>"
-
-          </ul>"
+      - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
+        <ul>
+          <li>Chemical master equation of the constitutive promoter.</li>
+          <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+          <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+        </ul>"
     materials:
       - name: "mRNA Distribution of the Constitutive Promoter: Class Notes"
         type: external
