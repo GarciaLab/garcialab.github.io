@@ -80,7 +80,47 @@ syllabus:
                 <li>Exhausting ATP Pool (<a href="https://www.youtube.com/watch?v=o5rVLrAw6JY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=8&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1GXbhBA2-EFiu0CRpoDZkBHCds8xgj0zJ/view?usp=drive_link">Notes</a>)</li>
                 <li>DNA Replication Error Rate (<a href="https://www.youtube.com/watch?v=sDgCMIQfl_g&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=9&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/12aLWa2sEWr7VTrkJnNglRrwtjLoNKOvA/view?usp=sharing">Notes</a>)</li>
               </ul>'
+
+
   - entry: #2
+    date: Monday
+    topics: 
+        - "Stuff(t) or the Protocol of Biological Dynamics.
+          <ul>
+            <li>Time evolution in biology.</li>
+            <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
+          </ul>"
+    materials: 
+      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
+        type: external
+        link: "https://docs.google.com/presentation/d/1jYsqn2bmV0U_QqxBasVao6lxpX9kTZLa/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Bacterial growth: Colab Notebook"
+        type: external
+        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+      - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
+        type: paper
+        link: Neidhardt1999.pdf
+      - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
+        type: paper
+        link: Monod1949.pdf
+      - name: "Bacterial growth (a chat with ChatGPT)"
+        type: external
+        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+    videos:
+      - name: 'Lecture Recording from 1/23'
+        type: external
+        link: https://bcourses.berkeley.edu/courses/1534077/external_tools/90481
+      - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
+        type: external
+        link: https://youtu.be/HvMVPfMD1og
+      - name: 'Bacterial Growth
+              <ul>
+                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
+                <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
+              </ul>'
+
+
+  - entry: #3
     date: Monday
     topics:
       - "Diffusion as Biology's Null Hypothesis for Dynamics.
@@ -91,7 +131,7 @@ syllabus:
     materials:
       - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
         type: external
-        link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
+        link: "https://docs.google.com/presentation/d/1rSNyvbvusVwJrxzMvmkU2LbB51rpOILw/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
       - name: "Lecture Notes: Diffusion by coin flips"
         type: notes
         link: lec12_Diffusion.pdf
