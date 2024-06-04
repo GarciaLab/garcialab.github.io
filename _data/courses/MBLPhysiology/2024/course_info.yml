@@ -163,7 +163,26 @@ syllabus:
         type: paper
         link: Marbach2012.pdf
 
+
+
   - entry: #5
+    date: Monday
+    topics: 
+      - "A Feeling for the Numbers in Biology: Your Turn.
+        <ul>
+          <li>Prepare a 5 minute estimate you will present on Saturday.</li>
+          <li>Christina and Hernan are around to help all week. Just Slack us!</li>
+        </ul>"
+    materials:
+      - name: "Some examples of estimates"
+        type: external
+        link: "https://docs.google.com/presentation/d/1kL_7MM7JY8AyI3gd5LEMHxsYABCa3JyC/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
+
+
+
+https://docs.google.com/presentation/d/1kL_7MM7JY8AyI3gd5LEMHxsYABCa3JyC/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
+
+  - entry: #6
     date: Saturday
     topics: 
       - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
