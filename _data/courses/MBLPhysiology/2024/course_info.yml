@@ -237,7 +237,7 @@ syllabus:
   - entry: #8
     date: Saturday
     topics: 
-        - "Active Matter."
+      - "Active Matter."
   materials: 
       - name: "Active Matter: Powerpoint Presentation"
         type: external
@@ -247,7 +247,7 @@ syllabus:
   - entry: #9
     date: Saturday
     topics: 
-        - "Physical Biology of the Cell."
+      - "Physical Biology of the Cell."
   materials: 
       - name: "Physical Biology of the Cells Exit Talk: Powerpoint Presentation"
         type: external
