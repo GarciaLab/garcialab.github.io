@@ -219,7 +219,7 @@ syllabus:
     materials: 
       - name: "Phase Transitions in Biology: Powerpoint Presentation"
         type: external
-        link: ""
+        link: "https://docs.google.com/presentation/d/1KNk9zBjBMKKCNWUZROiMWy17N1fbNlaO/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
       - name: Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)
         type: paper
         link: Brangwynne2009.pdf
@@ -232,6 +232,10 @@ syllabus:
       - name: Polymer physics of intracellular phase transitions (Brangwynne2015)
         type: paper
         link: Brangwynne2015.pdf
+      - name: Measuring a phase diagram in vivo (Fritsch2021)
+        type: paper
+        link: Fritsch2021.pdf
+
 
 
   - entry: #8
