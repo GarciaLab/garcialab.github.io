@@ -74,6 +74,27 @@
   background: > 
       Undergraduate Student in Biology and Physics<br/>
       Scripps College 
+- avatar: JialingFang.jpg
+  name: Jialing Fang
+  caste: rotation
+  background: >
+      Bioengineering Graduate Student </br>
+      BS Biology, Peking University
+  email: jialing.fang
+- avatar: AlejandroCollins.jpg
+  name: Alejandro Collins
+  caste: rotation 
+  background: >
+      Molecular & Cell Biology Graduate Student</br>
+      BS Molecular, Cellular, & Developmental Biology, Yale University
+  email: alejandro.collins
+- avatar: MeloFilipe.png
+  name: Filipe Melo
+  caste: rotation 
+  background: >
+      Biophysics Graduate Student</br>
+      BS Biochemistry, UCLA 
+  email: filipe_melo
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
