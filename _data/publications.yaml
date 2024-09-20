@@ -1,4 +1,13 @@
 2024: 
+ - title: >
+      DRMY1 promotes robust morphogenesis in Arabidopsis by sustaining the translation of cytokinin-signaling inhibitor proteins
+    author: >
+      Shuyao Kong, Mingyuan Zhu, M. Regina Scarpin, David Pan, Longfei Jia, Ryan E. Martinez, Simon Alamos, Batthula Vijaya Lakshmi Vadde, Hernan G. Garcia, Shu-Bing Qian, Jacob O. Brunkard, and Adrienne H.K. Roeder
+    journal: Developmental Cell
+    volume: In press
+    links:
+      DOI: "https://doi.org/10.1016/j.devcel.2024.08.010"
+      PDF: "Kong2024.pdf"
   - title: >
       Spatial microenvironments tune immune response dynamics in the Drosophila larval fat body
     author: >
@@ -63,15 +72,6 @@
     links:
       DOI: "https://doi.org/10.1101/2023.04.11.536490"
       PDF: "Mahdavi_2023.pdf"
-  - title: >
-      DRMY1 promotes robust morphogenesis by sustaining translation of a hormone signaling protein
-    author: >
-      Shuyao Kong, Mingyuan Zhu, Maria Regina Scarpin, David Pan, Longfei Jia, Ryan E Martinez, Simon Alamos, Vijaya Lakshmi Vadde, Hernan G Garcia, Shu-Bing Qian, Jacob O Brunkard, and Adrienne H. K. Roeder
-    journal: preprint on bioRxiv
-    volume: 2023.04.07.536060
-    links:
-      DOI: "https://doi.org/10.1101/2023.04.07.536060"
-      PDF: "Kong2023.pdf"
   - title: >
       Minimal synthetic enhancers reveal control of the probability of transcriptional engagement and its timing by a morphogen
     author: >
