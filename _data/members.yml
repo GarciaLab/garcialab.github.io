@@ -18,6 +18,13 @@
      Physics Graduate Student <br/>
      BS in Physics and Mathematics, University of Denver
   email: aaron_fultineer
+- avatar: AlejandroCollins.jpg
+  name: Alejandro Collins
+  caste: rotation 
+  background: >
+      Molecular & Cell Biology Graduate Student</br>
+      BS Molecular, Cellular, & Developmental Biology, Yale University
+  email: alejandro.collins
 - avatar: AndreaHerman.jpg
   name: Andrea Herman
   caste: grad
@@ -60,6 +67,19 @@
       PhD candidate, Integrative Biology, UC Berkeley<br/>
       BS Biological Sciences, Carnegie Mellon University
   email: cjennings
+- avatar: EnzeCheng.jpg
+  name: Enze Cheng
+  caste: postdoc 
+  background: > 
+      PhD Physics, University of California, Berkeley <br/>
+  email: enzecheng
+- avatar: MeloFilipe.jpg
+  name: Filipe Melo
+  caste: rotation 
+  background: >
+      Biophysics Graduate Student</br>
+      BS Biochemistry, UCLA 
+  email: filipe_melo
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
@@ -68,12 +88,6 @@
       PhD  Physics, Caltech<br/>
       BS Physics, University of Buenos Aires
   email: hggarcia [at] berkeley [dot] edu
-- avatar: EnzeCheng.jpg
-  name: Enze Cheng
-  caste: postdoc 
-  background: > 
-      PhD Physics, University of California, Berkeley <br/>
-  email: enzecheng
 - avatar: JialingFang.jpg
   name: Jialing Fang
   caste: rotation
@@ -81,20 +95,6 @@
       Bioengineering Graduate Student </br>
       BS Biology, Peking University
   email: jialing.fang
-- avatar: AlejandroCollins.jpg
-  name: Alejandro Collins
-  caste: rotation 
-  background: >
-      Molecular & Cell Biology Graduate Student</br>
-      BS Molecular, Cellular, & Developmental Biology, Yale University
-  email: alejandro.collins
-- avatar: MeloFilipe.jpg
-  name: Filipe Melo
-  caste: rotation 
-  background: >
-      Biophysics Graduate Student</br>
-      BS Biochemistry, UCLA 
-  email: filipe_melo
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
@@ -110,6 +110,13 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
+- avatar: Kian.jpg
+  name: Kian Naini 
+  caste: undergrad
+  background: > 
+      Undergraduate Student in Molecular and Cell Biology<br/>
+      University of California, Berkeley
+  email: knaini
 - avatar: nickGravina.jpeg
   name: Nick Gravina
   caste: grad
