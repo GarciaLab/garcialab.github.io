@@ -1,12 +1,12 @@
 2024: 
   - title: >
-      Energy Aware Technology Mapping of Genetic Logic Circuits 
+      Energy Aware Technology Mapping of Genetic Logic Circuits
     author: >
       Erik Kubaczka, Maximilian Gehri, Jérémie J. M. Marlhens, Tobias Schwarz, Maik Molderings, Nicolai Engelmann, Hernan G. Garcia, Christian Hochberger, Heinz Koeppl
-    journal: preprint on bioRxiv
-    volume: 2024.06.27.601038
+    journal: ACS Synthetic Biology
+    volume: IWBDA 2023
     links: 
-      DOI: "https://doi.org/10.1101/2024.06.27.601038"
+      DOI: "https://doi.org/10.1021/acssynbio.4c00395"
       PDF: "Kubaczka2024.pdf"
   - title: >
       DRMY1 promotes robust morphogenesis in Arabidopsis by sustaining the translation of cytokinin-signaling inhibitor proteins
