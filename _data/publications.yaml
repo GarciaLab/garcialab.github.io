@@ -1,5 +1,14 @@
 2024: 
   - title: >
+      Optogenetic dissection of transcriptional repression in a multicellular organism
+    author: >
+      Jiaxi Zhao, Nicholas C. Lammers, Simon Alamos, Yang Joon Kim, Gabriella Martini, and Hernan G. Garcia
+    journal: Nature Communications
+    volume: 15, Article number: 9263 
+    links:
+      DOI: "https://doi.org/10.1038/s41467-024-53539-0"
+      PDF full text: "Zhao2024.pdf"
+  - title: >
       Energy Aware Technology Mapping of Genetic Logic Circuits
     author: >
       Erik Kubaczka, Maximilian Gehri, Jérémie J. M. Marlhens, Tobias Schwarz, Maik Molderings, Nicolai Engelmann, Hernan G. Garcia, Christian Hochberger, Heinz Koeppl
@@ -111,15 +120,6 @@
       PDF full text: "N.Lammers2023.pdf"
 
 2022:
-  - title: >
-      Optogenetic dissection of transcriptional repression in a multicellular organism
-    author: >
-      Jiaxi Zhao, Nicholas C. Lammers, Simon Alamos, Yang Joon Kim, Gabriella Martini, and Hernan G. Garcia
-    journal: preprint on bioRxiv
-    volume: 2022.11.20.517211
-    links:
-      DOI: "https://doi.org/10.1101/2022.11.20.517211"
-      PDF full text: "Zhao2022(2).pdf"
   - title: >
       Chromatin changes in Phytochrome Interacting Factor-regulated genes parallel their rapid transcriptional response to light
     author: > 
