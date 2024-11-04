@@ -85,7 +85,7 @@
       Flexibility and sensitivity in gene regulation out of equilibrium
     author: >
       Sara Mahdavi, Gabriel L. Salmon, Patill Daghlian, Hernan G. Garcia, and Robert Phillips
-    journal: preprint on bioRxiv
+    journal: in press 
     volume: 2023.04.11.536490
     links:
       DOI: "https://doi.org/10.1101/2023.04.11.536490"
@@ -103,11 +103,11 @@
       Unified bursting strategies in ectopic and endogenous even-skipped expression patterns
     author: >
       Augusto Berrocal, Nicholas C Lammers, Hernan G Garcia, Michael B Eisen
-    journal: preprint on bioRxiv
-    volume: 2023.02.09.527927
+    journal: eLife
+    volume: Developmental Biology, Chromosomes and Gene Expression
     links:
-      DOI: "https://doi.org/10.1101/2023.02.09.527927"
-      PDF: "Augusto2023.pdf"
+      DOI: "https://doi.org/10.7554/eLife.88671.2"
+      PDF: "Augusto2023_elife.pdf"
   - title: >
       Competing constraints shape the non-equilibrium limits of 
       cellular decision making
