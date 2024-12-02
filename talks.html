@@ -1,0 +1,38 @@
+---
+layout: default
+title: Talks
+section_id: Talks
+header_img: publications.gif
+---
+
+<div class='full parallax' style='background-image: url({{site.baseurl}}/images/headers/{{page.header_img}}); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title='Talks'  color='#fff' class='big' %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
+<div class='row' style="padding: 20px;">
+<h3 class="banner"> Talks </h3>
+{% for year in site.data.talks %}
+<h3>{{year[0]}}</h3>
+    <div class='medium-12 columns'>
+        <div class='fadein mod modIconText' data-delay='{{ 30 | times:forloop.index0 }}'>
+          <ul>
+            {% for talk in year[1] %}
+            <li>{{talk.title}}: <b>{{talk.date}}.</b> <i>{{talk.venue}}</i> | {%for link in talk.links%} {%if link[0] == 'VIDEO' %} DOI: <a href='{{link[1]}}'>{{link[1]}}</a> | {% else %} | {% endif %}{%endfor%}
+          </ul>
+          <!-- </div> -->
+          <div class='two spacing'></div>
+        </div>
+    </div>
+
+      {% endfor %}
+  </div>
+
+
+  <div class='spacing'></div>
+</div>

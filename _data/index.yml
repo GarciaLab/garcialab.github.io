@@ -30,3 +30,9 @@
   description: What we teach
   link: teaching.html
   image: teaching.png
+
+- cat: 
+  name: Talks
+  description: Selection of talks 
+  link: talks.html
+  image: teaching.png
