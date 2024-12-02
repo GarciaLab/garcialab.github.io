@@ -1,55 +1,29 @@
 ---
 layout: default
-title: Publications
-section_id: publications
+title: Talks
+section_id: Talks
 header_img: publications.gif
 ---
 
 <div class='full parallax' style='background-image: url({{site.baseurl}}/images/headers/{{page.header_img}}); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title='Publications'  color='#fff' class='big' %}
+      {% include section-header.html title='Talks'  color='#fff' class='big' %}
     </div>
   </div>
   <div class='four spacing'></div>
 </div>
 
 
-<div class='full'>
-<div class="row" style="padding: 20px;">
-
-
-<h3 class='banner'> Books </h3>
-<div style="height: 200px;">
-<br/><br/> <img src="{{ site.baseurl }}/images/pboc.jpg" style="height:
-200px; border: 1px solid #000000; float: left;  margin-right: 10px ">
-<b>Physical Biology of the Cell, Second Edition</b> <br/>by Rob Phillips, Jané
-Kondev, Julie Theriot, Hernan Garcia, <br/>and illustrated by Nigel Orme. <i>Garland
-Science</i>, 2012. <br/> <a
-href="http://www.rpgroup.caltech.edu/pboc2">Book
-Website</a> | <a
-href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
-</div>
-</div>
-
-
-<br/><br/>
 <div class='row' style="padding: 20px;">
-<h3 class="banner"> Publications </h3>
-{% for year in site.data.publications %}
+<h3 class="banner"> Talks </h3>
+{% for year in site.data.talks %}
 <h3>{{year[0]}}</h3>
     <div class='medium-12 columns'>
         <div class='fadein mod modIconText' data-delay='{{ 30 | times:forloop.index0 }}'>
           <ul>
-            {% for pub in year[1] %}
-            <li>{{pub.author}}: <b>{{pub.title}}.</b> <i>{{pub.journal}}</i> {{pub.volume}}{{pub.issue}} | {%for link in pub.links%} {%if link[0] == 'DOI' %} DOI: <a href='{{link[1]}}'>{{link[1]}}</a> | {% else %} <a href='{{site.baseurl}}/publications/{{link[1]}}'>{{link[0]}}</a> | {% endif %}{%endfor%}
-              <ul>
-                {% for comm in pub.commentary %}
-                <li>{{comm.type}} by {{comm.author}} in <b>{{comm.title}}</b>. <i>{{comm.journal}}</i> {{comm.volume}}{{comm.issue}} <i><a href='{{comm.webpage}}'>{{comm.blog}}</a></i> ({{comm.year}}) | {%for link in comm.links%} {%if link[0] == 'DOI' %} DOI: <a href='{{link[1]}}'>{{link[1]}}</a> | {%elsif link[0] == 'Article Link' %} <a href='{{link[1]}}'>{{link[0]}}</a> | {% else %} <a href='{{site.baseurl}}/publications/{{link[1]}}'>{{link[0]}}</a> | {% endif %}{%endfor%}</li>
-                {%endfor%}
-              </ul>
-            </li></br>
-            {%endfor%}
+            {% for talk in year[1] %}
+            <li>{{talk.title}}: <b>{{talk.date}}.</b> <i>{{talk.venue}}</i> | {%for link in talk.links%} {%if link[0] == 'VIDEO' %} DOI: <a href='{{link[1]}}'>{{link[1]}}</a> | {% else %} | {% endif %}{%endfor%}
           </ul>
           <!-- </div> -->
           <div class='two spacing'></div>
