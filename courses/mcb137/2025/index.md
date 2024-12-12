@@ -1,13 +1,13 @@
 ---
 layout: course
-title: MCB137/237 Spring 2024
+title: MCB137/237 Spring 2025
 tagline: Physical Biology of the Cell
 course_id: mcb137
 term: spring
-year: 2024
+year: 2025
 header_img: teaching.jpg
 ---
-{% assign data_file = site.data.courses.mcb137.spring_2024 %}
+{% assign data_file = site.data.courses.mcb137.spring_2025 %}
 
 
 <div class='full'>
