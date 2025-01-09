@@ -70,7 +70,7 @@
   name: Haley Bianchi
   caste: rotation
   background: >
-    Molecular & Cell Biology Graduate Student
+    Molecular & Cell Biology Graduate Student <br/>
     BS Molecular, Cellular & Developmental Biology, University of Washington Seattle
   email: aishahaley
 - avatar: hernan.jpg
@@ -100,7 +100,7 @@
   name: Kensi Hartman
   caste: rotation
   background: >
-    Molecular & Cell Biology Graduate Student
+    Molecular & Cell Biology Graduate Student <br/>
     BS Molecular & Cell Biology, Western Washington University
   email: kensington_hartman
 - avatar: Kian.jpg
