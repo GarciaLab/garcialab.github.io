@@ -82,7 +82,7 @@ people:
     email: vinayak.harihar@berkeley.edu
     role: GSI
     img: VinuHarihar.jpg
-    office_hours: 'Fridays 1pm - 2pm @ 505 Weill Hall, Discussion: Fridays 12-1 pm in 259 Dwinelle' 
+    office_hours: 'Fridays 1pm - 2pm @ 505 Weill Hall, Discussion: Fridays 12-1 pm in 3 Evans' 
     
 Homework: 
   - set:
@@ -1049,4 +1049,4 @@ syllabus:
       - "TBD"
   - entry: 5/8 Lecture @ 242 Hearst Gym
   topics:
-    - "TBD"
+      - "TBD"
