@@ -27,7 +27,7 @@ about: >
 
 structure: >
   The class as a whole will meet twice a week for one hour and a half: 
-  Tuesdays and Thursdays from 2pm-3:30pm in 251 Dwinelle. This
+  Tuesdays and Thursdays from 2pm-3:30pm in 242 Hearst Gym. This
   time will be devoted to lectures, discussions and hands-on activities
   including Python exercises. Further, the class will be split into weekly
   one-hour lab sessions. During these lab sessions, students will work
@@ -322,7 +322,7 @@ syllabuspdf:
   
 syllabus:
   - entry: #1
-    date: 1/16 Lecture @ 251 Dwinelle. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
+    date: 1/21 Lecture @ 242 Hearst Gym. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
     topics:
       - "A feeling for the numbers in biology."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
@@ -369,7 +369,7 @@ syllabus:
                 <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
               </ul>'
   - entry: #2
-    date: 1/18 Lecture @ 251 Dwinelle
+    date: 1/23 Lecture @ 242 Hearst Gym
     topics:
        - "A Feeling for the Numbers in Biology, Part II."
     materials:
@@ -409,7 +409,7 @@ syllabus:
   #             </ul>'
   #     - name: Simple estimates
   - entry: #3
-    date: 1/23 Lecture @ 251 Dwinelle
+    date: 1/28 Lecture @ 242 Hearst Gym
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
           <ul>
@@ -441,7 +441,7 @@ syllabus:
                 <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
               </ul>'
   - entry: #4
-    date: 1/25  Lecture @ 251 Dwinelle
+    date: 1/30  Lecture @ 242 Hearst Gym
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
           <ul>
@@ -457,7 +457,7 @@ syllabus:
                 <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
               </ul>'
   - entry: #5
-    date: 1/30 Lecture @ 251 Dwinelle
+    date: 1/30 Lecture @ 242 Hearst Gym
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
           <ul>
@@ -480,7 +480,7 @@ syllabus:
         type: paper
         link: Grant2021.pdf
   - entry: #6
-    date: 2/1 Lecture @ 251 Dwinelle
+    date: 2/4 Lecture @ 242 Hearst Gym
     topics: 
         - "Stuff(t) or the Protocol of Biological Dynamics, Part IV.
       <ul>
@@ -530,7 +530,7 @@ syllabus:
     #    link: Yildiz2003.pdf
     #  - name: PBoC Chapter 13
   - entry: #7
-    date: 2/6 Lecture @ 251 Dwinelle
+    date: 2/6 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
           <ul>
@@ -567,7 +567,7 @@ syllabus:
     #    type: external
     #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
   - entry: #8
-    date: 2/8 Lecture @ 251 Dwinelle # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
+    date: 2/11 Lecture @ 242 Hearst Gym # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
           <ul>
@@ -602,7 +602,7 @@ syllabus:
                  Colab Notebook</a></li>
               </ul>'
   - entry: #9
-    date: 2/13 Lecture @ 251 Dwinelle
+    date: 2/13 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part III.
           <ul>
@@ -614,7 +614,7 @@ syllabus:
       #   type: external
       #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #10
-    date: 2/15 Lecture @ 251 Dwinelle
+    date: 2/18 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Exponential Distribution.
           <ul>
@@ -635,7 +635,7 @@ syllabus:
   #        type: external
   #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
   - entry: #11
-    date: 2/20 Lecture @ 251 Dwinelle
+    date: 2/20 Lecture @ 242 Hearst Gym
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
           <ul>
@@ -665,7 +665,7 @@ syllabus:
       #            Colab Notebook (Discussion I - Yasemin)</a></li>
       #         </ul>'
   - entry: #12
-    date: 2/22 Lecture @ <a href="https://berkeley.zoom.us/j/94775122834">Zoom</a>
+    date: 2/25 Lecture @ <a href="https://berkeley.zoom.us/j/94775122834">Zoom</a>
     topics:
         - "Diffusion as Biology's Null Hypothesis for Dynamics, Part II.
           <ul>
@@ -695,7 +695,7 @@ syllabus:
   #       type: paper
   #       link: Garcia2007b.pdf
   - entry: #13
-    date: 2/27 Lecture @ 251 Dwinelle
+    date: 2/27 Lecture @ 242 Hearst Gym
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics, Part III.
           <ul>
@@ -731,7 +731,7 @@ syllabus:
                  Colab Notebook</a></li>
               </ul>'
   - entry: #14
-    date: 2/29 Lecture @ 251 Dwinelle
+    date: 3/4 Lecture @ 242 Hearst Gym
     topics: 
         - "Diffusion as Biology's Null Hypothesis for Dynamics, Part IV.
           <ul>
@@ -754,7 +754,7 @@ syllabus:
     #    - name: Defiance is the Secret of Life
     #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
   - entry: #15
-    date: 3/5 Lecture @ 251 Dwinelle
+    date: 3/6 Lecture @ 242 Hearst Gym
     topics: 
         - "Phase Transitions in Biology, Part I.
           <ul>
@@ -771,7 +771,7 @@ syllabus:
         type: external
         link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #16
-    date: 3/7 Lecture @ 251 Dwinelle
+    date: 3/11 Lecture @ 242 Hearst Gym
     topics: 
         - "Phase Transitions in Biology, Part II.
           <ul>
@@ -783,7 +783,7 @@ syllabus:
         type: external
         link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #17
-    date: 3/12 Lecture @ 251 Dwinelle
+    date: 3/13 Lecture @ 242 Hearst Gym
     topics: 
         - "Phase Transitions in Biology, Part III.
           <ul>
@@ -830,7 +830,7 @@ syllabus:
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
   - entry: #18
-    date: 3/14 Lecture @ 251 Dwinelle
+    date: 3/18 Lecture @ 242 Hearst Gym
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics, Part I.
           <ul>
@@ -846,7 +846,7 @@ syllabus:
     #     type: notes
     #     link: lec17.pdf
   - entry: #19
-    date: 3/19 Lecture @ 251 Dwinelle
+    date: 3/20 Lecture @ 242 Hearst Gym
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -884,7 +884,7 @@ syllabus:
     #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry: #20
-    date: 3/21 Lecture @ 251 Dwinelle
+    date: 4/1 Lecture @ 242 Hearst Gym
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics.
           <ul>
@@ -903,7 +903,7 @@ syllabus:
                   Colab Notebook</a></li>
                 </ul>'
   # - entry:
-  #   date: 3/21 Lecture @ 251 Dwinelle
+  #   date: 3/21 Lecture @ 242 Hearst Gym
     # topics:
     #   - "Guest Lecturer: Rob Phillips"
     #   - "Molecular Switches:
@@ -922,7 +922,7 @@ syllabus:
     # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
   - entry: #21
-    date: 4/2 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
+    date: 4/3 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part I.
           <ul>
@@ -943,7 +943,7 @@ syllabus:
     #   #  type: notes      
     #   #link: lec21_2.pdf
   - entry: #22
-    date: 4/4 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
+    date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part II.
           <ul>
@@ -967,7 +967,7 @@ syllabus:
     #              Colab Notebook (Discussion I - Yovan)</a></li>
     #           </ul>'
   - entry: #23
-    date: 4/9 Lecture @ 251 Dwinelle
+    date: 4/15 Lecture @ 242 Hearst Gym
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part III.
           <ul>
@@ -979,7 +979,7 @@ syllabus:
         type: external
         link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #24
-    date: 4/11 Lecture @ 251 Dwinelle
+    date: 4/17 Lecture @ 242 Hearst Gym
     topics: 
         - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part IV.
           <ul>
@@ -994,7 +994,7 @@ syllabus:
         type: external
         link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #25
-    date: 4/16 Lecture @ 251 Dwinelle
+    date: 4/22 Lecture @ 242 Hearst Gym
     topics: 
         - "Biological Networks.
           <ul>
@@ -1009,7 +1009,7 @@ syllabus:
         type: external
         link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #26
-    date: 4/18 Lecture @ 251 Dwinelle
+    date: 4/15 Lecture @ 242 Hearst Gym
     topics: 
         - "Biological Networks.
           <ul>
@@ -1024,7 +1024,7 @@ syllabus:
     # #    type: external
     # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
   - entry: #27
-    date: 4/23 Lecture @ 251 Dwinelle
+    date: 4/24 Lecture @ 242 Hearst Gym
     topics: 
         - "Physical Biology of the Cell"
     materials:
@@ -1032,7 +1032,21 @@ syllabus:
         type: external
         link: "https://course-evaluations.berkeley.edu/Berkeley/"
   - entry: #28
-    date: 4/25 Lecture @ 251 Dwinelle
+    date: 4/25 Lecture @ 242 Hearst Gym
     topics:
       - "Study Hall - No Lecture"
-     
+  - entry: #29 
+      date: 4/29 Lecture @ 242 Hearst Gym
+      topics:
+        - "TBD"
+  - entry: #30
+    date: 5/1 Lecture @ 242 Hearst Gym
+    topics:
+      - "TBD"
+  - entry: #31
+    date: 5/6 Lecture @ 242 Hearst Gym
+    topics: 
+      - "TBD"
+  - entry: 5/8 Lecture @ 242 Hearst Gym
+  topics:
+    - "TBD"
