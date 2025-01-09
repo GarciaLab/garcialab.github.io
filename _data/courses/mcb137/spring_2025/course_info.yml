@@ -1047,6 +1047,7 @@ syllabus:
     date: 5/6 Lecture @ 242 Hearst Gym
     topics: 
       - "TBD"
-  - entry: 5/8 Lecture @ 242 Hearst Gym
-  topics:
+  - entry: #32
+    date: 5/8 Lecture @ 242 Hearst Gym
+    topics:
       - "TBD"
