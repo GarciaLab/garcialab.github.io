@@ -18,13 +18,6 @@
      Physics Graduate Student <br/>
      BS in Physics and Mathematics, University of Denver
   email: aaron_fultineer
-- avatar: AlejandroCollins.jpg
-  name: Alejandro Collins
-  caste: rotation 
-  background: >
-      Molecular & Cell Biology Graduate Student</br>
-      BS Molecular, Cellular, & Developmental Biology, Yale University
-  email: alejandro.collins
 - avatar: AndreaHerman.jpg
   name: Andrea Herman
   caste: grad
@@ -73,13 +66,13 @@
   background: > 
       PhD Physics, University of California, Berkeley <br/>
   email: enzecheng
-- avatar: MeloFilipe.jpg
-  name: Filipe Melo
-  caste: rotation 
+- avatar: Haley.JPG
+  name: Haley Bianchi
+  caste: rotation
   background: >
-      Biophysics Graduate Student</br>
-      BS Biochemistry, UCLA 
-  email: filipe_melo
+    Molecular & Cell Biology Graduate Student
+    BS Molecular, Cellular & Developmental Biology, University of Washington Seattle
+  email: aishahaley
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
@@ -88,13 +81,6 @@
       PhD  Physics, Caltech<br/>
       BS Physics, University of Buenos Aires
   email: hggarcia [at] berkeley [dot] edu
-- avatar: JialingFang.jpg
-  name: Jialing Fang
-  caste: rotation
-  background: >
-      Bioengineering Graduate Student </br>
-      BS Biology, Peking University
-  email: jialing.fang
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
@@ -110,6 +96,13 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
+- avatar: Kensi.jpg
+  name: Kensi Hartman
+  caste: rotation
+  background: >
+    Molecular & Cell Biology Graduate Student
+    BS Molecular & Cell Biology, Western Washington University
+  email: kensington_hartman
 - avatar: Kian.jpg
   name: Kian Naini 
   caste: undergrad
