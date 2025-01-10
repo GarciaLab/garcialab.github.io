@@ -1,6 +1,7 @@
 2024: 
-   - title: >
-      Predictive Modeling of Gene Expression and Localization of DNA Binding Site Using Deep Convolutional Neural Networks: >
+  - title: >
+      Predictive Modeling of Gene Expression and Localization of DNA Binding Site Using Deep Convolutional Neural Networks
+   author: >
       Arman Karshenas , Tom Röschinger , Hernan G. Garcia
     journal: preprint on bioRxiv
     volume: 2024.12.17.629042
