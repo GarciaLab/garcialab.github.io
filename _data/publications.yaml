@@ -1,4 +1,12 @@
 2024: 
+   - title: >
+      Predictive Modeling of Gene Expression and Localization of DNA Binding Site Using Deep Convolutional Neural Networks: >
+      Arman Karshenas , Tom Röschinger , Hernan G. Garcia
+    journal: preprint on bioRxiv
+    volume: 2024.12.17.629042
+    links:
+      DOI: "https://doi.org/10.1101/2024.12.17.629042"
+      PDF full text: "Karshenas2024.pdf"
   - title: >
       Optogenetic dissection of transcriptional repression in a multicellular organism
     author: >
