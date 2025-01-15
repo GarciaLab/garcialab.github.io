@@ -51,10 +51,10 @@ policies: >
   <b>Homework assignments</b><br/>
   Homeworks are due at the beginning of class one week after they are posted.
   <br/>
-  Homeworks should be submitted through <a href="https://www.gradescope.com/courses/700676">Gradescope</a>
+  Homeworks should be submitted through <a href="https://www.gradescope.com/courses/952073">Gradescope</a>
   to the GSIs in PDF form. Any other form of homework submission will not be accepted. No late
   homeworks. Time management is key. Start to work on your homework assignments
-  early and make use of office hours and our availability over <a href="https://piazza.com/class/lr0plqdj7uv5q">Piazza</a>.
+  early and make use of office hours and our availability over <a href="https://piazza.com/class/m5vj95v5qjpop/">Piazza</a>.
   <br/>
   It is important to describe your reasoning. Just writing an equation or
   drawing a plot does not constitute a satisfactory answer to a homework
@@ -408,646 +408,646 @@ syllabus:
   #                Colab Notebook (Discussion I - Yovan)</a></li>
   #             </ul>'
   #     - name: Simple estimates
-  - entry: #3
-    date: 1/28 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
-          <ul>
-            <li>Time evolution in biology.</li>
-            <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
-          </ul>"
-    materials: 
-      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
-        type: external
-        link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
-      - name: "Bacterial growth: Colab Notebook"
-        type: external
-        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
-      - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
-        type: paper
-        link: Neidhardt1999.pdf
-      - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
-        type: paper
-        link: Monod1949.pdf
-    videos:
-      - name: 'Lecture Recording from 1/23'
-        type: external
-        link: https://bcourses.berkeley.edu/courses/1534077/external_tools/90481
-      - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
-        type: external
-        link: https://youtu.be/HvMVPfMD1og
-      - name: 'Bacterial Growth
-              <ul>
-                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
-              </ul>'
-  - entry: #4
-    date: 1/30  Lecture @ 242 Hearst Gym
-    topics: 
-        - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
-          <ul>
-              <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
-          </ul>"
-    materials: 
-      - name: "Bacterial growth (a chat with ChatGPT)"
-        type: external
-        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
-    videos:
-      - name: 'Bacterial Growth
-              <ul>
-                <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
-              </ul>'
-  - entry: #5
-    date: 1/30 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
-          <ul>
-              <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
-          </ul>"
-    materials:
-      - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
-      - name: "Timer Model: Colab Notebook"
-        type: external
-        link: "https://colab.research.google.com/drive/1d7U8o4dOK7AVTZzKH90fPbY2dUYZB-zH?usp=sharing"
-      - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
-        type: paper
-        link: Campos2014.pdf
-      - name: "Suckjoon Jun’s mother machine used to measure and understand the distribution of bacterial cell sizes at birth and at division (Taheiri-Araghi 2015)"
-        type: paper
-        link: TaheriAraghi2015.pdf
-      - name: "Measuring E. coli size over 50,000 generations in the Lenski experiment (Grant 2021)"
-        type: paper
-        link: Grant2021.pdf
-  - entry: #6
-    date: 2/4 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Stuff(t) or the Protocol of Biological Dynamics, Part IV.
-      <ul>
-          <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
-      </ul>"
-        # - "Null Hypotheses in Biology: The Poisson Distribution.
-        #   <ul>
-        #       <li>The Great Probability Distributions of Biology</li>
-        #       <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
-        #       <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
-        #   </ul>"
-    materials: 
-      - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
-      # # - name: "Diffusion: Powerpoint Presentation"
-      # #   type: external
-      # #   link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
-      # - name: >
-      #     On the implications of a Sex Difference in the Reaction Times of
-      #     Sprinters at the Beijing Olympics (Lipps 2011)
-      #   type: paper
-      #   link: Lipps2011.pdf
-      # - name: >
-      #     All-optical electrophysiology in mammalian neurotns using engineered
-      #     microbial rhodopsins (Hochbaum 2014)
-      #   type: paper
-      #   link: Hochbaum2014.pdf
-      # - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
-      #   type: paper
-      #   link: Droz1962.pdf
-      # - name: One at a time, live tracking of NGF axonal transport using quantum dots (Cui 2007)
-      #   type: paper
-      #   link: Cui2007.pdf
-      # - name: "Single-molecule investigations of the stringent response machinery in living bacterial cells (English 2011)"
-      #   type: paper
-      #   link: English2011.pdf
-    # discussion:
-    #   - name: "Measuring bacterial growth using image analysis, Part II."
-    #  - name: Axonal Transport (MOrfini 2011)
-    #    type: paper
-    #    link: Morfini2011.pdf
-    #  - name: >
-    #      Myosin V Walks Hand-Over-Hand: Single Fluorophore IMaging with 1.5-nm
-    #      Localization (Yildiz 2003)
-    #    type: paper
-    #    link: Yildiz2003.pdf
-    #  - name: PBoC Chapter 13
-  - entry: #7
-    date: 2/6 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
-          <ul>
-              <li>The Great Probability Distributions of Biology</li>
-              <li>The constitutive promoter.</li>
-          </ul>"
-    materials:
-      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-      # - name: "Lecture Notes" 
-      #   type: notes
-      #   link: lec07.pdf
-      # - name: "Colab Notebook Random Walk Simulation"
-      #   type: external
-      #   link: "https://drive.google.com/file/d/1FmJzApCCnBe5d13wHNlgZTSU7wsLCwoB/view?usp=sharing"
-      - name: "Groundbreaking measurement of gene expression dynamics in single E. coli cells using the MS2 system (Golding 2005)"
-        type: paper
-        link: Golding2005.pdf
-      - name: "Great smFISH experiment showing that, while some genes follow a Poisson distribution of mRNA molecules, some don't (Zenklusen 2008)"
-        type: paper
-        link: Zenklusen2008.pdf
-      - name: "Predicting transcriptional noise from DNA architecture in simple repression (Jones 2014)"
-        type: paper
-        link: Jones2014.pdf
-      - name: "Examining the distribution of flying bombs hitting London during WWII using the Poisson distribution (Clarke 1946)"
-        type: paper
-        link: Clarke1946.pdf
-      - name: "Induction kinetics of the lac operon as reported by protein activity (Marbach2012)"
-        type: paper
-        link: Marbach2012.pdf
-    #materials: 
-    #  - name:  Diffusion by coin flips (Python Code)
-    #    type: external
-    #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
-  - entry: #8
-    date: 2/11 Lecture @ 242 Hearst Gym # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
-    topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
-          <ul>
-              <li>Chemical master equation of the constitutive promoter.</li>
-          </ul>"
-    materials:
-      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-      - name: "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris (Tabula Muris 2018)"
-        type: paper
-        link: TabulaMuris2018.pdf
-    #  - name: >
-    #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
-    #      target microtubule ends (Helenius2006.pdf)
-    #    type: paper
-    #    link: Helenius2006
-    # materials:
-    #    - name: Pre-Lecture 8 recording
-    #      type: external
-    #      link: "https://www.dropbox.com/s/hwtbvidouam1e2o/MCB137-237-Lecture08.mp4?dl=0"
-    #    - name: Lecture Notes
-    #      type: notes
-    #      link: lec08.pdf
-    #    - name: Colab Notebook Diffusion by Master Equation
-    #      type: external
-    #      link: "https://colab.research.google.com/drive/1qcO_laLpgMeZdW06bFe1SzSZF3Z_h4IM?usp=sharing"
-    discussion:
-      - name: 'Constitutive gene expression by master equation
-              <ul>
-                 <li><a href="https://colab.research.google.com/drive/1q4FrDIKP_Kf5Kx_LsL8GFdHEEdnFOUD5?usp=sharing">
-                 Colab Notebook</a></li>
-              </ul>'
-  - entry: #9
-    date: 2/13 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part III.
-          <ul>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
-              <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
-          </ul>"
-    # materials:
-      # - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
-      #   type: external
-      #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-  - entry: #10
-    date: 2/18 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Null Hypotheses in Biology: The Exponential Distribution.
-          <ul>
-              <li>Waiting times for photobelaching and ion channel dynamics.</li>
-          </ul>"
-    materials:
-        - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
-          type: external
-          link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-        - name: Measurement of distribution of RNAP molecules along a ribosomal gene using electron microscopy (Voulgaris 1999).
-          type: paper
-          link: Voulgaris1999.pdf
-        - name: Modeling the waiting time distribution between transcriptional initiation events (Choubey 2018).
-          type: paper
-          link: Choubey2018.pdf
-
-  #      - name: Colab Notebook Mean Dynamics of the Constitutive Promoter
-  #        type: external
-  #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
-  - entry: #11
-    date: 2/20 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
-          <ul>
-              <li>Diffusion and axonal transport.</li>
-          </ul>"
-    materials:
-        - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
-          type: external
-          link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
-    videos:
-      - name: 'Introduction to Diffusion'
-        type: external
-        link: "https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
-      - name: 'Measuring diffusion by tracking single molecules'
-        type: external
-        link: "https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
-  #   #discussion:
-  #   #  - name: Diffusion by master equations, Part I (Python Code)
-  #   #    type: external
-  #   #    link: "https://colab.research.google.com/drive/1gdm53PuUoGZRKa_Anx_bqxzlYOyP0Shh"
-  #   discussion:
-      # - name: 'Constitutive gene expression by master equation, Part I
-      #         <ul>
-      #            <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
-      #            Colab Notebook (Discussion I - Yovan)</a></li>
-      #            <li><a href="https://colab.research.google.com/drive/1FqWMigWESg7lUIyXR5PnU04d8P6xs-Dp?usp=sharing">
-      #            Colab Notebook (Discussion I - Yasemin)</a></li>
-      #         </ul>'
-  - entry: #12
-    date: 2/25 Lecture @ <a href="https://berkeley.zoom.us/j/94775122834">Zoom</a>
-    topics:
-        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part II.
-          <ul>
-              <li>Diffusion by coin flips.</li>
-          </ul>"
-    materials:
-      - name: "Lecture Notes: Diffusion by coin flips"
-        type: notes
-        link: lec12_Diffusion.pdf
-      - name: "Diffusion by Coin Flips: Colab Notebook"
-        type: external
-        link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
-    videos:
-      - name: 'Diffusion by Coin Flips'
-        type: external
-        link: "https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
-       # - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
-      #    type: external
-       #   link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-  #   topics: > 
-  #     Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
-  #   materials:
-  #     - name: "Regulatory Biology and The Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation" 
+  # - entry: #3
+  #   date: 1/28 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
+  #         <ul>
+  #           <li>Time evolution in biology.</li>
+  #           <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
   #       type: external
-  #       link: https://docs.google.com/presentation/d/1YC0WzNkhilGLF6qEB4DkK1n0df1FTeb1eN16t9vWEOk/edit?usp=sharing
-  #     - name: "A first exposure to statistical mechanics for life scientists: applications to binding (Garcia 2015)"
+  #       link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+  #     - name: "Bacterial growth: Colab Notebook"
+  #       type: external
+  #       link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+  #     - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
   #       type: paper
-  #       link: Garcia2007b.pdf
-  - entry: #13
-    date: 2/27 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part III.
-          <ul>
-              <li>Solving diffusion using chemical master equations.</li>
-              <li>FRAP: Measuring diffusion using photobleaching</li>
-              <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
-          </ul>"
-    videos:
-      - name: 'Diffusion by Chemical Master Equation'
-        type: external
-        link: "https://www.youtube.com/watch?v=7FIM0fzBtpE&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
-    materials:
-       - name: "Diffusion by Chemical Master Equation and FRAP: Colab Notebook"
-         type: external
-         link: "https://drive.google.com/file/d/1UXwZ319O_NiLKidnlMuM8S8Je8MF92ro/view?usp=sharing"
+  #       link: Neidhardt1999.pdf
+  #     - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
+  #       type: paper
+  #       link: Monod1949.pdf
+  #   videos:
+  #     - name: 'Lecture Recording from 1/23'
+  #       type: external
+  #       link: https://bcourses.berkeley.edu/courses/1534077/external_tools/90481
+  #     - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
+  #       type: external
+  #       link: https://youtu.be/HvMVPfMD1og
+  #     - name: 'Bacterial Growth
+  #             <ul>
+  #               <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
+  #             </ul>'
+  # - entry: #4
+  #   date: 1/30  Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
+  #         <ul>
+  #             <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Bacterial growth (a chat with ChatGPT)"
+  #       type: external
+  #       link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+  #   videos:
+  #     - name: 'Bacterial Growth
+  #             <ul>
+  #               <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
+  #             </ul>'
+  # - entry: #5
+  #   date: 1/30 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
+  #         <ul>
+  #             <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
+  #         </ul>"
   #   materials:
-  #      - name: "Pre-Lecture 12 recording: Simple Repression"
+  #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
+  #     - name: "Timer Model: Colab Notebook"
+  #       type: external
+  #       link: "https://colab.research.google.com/drive/1d7U8o4dOK7AVTZzKH90fPbY2dUYZB-zH?usp=sharing"
+  #     - name: "A constant size extention drives bacterial cell size homeostasis (Campos 2014)"
+  #       type: paper
+  #       link: Campos2014.pdf
+  #     - name: "Suckjoon Jun’s mother machine used to measure and understand the distribution of bacterial cell sizes at birth and at division (Taheiri-Araghi 2015)"
+  #       type: paper
+  #       link: TaheriAraghi2015.pdf
+  #     - name: "Measuring E. coli size over 50,000 generations in the Lenski experiment (Grant 2021)"
+  #       type: paper
+  #       link: Grant2021.pdf
+  # - entry: #6
+  #   date: 2/4 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part IV.
+  #     <ul>
+  #         <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
+  #     </ul>"
+  #       # - "Null Hypotheses in Biology: The Poisson Distribution.
+  #       #   <ul>
+  #       #       <li>The Great Probability Distributions of Biology</li>
+  #       #       <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
+  #       #       <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+  #       #   </ul>"
+  #   materials: 
+  #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
+  #     # # - name: "Diffusion: Powerpoint Presentation"
+  #     # #   type: external
+  #     # #   link: "https://docs.google.com/presentation/d/1cMxVKLF8avXRI4g4xvkEYOFf0CQtBPzyJkbBhdjD1bo/edit?usp=sharing"
+  #     # - name: >
+  #     #     On the implications of a Sex Difference in the Reaction Times of
+  #     #     Sprinters at the Beijing Olympics (Lipps 2011)
+  #     #   type: paper
+  #     #   link: Lipps2011.pdf
+  #     # - name: >
+  #     #     All-optical electrophysiology in mammalian neurotns using engineered
+  #     #     microbial rhodopsins (Hochbaum 2014)
+  #     #   type: paper
+  #     #   link: Hochbaum2014.pdf
+  #     # - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
+  #     #   type: paper
+  #     #   link: Droz1962.pdf
+  #     # - name: One at a time, live tracking of NGF axonal transport using quantum dots (Cui 2007)
+  #     #   type: paper
+  #     #   link: Cui2007.pdf
+  #     # - name: "Single-molecule investigations of the stringent response machinery in living bacterial cells (English 2011)"
+  #     #   type: paper
+  #     #   link: English2011.pdf
+  #   # discussion:
+  #   #   - name: "Measuring bacterial growth using image analysis, Part II."
+  #   #  - name: Axonal Transport (MOrfini 2011)
+  #   #    type: paper
+  #   #    link: Morfini2011.pdf
+  #   #  - name: >
+  #   #      Myosin V Walks Hand-Over-Hand: Single Fluorophore IMaging with 1.5-nm
+  #   #      Localization (Yildiz 2003)
+  #   #    type: paper
+  #   #    link: Yildiz2003.pdf
+  #   #  - name: PBoC Chapter 13
+  # - entry: #7
+  #   date: 2/6 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
+  #         <ul>
+  #             <li>The Great Probability Distributions of Biology</li>
+  #             <li>The constitutive promoter.</li>
+  #         </ul>"
+  #   materials:
+  #     - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  #     # - name: "Lecture Notes" 
+  #     #   type: notes
+  #     #   link: lec07.pdf
+  #     # - name: "Colab Notebook Random Walk Simulation"
+  #     #   type: external
+  #     #   link: "https://drive.google.com/file/d/1FmJzApCCnBe5d13wHNlgZTSU7wsLCwoB/view?usp=sharing"
+  #     - name: "Groundbreaking measurement of gene expression dynamics in single E. coli cells using the MS2 system (Golding 2005)"
+  #       type: paper
+  #       link: Golding2005.pdf
+  #     - name: "Great smFISH experiment showing that, while some genes follow a Poisson distribution of mRNA molecules, some don't (Zenklusen 2008)"
+  #       type: paper
+  #       link: Zenklusen2008.pdf
+  #     - name: "Predicting transcriptional noise from DNA architecture in simple repression (Jones 2014)"
+  #       type: paper
+  #       link: Jones2014.pdf
+  #     - name: "Examining the distribution of flying bombs hitting London during WWII using the Poisson distribution (Clarke 1946)"
+  #       type: paper
+  #       link: Clarke1946.pdf
+  #     - name: "Induction kinetics of the lac operon as reported by protein activity (Marbach2012)"
+  #       type: paper
+  #       link: Marbach2012.pdf
+  #   #materials: 
+  #   #  - name:  Diffusion by coin flips (Python Code)
+  #   #    type: external
+  #   #    link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
+  # - entry: #8
+  #   date: 2/11 Lecture @ 242 Hearst Gym # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
+  #   topics: 
+  #       - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
+  #         <ul>
+  #             <li>Chemical master equation of the constitutive promoter.</li>
+  #         </ul>"
+  #   materials:
+  #     - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  #     - name: "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris (Tabula Muris 2018)"
+  #       type: paper
+  #       link: TabulaMuris2018.pdf
+  #   #  - name: >
+  #   #      The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
+  #   #      target microtubule ends (Helenius2006.pdf)
+  #   #    type: paper
+  #   #    link: Helenius2006
+  #   # materials:
+  #   #    - name: Pre-Lecture 8 recording
+  #   #      type: external
+  #   #      link: "https://www.dropbox.com/s/hwtbvidouam1e2o/MCB137-237-Lecture08.mp4?dl=0"
+  #   #    - name: Lecture Notes
+  #   #      type: notes
+  #   #      link: lec08.pdf
+  #   #    - name: Colab Notebook Diffusion by Master Equation
+  #   #      type: external
+  #   #      link: "https://colab.research.google.com/drive/1qcO_laLpgMeZdW06bFe1SzSZF3Z_h4IM?usp=sharing"
+  #   discussion:
+  #     - name: 'Constitutive gene expression by master equation
+  #             <ul>
+  #                <li><a href="https://colab.research.google.com/drive/1q4FrDIKP_Kf5Kx_LsL8GFdHEEdnFOUD5?usp=sharing">
+  #                Colab Notebook</a></li>
+  #             </ul>'
+  # - entry: #9
+  #   date: 2/13 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Null Hypotheses in Biology: The Poisson Distribution, Part III.
+  #         <ul>
+  #             <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+  #             <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+  #         </ul>"
+  #   # materials:
+  #     # - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+  #     #   type: external
+  #     #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  # - entry: #10
+  #   date: 2/18 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Null Hypotheses in Biology: The Exponential Distribution.
+  #         <ul>
+  #             <li>Waiting times for photobelaching and ion channel dynamics.</li>
+  #         </ul>"
+  #   materials:
+  #       - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
+  #         type: external
+  #         link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  #       - name: Measurement of distribution of RNAP molecules along a ribosomal gene using electron microscopy (Voulgaris 1999).
+  #         type: paper
+  #         link: Voulgaris1999.pdf
+  #       - name: Modeling the waiting time distribution between transcriptional initiation events (Choubey 2018).
+  #         type: paper
+  #         link: Choubey2018.pdf
+
+  # #      - name: Colab Notebook Mean Dynamics of the Constitutive Promoter
+  # #        type: external
+  # #        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
+  # - entry: #11
+  #   date: 2/20 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
+  #         <ul>
+  #             <li>Diffusion and axonal transport.</li>
+  #         </ul>"
+  #   materials:
+  #       - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
+  #         type: external
+  #         link: "https://docs.google.com/file/d/1wKELJpA8-BIxxTl6UZyEduP2OzZBxvv7/edit?usp=docslist_api&filetype=mspresentation"
+  #   videos:
+  #     - name: 'Introduction to Diffusion'
+  #       type: external
+  #       link: "https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+  #     - name: 'Measuring diffusion by tracking single molecules'
+  #       type: external
+  #       link: "https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+  # #   #discussion:
+  # #   #  - name: Diffusion by master equations, Part I (Python Code)
+  # #   #    type: external
+  # #   #    link: "https://colab.research.google.com/drive/1gdm53PuUoGZRKa_Anx_bqxzlYOyP0Shh"
+  # #   discussion:
+  #     # - name: 'Constitutive gene expression by master equation, Part I
+  #     #         <ul>
+  #     #            <li><a href="https://colab.research.google.com/drive/19lrMZpPey94byd1sXAHxMOIV3qH-1t-Y?usp=sharing">
+  #     #            Colab Notebook (Discussion I - Yovan)</a></li>
+  #     #            <li><a href="https://colab.research.google.com/drive/1FqWMigWESg7lUIyXR5PnU04d8P6xs-Dp?usp=sharing">
+  #     #            Colab Notebook (Discussion I - Yasemin)</a></li>
+  #     #         </ul>'
+  # - entry: #12
+  #   date: 2/25 Lecture @ <a href="https://berkeley.zoom.us/j/94775122834">Zoom</a>
+  #   topics:
+  #       - "Diffusion as Biology's Null Hypothesis for Dynamics, Part II.
+  #         <ul>
+  #             <li>Diffusion by coin flips.</li>
+  #         </ul>"
+  #   materials:
+  #     - name: "Lecture Notes: Diffusion by coin flips"
+  #       type: notes
+  #       link: lec12_Diffusion.pdf
+  #     - name: "Diffusion by Coin Flips: Colab Notebook"
+  #       type: external
+  #       link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
+  #   videos:
+  #     - name: 'Diffusion by Coin Flips'
+  #       type: external
+  #       link: "https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+  #      # - name: "Null Hypotheses and the Great Probability Distributions, The Exponential Distribution: Powerpoint Presentation"
+  #     #    type: external
+  #      #   link: "https://docs.google.com/presentation/d/1Pyb5W2NC47HfslMr4GPE7YWt_2LOKZ2u/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  # #   topics: > 
+  # #     Regulatory Biology and Statistical Mechanics: The Constitutive Promoter Revisited
+  # #   materials:
+  # #     - name: "Regulatory Biology and The Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation" 
+  # #       type: external
+  # #       link: https://docs.google.com/presentation/d/1YC0WzNkhilGLF6qEB4DkK1n0df1FTeb1eN16t9vWEOk/edit?usp=sharing
+  # #     - name: "A first exposure to statistical mechanics for life scientists: applications to binding (Garcia 2015)"
+  # #       type: paper
+  # #       link: Garcia2007b.pdf
+  # - entry: #13
+  #   date: 2/27 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Diffusion as Biology's Null Hypothesis for Dynamics, Part III.
+  #         <ul>
+  #             <li>Solving diffusion using chemical master equations.</li>
+  #             <li>FRAP: Measuring diffusion using photobleaching</li>
+  #             <li>A universal diffusion speed limit for enzyme catalysis and other reactions</li>
+  #         </ul>"
+  #   videos:
+  #     - name: 'Diffusion by Chemical Master Equation'
+  #       type: external
+  #       link: "https://www.youtube.com/watch?v=7FIM0fzBtpE&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley"
+  #   materials:
+  #      - name: "Diffusion by Chemical Master Equation and FRAP: Colab Notebook"
   #        type: external
-  #        link: "https://www.dropbox.com/s/95y8yai5a2w09vm/2022-02-23-SimpleRepression.mp4?dl=0"
-  #      - name: "Lecture Notes: Simple Repression"
-  #        type: notes
-  #        link: lec12.pdf
-  #      - name: "Quantitative dissection of the simple repression input-output function"
-  #        type: paper
-  #        link: Garcia2011c.pdf
-  #      - name: The transcription factor titration effect dictates level of gene expression
-  #        type: paper
-  #        link: Brewster2014.pdf
-    discussion:
-       - name: 'FRAP: Measuring diffusion using photobleaching
-              <ul>
-                 <li><a href="https://colab.research.google.com/drive/1P3dvewKtUqBRu_x1bQI6pCIjn879AKbe?usp=sharing">
-                 Colab Notebook</a></li>
-              </ul>'
-  - entry: #14
-    date: 3/4 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part IV.
-          <ul>
-              <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
-          </ul>"
-    # materials:
-    #    - name: "Engineering Maxwell's demon"
-    #      type: paper
-    #      link: Lu2014.pdf
-    #    - name: "Pre-Lecture 13 recording: Entropy Maximization and Chemical Potential"
-    #      type: external
-    #      link: "https://www.dropbox.com/s/95y8yai5a2w09vm/2022-02-23-SimpleRepression.mp4?dl=0"
-    #    - name: "Lecture Notes:  Entropy Maximization and Chemical Potential"
-    #      type: notes
-    #      link: lec13.pdf
-    #    - name: "Lecture 13 slides"
-    #      type: external
-    #      link: "https://docs.google.com/presentation/d/1xka1O6IwQ75J65v3B1hLMW3Ap1GbsfvbuO-gWg39UNM/edit?usp=sharing"
-    # videos:
-    #    - name: Defiance is the Secret of Life
-    #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
-  - entry: #15
-    date: 3/6 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Phase Transitions in Biology, Part I.
-          <ul>
-              <li>Entropy maximization</li>
-          </ul>"
-    # discussion:
-    #    - name: 'Expression under the LacI repressor, Part II.
-    #           <ul>
-    #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
-    #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
-    #           </ul>'
-    materials: 
-      - name: "Phase Transitions in Biology: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-  - entry: #16
-    date: 3/11 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Phase Transitions in Biology, Part II.
-          <ul>
-              <li>Free Energy Minimization.</li>
-              <li>Drawing Phase Diagrams.</li>
-          </ul>"
-    materials: 
-      - name: "Phase Transitions in Biology: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-  - entry: #17
-    date: 3/13 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Phase Transitions in Biology, Part III.
-          <ul>
-              <li>A dynamical systems view of phase separation</li>
-              <li>Scaling of nucleolar size</li>
-          </ul>"
-    materials: 
-      - name: "Phase Separation and Scaling in Biology: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1Qp0YHRZqgIFIxhHZzZdZz4xB1GSTtr6_/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-      - name: "Weber2015 data: fixed number"
-        type: external
-        link: "https://drive.google.com/file/d/1bvggk199c2Q5-RadhV4UlQWfLQjMAzKn/view?usp=sharing"
-      - name: "Weber2015 data: fixed concentration"
-        type: external
-        link: "https://drive.google.com/file/d/19zwwCtkoE0ZmaUCYQhCoCJq8-ox4_U_s/view?usp=sharing"
-    # materials:
-    #    - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
-    #      type: paper
-    #      link: Zuckerman2020.pdf
-    #    - name: "General Principles of Secondary Active Transporter Function (Beckstein 2022)"
-    #      type: paper
-    #      link: Beckstein2022.pdf
-    # #topics: >
-    # #  Membraneless organelles and phase transitions in biology, Part III: Free
-    # #  energy minimization and the emergence of phase separation
-    # #materials:
-    # #  - name: >
-    # #      Quantifying <i>E. coli</i> proteome and transcriptome with
-    # #      Single-Molecule Sensitivity in Single Cells (Taniguchi 2010)
-    # #    type: paper
-    # #    link: Taniguchi2010.pdf
-    # #  - name: Maternal origins of Developmental Reproducibility (Petkova2004.pdf)
-    # #    type: paper
-    # #    link: Petkova2004.pdf
-    # discussion:
-    #    - name: 'Expression under the LacI repressor, Part III.
-    #           <ul>
-    #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
-    #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
-    #           </ul>'
-    # #  - name: mRNA distributions by chemical master rerquations, part II
-    # #  - name: Plotting hte free energy of a phase-separated system (Python Code)
-    # #    type: external
-    # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
-  - entry: #18
-    date: 3/18 Lecture @ 242 Hearst Gym
-    topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics, Part I.
-          <ul>
-              <li>The ubiquitous nature of binding problems in biology</li>
-              <li>Regulatory biology: the constitutive promoter revisited</li>
-          </ul>"
-    materials: 
-      - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/16_69PbyGcY-hBxS6dtjJoEwo6sYGvbBt/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-    # materials:
-    #   - name: "Lecture Notes" 
-    #     type: notes
-    #     link: lec17.pdf
-  - entry: #19
-    date: 3/20 Lecture @ 242 Hearst Gym
-    topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics.
-          <ul>
-              <li>Regulatory biology: simple repression</li>
-          </ul>"
-    materials: 
-      - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/16_69PbyGcY-hBxS6dtjJoEwo6sYGvbBt/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-    # materials:
-    #   - name: "Lecture Notes" 
-    #     type: notes
-    #     link: lec17.pdf
-    # #materials:
-    # #  - name:  Plotting the Promoter Fraction Bound (Python Code)
-    # #    type: external
-    # #    link: "https://colab.research.google.com/drive/1Aa63tStc2PDFmYAGpmdpRNKucGqW56rU?usp=sharing"
-    # #  - name: Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)
-    # #    type: paper
-    # #    link: Brangwynne2009.pdf
-    # materials:
-    #   - name: "Lecture Notes"
-    #     type: notes
-    #     link: lec18.pdf
-    #   - name: "Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity (Hopfield 1974)"
-    #     type: paper
-    #     link: Hopfield1974.pdf
-    #   - name: "Kinetic amplification of enzyme discrimination (Ninio 1974)"
-    #     type: paper
-    #     link: Ninio1974.pdf
-    # discussion:
-    #    - name: 'Expression under the LacI repressor, Part IV.
-    #           <ul>
-    #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
-    #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
-    #           </ul>'
-  - entry: #20
-    date: 4/1 Lecture @ 242 Hearst Gym
-    topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics.
-          <ul>
-              <li>Simple Activation</li>
-              <li>Cooperativity</li>
-              <li>Logic Gates</li>
-          </ul>"
-    materials:
-      - name: "Buchler 2003: Building transcriptional logic gates using statistical mechanics"
-        type: paper
-        link: Buchler2003a.pdf
-    discussion:
-       - name: 'LacI Repressor Analysis, Part I (Python Code)
-                <ul>
-                  <li><a href="https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing">
-                  Colab Notebook</a></li>
-                </ul>'
-  # - entry:
-  #   date: 3/21 Lecture @ 242 Hearst Gym
-    # topics:
-    #   - "Guest Lecturer: Rob Phillips"
-    #   - "Molecular Switches:
-    #     <ul>
-    #         <li>Protein-protein cooperativity</li>
-    #         <li>The MWC model</li>
-    #     </ul>"
-    # materials:
-    #   - name: "Lecture Notes"
-    #     type: notes
-    #     link: lec20.pdf
-    # discussion:
-    #    - name: 'A simple model of cytoskeletal growth, Part I'
-    # #  - name: LacI Repressor Analysis, Part I (Python Code)
-    # #    type: external
-    # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
+  #        link: "https://drive.google.com/file/d/1UXwZ319O_NiLKidnlMuM8S8Je8MF92ro/view?usp=sharing"
+  # #   materials:
+  # #      - name: "Pre-Lecture 12 recording: Simple Repression"
+  # #        type: external
+  # #        link: "https://www.dropbox.com/s/95y8yai5a2w09vm/2022-02-23-SimpleRepression.mp4?dl=0"
+  # #      - name: "Lecture Notes: Simple Repression"
+  # #        type: notes
+  # #        link: lec12.pdf
+  # #      - name: "Quantitative dissection of the simple repression input-output function"
+  # #        type: paper
+  # #        link: Garcia2011c.pdf
+  # #      - name: The transcription factor titration effect dictates level of gene expression
+  # #        type: paper
+  # #        link: Brewster2014.pdf
+  #   discussion:
+  #      - name: 'FRAP: Measuring diffusion using photobleaching
+  #             <ul>
+  #                <li><a href="https://colab.research.google.com/drive/1P3dvewKtUqBRu_x1bQI6pCIjn879AKbe?usp=sharing">
+  #                Colab Notebook</a></li>
+  #             </ul>'
+  # - entry: #14
+  #   date: 3/4 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Diffusion as Biology's Null Hypothesis for Dynamics, Part IV.
+  #         <ul>
+  #             <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
+  #         </ul>"
+  #   # materials:
+  #   #    - name: "Engineering Maxwell's demon"
+  #   #      type: paper
+  #   #      link: Lu2014.pdf
+  #   #    - name: "Pre-Lecture 13 recording: Entropy Maximization and Chemical Potential"
+  #   #      type: external
+  #   #      link: "https://www.dropbox.com/s/95y8yai5a2w09vm/2022-02-23-SimpleRepression.mp4?dl=0"
+  #   #    - name: "Lecture Notes:  Entropy Maximization and Chemical Potential"
+  #   #      type: notes
+  #   #      link: lec13.pdf
+  #   #    - name: "Lecture 13 slides"
+  #   #      type: external
+  #   #      link: "https://docs.google.com/presentation/d/1xka1O6IwQ75J65v3B1hLMW3Ap1GbsfvbuO-gWg39UNM/edit?usp=sharing"
+  #   # videos:
+  #   #    - name: Defiance is the Secret of Life
+  #   #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
+  # - entry: #15
+  #   date: 3/6 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Phase Transitions in Biology, Part I.
+  #         <ul>
+  #             <li>Entropy maximization</li>
+  #         </ul>"
+  #   # discussion:
+  #   #    - name: 'Expression under the LacI repressor, Part II.
+  #   #           <ul>
+  #   #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
+  #   #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
+  #   #           </ul>'
+  #   materials: 
+  #     - name: "Phase Transitions in Biology: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  # - entry: #16
+  #   date: 3/11 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Phase Transitions in Biology, Part II.
+  #         <ul>
+  #             <li>Free Energy Minimization.</li>
+  #             <li>Drawing Phase Diagrams.</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Phase Transitions in Biology: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  # - entry: #17
+  #   date: 3/13 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Phase Transitions in Biology, Part III.
+  #         <ul>
+  #             <li>A dynamical systems view of phase separation</li>
+  #             <li>Scaling of nucleolar size</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Phase Separation and Scaling in Biology: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1Qp0YHRZqgIFIxhHZzZdZz4xB1GSTtr6_/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  #     - name: "Weber2015 data: fixed number"
+  #       type: external
+  #       link: "https://drive.google.com/file/d/1bvggk199c2Q5-RadhV4UlQWfLQjMAzKn/view?usp=sharing"
+  #     - name: "Weber2015 data: fixed concentration"
+  #       type: external
+  #       link: "https://drive.google.com/file/d/19zwwCtkoE0ZmaUCYQhCoCJq8-ox4_U_s/view?usp=sharing"
+  #   # materials:
+  #   #    - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
+  #   #      type: paper
+  #   #      link: Zuckerman2020.pdf
+  #   #    - name: "General Principles of Secondary Active Transporter Function (Beckstein 2022)"
+  #   #      type: paper
+  #   #      link: Beckstein2022.pdf
+  #   # #topics: >
+  #   # #  Membraneless organelles and phase transitions in biology, Part III: Free
+  #   # #  energy minimization and the emergence of phase separation
+  #   # #materials:
+  #   # #  - name: >
+  #   # #      Quantifying <i>E. coli</i> proteome and transcriptome with
+  #   # #      Single-Molecule Sensitivity in Single Cells (Taniguchi 2010)
+  #   # #    type: paper
+  #   # #    link: Taniguchi2010.pdf
+  #   # #  - name: Maternal origins of Developmental Reproducibility (Petkova2004.pdf)
+  #   # #    type: paper
+  #   # #    link: Petkova2004.pdf
+  #   # discussion:
+  #   #    - name: 'Expression under the LacI repressor, Part III.
+  #   #           <ul>
+  #   #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
+  #   #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
+  #   #           </ul>'
+  #   # #  - name: mRNA distributions by chemical master rerquations, part II
+  #   # #  - name: Plotting hte free energy of a phase-separated system (Python Code)
+  #   # #    type: external
+  #   # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
+  # - entry: #18
+  #   date: 3/18 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "The Boltzmann Distribution and Statistical Mechanics, Part I.
+  #         <ul>
+  #             <li>The ubiquitous nature of binding problems in biology</li>
+  #             <li>Regulatory biology: the constitutive promoter revisited</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/16_69PbyGcY-hBxS6dtjJoEwo6sYGvbBt/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  #   # materials:
+  #   #   - name: "Lecture Notes" 
+  #   #     type: notes
+  #   #     link: lec17.pdf
+  # - entry: #19
+  #   date: 3/20 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "The Boltzmann Distribution and Statistical Mechanics.
+  #         <ul>
+  #             <li>Regulatory biology: simple repression</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/16_69PbyGcY-hBxS6dtjJoEwo6sYGvbBt/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+  #   # materials:
+  #   #   - name: "Lecture Notes" 
+  #   #     type: notes
+  #   #     link: lec17.pdf
+  #   # #materials:
+  #   # #  - name:  Plotting the Promoter Fraction Bound (Python Code)
+  #   # #    type: external
+  #   # #    link: "https://colab.research.google.com/drive/1Aa63tStc2PDFmYAGpmdpRNKucGqW56rU?usp=sharing"
+  #   # #  - name: Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)
+  #   # #    type: paper
+  #   # #    link: Brangwynne2009.pdf
+  #   # materials:
+  #   #   - name: "Lecture Notes"
+  #   #     type: notes
+  #   #     link: lec18.pdf
+  #   #   - name: "Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity (Hopfield 1974)"
+  #   #     type: paper
+  #   #     link: Hopfield1974.pdf
+  #   #   - name: "Kinetic amplification of enzyme discrimination (Ninio 1974)"
+  #   #     type: paper
+  #   #     link: Ninio1974.pdf
+  #   # discussion:
+  #   #    - name: 'Expression under the LacI repressor, Part IV.
+  #   #           <ul>
+  #   #              <li><a href="https://drive.google.com/drive/folders/1tK601cW-qWEpLSbH_1Mtgy7GFQ0VLmT7?usp=sharing">
+  #   #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
+  #   #           </ul>'
+  # - entry: #20
+  #   date: 4/1 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "The Boltzmann Distribution and Statistical Mechanics.
+  #         <ul>
+  #             <li>Simple Activation</li>
+  #             <li>Cooperativity</li>
+  #             <li>Logic Gates</li>
+  #         </ul>"
+  #   materials:
+  #     - name: "Buchler 2003: Building transcriptional logic gates using statistical mechanics"
+  #       type: paper
+  #       link: Buchler2003a.pdf
+  #   discussion:
+  #      - name: 'LacI Repressor Analysis, Part I (Python Code)
+  #               <ul>
+  #                 <li><a href="https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing">
+  #                 Colab Notebook</a></li>
+  #               </ul>'
+  # # - entry:
+  # #   date: 3/21 Lecture @ 242 Hearst Gym
+  #   # topics:
+  #   #   - "Guest Lecturer: Rob Phillips"
+  #   #   - "Molecular Switches:
+  #   #     <ul>
+  #   #         <li>Protein-protein cooperativity</li>
+  #   #         <li>The MWC model</li>
+  #   #     </ul>"
+  #   # materials:
+  #   #   - name: "Lecture Notes"
+  #   #     type: notes
+  #   #     link: lec20.pdf
+  #   # discussion:
+  #   #    - name: 'A simple model of cytoskeletal growth, Part I'
+  #   # #  - name: LacI Repressor Analysis, Part I (Python Code)
+  #   # #    type: external
+  #   # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
-  - entry: #21
-    date: 4/3 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
-    topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part I.
-          <ul>
-              <li>Energy estimates in biology.</li>
-              <li>Biological batteries</li>
-          </ul>"
-    materials:
-      - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
-        type: external
-        link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-    #   - name: "Lecture Notes" 
-    #     type: notes
-    #     link: lec21_3.pdf
-    #   #- name: "Lecture Notes I" 
-    #   #  type: notes
-    #   #  link: lec21_1.pdf
-    #   #- name: "Lecture Notes II" 
-    #   #  type: notes      
-    #   #link: lec21_2.pdf
-  - entry: #22
-    date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
-    topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part II.
-          <ul>
-              <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
-          </ul>"
-    # discussion:
-    #  # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
-    #  #   type: external
-    #  #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
-    materials:
-      - name: "Lecture Notes" 
-        type: notes
-        link: lec22_2024.pdf
-      - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
-        type: external
-        link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-    discussion:
-    #    - name: 'A simple model of cytoskeletal growth, Part II
-    #           <ul>
-    #              <li><a href="https://colab.research.google.com/drive/1wlANr_hYz-uXHxWO1MW5LxGT85zXQMa1?usp=sharing">
-    #              Colab Notebook (Discussion I - Yovan)</a></li>
-    #           </ul>'
-  - entry: #23
-    date: 4/15 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part III.
-          <ul>
-              <li>Charging up the ATP battery.</li>
-              <li>Using the ATP battery</li>
-          </ul>"
-    materials:
-      - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
-        type: external
-        link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-  - entry: #24
-    date: 4/17 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part IV.
-          <ul>
-              <li>Regulatory defiance.</li>
-          </ul>"
-    # #discussion:
-    # #  - name: Gneetic Oscillators (Python Code) 
-    # #    type: external
-    # #    link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
-    materials:
-      - name: "Regulatory Defiance: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-  - entry: #25
-    date: 4/22 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Biological Networks.
-          <ul>
-              <li>A life-or-death decision: the Lambda switch.</li>
-              <li>Epidemiology and the SIR model</li>
-          </ul>"
-    # videos:
-    #   - name: A Stochastic View of Biology
-    #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
-    materials:
-      - name: "Biological Networks: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-  - entry: #26
-    date: 4/15 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Biological Networks.
-          <ul>
-              <li>A life-or-death decision: the Lambda switch.</li>
-              <li>Epidemiology and the SIR model</li>
-          </ul>"
-    materials: 
-      - name: "Biological Networks: Powerpoint Presentation"
-        type: external
-        link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-    # #  - name: SIR Model (Python Code)
-    # #    type: external
-    # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
-  - entry: #27
-    date: 4/24 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Physical Biology of the Cell"
-    materials:
-      - name: "Course Evaluation"
-        type: external
-        link: "https://course-evaluations.berkeley.edu/Berkeley/"
-  - entry: #28
-    date: 4/25 Lecture @ 242 Hearst Gym
-    topics:
-      - "Study Hall - No Lecture"
-  - entry: #29 
-    date: 4/29 Lecture @ 242 Hearst Gym
-    topics:
-        - "TBD"
-  - entry: #30
-    date: 5/1 Lecture @ 242 Hearst Gym
-    topics:
-      - "TBD"
-  - entry: #31
-    date: 5/6 Lecture @ 242 Hearst Gym
-    topics: 
-      - "TBD"
-  - entry: #32
-    date: 5/8 Lecture @ 242 Hearst Gym
-    topics:
-      - "TBD"
+  # - entry: #21
+  #   date: 4/3 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
+  #   topics: 
+  #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part I.
+  #         <ul>
+  #             <li>Energy estimates in biology.</li>
+  #             <li>Biological batteries</li>
+  #         </ul>"
+  #   materials:
+  #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  #   #   - name: "Lecture Notes" 
+  #   #     type: notes
+  #   #     link: lec21_3.pdf
+  #   #   #- name: "Lecture Notes I" 
+  #   #   #  type: notes
+  #   #   #  link: lec21_1.pdf
+  #   #   #- name: "Lecture Notes II" 
+  #   #   #  type: notes      
+  #   #   #link: lec21_2.pdf
+  # - entry: #22
+  #   date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
+  #   topics: 
+  #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part II.
+  #         <ul>
+  #             <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
+  #         </ul>"
+  #   # discussion:
+  #   #  # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
+  #   #  #   type: external
+  #   #  #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
+  #   materials:
+  #     - name: "Lecture Notes" 
+  #       type: notes
+  #       link: lec22_2024.pdf
+  #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  #   discussion:
+  #   #    - name: 'A simple model of cytoskeletal growth, Part II
+  #   #           <ul>
+  #   #              <li><a href="https://colab.research.google.com/drive/1wlANr_hYz-uXHxWO1MW5LxGT85zXQMa1?usp=sharing">
+  #   #              Colab Notebook (Discussion I - Yovan)</a></li>
+  #   #           </ul>'
+  # - entry: #23
+  #   date: 4/15 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part III.
+  #         <ul>
+  #             <li>Charging up the ATP battery.</li>
+  #             <li>Using the ATP battery</li>
+  #         </ul>"
+  #   materials:
+  #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  # - entry: #24
+  #   date: 4/17 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part IV.
+  #         <ul>
+  #             <li>Regulatory defiance.</li>
+  #         </ul>"
+  #   # #discussion:
+  #   # #  - name: Gneetic Oscillators (Python Code) 
+  #   # #    type: external
+  #   # #    link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
+  #   materials:
+  #     - name: "Regulatory Defiance: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  # - entry: #25
+  #   date: 4/22 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Biological Networks.
+  #         <ul>
+  #             <li>A life-or-death decision: the Lambda switch.</li>
+  #             <li>Epidemiology and the SIR model</li>
+  #         </ul>"
+  #   # videos:
+  #   #   - name: A Stochastic View of Biology
+  #   #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
+  #   materials:
+  #     - name: "Biological Networks: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  # - entry: #26
+  #   date: 4/15 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Biological Networks.
+  #         <ul>
+  #             <li>A life-or-death decision: the Lambda switch.</li>
+  #             <li>Epidemiology and the SIR model</li>
+  #         </ul>"
+  #   materials: 
+  #     - name: "Biological Networks: Powerpoint Presentation"
+  #       type: external
+  #       link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+  #   # #  - name: SIR Model (Python Code)
+  #   # #    type: external
+  #   # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
+  # - entry: #27
+  #   date: 4/24 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #       - "Physical Biology of the Cell"
+  #   materials:
+  #     - name: "Course Evaluation"
+  #       type: external
+  #       link: "https://course-evaluations.berkeley.edu/Berkeley/"
+  # - entry: #28
+  #   date: 4/25 Lecture @ 242 Hearst Gym
+  #   topics:
+  #     - "Study Hall - No Lecture"
+  # - entry: #29 
+  #   date: 4/29 Lecture @ 242 Hearst Gym
+  #   topics:
+  #       - "TBD"
+  # - entry: #30
+  #   date: 5/1 Lecture @ 242 Hearst Gym
+  #   topics:
+  #     - "TBD"
+  # - entry: #31
+  #   date: 5/6 Lecture @ 242 Hearst Gym
+  #   topics: 
+  #     - "TBD"
+  # - entry: #32
+  #   date: 5/8 Lecture @ 242 Hearst Gym
+  #   topics:
+  #     - "TBD"
