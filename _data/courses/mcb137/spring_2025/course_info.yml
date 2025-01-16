@@ -408,14 +408,15 @@ syllabus:
   #                Colab Notebook (Discussion I - Yovan)</a></li>
   #             </ul>'
   #     - name: Simple estimates
-  # - entry: #3
-  #   date: 1/28 Lecture @ 242 Hearst Gym
-  #   topics: 
-  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
-  #         <ul>
-  #           <li>Time evolution in biology.</li>
-  #           <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
-  #         </ul>"
+  - entry: #3
+    date: 1/28 Lecture @ 242 Hearst Gym
+    topics: 
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
+          <ul>
+            <li>Time evolution in biology.</li>
+            <li>Control of bacterial growth and size.</li>
+            <li>Transcription of the constitutive promoter</li>
+          </ul>"
   #   materials: 
   #     - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
   #       type: external
@@ -440,13 +441,13 @@ syllabus:
   #             <ul>
   #               <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
   #             </ul>'
-  # - entry: #4
-  #   date: 1/30  Lecture @ 242 Hearst Gym
-  #   topics: 
-  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
-  #         <ul>
-  #             <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
-  #         </ul>"
+  - entry: #4
+    date: 1/30  Lecture @ 242 Hearst Gym
+    topics: 
+        - "Stuff(t) or the Protocol of Biological Dynamics, Part II.
+          <ul>
+              <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
+          </ul>"
   #   materials: 
   #     - name: "Bacterial growth (a chat with ChatGPT)"
   #       type: external
@@ -456,13 +457,14 @@ syllabus:
   #             <ul>
   #               <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
   #             </ul>'
-  # - entry: #5
-  #   date: 1/30 Lecture @ 242 Hearst Gym
-  #   topics: 
-  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part III.
-  #         <ul>
-  #             <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
-  #         </ul>"
+  - entry: #5
+    date: 2/4 Lecture @ 242 Hearst Gym
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
+          <ul>
+              <li>The Great Probability Distributions of Biology</li>
+              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+          </ul>"
   #   materials:
   #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
   #       type: external
@@ -479,13 +481,10 @@ syllabus:
   #     - name: "Measuring E. coli size over 50,000 generations in the Lenski experiment (Grant 2021)"
   #       type: paper
   #       link: Grant2021.pdf
-  # - entry: #6
-  #   date: 2/4 Lecture @ 242 Hearst Gym
-  #   topics: 
-  #       - "Stuff(t) or the Protocol of Biological Dynamics, Part IV.
-  #     <ul>
-  #         <li>Bacterial growth dynamics: Mechanisms of bacterial size control.</li>
-  #     </ul>"
+  - entry: #6
+    date: 2/4 Lecture @ 242 Hearst Gym
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part II."
   #       # - "Null Hypotheses in Biology: The Poisson Distribution.
   #       #   <ul>
   #       #       <li>The Great Probability Distributions of Biology</li>
@@ -529,14 +528,10 @@ syllabus:
   #   #    type: paper
   #   #    link: Yildiz2003.pdf
   #   #  - name: PBoC Chapter 13
-  # - entry: #7
-  #   date: 2/6 Lecture @ 242 Hearst Gym
-  #   topics: 
-  #       - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
-  #         <ul>
-  #             <li>The Great Probability Distributions of Biology</li>
-  #             <li>The constitutive promoter.</li>
-  #         </ul>"
+  - entry: #7
+    date: 2/6 Lecture @ 242 Hearst Gym
+    topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part III."
   #   materials:
   #     - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
   #       type: external
