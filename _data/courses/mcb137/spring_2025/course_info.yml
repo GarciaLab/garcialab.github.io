@@ -76,7 +76,7 @@ people:
     email: hggarcia@berkeley.edu 
     role: Instructor
     img: hernan.jpg
-    office_hours: Mondays 3:30pm - 4:30pm @ 505 Weill Hall and on <a href="https://berkeley.zoom.us/j/98546643139">Zoom</a>
+    office_hours: Mondays 2:30pm - 3:30pm @ 505 Weill Hall and on <a href="https://berkeley.zoom.us/j/98546643139">Zoom</a>
   - person:
     name: Vinu Harihar
     email: vinayak.harihar@berkeley.edu
@@ -614,7 +614,7 @@ syllabus:
   #     #   type: external
   #     #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   # - entry: #10
-  #   date: 2/18 Lecture @ 242 Hearst Gym
+  #   date: 2/18 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
   #   topics: 
   #       - "Null Hypotheses in Biology: The Exponential Distribution.
   #         <ul>
@@ -943,14 +943,14 @@ syllabus:
   #   #   #  type: notes      
   #   #   #link: lec21_2.pdf
   # - entry: #22
-  #   date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/91848517597">Zoom</a>
+  #   date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
   #   topics: 
   #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part II.
   #         <ul>
   #             <li>Defying diffusion: Paying for positional information using degradation vs. transport</li>
   #         </ul>"
   #   # discussion:
-  #   #  # - name: LacI Rperessor ANalysis, Part 2 (Python Code)
+  #   #  # - name: LacI Rperessor Analysis, Part 2 (Python Code)
   #   #  #   type: external
   #   #  #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   #   materials:
@@ -967,7 +967,7 @@ syllabus:
   #   #              Colab Notebook (Discussion I - Yovan)</a></li>
   #   #           </ul>'
   # - entry: #23
-  #   date: 4/15 Lecture @ 242 Hearst Gym
+  #   date: 4/10 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
   #   topics: 
   #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part III.
   #         <ul>
@@ -979,7 +979,7 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   # - entry: #24
-  #   date: 4/17 Lecture @ 242 Hearst Gym
+  #   date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
   #   topics: 
   #       - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part IV.
   #         <ul>
@@ -994,7 +994,7 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   # - entry: #25
-  #   date: 4/22 Lecture @ 242 Hearst Gym
+  #   date: 4/17 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
   #   topics: 
   #       - "Biological Networks.
   #         <ul>
@@ -1009,7 +1009,7 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   # - entry: #26
-  #   date: 4/15 Lecture @ 242 Hearst Gym
+  #   date: 4/22 Lecture @ 242 Hearst Gym
   #   topics: 
   #       - "Biological Networks.
   #         <ul>
@@ -1032,19 +1032,19 @@ syllabus:
   #       type: external
   #       link: "https://course-evaluations.berkeley.edu/Berkeley/"
   # - entry: #28
-  #   date: 4/25 Lecture @ 242 Hearst Gym
+  #   date: 4/29 Lecture @ 242 Hearst Gym
   #   topics:
   #     - "Study Hall - No Lecture"
   # - entry: #29 
-  #   date: 4/29 Lecture @ 242 Hearst Gym
+  #   date: 5/1 Lecture @ 242 Hearst Gym
   #   topics:
   #       - "TBD"
   # - entry: #30
-  #   date: 5/1 Lecture @ 242 Hearst Gym
+  #   date: 5/6 Lecture @ 242 Hearst Gym
   #   topics:
   #     - "TBD"
   # - entry: #31
-  #   date: 5/6 Lecture @ 242 Hearst Gym
+  #   date: 5/8 Lecture @ 242 Hearst Gym
   #   topics: 
   #     - "TBD"
   # - entry: #32
