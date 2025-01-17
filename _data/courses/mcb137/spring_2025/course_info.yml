@@ -324,13 +324,16 @@ syllabus:
   - entry: #1
     date: 1/21 Lecture @ 242 Hearst Gym. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
     topics:
-      - "A feeling for the numbers in biology."
+      - "A feeling for the numbers in biology, Part I."
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
       - "What sets the scale of X?"
     materials: 
+      - name: "Course Introduction: Powerpoint Presentation" 
+        type: external
+        link: https://docs.google.com/presentation/d/16r9f5-hYPRhXFNcoYtiu883ZvSd0G2ry/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
       - name: "Biology by the Numbers: Powerpoint Presentation" 
         type: external
-        link: https://docs.google.com/presentation/d/1sLp8mZFsu0_SHced-DCcgWm7sKsmwubU/edit#slide=id.p1
+        link: https://docs.google.com/presentation/d/1emZJF76lHaoeqNGbC84dPDPC6VAQhLNP/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
       - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
@@ -352,9 +355,9 @@ syllabus:
 #      - name: The Tragic Matter (Schatz 2003)
 #        type: paper
 #        link: Schatz2003.pdf
-      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
-        type: paper
-        link: Baker1998.pdf
+#      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
+#        type: paper
+#        link: Baker1998.pdf
       - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
         type: paper
         link: Chure2022.pdf       
