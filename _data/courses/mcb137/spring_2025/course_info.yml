@@ -361,12 +361,6 @@ syllabus:
       - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
         type: paper
         link: Chure2022.pdf   
-      - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
-        type: paper
-        link: Stouthamer1973.pdf
-      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
-        type: paper
-        link: Lynch2015.pdf
     videos: 
       - name: 'Physical Biology Exam
               <ul>
@@ -385,9 +379,17 @@ syllabus:
        - "A Feeling for the Numbers in Biology, Part II."
        - "Limits to Bacterial Growth"
     materials:
-
+      - name: "Limits to Bacterial Growth: Powerpoint Presentation" 
+        type: external
+        link: https://docs.google.com/presentation/d/13j3A5FQRv02W9zNe0rephSE0UiYCDlSN/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
+      - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
+        type: paper
+        link: Stouthamer1973.pdf
+      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
     videos: 
-  #   discussion:
+    discussion:
   #     - name: Introduction to GradeScope.
   #     - name: 'Introduction to Python, Colab and making simple plots.
   #             <ul>
