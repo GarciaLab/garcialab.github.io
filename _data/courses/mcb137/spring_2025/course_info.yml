@@ -87,16 +87,16 @@ people:
 Homework: 
   - set:
     title: Homework 1
-    link: MCB137+237-HW1-2024.pdf
-    due: "1/25 at 2:00 PM"
+    link: MCB137+237-HW1-2025.pdf
+    due: "1/28 at 2:00 PM"
     materials:
 #      - name: PBoC3 Chapter 2
 #        type: chapter
 #        link: PBoC3_chap2.pdf
     solutions: 
-     - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
-       type: external
-       link: "https://drive.google.com/file/d/1x3plnG8VIPc53iR1ly10dkoggV6P-sis/view?usp=sharing"
+    #  - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
+    #    type: external
+    #    link: "https://drive.google.com/file/d/1x3plnG8VIPc53iR1ly10dkoggV6P-sis/view?usp=sharing"
 #   - set:
 #     title: Homework 2
 #     link: MCB137+237-HW2-2024.pdf
@@ -352,9 +352,6 @@ syllabus:
 #      - name: The Tragic Matter (Schatz 2003)
 #        type: paper
 #        link: Schatz2003.pdf
-      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
-        type: paper
-        link: Baker1998.pdf
       - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
         type: paper
         link: Chure2022.pdf       
@@ -385,6 +382,15 @@ syllabus:
       - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
         type: paper
         link: Schmidt2016.pdf
+      - name: Single molecule measurements of DNA replication.
+        type: paper
+        link: VanOijen2006.pdf
+      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
+      - name: A more detailed analysis of the fundamental physical limits to bacterial growth.
+        type: paper
+        link: Belliveau2021.pdf
     videos: 
       - name: 'Physical Biology Exam
               <ul>
