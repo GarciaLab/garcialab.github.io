@@ -87,8 +87,8 @@ people:
 Homework: 
   - set:
     title: Homework 1
-#   link: MCB137+237-HW1-2025.pdf
-#   due: "1/28 at 2:00 PM"
+    link: MCB137+237-HW1-2025.pdf
+    due: "1/28 at 2:00 PM"
     materials:
 #      - name: PBoC3 Chapter 2
 #        type: chapter
