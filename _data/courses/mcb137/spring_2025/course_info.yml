@@ -87,8 +87,8 @@ people:
 Homework: 
   - set:
     title: Homework 1
-    link: MCB137+237-HW1-2025.pdf
-    due: "1/28 at 2:00 PM"
+#   link: MCB137+237-HW1-2025.pdf
+#   due: "1/28 at 2:00 PM"
     materials:
 #      - name: PBoC3 Chapter 2
 #        type: chapter
@@ -333,7 +333,7 @@ syllabus:
         link: https://docs.google.com/presentation/d/16r9f5-hYPRhXFNcoYtiu883ZvSd0G2ry/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
       - name: "Biology by the Numbers: Powerpoint Presentation" 
         type: external
-        link: https://docs.google.com/presentation/d/1emZJF76lHaoeqNGbC84dPDPC6VAQhLNP/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
+        link: https://docs.google.com/presentation/d/1nq8ozPd2HVVgjv3rmaom38M04yCC6jnz/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
       - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
