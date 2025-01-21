@@ -394,16 +394,18 @@ syllabus:
       - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
         type: paper
         link: Schmidt2016.pdf
-      - name: Single molecule measurements of DNA replication.
+      - name: Single molecule measurements of DNA replication. (VanOijen2006)
         type: paper
         link: VanOijen2006.pdf
       - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
         type: paper
         link: Baker1998.pdf
-      - name: A more detailed analysis of the fundamental physical limits to bacterial growth.
+      - name: A more detailed analysis of the fundamental physical limits to bacterial growth. (Belliveau2021)
         type: paper
         link: Belliveau2021.pdf
     videos: 
+      - name: 'Carbon transporters in a bacterium (<a href="https://www.youtube.com/watch?v=EuocMDgwP_s&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=6&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/13rgX5evoFpFF1QdE1WGucXYwnsJXIzVx/view?usp=drive_link">Notes</a>)'
+      - name: 'ATP consumption per volume of cytoplasm (<a href="https://www.youtube.com/watch?v=1gx5pnmxSFY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=7&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1Hm33sDSLGUK-qS7c0KT_ET3BGfS623Lg/view?usp=drive_link">Notes</a>)'
     discussion:
   #     - name: Introduction to GradeScope.
   #     - name: 'Introduction to Python, Colab and making simple plots.
