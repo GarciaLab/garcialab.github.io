@@ -85,8 +85,9 @@
   name: Hugo Hamilton
   caste: rotation
   background: >
-    Bioengineering Graduate Student<br/>
-    BS Mathematics and Biology, Columbia University
+      Bioengineering Graduate Student<br/>
+      BS Mathematics and Biology, Columbia University
+  email: hph
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
