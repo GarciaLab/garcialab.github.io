@@ -403,6 +403,9 @@ syllabus:
       - name: A more detailed analysis of the fundamental physical limits to bacterial growth. (Belliveau2021)
         type: paper
         link: Belliveau2021.pdf
+      - name: The bioenergetic costs of a gene. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
     videos: 
       - name: 'Carbon transporters in a bacterium (<a href="https://www.youtube.com/watch?v=EuocMDgwP_s&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=6&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/13rgX5evoFpFF1QdE1WGucXYwnsJXIzVx/view?usp=drive_link">Notes</a>)'
       - name: 'ATP consumption per volume of cytoplasm (<a href="https://www.youtube.com/watch?v=1gx5pnmxSFY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=7&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1Hm33sDSLGUK-qS7c0KT_ET3BGfS623Lg/view?usp=drive_link">Notes</a>)'
