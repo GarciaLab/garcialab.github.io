@@ -377,7 +377,7 @@ syllabus:
     date: 1/23 Lecture @ 242 Hearst Gym
     topics:
        - "A Feeling for the Numbers in Biology, Part II."
-       - "Limits to Bacterial Growth"
+       - "Limits to Bacterial Growth, Part I"
     materials:
       - name: "Limits to Bacterial Growth: Powerpoint Presentation" 
         type: external
@@ -417,6 +417,7 @@ syllabus:
   - entry: #3
     date: 1/28 Lecture @ 242 Hearst Gym
     topics: 
+        - "Limits to Bacterial Growth, Part II"
         - "Stuff(t) or the Protocol of Biological Dynamics, Part I.
           <ul>
             <li>Time evolution in biology.</li>
