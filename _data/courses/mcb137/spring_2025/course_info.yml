@@ -423,10 +423,10 @@ syllabus:
             <li>Control of bacterial growth and size.</li>
             <li>Transcription of the constitutive promoter</li>
           </ul>"
-  #   materials: 
-  #     - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1aRXOHRM4DK7SQUH5kTz0ykX-FMCoMSJT/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+    materials: 
+      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
+        type: external
+        link: "https://docs.google.com/presentation/d/1Y94VRfDbHpwafCfNw6VG_u4gXjj48QR7/edit?usp=sharing&ouid=104706960336323446112&rtpof=true&sd=true"
   #     - name: "Bacterial growth: Colab Notebook"
   #       type: external
   #       link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
