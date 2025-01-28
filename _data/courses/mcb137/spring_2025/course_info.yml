@@ -97,10 +97,10 @@ Homework:
     #  - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
     #    type: external
     #    link: "https://drive.google.com/file/d/1x3plnG8VIPc53iR1ly10dkoggV6P-sis/view?usp=sharing"
-#   - set:
-#     title: Homework 2
-#     link: MCB137+237-HW2-2024.pdf
-#     due: "2/01 at 2:00 PM"
+  - set:
+    title: Homework 2
+    link: MCB137+237-HW2-2025.pdf
+    due: "2/04 at 2:00 PM"
 #     materials:
 # #       - name: Data for problem 4
 # #         type: external
@@ -434,12 +434,12 @@ syllabus:
   #     - name: "Bacterial growth: Colab Notebook"
   #       type: external
   #       link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
-  #     - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
-  #       type: paper
-  #       link: Neidhardt1999.pdf
-  #     - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
-  #       type: paper
-  #       link: Monod1949.pdf
+      - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
+        type: paper
+        link: Neidhardt1999.pdf
+      - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
+        type: paper
+        link: Monod1949.pdf
   #   videos:
   #     - name: 'Lecture Recording from 1/23'
   #       type: external
