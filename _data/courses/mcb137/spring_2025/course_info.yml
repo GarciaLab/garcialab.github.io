@@ -425,7 +425,6 @@ syllabus:
           <ul>
             <li>Time evolution in biology.</li>
             <li>Control of bacterial growth and size.</li>
-            <li>Transcription of the constitutive promoter</li>
           </ul>"
     materials: 
       - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
