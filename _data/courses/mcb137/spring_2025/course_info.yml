@@ -474,10 +474,10 @@ syllabus:
               <li>The Great Probability Distributions of Biology</li>
               <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
           </ul>"
-  #   materials:
-  #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1WySixztuKm5n4h1Y5NQ1e8WCEZS7skSX/edit?usp=drive_link&ouid=114885956493870678851&rtpof=true&sd=true"
+    materials:
+      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1Nt_TNUVqxoNyw7sn8cpnWc9mVxaX8JLh/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   #     - name: "Timer Model: Colab Notebook"
   #       type: external
   #       link: "https://colab.research.google.com/drive/1d7U8o4dOK7AVTZzKH90fPbY2dUYZB-zH?usp=sharing"
