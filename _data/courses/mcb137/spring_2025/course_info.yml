@@ -457,15 +457,19 @@ syllabus:
           <ul>
               <li>Bacterial growth dynamics: Solving bacterial growth numerically.</li>
           </ul>"
-  #   materials: 
-  #     - name: "Bacterial growth (a chat with ChatGPT)"
-  #       type: external
-  #       link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+    materials: 
+      - name: "Colab Notebook for Bacterial Growth"
+        type: external
+        link: "https://drive.google.com/file/d/1n3z-vkCkRdP1k4VkRBXs_jDy8gv4SpaX/view?usp=sharing"
     videos:
       - name: 'Bacterial Growth
               <ul>
                 <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
               </ul>'
+    discussion:
+      - name: "Colab Notebook for Chi-square minimization"
+        type: external
+        link: "https://colab.research.google.com/drive/1sLyTYP_PtaLva-fOHxkak9e78ToKJSp-?usp=sharing"
   - entry: #5
     date: 2/4 Lecture @ 242 Hearst Gym
     topics: 
