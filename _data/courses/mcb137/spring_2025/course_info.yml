@@ -90,9 +90,9 @@ Homework:
     link: MCB137+237-HW1-2025.pdf
     due: "1/28 at 2:00 PM"
     materials:
-#      - name: PBoC3 Chapter 2
-#        type: chapter
-#        link: PBoC3_chap2.pdf
+    #  - name: PBoC3 Chapter 2
+    #    type: chapter
+    #    link: PBoC3_chap2.pdf
     solutions: 
     #  - name: Homework 1 Solutions #, Password: WdtzjeN26Zj8SH6
     #    type: external
@@ -109,10 +109,17 @@ Homework:
 #       - name: Homework 2 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/17bjHinkTehnyG_lziqxFaB4pQsiUr22w/view?usp=drive_link"
-#   - set:
-#     title: Homework 3
-#     link: MCB137+237-HW3-2024.pdf
-#     due: "2/13 at 2:00 PM"
+  - set:
+    title: Homework 3
+    link: MCB137+237-HW3-2024.pdf
+    due: "2/13 at 2:00 PM"
+    materials:
+      - name: Neidhardt 1999
+        type: paper
+        link: Neidhardt1999.pdf
+      - name: Schmidt 2016
+        type: paper
+        link: Schmidt2016.pdf
 #     solutions:
 #       - name: Homework 3 Solutions
 #         type: external
