@@ -15,29 +15,28 @@ header_img: publications.gif
 </div>
 
 <div class='row' style="padding: 20px;">
-  <h3 class="banner">Talks</h3>
+<h3 class="banner"> Talks </h3>
   {% for year in site.data.talks %}
-    <h3>{{year[0]}}</h3>
+    <h3>{{ year[0] }}</h3>
     <div class='medium-12 columns'>
-      <div class='fadein mod modIconText' data-delay='{{ 30 | times:forloop.index0 }}'>
-        <ul>
-          {% for talk in year[1] %}
-            <li>
-              {{talk.title}}: <b>{{talk.date}}.</b> <i>{{talk.venue}}</i>
-              {% for link in talk.links %}
-                {% if link[0] == 'VIDEO' %}
-                  | DOI: <a href='{{link[1]}}'>{{link[1]}}</a>
-                {% else %}
-                  | {{link[0]}}: <a href='{{link[1]}}'>{{link[1]}}</a>
-                {% endif %}
-              {% endfor %}
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class='two spacing'></div>
+      {% for talk in year[1] %}
+        <div class='talk-item' style="display: flex; align-items: center; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #ccc;">
+          <!-- Thumbnail -->
+          <div class='talk-thumbnail' style="flex: 0 0 150px; margin-right: 15px;">
+            <a href="{{ talk.video_link }}" target="_blank">
+              <img src="{{ talk.thumbnail }}" alt="Talk Thumbnail" style="width: 100%; height: auto; border-radius: 5px;">
+            </a>
+          </div>
+          
+          <!-- Talk Info -->
+          <div class='talk-info' style="flex: 1;">
+            <h4 style="margin: 5px 0;">{{ talk.title }}</h4>
+            <p style="margin: 2px 0;"><b>Date:</b> {{ talk.date }}</p>
+            <p style="margin: 2px 0;"><b>Venue:</b> {{ talk.venue }}</p>
+            <p style="margin: 2px 0;"><b>Video:</b> <a href="{{ talk.video_link }}" target="_blank">Watch Here</a></p>
+          </div>
+        </div>
+      {% endfor %}
     </div>
   {% endfor %}
 </div>
-
-<div class='spacing'></div>
