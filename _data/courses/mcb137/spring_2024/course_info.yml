@@ -197,7 +197,7 @@ Homework:
         type: external
         link: "https://drive.google.com/file/d/1-0qt-XugAmxy87UtCLQejO1Xa1PTGGau/view?usp=drive_link"  
   - set:
-    title: Homework 7
+    title: Homework 7 (test)
     link:  MCB137+237-HW7-2024.pdf
     due: "3/12 at 2:00 PM"
     materials: 
@@ -208,7 +208,7 @@ Homework:
         type: paper 
         link: Klumpp2013.pdf
     solutions:
-      - name: Homework 7 Solutions
+      - name: "Homework 7"
         type: external
         link: "https://drive.google.com/file/d/1M9trN6Ytuw-Dqxoe248A_cGjlI7-I0au/view?usp=drive_link"
       
