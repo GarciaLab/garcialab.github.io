@@ -19,14 +19,30 @@ thumb_img: summary.png
         <div class='mod modGallery'>
             <ul class='gallery' style="display: flex; flex-wrap: wrap; justify-content: center; padding: 0; list-style: none;">
                 {% for cat in site.data.index %}
-                <li style="padding: 15px; text-align: center; flex: 1 1 calc(20% - 30px); max-width: calc(20% - 30px); box-sizing: border-box;">
+                <li style="padding: 15px; text-align: center; flex: 1 1 calc(20% - 30px); max-width: calc(20% - 30px); box-sizing: border-box; position: relative;">
                     <h3 class='banner'>{{ cat.name }}</h3>
-                    <a href='{{ site.baseurl }}/{{ cat.link }}' style="display: block;">
+                    <a href='{{ site.baseurl }}/{{ cat.link }}' style="display: block; position: relative;">
+                        <!-- Thumbnail Image -->
                         <img alt="" src="{{ site.baseurl }}/images/{{ cat.image }}" 
                              style="width: 100%; height: 150px; object-fit: cover; border: 1px solid #000; border-radius: 5px;" />
-                        <div class='overlay'>
-                            <div class='thumb-info'>
-                                <h3>{{ cat.description }}</h3>
+                        <!-- Hover Overlay -->
+                        <div class='overlay' style="
+                            position: absolute; 
+                            top: 0; 
+                            left: 0; 
+                            width: 100%; 
+                            height: 100%; 
+                            background: rgba(0, 0, 0, 0.6); 
+                            color: white; 
+                            display: flex; 
+                            align-items: center; 
+                            justify-content: center; 
+                            text-align: center; 
+                            opacity: 0; 
+                            transition: opacity 0.3s ease-in-out;
+                            border-radius: 5px;">
+                            <div class='thumb-info' style="padding: 10px; font-size: 14px; width: 90%;">
+                                <h3 style="margin: 0; font-size: 16px; line-height: 1.2;">{{ cat.description }}</h3>
                             </div>
                         </div>
                     </a>
@@ -54,3 +70,10 @@ thumb_img: summary.png
 </div>
 
 <div class='four spacing'></div>
+
+<style>
+/* Hover effect */
+li:hover .overlay {
+    opacity: 1;
+}
+</style>
