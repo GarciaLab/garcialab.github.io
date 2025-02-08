@@ -120,6 +120,9 @@ Homework:
       - name: Schmidt 2016
         type: paper
         link: Schmidt2016.pdf
+      - name: Schmidt + Heinemann Data Spreadsheet
+        type: external
+        link: "https://docs.google.com/spreadsheets/d/1RKYh1WHFPttbbQHQnyAwzLfEe07MT4Rb/edit?usp=sharing&ouid=117716794627695417441&rtpof=true&sd=true"
 #     solutions:
 #       - name: Homework 3 Solutions
 #         type: external
