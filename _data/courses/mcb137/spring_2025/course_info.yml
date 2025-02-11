@@ -112,7 +112,7 @@ Homework:
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2025.pdf
-    due: "2/13 at 2:00 PM"
+    due: "2/11 at 2:00 PM"
     materials:
       - name: Neidhardt 1999
         type: paper
@@ -127,20 +127,20 @@ Homework:
 #       - name: Homework 3 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1PitXuqvWiVQa7sBtFxZhi6iB9vwe7tXG/view?usp=drive_link"
-#   - set:
-#     title: Homework 4
-#     link: MCB137+237-HW4-2024.pdf
-#     due: "2/20 at 2:00 PM"
-#     materials:
-#       - name: Petkova 2014
-#         type: paper
-#         link: Petkova2014.pdf
-#       - name: Drocco 2011
-#         type: paper
-#         link: Drocco2011.pdf
-#       - name: Taniguchi 2010
-#         type: paper
-#         link: Taniguchi2010.pdf
+  - set:
+    title: Homework 4
+    link: MCB137+237-HW4-2025.pdf
+    due: "2/18 at 2:00 PM"
+    materials:
+      - name: Petkova 2014
+        type: paper
+        link: Petkova2014.pdf
+      - name: Drocco 2011
+        type: paper
+        link: Drocco2011.pdf
+      - name: Taniguchi 2010
+        type: paper
+        link: Taniguchi2010.pdf
 #     solutions:
 #       - name: Homework 4 Solutions
 #         type: external
