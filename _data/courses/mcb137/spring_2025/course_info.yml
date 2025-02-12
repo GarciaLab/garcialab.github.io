@@ -108,7 +108,7 @@ Homework:
     solutions:
       - name: Homework 2 Solutions
         type: external
-        link: MCB_137_237_Solutions_HW2_SP25_protected.pdf # Password: %2ydJDxJFxjd6aA83uDD
+        link: MCB_137_237_Solutions_HW2_SP25-protected.pdf # Password: %2ydJDxJFxjd6aA83uDD
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2025.pdf
