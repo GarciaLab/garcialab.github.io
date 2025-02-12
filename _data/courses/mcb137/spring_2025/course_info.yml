@@ -508,12 +508,6 @@ syllabus:
     date: 2/4 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part II."
-  #       # - "Null Hypotheses in Biology: The Poisson Distribution.
-  #       #   <ul>
-  #       #       <li>The Great Probability Distributions of Biology</li>
-  #       #       <li>The Poisson Distribution: Bombs over London, constitutive promoters and sequencing the human genome.</li>
-  #       #       <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
-  #       #   </ul>"
   #   materials: 
   #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
   #       type: external
@@ -587,6 +581,7 @@ syllabus:
   - entry: #8
     date: 2/11 Lecture @ 242 Hearst Gym # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: 
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part IV."
         - "The Synthetic Transcriptome, Part I.
           <ul>
               <li>The single-cell sequencing revolution.</li>
