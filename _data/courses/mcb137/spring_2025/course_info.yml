@@ -105,10 +105,10 @@ Homework:
 # #       - name: Data for problem 4
 # #         type: external
 # #         link: "https://drive.google.com/drive/folders/1fZVpNud9kmVJplyPhEVvVikNsFMfllYj?usp=sharing"
-#     solutions:
-#       - name: Homework 2 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/17bjHinkTehnyG_lziqxFaB4pQsiUr22w/view?usp=drive_link"
+    solutions:
+      - name: Homework 2 Solutions
+        type: external
+        link: MCB_137_237_Solutions_HW2_SP25_protected.pdf # Password: %2ydJDxJFxjd6aA83uDD
   - set:
     title: Homework 3
     link: MCB137+237-HW3-2025.pdf
