@@ -486,7 +486,7 @@ syllabus:
         - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
           <ul>
               <li>The Great Probability Distributions of Biology</li>
-              <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+              <li>Constitutive Promoters and the Mean mRNA Number.</li>
           </ul>"
     materials:
       - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint presentation"
@@ -508,6 +508,10 @@ syllabus:
     date: 2/4 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part II."
+        <ul>
+            <li>Constitutive Promoters and the Mean mRNA Number.</li>
+            <li>The Poisson Distribution and the Constitutive Promoter.</li>
+        </ul>"
   #   materials: 
   #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
   #       type: external
@@ -549,6 +553,9 @@ syllabus:
     date: 2/6 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part III."
+        <ul>
+          <li>The Poisson Distribution and the Constitutive Promoter.</li>
+        </ul>"
   #   materials:
   #     - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
   #       type: external
@@ -582,6 +589,11 @@ syllabus:
     date: 2/11 Lecture @ 242 Hearst Gym # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part IV."
+        <ul>
+          <li>The Poisson Distribution and the Constitutive Promoter.</li>
+          <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+        </ul>"
+
         - "The Synthetic Transcriptome, Part I.
           <ul>
               <li>The single-cell sequencing revolution.</li>
