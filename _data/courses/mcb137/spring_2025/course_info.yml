@@ -510,7 +510,7 @@ syllabus:
         - "Null Hypotheses in Biology: The Poisson Distribution, Part II."
           <ul>
              <li>Constitutive Promoters and the Mean mRNA Number.</li>
-              <li>The Poisson Distribution and the Constitutive Promoter.</li>
+             <li>The Poisson Distribution and the Constitutive Promoter.</li>
           </ul>"
   #   materials: 
   #     - name: "Stuff(t) and the Control of Bacterial Size (or Models have Consequences): Powerpoint Presentation"
