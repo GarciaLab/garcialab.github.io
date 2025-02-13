@@ -552,10 +552,10 @@ syllabus:
   - entry: #7
     date: 2/6 Lecture @ 242 Hearst Gym
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part III."
-        <ul>
-          <li>The Poisson Distribution and the Constitutive Promoter.</li>
-        </ul>"
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part III.
+          <ul>
+             <li>The Poisson Distribution and the Constitutive Promoter.</li>
+          </ul>"
   #   materials:
   #     - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
   #       type: external
@@ -588,11 +588,11 @@ syllabus:
   - entry: #8
     date: 2/11 Lecture @ 242 Hearst Gym # <a href="https://berkeley.zoom.us/j/93907305015">Zoom</a>
     topics: 
-        - "Null Hypotheses in Biology: The Poisson Distribution, Part IV."
-        <ul>
-          <li>The Poisson Distribution and the Constitutive Promoter.</li>
-          <li>The Poisson Distribution':' Bombs over London, constitutive promoters, and sequencing the human genome.</li>
-        </ul>"
+        - "Null Hypotheses in Biology: The Poisson Distribution, Part IV.
+          <ul>
+              <li>The Poisson Distribution and the Constitutive Promoter.</li>
+              <li>The Poisson Distribution':' Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+          </ul>"
 
         - "The Synthetic Transcriptome, Part I.
           <ul>
