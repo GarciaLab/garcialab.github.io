@@ -1,0 +1,80 @@
+---
+layout: blog
+title: The Garcia Lab
+section_id: Home
+header_img: eve_embryo.gif
+thumb_img: summary.png
+---
+
+<div>
+    <center><h2>Our mission is to understand, predict, and control developmental programs</h2></center>
+    <hr/>
+    <div class='half' style="margin:auto; width: 60%; min-width: 40%; text-align: justify;">
+        {% include bio.md %}
+    </div>
+</div>
+
+<div class='full' style="width: 100%; margin-right: auto; margin-top:-50px;">
+    <div class='row'>
+        <div class='mod modGallery'>
+            <ul class='gallery' style="display: flex; flex-wrap: wrap; justify-content: center; padding: 0; list-style: none;">
+                {% for cat in site.data.index %}
+                <li style="padding: 15px; text-align: center; flex: 1 1 calc(20% - 30px); max-width: calc(20% - 30px); box-sizing: border-box; position: relative;">
+                    <h3 class='banner'>{{ cat.name }}</h3>
+                    <a href='{{ site.baseurl }}/{{ cat.link }}' style="display: block; position: relative; overflow: hidden;">
+                        <!-- Thumbnail Image -->
+                        <img alt="" src="{{ site.baseurl }}/images/{{ cat.image }}" 
+                             style="width: 100%; height: 150px; object-fit: cover; border: 1px solid #000; border-radius: 5px;" />
+                        <!-- Hover Overlay -->
+                        <div class='overlay' style="
+                            position: absolute; 
+                            top: 0; 
+                            left: 0; 
+                            width: 100%; 
+                            height: 100%; 
+                            background: rgba(0, 0, 0, 0.6); 
+                            color: white; 
+                            display: flex; 
+                            align-items: center; 
+                            justify-content: center; 
+                            text-align: center; 
+                            opacity: 0; 
+                            transition: opacity 0.3s ease-in-out;
+                            border-radius: 5px;
+                            pointer-events: none;">
+                            <div class='thumb-info' style="padding: 10px; font-size: 14px; width: 90%;">
+                                <h3 style="margin: 0; font-size: 16px; line-height: 1.2;">{{ cat.description }}</h3>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <br/>
+        <hr/>
+        <div class='full' style="width: 60%; margin-left: 30%; text-align: justify; margin-right: auto; margin-top:-50px;"></div>
+    
+        <center>
+            <h3>Latest News</h3>
+            <hr/>
+            {% assign counter = 0 %}
+            {% for post in site.data.news %}
+            {% if counter <= 5 %}
+            <h4>{{ post.date }}</h4>{{ post.desc }}<br/><br/>
+            {% endif %}
+            {% assign counter = counter | plus: 1 %}
+            {% endfor %}
+        </center>
+    </div>
+</div>
+
+<div class='four spacing'></div>
+
+<style>
+/* Ensure the overlay appears on hover */
+a:hover .overlay {
+    opacity: 1;
+}
+</style>

@@ -1,0 +1,262 @@
+about: > 
+  In our time together in the theory module of skills week, we’ll take a tour
+  through the worlds of numerical thinking in biology and simple physical models of
+  biological systems. We’ll try our hand at order-of-magnitude estimates and pen-and-paper
+  models of phenomena like biological growth, diffusion, phase separation, polymerization,
+  and more! For some topics, we’ll complement our calculations with Python simulations.
+  You’ll also prepare and present an order-of-magnitude (‘Fermi’) estimate related to
+  your own interests or research. Our main goal is to explore together how powerful
+  (and fun!) numerical and physical thinking can be as a tool in understanding biology.
+
+people:
+  - person:
+    name: Hernan Garcia
+    email: hggarcia@berkeley.edu 
+    role: Instructor
+    img: hernan.jpg
+  - person:
+    name: Christina Hueschen
+    email: chueschen@ucsd.edu
+    role: Instructor
+    img: ChristinaHueschen.jpg
+  - person:
+    name: Yovan Badal
+    email: ybadal@berkeley.edu
+    role: TA
+    img: yovanbadal.jpg
+    
+syllabus:
+  - entry: #1
+    date: Monday
+    topics:
+      - "A feeling for the numbers in biology."
+      - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
+      - "What sets the scale of X?"
+    materials: 
+      - name: "Biology by the Numbers: Powerpoint Presentation" 
+        type: external
+        link: https://docs.google.com/presentation/d/1ZLZJCBbO3-IYnyadga2ew8Nfq_dVhzse/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
+      - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
+        type: paper
+        link: Cohen2004.pdf
+      - name: Paul Nurse reflects on the great ideas of biology. We will explore these ideas throughout the course from a quantitative perspective. (Nurse 2003)
+        type: paper
+        link: Nurse2003.pdf
+      - name: Article by Rob Phillips arguing for models to precede experiments, and not to be relegated to the last figure of papers. (Phillips 2015)
+        type: paper
+        link: Phillips2015.pdf
+      - name: Jeremy Gunawardena reminds us that models in biology are not supposed to be accurate descriptions of nature, but just accurate descriptions of our “pathetic thinking”. (Gunawardena 2014)
+        type: paper
+        link: Gunawardena2014.pdf
+      - name: "Harness the Hubris: Useful things physicists could do in biology. A great debate between Bob Austin and Adrian Parsegian about the role of Physics in Biology (Parsegian 1997)"
+        type: paper
+        link: Parsegian1997.pdf
+      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
+      - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
+        type: paper
+        link: Stouthamer1973.pdf
+      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
+      - name: A revised estimate of the number (and types) of human and bacterial cells in our body. (Sender 2016)
+        type: paper
+        link: Sender2016.pdf
+      - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
+        type: paper
+        link: Schmidt2016.pdf
+    videos: 
+      - name: 'A Feeling for the Numbers in Biology (<a href="https://www.youtube.com/watch?v=gkBiot7gb8A&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=1&pp=iAQB">Video</a>)
+              <ul>
+                <li>How many porta potties do you need for an outdoor concert? (<a href="https://youtu.be/1lnB90WDmQ0">Video</a>, <a href="https://drive.google.com/file/d/1As0Jtiole0XVBHhAePyO6nSxlgFWVRc7/view?usp=drive_link">Notes</a>) </li>
+                <li>What Sets the Scale of Mountain Height? (<a href="https://youtu.be/8FQH0mssnhM">Video</a>, <a href="https://drive.google.com/file/d/1QJIv_M88hScbWBxLnxCGYeVqA0Nghx9X/view?usp=drive_link">Notes</a>) </li>
+                <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
+                <li>Sun vs Human Power (<a href="https://www.youtube.com/watch?v=DO75RSTrTVc&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=3&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1dBF5tOiOJxemu_-_czbIHXgeRe2eCwc5/view?usp=drive_link">Notes</a>)</li>
+                <li>Number of Genes in E. coli (<a href="https://www.youtube.com/watch?v=2ROIEuitjMA&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=4&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1wGeYFxNMjxrWnMMVE-4eVzZHUj-DMiKv/view?usp=drive_link">Notes</a>)</li>
+                <li>Most Abundant Cell Type (<a href="https://www.youtube.com/watch?v=rRshG5hhtVE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=5&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1_SAr7UCZ_IZYKYNpGND_t_eYJKTFKr30/view?usp=drive_link">Notes</a>)</li>
+                <li>Carbon Transporters in a Bacterium (<a href="https://www.youtube.com/watch?v=EuocMDgwP_s&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=6&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/13rgX5evoFpFF1QdE1WGucXYwnsJXIzVx/view?usp=drive_link">Notes</a>)</li>
+                <li>ATP Consumption per Volume of Cytoplasm (<a href="https://www.youtube.com/watch?v=1gx5pnmxSFY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=7&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1Hm33sDSLGUK-qS7c0KT_ET3BGfS623Lg/view?usp=drive_link">Notes</a>)</li>
+                <li>Exhausting ATP Pool (<a href="https://www.youtube.com/watch?v=o5rVLrAw6JY&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=8&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1GXbhBA2-EFiu0CRpoDZkBHCds8xgj0zJ/view?usp=drive_link">Notes</a>)</li>
+                <li>DNA Replication Error Rate (<a href="https://www.youtube.com/watch?v=sDgCMIQfl_g&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=9&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/12aLWa2sEWr7VTrkJnNglRrwtjLoNKOvA/view?usp=sharing">Notes</a>)</li>
+              </ul>'
+
+
+  - entry: #2
+    date: Monday
+    topics: 
+        - "Stuff(t) or the Protocol of Biological Dynamics.
+          <ul>
+            <li>Time evolution in biology.</li>
+            <li>Bacterial growth dynamics: Solving bacterial growth analytically and numerically.</li>
+          </ul>"
+    materials: 
+      - name: "Stuff(t) (or the Protocol of Biological Dynamics): Powerpoint Presentation" 
+        type: external
+        link: "https://docs.google.com/presentation/d/1jYsqn2bmV0U_QqxBasVao6lxpX9kTZLa/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Bacterial growth: constant obsession with dN/dt (Neidhardt 2015). Neidhardt’s ode to the equation that shaped his scientific life."
+        type: paper
+        link: Neidhardt1999.pdf
+      - name: "One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation (Monod 1949)"
+        type: paper
+        link: Monod1949.pdf
+      - name: "Bacterial growth (a chat with ChatGPT)"
+        type: external
+        link: "https://colab.research.google.com/drive/1xYD9-5NYNye4Y4qYARsOeugNioUznF_G?usp=sharing"
+    videos:
+      - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
+        type: external
+        link: https://youtu.be/HvMVPfMD1og
+      - name: 'Bacterial Growth
+              <ul>
+                <li>Introduction to Bacterial Growth and the Protocol for Biological Dynamics (<a href="https://youtu.be/H2eUy06TtSY">Video</a>, <a href="https://drive.google.com/file/d/1I5I73NOi56gntQA2QVERCCZXgQ9jA-7R/view?usp=drive_link">Notes</a>)</li>
+                <li>Numerical integration of bacterial growth (<a href="https://youtu.be/fS-TuqeCkng">Video</a>, <a href="https://drive.google.com/file/d/1KsuGIfjsZQNzJoVTtlE8FVxsSWEUOxvJ/view?usp=drive_link">Notes</a>)</li>
+              </ul>'
+
+
+  - entry: #3
+    date: Monday
+    topics:
+      - "Diffusion as Biology's Null Hypothesis for Dynamics.
+        <ul>
+          <li>Diffusion and axonal transport.</li>
+          <li>Diffusion by coin flips.</li>
+        </ul>"
+    materials:
+      - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1rSNyvbvusVwJrxzMvmkU2LbB51rpOILw/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Lecture Notes: Diffusion by coin flips"
+        type: notes
+        link: lec12_Diffusion.pdf
+      - name: "Diffusion by Coin Flips: Colab Notebook"
+        type: external
+        link: "https://drive.google.com/file/d/1woSlAPvaxVjErcA_eVJKui5G32_S53Ey/view?usp=sharing"
+    videos:
+      - name: 'Introduction to Diffusion (<a href="https://www.youtube.com/watch?v=x8pNidtZtc4&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1z8ujbcYQFq76iJE2J0xeQCx1v-whMGZV/view?usp=sharing">Notes</a>)'
+      - name: 'Measuring diffusion by tracking single molecules (<a href="https://www.youtube.com/watch?v=Cx8YZe5mbII&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1Fp9JfGCsK3m8NoEFZF5qp5TUPZGGX71Y/view?usp=sharing">Notes</a>)'
+      - name: 'Diffusion by Coin Flips (<a href="https://www.youtube.com/watch?v=N_eNdnFQcS0&ab_channel=PhysicalBiologyoftheCell%40UCBerkeley">Video</a>, <a href="https://drive.google.com/file/d/1E4ZhfGQe8u4sms3TIRnF8G7kcLDMZ9Ko/view?usp=sharing">Notes</a>)'
+
+
+  - entry: #4
+    date: Monday
+    topics: 
+      - "Null Hypotheses in Biology: The Poisson Distribution, Part I.
+        <ul>
+          <li>The Great Probability Distributions of Biology</li>
+          <li>The constitutive promoter.</li>
+        </ul>"
+    materials:
+      - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1Sf-IKW2jUNhwP9dpb6m4F1WPu1eP7kXL/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Dynamics of the Constitutive Promoter: Class Notes"
+        type: external
+        link: "https://drive.google.com/file/d/10d-L-5suI4lqRcGeSidiiKPMByI2sRQ3/view?usp=sharing"
+      - name: "Groundbreaking measurement of gene expression dynamics in single E. coli cells using the MS2 system (Golding 2005)"
+        type: paper
+        link: Golding2005.pdf
+      - name: Colab Notebook Mean Dynamics of the Constitutive Promoter
+        type: external
+        link: "https://drive.google.com/file/d/1_CFcdtrwiGqfMTtjw5erwv_IUA-siff4/view?usp=sharing"
+      - name: "Induction kinetics of the lac operon as reported by protein activity (Marbach2012)"
+        type: paper
+        link: Marbach2012.pdf
+
+
+
+  - entry: #5
+    date: Monday
+    topics: 
+      - "A Feeling for the Numbers in Biology: Your Turn.
+        <ul>
+          <li>Prepare a 5 minute estimate you will present on Saturday.</li>
+          <li>Christina and Hernan are around to help all week. Just Slack us!</li>
+        </ul>"
+    materials:
+      - name: "Some examples of estimates"
+        type: external
+        link: "https://docs.google.com/presentation/d/1kL_7MM7JY8AyI3gd5LEMHxsYABCa3JyC/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
+
+
+
+  - entry: #6
+    date: Saturday
+    topics: 
+      - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
+        <ul>
+          <li>Chemical master equation of the constitutive promoter.</li>
+          <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+          <li>Synthetic transcriptomes and the single-cell sequencing revolution.</li>
+        </ul>"
+    materials:
+      - name: "mRNA Distribution of the Constitutive Promoter: Class Notes"
+        type: external
+        link: "https://drive.google.com/file/d/1IReowrmK9s4lqg8FGt3e5uzRM5LlI6C-/view?usp=sharing"
+      - name: "Great smFISH experiment showing that, while some genes follow a Poisson distribution of mRNA molecules, some don't (Zenklusen 2008)"
+        type: paper
+        link: Zenklusen2008.pdf
+      - name: "Predicting transcriptional noise from DNA architecture in simple repression (Jones 2014)"
+        type: paper
+        link: Jones2014.pdf
+      - name: "Examining the distribution of flying bombs hitting London during WWII using the Poisson distribution (Clarke 1946)"
+        type: paper
+        link: Clarke1946.pdf
+      - name: "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris (Tabula Muris 2018)"
+        type: paper
+        link: TabulaMuris2018.pdf
+
+
+  - entry: #7
+    date: Saturday
+    topics: 
+        - "Phase Transitions in Biology.
+          <ul>
+              <li>Entropy maximization.</li>
+              <li>Free Energy Minimization.</li>
+              <li>Drawing Phase Diagrams.</li>
+          </ul>"
+    materials: 
+      - name: "Phase Transitions in Biology: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1KNk9zBjBMKKCNWUZROiMWy17N1fbNlaO/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)
+        type: paper
+        link: Brangwynne2009.pdf
+      - name: The Unreasonable Effectiveness of Mathematics in the Natural Sciences by Eugene Wigner (Wigner1959)
+        type: paper
+        link: Wigner1959.pdf
+      - name: "A first exposure to statistical mechanics for life scientists: applications to binding (Garcia 2007b)"
+        type: paper
+        link: Garcia2007b.pdf
+      - name: Polymer physics of intracellular phase transitions (Brangwynne2015)
+        type: paper
+        link: Brangwynne2015.pdf
+      - name: Measuring a phase diagram in vivo (Fritsch2021)
+        type: paper
+        link: Fritsch2021.pdf
+
+
+
+  - entry: #8
+    date: Saturday
+    topics: 
+      - "Active Matter."
+    materials: 
+      - name: "Active Matter: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1HDdWZOXrfRV9vYmhAiTSp-_xt8ZJ-jIY/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+
+
+  - entry: #9
+    date: Saturday
+    topics: 
+      - "Physical Biology of the Cell."
+    materials: 
+      - name: "Physical Biology of the Cells Exit Talk: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1iWphGKarapAiQieuewpqHPBqpX09NT3-/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+
+
+
+          
