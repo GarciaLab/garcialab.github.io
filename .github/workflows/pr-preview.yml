@@ -18,19 +18,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Install Dependencies
-        run: |
-          npm install  # Adjust based on your build system
-
-      - name: Build Website
-        run: |
-          npm run build  # Adjust this based on your framework
-
-      - name: Deploy to PR Preview
+      - name: Deploy Jekyll Site to PR Preview
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: build  # Adjust this based on your build output directory
+          folder: .  # Deploy the root folder (Jekyll builds automatically)
           target-folder: preview/pr-${{ github.event.number }}
 
       - name: Post Preview Link in PR
@@ -60,4 +52,3 @@ jobs:
         uses: mshick/add-pr-comment@v2
         with:
           message: "🧹 PR Preview has been removed since the PR was closed."
-
