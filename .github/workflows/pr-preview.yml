@@ -20,18 +20,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Build Jekyll Site for PR Preview
-        run: |
-          export PR_NUMBER=${{ github.event.number }}
-          export BASEURL="/previews/pr-${PR_NUMBER}"
-          echo "Building PR preview with BASEURL=$BASEURL"
-          JEKYLL_ENV=production jekyll build --baseurl "$BASEURL" -d _site/previews/pr-${PR_NUMBER}
-
-      - name: Deploy Jekyll Site to PR Preview
+      - name: Deploy PR Preview to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: main  # Keep everything on the main branch
-          folder: _site/previews/pr-${{ github.event.number }}  # Deploy the built preview
+          folder: .  # Copy raw source files (GitHub Pages will handle Jekyll build)
           target-folder: previews/pr-${{ github.event.number }}
 
       - name: Post Preview Link in PR
