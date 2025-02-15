@@ -1,8 +1,8 @@
 # Site settings
 title: Garcia Lab
-description: > 
-    Physical Biology of the Embryo
-baseurl: #"/" # the subpath of your site, e.g. /blog/
+description: Physical Biology of the Embryo
+baseurl: ""  # Keep this empty for main site, overridden for PR previews
+url: "https://garcialab.berkeley.edu"  # Ensure this is correctly set
 
 # Build settings
 markdown: kramdown
@@ -31,5 +31,12 @@ contact:
     email: "hggarcia@berkeley.edu"
     phone: 510-664-7847
 
+# Plugins
 plugins: [jekyll-paginate, jekyll]
 
+# Allow base URL override for PR previews
+defaults:
+  - scope:
+      path: ""
+    values:
+      baseurl: "/previews/pr-${PR_NUMBER}"  # This ensures PR previews work correctly
