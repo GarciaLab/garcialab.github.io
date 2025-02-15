@@ -20,6 +20,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Install Jekyll Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ruby-full build-essential zlib1g-dev
+          gem install jekyll bundler
+
       - name: Build Jekyll Site for PR Preview
         run: |
           export PR_NUMBER=${{ github.event.number }}
