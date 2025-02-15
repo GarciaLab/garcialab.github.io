@@ -8,7 +8,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  pull-requests: write  # Allows adding comments on PRs
+  pull-requests: write  # Allows commenting on PRs
 
 jobs:
   deploy-preview:
@@ -20,14 +20,46 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Deploy Jekyll Site to PR Preview
+      - name: Build Jekyll Site for PR Preview
+        run: |
+          export PR_NUMBER=${{ github.event.number }}
+          export BASEURL="/previews/pr-${PR_NUMBER}"
+          echo "Building PR preview with BASEURL=$BASEURL"
+          JEKYLL_ENV=production jekyll build --baseurl "$BASEURL" -d _site/previews/pr-${PR_NUMBER}
+
+      - name: Ensure Previews Directory Exists
+        run: |
+          mkdir -p _site/previews/pr-${{ github.event.number }}
+
+      - name: Deploy PR Preview to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: main  # Keep everything on the main branch
-          folder: .  # Jekyll automatically builds from here
+          branch: main  # 🔹 Deploy inside `main`, not `gh-pages`
+          folder: _site/previews/pr-${{ github.event.number }}  # 🔹 Deploy built files into previews/
           target-folder: previews/pr-${{ github.event.number }}
 
       - name: Post Preview Link in PR
         uses: mshick/add-pr-comment@v2
         with:
-          message: "🚀 PR Preview is live: [https://garcialab.github.io/previews/pr-${{ github.event.number }}/](https://garcialab.github.io/previews/pr-${{ github.event.number }}/)"
+          message: "🚀 PR Preview is live: [https://garcialab.berkeley.edu/previews/pr-${{ github.event.number }}/](https://garcialab.berkeley.edu/previews/pr-${{ github.event.number }}/)"
+
+  cleanup-preview:
+    if: github.event.action == 'closed'
+    name: Cleanup PR Preview
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Delete PR Preview Files
+        run: |
+          git checkout main
+          git rm -rf previews/pr-${{ github.event.number }}
+          git commit -m "Remove preview for PR #${{ github.event.number }}"
+          git push origin main
+
+      - name: Comment on PR About Cleanup
+        uses: mshick/add-pr-comment@v2
+        with:
+          message: "🧹 PR Preview has been removed since the PR was closed."
