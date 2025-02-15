@@ -3,7 +3,7 @@ name: "PR Preview Deployment"
 on:
   pull_request:
     branches:
-      - main  # Only trigger on PRs to main
+      - master  # Only trigger on PRs to main
     types: [opened, synchronize, reopened, closed]
 
 permissions:
@@ -28,7 +28,7 @@ jobs:
       - name: Deploy PR Preview to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: main  # Store previews in `main/previews/pr-<PR_NUMBER>/`
+          branch: master  # Store previews in `main/previews/pr-<PR_NUMBER>/`
           folder: .  # Copy raw source files
           target-folder: previews/pr-${{ github.event.number }}
           clean: false  # Prevents deleting previous previews
