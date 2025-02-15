@@ -49,7 +49,7 @@ jobs:
 
       - name: Delete PR Preview Files
         run: |
-          git checkout main
+          git checkout master
           git rm -rf previews/pr-${{ github.event.number }}
           git commit -m "Remove preview for PR #${{ github.event.number }}"
           git push origin main
