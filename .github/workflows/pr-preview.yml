@@ -2,6 +2,8 @@ name: "PR Preview Deployment"
 
 on:
   pull_request:
+    branches:
+      - feature/new_config  
     types: [opened, synchronize, reopened, closed]
 
 permissions:
@@ -19,13 +21,22 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: feature/new_config  # Ensure the test branch is used
+
+      - name: Ensure Previews Directory Exists
+        run: mkdir -p previews/pr-${{ github.event.number }}
+
+      - name: Debug: List Files Before Deployment
+        run: ls -R
 
       - name: Deploy PR Preview to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: main  # Keep everything on the main branch
-          folder: .  # Copy raw source files (GitHub Pages will handle Jekyll build)
+          branch: main  # Deploys PR previews into the main branch (not test branch)
+          folder: .  # Copy source files (GitHub Pages will handle Jekyll build)
           target-folder: previews/pr-${{ github.event.number }}
+          clean: false  # Ensures previews are not deleted on each deploy
 
       - name: Post Preview Link in PR
         uses: mshick/add-pr-comment@v2
@@ -40,6 +51,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: main  # Ensure cleanup happens in the correct branch
 
       - name: Delete PR Preview Files
         run: |
