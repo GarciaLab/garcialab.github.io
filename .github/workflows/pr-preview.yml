@@ -1,0 +1,60 @@
+name: "PR Preview Deployment"
+
+on:
+  pull_request:
+    branches:
+      - main  # Only trigger on PRs to main
+    types: [opened, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  pull-requests: write  # Allows commenting on PRs
+
+jobs:
+  deploy-preview:
+    if: github.event.action != 'closed'
+    name: Deploy PR Preview
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Ensure Previews Directory Exists
+        run: mkdir -p previews/pr-${{ github.event.number }}
+
+      - name: Deploy PR Preview to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main  # Store previews in `main/previews/pr-<PR_NUMBER>/`
+          folder: .  # Copy raw source files
+          target-folder: previews/pr-${{ github.event.number }}
+          clean: false  # Prevents deleting previous previews
+
+      - name: Post Preview Link in PR
+        uses: mshick/add-pr-comment@v2
+        with:
+          message: "🚀 PR Preview is live: [https://garcialab.berkeley.edu/previews/pr-${{ github.event.number }}/](https://garcialab.berkeley.edu/previews/pr-${{ github.event.number }}/)"
+
+  cleanup-preview:
+    if: github.event.action == 'closed'
+    name: Cleanup PR Preview
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Delete PR Preview Files
+        run: |
+          git checkout main
+          git rm -rf previews/pr-${{ github.event.number }}
+          git commit -m "Remove preview for PR #${{ github.event.number }}"
+          git push origin main
+
+      - name: Comment on PR About Cleanup
+        uses: mshick/add-pr-comment@v2
+        with:
+          message: "🧹 PR Preview has been removed since the PR was closed."
