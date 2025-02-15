@@ -1,0 +1,312 @@
+- avatar: SamSmith.jpeg
+  name: Sam Smith 
+  caste: rotation
+  link: 
+  background: > 
+    Molecular & Cell Biology Rotation Student (Spring 2020) <br/>
+    B.S in Biology, minor in Biomedical Engineering, Carnegie Mellon University
+
+
+- avatar: augusto.jpg
+  name: Augusto Berrocal  
+  caste: grad
+  link: 
+  background: >
+      Molecular & Cell Biology <br/>
+      BS Genomic Sciences, Univ. Nacional Autónoma de Mexico (UNAM)
+
+
+- avatar: daniel.png
+  name: Daniel Jefferson Aaron
+  caste: undergrad
+  link:
+  background: > 
+    Physics and Mathematics Undergraduate Student (Summer 2015)
+
+- avatar: abrar.jpg
+  name: Abrar Abidi
+  caste: rotation
+  link:
+  background: > 
+    Molecular & Cell Biology Rotation Student (Fall 2018)<br/>
+    BA Physics, Reed College
+
+- avatar: neilalmeda.jpg 
+  name: Neil Almeida
+  caste: undergrad
+  link: 
+  background: > 
+    Summer Undergraduate Student (2015 and 2016)
+    Undergraduate student, St. Bonaventure University
+
+- avatar: maxaragon.png 
+  name: Max Aragon
+  caste: undergrad
+  link:
+  background: > 
+    Physics Undergraduate Student
+
+- avatar: gonzalo.jpg
+  name: Gonzalo Benegas
+  caste: rotation
+  link:
+  background: > 
+    Computational Biology Rotation Student (Summer 2018)<br/>
+    BS Computer Science, University of Buenos Aires
+
+- avatar: jaredbennet.jpg
+  name: Jared Bennet  
+  caste: rotation
+  link: 
+  background: > 
+     Biophysics Rotation Student (Spring 2017) <br/>
+     BS in Biochemistry and
+     Molecular Genetics, Math, Physics, and Music, Ohio State University
+
+- avatar: jacques.jpg
+  name: Jacques Bothma
+  caste: postdoc
+  link: 
+  background: >
+      PhD Biophysics, UC Berkeley<br/> 
+      BS Physics and Mathematics, University of Queensland 
+
+- avatar: myron.jpg
+  name: Myron Barber Child    
+  caste: tech
+  link: ""
+  background: >
+      BS Physics and Astrophysics, UC Berkeley 
+
+- avatar: ana.jpg
+  name: Ana Margarida Correira De Paiva Bul
+  caste: undergrad
+  link: 
+  background: > 
+    Physics Undergraduate Student, University of Manchester (2015-2016)
+
+- avatar: elizabethearley.jpg
+  name: Elizabeth Earley
+  caste: rotation 
+  link: 
+  background: > 
+    Molecular & Cell Biology Rotation Student (Fall 2017)<br/>
+    BS Human Biology and Society, UCLA
+
+- avatar: nickeveretts.png 
+  name: Nicholas Everetts
+  caste: rotation 
+  link: 
+  background: > 
+    Computational Biology Rotation Student (Fall 2017)<br/>
+    BS Biochemistry (Computer Science and Mathematics minors), the University of
+    Arizona
+    
+- avatar: samfernandez.png
+  name: Samantha Fernandez
+  caste: rotation
+  link:
+  background: > 
+    Molecular & Cell Biology Rotation Student (Spring 2016)<br/>
+    BA, Molecular & Cell Biology, UC Berkeley
+
+- avatar: MaxFerrin.png
+  name: Max Ferrin
+  caste: rotation 
+  link: 
+  background: >
+    Molecular & Cell Biology Rotation Student (Winter 2017)<br/>
+    BS Molecular, Cellular, & Developmental Biology, University of Washington
+
+- avatar: trevor.jpg
+  name: Trevor Grand Pre
+  caste: rotation
+  link: 
+  background: > 
+    Physics Rotation Student<br/>
+    BS in Physics, DePaul University
+
+- avatar: claire.jpg
+  name: Claire Guol
+  caste: rotation
+  link: 
+  background: > 
+    Molecular & Cell Biology Rotation Student (Fall 2019)<br/>
+    BS Molecular Biology and Computer Science, MIT
+
+- avatar: Anjali.jpg
+  name: Anjali Kaira
+  caste: undergrad
+  link: 
+  background: > 
+    Molecular & Cell Biology Undergraduate Student
+
+- avatar: JonathanKarr.jpg
+  name: Jonathan Karr 
+  caste: rotation
+  background: > 
+    Molecular & Cell Biology Rotation Student (Winter 2018)<br/>
+    BS/MS in Biochemistry, Colorado State University
+
+- avatar: Kazemzadeh.jpg
+  name: Maryam Belen Kazemzadeh-Atoufi
+  caste: undergrad
+  background: > 
+    Summer Undergraduate Student (2016)<br/>
+    Physics and Mathematics Undergraduate Student, UNC Chapel Hill
+
+- avatar: kuznets-speck.png 
+  name: Ben Kuznets-Speck
+  caste: rotation
+  background: > 
+    Biophysics Rotation Student (Fall 2018)<br/>
+    BS Mathematics and Physics, Case Western Reserve University.
+
+- avatar: StevenLee.png
+  name: Steven Lee
+  caste: rotation
+  background: > 
+    Physics Rotation Student (Summer 2018)<br/>
+    BS Physics and Mathematics, City University of New York, Brooklyn College
+
+- avatar: WendyLiu.png
+  name: Wendy Liu
+  caste: undergrad
+  background: > 
+    High School Intern (Summer 2018)<br/>
+    Undergraduate Student, UC Berkeley
+
+- avatar: emma.jpg
+  name: Emma Luu
+  caste: undergrad
+  link: 
+  background: >
+      Physics Undergraduate
+
+- avatar: marchando.jpg 
+  name: Paul Marchando
+  caste: rotation
+  background: > 
+    Molecular & Cell Biology Rotation Student (Winter 2018)<br/>
+    BS Chemical and Biological Engineering, University of Colorado Boulder
+
+- avatar: annika.jpg
+  name: Annika Martin
+  caste: rotation
+  background: > 
+    Molecular & Cell Biology Rotation Student (Spring 2019)
+
+- avatar: seanmedin.jpg
+  name: Sean Medin
+  caste: undergrad
+  link: 
+  background: >
+      Physics Undergraduate
+
+
+- avatar: evan.jpg
+  name: Evan Mladina
+  caste: undergrad
+  link:
+  background: > 
+    Intern (Summer 2018)<br/>
+    BA Physics and Applied Mathematics, UC Berkeley
+
+- avatar: MatthewNorstad.jpg
+  name: Matthew Norstad
+  caste: tech
+  background: > 
+    Junior Specialist (2015-2018)<br/>
+    BA Biology, Vassar College
+
+- avatar: liya.jpg
+  name: Liya Oster
+  caste: rotation
+  background: > 
+    Biophysics Rotation Student (Fall 2018)
+    BS in Biophysics, UCLA
+
+- avatar: AaronPerez.jpg
+  name: Aaron Perez
+  caste: tech
+  background: > 
+    Intern (Summer 2018)<br/>
+    BA Physics, UC Berkeley
+
+- avatar: RobertReitmeijer.jpg
+  name: Robert Reitmeijer
+  caste: rotation
+  background: > 
+    Biophysics Rotation Student (Spring 2016)
+    BS Biochemistry, University of Rocheste
+
+- avatar: JosephRobinson.jpg
+  name: Joseph Robinson
+  caste: rotation
+  background: > 
+    Molecular & Cell Biology Rotation Student (Fall 2015)<br/>
+    BS Biochemistry and Molecular Biology and Computer Science, Gettysburg
+    College
+    
+- avatar: Nica.jpg
+  name: Nica Nahal Sabouni
+  caste: undergrad
+  background: > 
+    Molecular & Cell Biology Undergraduate Student (2015-2016)<br/>
+    BS in Molecular & Cell Biology Undergraduate, UC Berkeley
+
+- avatar: abhishek.jpg 
+  name: Abhishek Sethi
+  caste: tech
+  background: > 
+    Junior Specialist (Summer 2018)<br/>
+    Integrated MS in Physics, BITS Pilani
+
+- avatar: Sunash.jpg
+  name: Sunash Sharma
+  caste: undergrad
+  background: > 
+    Applied Physics Undergraduate Student, Caltech (Summer 2016
+
+- avatar: Sannidhi.jpg
+  name: Sannidhi Shukla
+  caste: undergrad
+  background: > 
+    Molecular & Cell Biology Undergraduate Student (Fall 2016)
+
+- avatar: MarcSingleton.jpg
+  name: Marc Singleton
+  caste: rotation
+  background: > 
+    Biophysics rotation student (Fall 2017)<br/>
+    BA Chemistry and Mathematics, Vanderbilt University
+
+- avatar: niranjan.png
+  name: Niranjan Srinivas
+  caste: postdoc
+  background: > 
+    Damon Runyon Postdoctoral Fellow<br/>
+    PhD Computation and Neural Systems, Caltech (2015) <br/>
+    BS, MS in Mathematics & Scientific Computing, IIT Kanpur
+
+- avatar: jordan.jpg
+  name: Jordan Xiao
+  caste: undergrad
+  background: > 
+    Physics Undergraduate Student (2016-2019)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

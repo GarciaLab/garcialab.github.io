@@ -1,0 +1,651 @@
+about: >
+  Biology is being revolutionized by new experimental techniques that have
+  made it possible to quantitatively query the inner workings of molecules,
+  cells and multicellular organisms in ways that were previously
+  unimaginable. The objective of this course is to respond to this deluge of
+  quantitative data through quantitative models and the use of biological
+  numeracy. The course will explore the description of a broad array of
+  topics from modern biology using the language of physics and mathematics.
+  One style of thinking we will emphasize imagines the kinds of simple
+  calculations that one can do with a stick in the sand.
+
+  <br/><br/>
+  We will draw examples from broad swaths of modern biology from our
+  department and beyond including cell biology (signaling and regulation,
+  cell motility), physiology (metabolism, swimming), developmental biology
+  (patterning of body plans, how size and number of organelles and tissues
+  are controlled), neuroscience (action potentials and ion channel gating)
+  and evolution (population genetics) in order to develop theoretical models
+  that make precise predictions about biological phenomena. These predictions
+  will be tested through the hands-on analysis of experimental data and by
+  performing numerical simulations using Python. Physical biology will be
+  introduced as an exciting new tool to complement other approaches within
+  biology such as genetics, genomics and structural biology. The course will
+  introduce students to the enabling power of biological numeracy in
+  scientific discovery and make it possible for them to use these tools in
+  their own future research.
+
+structure: >
+  The class as a whole will meet twice a week for one hour and a half. This
+  time will be devoted to lectures, discussions and hands-on activities
+  including Python exercises. Further, the class will be split into weekly
+  one-hour lab sessions. During these lab sessions, students will work
+  closely with the GSIs to implement the concepts they learned in class in
+  the context of different biological problems. Homework assignment will be
+  given every week and will represent 75% of the final grade. Twice during
+  the semester, students will prepare a project. The first project will be a
+  written assignment, while the second project will be presented in class.
+  These projects will represent 25% of the final grade.
+  <br/><br/>
+  For undergraduate students (MCB137L), the projects will consist on carrying
+  out an estimate on a biological phenomenon of interest following the style
+  presented in class. These presentations will be five minutes long.
+  <br/><br/>
+  For graduate students (MCB237L) the project will consist on presenting a
+  theoretical model developed in a recent paper of their choosing to the
+  class. These presentations will be ten minutes long.
+
+policies: > 
+  <b>Attending class and office hours</b><br/>
+  If you miss classes, it is your responsibility to get notes from one of your
+  classmates. You cannot expect the instructor or GSI to redo the lecture
+  during office hours.
+  <br/>
+  Being able to attend office hours are a key to success. If you cannot attend
+  any of the three offered office hours, you might want to reconsider taking
+  this course.
+  <br/><br/>
+  <b>Homework assignments</b><br/>
+  Homeworks are due at the beginning of class one week after they are posted.
+  <br/>
+  Homeworks should be submitted through GradeScope (link) to the GSIs in PDF
+  form. Any other form of homework submission will not be accepted. No late
+  homeworks. Time management is key. Start to work on your homework assignments
+  early and make use of office hours and our availability over Piazza.
+  <br/>
+  It is important to describe your reasoning. Just writing an equation or
+  drawing a plot does not constitute a satisfactory answer to a homework
+  problem. All plots in the homeworks need to have labeled axes. All code used
+  needs to be submitted through GraceScope by the homework due date. You can
+  work in groups, but the answers should be your own. This includes the code!
+  <br/>
+  <br/>
+  <b>Grading</b><br/>
+  Regrading is done only until a week after the homework solutions are
+  posted. If you ask us to regrade an answer in a homework assignment, we
+  reserve the right to regrade all the answers it that homework assignment.
+  Your two worst scoring homeworks will not be considered for the final
+  grade. We do not grade on a curve(distribution) or anything like that. 
+  
+people:
+  - person:
+    name: Hernan Garcia
+    email: hggarcia@berkeley.edu 
+    role: Instructor
+    img: hernan.jpg
+    office_hours: Wednesdays 3pm - 4pm
+  - person:
+    name: YangJoon Kim
+    email: yjkim90@berkeley.edu
+    role: GSI
+    img: yang.jpeg
+    office_hours: Wednesdays 11pm - 12pm
+  - person:
+    name: Jiaxi (Jake) Zhao
+    email: jiaxi.zhao@berkeley.edu
+    role: GSI
+    img: jakezhao.jpg
+    office_hours: Wednesdays 11pm - 12pm
+
+Homework:
+  - set:
+    title: Homework 1
+    link: MCB137+237-HW1-2020.pdf
+    due: "1/30 at 3:30 PM"
+    materials:
+      - name: Sender 2016
+        type: paper
+        link: Sender2016.pdf
+    solutions: 
+      - name: Homework 1 Solutions
+        type: protected
+        link: hw1_solns.pdf
+  - set:
+    title: Homework 2
+    link: MCB137+237-HW2-2020.pdf
+    due: "2/6 at 3:30 PM"
+    materials:
+      - name: Schmidt 2016
+        type: paper
+        link: Schmidt2016.pdf
+      - name: Mass spectrometry data on ATP synthase
+        type: external 
+      - name: Cai 2006
+        type: paper
+        link: Cai2006.pd 
+    solutions: 
+      - name: Homework 2 Solutions 
+        #type: protected
+        #link: hw2_solns.pdf
+  - set:
+    title: Homework 3
+    link: MCB137+237-HW3-2020.pdf 
+    due: "2/13 at 3:30 PM"
+    solutions:
+      - name: Homework 3 Solutions
+        #type: protected
+        #link: h3_solns.pdf
+      - name: Python Code
+        #type: external
+        #link: "https://drive.google.com/file/d/1_ncoLP1Vx3vWaxgbQB2RICG_Bo9RKjjs/view?usp=sharing"
+  - set:
+    title: Estimate Paragraph
+    due: "2/13 at 3:30 PM"
+  - set:
+    title: Homework 4
+    link: MCB137+237-HW4-2020.pdf
+    due: "2/20 at 3:30 PM"
+    materials:
+      - name: Helenius 2006
+        type: paper
+        link: Helenius2006.pdf
+      
+    solutions: 
+      - name: Homework 4 Solution
+        #type: protected
+        #link:
+      - name: Python Code, Problem 2
+        #type: external 
+        #link: "https://colab.research.google.com/drive/19FsGno7a0IC7wQIQbNGu1j1h9Pb_isp8?usp=sharing" 
+      - name: Python Code, Problem 5
+        #type: external
+        #link: "https://colab.research.google.com/drive/15ujgvsaMFevKvysIpdf0Wku4YS_63r6a?usp=sharing"
+  - set:
+    name: First Estimate
+    due: "2/27 at 3:30 PM"
+  - set: 
+    title: Homework 5
+    link: MCB137+237-HW5-2020.pdf
+    due: "3/12 at 3:30 PM"
+    materials:
+      - name: Dong 1996
+        type: paper
+        link: Dong1996.pdf
+      - name: Klumpp 2013
+        type: paper
+        link: Klumpp2013.pdf
+    solutions:
+      - name: Homework 5 Solution
+        #type: protected
+        #link:
+      - name: Python Code, Problem 1
+        #type: external
+        #link: "https://colab.research.google.com/drive/1RQyQKLz9gbO5Ois5RMZKZr7sqwyvTsnk?usp=sharing"
+      - name: Python Code, Problem 2
+        #type: external
+        #link: "https://colab.research.google.com/drive/1Iw0BluJK1G_tG_QFn6Aam6G6uFle-0Pr?usp=sharing"
+  - set: 
+    title: Homework 6
+    link: MCB137+237-HW6-2020.pdf
+    due: "4/2 at 3:30 PM"
+    materials: 
+      - name: Taniguchi 2010
+        type: paper
+        link: Taniguchi2010.pdf
+      - name: Petkova 2014
+        type: paper
+        link: Petkova2004.pdf
+      - name: Drocco 2011
+        type: paper
+        link: Drocco2011.pdf
+    solutions:
+      - name: Homework 6 solutions
+        #type: protected
+        #link: 
+      - name: Python code, problem 1
+        #type: external
+        #link: "https://colab.research.google.com/drive/1TbmwHQ5zlQXKfnoEUVfCQjVw-uzO6r03?usp=sharing"
+      - name: Python code, problem 2
+        #type: external
+        #link: "https://colab.research.google.com/drive/18r9jFOjeGG2-nlNmOPSwQPbczQZPhr4x?usp=sharing"
+      - name: Python code, problem 3
+        #type: external
+        #link: "https://colab.research.google.com/drive/1duKVCJxatuXzJgc_qW55cOxyU-LEE0ER?usp=sharing"
+  - set:
+    title: Homework 7
+    link: MCB137+237-HW7-2020.pdf
+    due: "4/4 at 8:00 PM"
+    materials:
+      - name: Brangwynne 2009
+        type: paper
+        link: Brangwynne2009.pdf
+    solutions:
+      - name: Homework 7 Solutions
+        #type: protected
+        #link: 
+      - name: Python Code, Problem 2
+        #type: external
+        #link: "https://colab.research.google.com/drive/1CJlxJZ8zA-cVg_9VK3qLprBpBgAHTf5_?usp=sharing"
+  - set:
+    title: Homework 8
+    link: MCB137+237-HW8-2020.pdf
+    due: "4/9 at 3:30 PM"
+    materials:
+      - name: Keller 1986
+        type: paper
+        link: Keller1986.pdf
+      - name: Keller 1986 data
+        type: data
+        link: Keller1986.xlsx
+    solutions:
+      - name: Homework 8 Solutions 
+        #type: protected
+        #link: 
+      - name: Python Code, Problem 2
+        #type: external
+        #link: "https://colab.research.google.com/drive/1oJsBn1LsLCvJJdJfOulK05RsGUrwjOLv?usp=sharing"
+      - name: Python Code, Problem 4
+        #type: external
+        #link: "https://colab.research.google.com/drive/145hiYqTdj9kICskcWNj_YnbEuL_QHeXz?usp=sharing"
+      - name: Python Code, Problem 5
+        #type: external
+        #link: "https://drive.google.com/file/d/1Rr1VnX_YHvue6MmTk2J__nhMnDAvvwEG/view?usp=sharing"
+  - set: 
+    title: Homework 9
+    due: "4/16 at 3:30 PM"
+    link: MCB137+237-HW9-2020.pdf
+    materials:
+      - name: Briggs 2004
+        type: paper
+        link: Briggs2004.pdf
+      - name: Briggs 2006
+        type: paper
+        link: Briggs2006.pdf
+      - name: Whitman 1998
+        type: paper
+        link: Whitman1998.pdf
+      - name: Garcia 2011
+        type: paper
+        link: Garcia2011c.pdf
+      - name: Simple repression data 
+        type: external
+        link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
+    solutions: 
+      - name: Homework 9 solutions
+        #type: protected
+      - name: Python Code, Problem 2
+        #type: external
+        #link: "https://drive.google.com/file/d/1N6-iwGOIZ2qAM03-rpQqKt4COP2A8-wV/view?usp=sharing"
+      - name: Python Code, Problem 3
+        #type: external
+        #link: "https://colab.research.google.com/drive/18OWiCd1gVdqXmXvFeKkUK3dru2XO4RHD?usp=sharing"
+  - set:
+    title: Homework 10
+    due: "4/23 at 3:30 PM"
+    link: MCB137+237-HW10-2020.pdf
+    solutions:
+      - name: Homework 10 Solutions
+        #type: protected
+      - name: Python Code, Problem 1
+        #type: external
+        #link: "https://colab.research.google.com/drive/1UVBYwjNjwWZsLvcqsM0UWFAvx6hJzwAa?usp=sharing"
+      - name: Python Code, Problem 3
+        #type: external
+        #link: "https://colab.research.google.com/drive/1zSov3yUPKJRT7LV6CbPKo9JrP-x3h3Hz?usp=sharing"
+      - name: Python Code, Problem 4
+        #type: external
+        #link: "https://colab.research.google.com/drive/1Gd04B--O7p0OfxYgtfaGgzl4rF4f9-V7?usp=sharing"
+
+syllabus:
+  - entry:
+      date: 1/21
+      topics: > 
+        A feeling for the numbers in biology, Part I.
+        Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
+        discovery in the living world. What sets the scale of things?
+      materials: 
+        - name: "A feeling for the numbers: Powerpoint Presentation" 
+          type: protected
+        - name: >
+            Mathematics is Biology's Next Microscope, Only better; Biology is Mathematics'
+            Next Physics, Only Better (Cohen 2004)
+          type: paper
+          link: Cohen2004.pdf
+        - name: >  
+            Theory in Biology: Fiture 1 or Figure 7? (Phillips 2015)
+          type: paper
+          link: Phillips2015.pdf 
+        - name: Distribution of biomass on Earth (Bar-On 2018)
+          type: paper
+          link: Bar-On2018.pdf
+        - name: The Tragic Matter (Schatz 2003)
+          type: paper
+          link: Schatz2003.pdf
+        - name: Polymerases and the Replisome (Baker 1998)
+          type: paper
+          link: Baker1998.pdf
+        - name: Re-examination of the relationshiop between marine virus and microbial cell abundances (Wigington2016)
+          type: paper
+          link: Wigington2016.pdf
+        - name: PBoC Chapters 1 - 3
+  - entry:
+    date: 1/23
+    topics: > 
+      A feeling for the numbers in biology, Part II
+    materials: 
+      - name: Number of cells in the human body (Sender 2016)
+        type: paper
+        link: Sender2016
+    discussion:
+      - name: Introduction to GradeScope and Python CoLab  
+      - name: Simple estimates
+      - name: PBoC Chapters 2 & 3
+      - name: Kinder & Nelson Chapters 1 - 3
+  - entry:
+    date: 1/28
+    topics: > 
+      An obsession with dN/dt. Bacterial Growth Part I: Solving the
+      Exponential Growth Equation
+    materials:
+      - name: >
+          <i>E. coli</i> by the numbers - Limits to Bacterial Growth:
+          Powerpoint Presentation"
+        type: protected
+        link:
+      - name: An obsession with dN/dt (Neidhardt1999)
+        type: paper
+        link: Neidhardt1999.pdf
+      - name: Simulating bacterial growth (Google CoLab)
+        type: external
+        link: "https://colab.research.google.com/drive/1KQ3mrJbzkV4G3SfWDpKks0vBemkIeIVx"
+      - name: Python Basics (Google CoLab)
+        type: external
+        link: "https://drive.google.com/open?id=175woPpchQuxZEbgzylqOXf_34hOfXOw-"
+      - name: PBoC Chapters 2 and 3; Kinder & Nelson's Python Book Chapters 1 - 3
+
+  - entry:
+    date: 1/30
+    topics: > 
+      Biological time scales. An aobsession with dN/dt. Bacterial Growth - Part
+      II: Solving the Exponential Growth Equation
+    materials: 
+      - name: A theoretical study on the amount of ATP required for synthesis of microbial cell material
+        type: paper
+        link: Stouthamer1973.pdf
+      - name: DNA primase acts as a molecular brake in DNA replication (Van Oijen 2006)
+        type: paper
+        link: VanOijen2006.pdf
+      - name:  "Interdependence of Cell growth and Gene Expression: Origins and Consequences (Scott 2010)"
+        type: paper
+        link: Scott2010.pdf
+    discussion:
+      - name: Measuring bacterial growth using image analysis, Part I
+      - name: Python Code
+        type: external
+        link: "https://colab.research.google.com/drive/1wk1XD1da6Kmo_ebNF1rQRKlPppsnjoKr" 
+      - name: Data
+        type: external
+        link: 
+  - entry:
+    date: 2/4
+    topics: > 
+      An obsession with dN/dt. Bacterial Growth Part III: The Physical Limits
+      to Bacterial Growth
+  - entry:
+    date: 2/6
+    topics: >
+      Diffusion, the null hypothesis of biological dynamics, Part I : Diffusion
+      and Axonal Transport
+    materials: 
+      - name: "Diffusion: Powerpoint Presentation"
+        type: protected
+        link: 
+      - name: >
+          On the implications of a Sex Difference in the REaction Times of
+          Sprinters at the Beijing Olympics (Lipps 2011)
+        type: paper
+        link: Lipps2011
+      - name: >
+          All-optical electrophysiology in mammalian neurotns using engineered
+          microbial rhodopsins (Hochbaum 2014)
+        type: paper
+        link: Hochbaum2014.pdf
+      - name: Migration of proteins along the axons of the Sciatic Nerve (Droz 1962)
+        type: paper
+        link: Droz1962.pdf
+      - name: One at a time, live tracking of NGF axonal transport using quantum dots
+        type: paper
+        link: Cui2007.pdf
+      - name: Axonal Transport (MOrfini 2011)
+        type: paper
+        link: Morfini2011.pdf
+      - name: >
+          Myosin V Walks Hand-Over-Hand: Single Fluorophore IMaging with 1.5-nm
+          Localization (Yildiz 2003)
+        type: paper
+        link: Yildiz2003.pdf
+      - name: PBoC Chapter 13
+  - entry:
+    date: 2/11
+    topics: > 
+      Diffusion, the null hypothesis of biological dynamics, Part II. Diffusion
+      using continuum theory and diffusion by coin flips
+    materials: 
+      - name:  Diffusion by coin flips (Python Code)
+        type: external
+        link: "https://drive.google.com/a/berkeley.edu/file/d/1UFq9jnhFrtlJIS07CmA_HCPPcSakJz9n/view?usp=sharing"
+  - entry: 
+    date: 2/13
+    topics: > 
+      Diffusion, the null hypothesis of biological dymaics, Part III: Diffusion
+      using Continuum Theory and Diffusion by Coinflips
+    materials:
+      - name: >
+          The depolymerizing kinesin MCAK uses lattice diffusion to rapidly
+          target microtubule ends (Helenius2006.pdf)
+        type: paper
+        link: Helenius2006
+    discussion:
+      - name: Chi-square minimization to measure the growth rate (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1GnCI6OkBdVZUovVnz_ur0IF7OlJgXHLh"
+  - entry:
+    date: 2/18
+    topics: >
+      Diffusion, the null hypothesis of biological dynamics, Part IV. Diffusion
+      using master equations and FRAMP: Measuring diffusion using
+      photobleaching
+  - entry: 
+    date: 2/20
+    topics: > 
+      Diffusion, the null hypothesis of biological dynamics, Part V. A
+      universal diffusion speed limit ofr enzyme catalysis and other reactions
+    discussion:
+      - name: Diffusion by master equations, Part I (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1gdm53PuUoGZRKa_Anx_bqxzlYOyP0Shh"
+  - entry: 
+    date: 2/25  
+    topics: > 
+      Study haall to prepare for your first estimate
+  - entry:
+    date: 2/27
+    topics: Biological Dynamics, Part I. The mean dynamics of the constitutive promoter
+    materials:
+      - name: "Biological Dynamics: Powerpoint Slides"
+        type: protected
+        link:
+      - name: Real-Time Kinetics of Gene Activity in Individual Bacteria (Golding 2005)
+        type: paper
+        link: Golding2005.pdf
+      - name: mRNA synthesis/degradation simulation (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/12p7cPBQG16IBIBlTvGjwXq2xsgTgjwgi"
+    discussion:
+      - name: Diffusion by master equations, Part II
+  - entry: 
+    date: 3/3
+    topics: > 
+      Biological dynamics, part II: The single-cell distribution of the constitutive promoter
+  - entry: 
+    date: 3/5
+    topics: > 
+      Membraneless organelles adn phase transitions in biology, Part I. Entropy
+      maximization and the second law of thermodynamics
+    materials:
+      - name: "Phase Separatation: Powerpoint Presentation"
+        type: protected
+        link:   
+    discussion:
+      - name: mRNA distributions by chemical master equations, Part I (Python Code)
+        type: external
+        link: "https://drive.google.com/file/d/1CWT2ApqbWseArDmvRLUI4TQPWjdnosXw/view?usp=sharing"
+
+  - entry: 
+    date: 3/10
+    topics: >
+      Membraneless organelles and phase transitions in biology, Part II: Free energy minimization
+  - entry:
+    date: 3/12
+    topics: >
+      Membraneless organelles and phase transitions in biology, Part III: Free
+      energy minimization and the emergence of phase separation
+    materials:
+      - name: >
+          Quantifying <i>E. coli</i> proteome and transcriptome with
+          Single-Molecule Sensitivity in Single Cells (Taniguchi 2010)
+        type: paper
+        link: Taniguchi2010.pdf
+      - name: Maternal origins of Developmental Reproducibility (Petkova2004.pdf)
+        type: paper
+        link: Petkova2004.pdf
+    discussion:
+      - name: mRNA distributions by chemical master rerquations, part II
+      - name: Plotting hte free energy of a phase-separated system (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
+  - entry:
+    date: 3/17
+    topics: >
+      Membraneless organelles and phase transitions in biology, Part IV:
+      Biological regulation of phase transitions. A life-or-death decision: THe
+      lambda Switchh, Part I. The statistical mechanics rprotocol: ion channels
+      and constitutive promoters
+    materials:
+      - name: "The Lambda Switch: Powerpoint Presentation"
+        type: protected
+        link: 
+  - entry:
+    date: 3/19
+    topics: >
+      A life-or-death decision: The Lambda Switch, Part II. The statistical
+      mechanics protocol: ion channels and constitutive promoters
+    materials:
+      - name:  Plotting the Promoter Fraction Bound (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1Aa63tStc2PDFmYAGpmdpRNKucGqW56rU?usp=sharing"
+      - name: Grermline P Granueles Are Liquid Droplets That Localize by controlled Dissolution/Condensation (Brangwynne 2009)
+        type: paper
+        link: Brangwynne2009.pdf
+    discussion: 
+      - name: "Sequencing Depth: Binomial and Poisson distribution"
+  - entry:
+    date: 3/31
+    topics: >
+      A life-or-death decision: THe Lambda Switch , Part III. Simple repression
+      by Lac and Lambdaa repressor
+  - entry:
+    date: 4/2
+    topics: >
+      A life-or-death decision: The Lambda switch, Part IV. Cooperativity and
+      the generation of biological sharpness
+    materials: 
+      - name: >
+          Channel Gating Kinetics of Purified Sodium CHannels Modified by
+          Batrachotoxin (Keller 1986)
+        type: paper
+        link: Keller1986.pdf
+      - name: >
+          A FIrst Exposure to Statistical Mechanics of Life Scientists:
+          Applications to Binding (Garcia 2007)
+        type: paper
+        link: Garcia2007b.pdf
+    discussion:
+      - name: LacI Repressor Analysis, Part I (Python Code)
+        type: external
+        link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
+  
+  - entry: 
+    date: 4/7
+    topics: > 
+      A life-or-death decision: The Lambda Switch, Part V. A dynamical systems view of the Lambda switch
+  - entry:
+    date: 4/9
+    topics: > 
+      A life-or-death decision: The Lambda switch, Part VI. A dynamical systems view of the Lambda Switch
+    materials: 
+      - name: Mutual Repression (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1O6TyEtgWbi0o2yuhYbMJrU67sagUur8Y?usp=sharing"
+      - name: The stoichiometry of Gag protein in HIV-1 (Briggs 2004)
+        type: paper
+        link: Briggs2004.pdf
+      - name: >
+          The mechanism of HIV-1 Core Assembly: Insightes from
+          Three-Dimensional Reconstructions of Authentic Virions (Briggs 2006)
+        type: paper
+        link: Briggs2006.pdf
+      - name: > 
+          Quantitative dissection of the simple repression input-output function (Garcia 2011)
+        type: paper
+        link: Garcia2011c.pdf
+      - name: "Prokaryontes: The unseen majority (Whitman 1998)"
+        type: paper
+        link: Whitman1998.pdf
+      - name: "Data folder for simple repression" 
+        type: external
+        link: "https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing"
+    discussion:
+      - name: LacI Rperessor ANalysis, Part 2 (Python Code)
+        type: external
+        link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
+  - entry:
+    date: 4/14
+    topics: >
+      Coronavirus by the numbers, Part I 
+    materials: 
+      - name: "Coronavirus by the Numbers: Powerpoint Presentation"
+        type: protected
+        link:
+  - entry: 
+    date: 4/16
+    topics: > 
+      Coronavirus by the Numbers, Part II
+    discussion:
+      - name: Gneetic Oscillators (Python Code) 
+        type: external
+        link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
+  - entry: 
+    date: 4/21
+    topics: > 
+      Dynamics of epidemics, Part I
+    materials: 
+      - name: Please fill out the course survey
+        type: external
+        link: "http://course-evaluations.berkeley.edu/"
+  - entry:
+    date: 4/23
+    topics: > 
+      Dynamics of epidemics, part II. Physical biology of the Cell Recap
+    materials: 
+      - name: SIR Model (Python Code)
+        type: external
+        link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
+  - entry:
+    date: 4/28
+    topics: > 
+      Second Project Presentations, Part I
+  - entry:
+    date: 4/30
+    topics: > 
+      Second Project Presentations, Part II
