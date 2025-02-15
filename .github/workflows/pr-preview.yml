@@ -4,11 +4,11 @@ on:
   pull_request:
     types: [opened, synchronize, reopened, closed]
 
-permissions:  # 🔹 Add this section
+permissions:
   contents: write
-  pull-requests: write  # 🔹 Allows commenting on PRs
   pages: write
   id-token: write
+  pull-requests: write  # Allows adding comments on PRs
 
 jobs:
   deploy-preview:
@@ -23,32 +23,11 @@ jobs:
       - name: Deploy Jekyll Site to PR Preview
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: main
-          folder: .
-          target-folder: preview/pr-${{ github.event.number }}
+          branch: main  # Keep everything on the main branch
+          folder: .  # Jekyll automatically builds from here
+          target-folder: previews/pr-${{ github.event.number }}
 
       - name: Post Preview Link in PR
         uses: mshick/add-pr-comment@v2
         with:
-          message: "🚀 PR Preview is live: [https://pr-${{ github.event.number }}.yourdomain.com](https://pr-${{ github.event.number }}.yourdomain.com)"
-
-  cleanup-preview:
-    if: github.event.action == 'closed'
-    name: Cleanup PR Preview
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Delete PR Preview Files
-        run: |
-          git checkout main
-          git rm -rf preview/pr-${{ github.event.number }}
-          git commit -m "Remove preview for PR #${{ github.event.number }}"
-          git push origin main
-
-      - name: Comment on PR About Cleanup
-        uses: mshick/add-pr-comment@v2
-        with:
-          message: "🧹 PR Preview has been removed since the PR was closed."
+          message: "🚀 PR Preview is live: [https://garcialab.github.io/previews/pr-${{ github.event.number }}/](https://garcialab.github.io/previews/pr-${{ github.event.number }}/)"
