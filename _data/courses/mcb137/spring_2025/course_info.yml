@@ -505,7 +505,7 @@ syllabus:
   #       type: paper
   #       link: Grant2021.pdf
   - entry: #6
-    date: 2/4 Lecture @ 242 Hearst Gym
+    date: 2/6 Lecture @ 242 Hearst Gym
     topics: 
         - "Null Hypotheses in Biology: The Poisson Distribution, Part II.
           <ul>
@@ -592,6 +592,7 @@ syllabus:
           <ul>
               <li>The Poisson Distribution and the Constitutive Promoter.</li>
               <li>The Poisson Distribution':' Bombs over London, constitutive promoters, and sequencing the human genome.</li>
+              <li>The Poisson Distribution and the Constitutive Promoter: Numerical Integration of the Master Equation, Part II.</li>
           </ul>"
     materials:
       - name: Breda 2021
@@ -632,13 +633,17 @@ syllabus:
     topics: 
         - "Null Hypotheses in Biology, Part V.
           <ul>
-              <li>The Poisson Distribution and the Constitutive Promoter: Numerical Integration of the Master Equation, Part II.</li>
               <li>The Poisson Distribution: Bombs over London, constitutive promoters, and sequencing the human genome.</li>
           </ul>"
-  #   # materials:
-  #     # - name: "Null Hypotheses and the Great Probability Distributions: Powerpoint Presentation"
-  #     #   type: external
-  #     #   link: "https://docs.google.com/presentation/d/1eT8uYS0aWpsvZieUJ1viTfJ01_puAbwL/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+        - "The Synthetic Transcriptome, Part I
+          <ul>
+              <li>The single-cell sequencing revolution</li>
+              <li>The physics of single-cel sequencing</li>
+          <ul>"
+    materials:
+      - name: "The Physics of Transcriptomes: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/11JUoAX9p0979Ial6rQH09dc2zW0uC_S1/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
   - entry: #10
     date: 2/20 Lecture @ 242 Hearst Gym #<a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
