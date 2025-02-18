@@ -145,14 +145,14 @@ Homework:
 #       - name: Homework 4 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1YL69N45ja023VLaTi8XDMR4yKYRLCFMX/view?usp=drive_link"   
-#   - set:
-#     title: Homework 5
-#     link: MCB137+237-HW5-2024.pdf
-#     due: "2/27 at 2:00 PM"
-#     materials:
-#       - name: Bailey 1976
-#         type: paper
-#         link: Bailey1976.pdf
+  - set:
+    title: Homework 5
+    link: MCB137+237-HW5-2025.pdf
+    due: "2/25 at 2:00 PM"
+    materials:
+      - name: Bailey 1976
+        type: paper
+        link: Bailey1976.pdf
 #       - name: Tabula Muris 2018
 #         type: paper
 #         link: TabulaMuris2018.pdf
