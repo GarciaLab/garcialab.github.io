@@ -21,10 +21,17 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures full repository is fetched, including master
+
+      - name: Fetch and Checkout Master
+        run: |
+          git fetch origin master
+          git checkout master
 
       - name: Configure Git with PAT
         run: |
-          git config --global user.name "lab-bot-workflows"  # Use bot GitHub username
+          git config --global user.name "lab-bot-workflows"
           git config --global user.email "lab-bot-workflows@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
 
@@ -33,7 +40,6 @@ jobs:
 
       - name: Deploy PR Preview to GitHub Pages
         run: |
-          git checkout master
           git pull origin master
           mkdir -p previews/pr-${{ github.event.number }}
           echo "Preview deployed" > previews/pr-${{ github.event.number }}/index.html
@@ -54,6 +60,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures full repository history is fetched
+
+      - name: Fetch and Checkout Master
+        run: |
+          git fetch origin master
+          git checkout master
 
       - name: Configure Git with PAT
         run: |
@@ -63,7 +76,6 @@ jobs:
 
       - name: Delete PR Preview Files
         run: |
-          git checkout master
           git pull origin master
           git rm -rf previews/pr-${{ github.event.number }}
           git commit -m "Remove preview for PR #${{ github.event.number }}"
