@@ -644,6 +644,9 @@ syllabus:
       - name: "The Physics of Transcriptomes: Powerpoint Presentation"
         type: external
         link: "https://docs.google.com/presentation/d/11JUoAX9p0979Ial6rQH09dc2zW0uC_S1/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "In Class Notes - mRNA Counts by Coin Flips"
+        type: external
+        link: "https://drive.google.com/file/d/1vB7mRfshfcyfne2FsEvfmHGubhzX230E/view?usp=sharing"
   - entry: #10
     date: 2/20 Lecture @ 242 Hearst Gym #<a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
