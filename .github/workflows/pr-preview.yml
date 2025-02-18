@@ -27,7 +27,7 @@ jobs:
       - name: Configure Git with PAT
         run: |
           git config --global user.name "lab-bot-workflows"
-          git config --global user.email "lab-bot-workflows@users.noreply.github.com"
+          git config --global user.email "karshenas@berkeley.edu"
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
 
       - name: Ensure Previews Directory Exists
@@ -35,6 +35,8 @@ jobs:
 
       - name: Deploy PR Preview
         run: |
+          git fetch origin master
+          git checkout master
           git pull origin master --rebase
           mkdir -p previews/pr-${{ github.event.number }}
           echo "Preview deployed for PR #${{ github.event.number }}" > previews/pr-${{ github.event.number }}/index.html
@@ -61,11 +63,13 @@ jobs:
       - name: Configure Git with PAT
         run: |
           git config --global user.name "lab-bot-workflows"
-          git config --global user.email "lab-bot-workflows@users.noreply.github.com"
+          git config --global user.email "karshenas@berkeley.edu"
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
 
       - name: Delete PR Preview
         run: |
+          git fetch origin master
+          git checkout master
           git pull origin master --rebase
           git rm -rf previews/pr-${{ github.event.number }}
           git commit -m "Remove preview for PR #${{ github.event.number }}"
