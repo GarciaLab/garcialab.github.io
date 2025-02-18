@@ -3,7 +3,7 @@ name: "PR Preview Deployment"
 on:
   pull_request:
     branches:
-      - master  # Only trigger on PRs to main
+      - master  # Only trigger on PRs to master
     types: [opened, synchronize, reopened, closed]
 
 permissions:
@@ -22,16 +22,24 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Configure Git with PAT
+        run: |
+          git config --global user.name "lab-bot-workflows"  # Use bot GitHub username
+          git config --global user.email "lab-bot-workflows@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
+
       - name: Ensure Previews Directory Exists
         run: mkdir -p previews/pr-${{ github.event.number }}
 
       - name: Deploy PR Preview to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: master  # Store previews in `main/previews/pr-<PR_NUMBER>/`
-          folder: .  # Copy raw source files
-          target-folder: previews/pr-${{ github.event.number }}
-          clean: false  # Prevents deleting previous previews
+        run: |
+          git checkout master
+          git pull origin master
+          mkdir -p previews/pr-${{ github.event.number }}
+          echo "Preview deployed" > previews/pr-${{ github.event.number }}/index.html
+          git add .
+          git commit -m "Deploying preview for PR #${{ github.event.number }}"
+          git push origin master --force
 
       - name: Post Preview Link in PR
         uses: mshick/add-pr-comment@v2
@@ -47,12 +55,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Configure Git with PAT
+        run: |
+          git config --global user.name "lab-bot-workflows"
+          git config --global user.email "lab-bot-workflows@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
+
       - name: Delete PR Preview Files
         run: |
           git checkout master
+          git pull origin master
           git rm -rf previews/pr-${{ github.event.number }}
           git commit -m "Remove preview for PR #${{ github.event.number }}"
-          git push origin main
+          git push origin master --force
 
       - name: Comment on PR About Cleanup
         uses: mshick/add-pr-comment@v2
