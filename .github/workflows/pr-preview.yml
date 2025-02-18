@@ -32,7 +32,7 @@ jobs:
       - name: Configure Git with PAT
         run: |
           git config --global user.name "lab-bot-workflows"
-          git config --global user.email "lab-bot-workflows@users.noreply.github.com"
+          git config --global user.email "karshenas@berkeley.edu"
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
 
       - name: Ensure Previews Directory Exists
@@ -71,7 +71,7 @@ jobs:
       - name: Configure Git with PAT
         run: |
           git config --global user.name "lab-bot-workflows"
-          git config --global user.email "lab-bot-workflows@users.noreply.github.com"
+          git config --global user.email "karshenas@berkeley.edu"
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
 
       - name: Delete PR Preview Files
