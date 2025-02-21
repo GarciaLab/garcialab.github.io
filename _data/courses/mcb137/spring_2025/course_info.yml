@@ -647,10 +647,14 @@ syllabus:
       - name: "In Class Notes - mRNA Counts by Coin Flips"
         type: external
         link: "https://drive.google.com/file/d/1vB7mRfshfcyfne2FsEvfmHGubhzX230E/view?usp=sharing"
+    discussion: 
+      - name: "mRNA number by Stochastic Simulation"
+        type: external
+        link: "https://colab.research.google.com/drive/1D5jJ0DDR1C6zD5Cnh5i0FpHdxIQwkVYy?usp=sharing"
   - entry: #10
     date: 2/20 Lecture @ 242 Hearst Gym #<a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
-        - "The Synthetic Transcriptome, Part I.
+        - "The Synthetic Transcriptome, Part II.
             <ul>
                 <li>The single-cell sequencing revolution.</li>
                 <li>The physics of single-cell sequencing</li>
