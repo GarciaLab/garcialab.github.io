@@ -648,6 +648,7 @@ syllabus:
         type: external
         link: "https://drive.google.com/file/d/1vB7mRfshfcyfne2FsEvfmHGubhzX230E/view?usp=sharing"
     discussion: 
+      - name: "mRNA number simulation, part II"
       - name: "mRNA number by Stochastic Simulation"
         type: external
         link: "https://colab.research.google.com/drive/1D5jJ0DDR1C6zD5Cnh5i0FpHdxIQwkVYy?usp=sharing"
