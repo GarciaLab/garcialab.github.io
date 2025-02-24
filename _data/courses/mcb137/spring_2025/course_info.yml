@@ -123,10 +123,10 @@ Homework:
       - name: Schmidt + Heinemann Data Spreadsheet
         type: external
         link: "https://docs.google.com/spreadsheets/d/1RKYh1WHFPttbbQHQnyAwzLfEe07MT4Rb/edit?usp=sharing&ouid=117716794627695417441&rtpof=true&sd=true"
-#     solutions:
-#       - name: Homework 3 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1PitXuqvWiVQa7sBtFxZhi6iB9vwe7tXG/view?usp=drive_link"
+    solutions:
+      - name: Homework 3 Solutions
+        type: external
+        link: MCB_137_237_HW3_Solutions_SP25-protected.pdf
   - set:
     title: Homework 4
     link: MCB137+237-HW4-2025.pdf
