@@ -126,7 +126,7 @@ Homework:
     solutions:
       - name: Homework 3 Solutions
         type: external
-        link: "https://drive.google.com/file/d/1aImvnKRSExZIkhcT1UyvM1V5wU5R9sI5/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1TF8F5cScL8E5ZpIGOQHdx2LNWfo5PDgR/view?usp=sharing"
   - set:
     title: Homework 4
     link: MCB137+237-HW4-2025.pdf
@@ -141,10 +141,10 @@ Homework:
       - name: Taniguchi 2010
         type: paper
         link: Taniguchi2010.pdf
-#     solutions:
-#       - name: Homework 4 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1YL69N45ja023VLaTi8XDMR4yKYRLCFMX/view?usp=drive_link"   
+    solutions:
+      - name: Homework 4 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1tSudNWx3WK9wVp2xuy0Fn7QHRp7SJedf/view?usp=sharing"   
   - set:
     title: Homework 5
     link: MCB137+237-HW5-2025.pdf
@@ -176,17 +176,17 @@ Homework:
 # #     title: First estimate (MCB137L) and model proposal (MCB237L)
 # #     link: 
 # #     due: "3/3 at 11:00 AM"
-#   - set:
-#     title: Homework 6
-#     link: MCB137+237-HW6-2024.pdf
-#     due: "3/5 at 2:00 PM"
-#     materials:
-#       - name: Petkova 2014
-#         type: paper
-#         link: Petkova2014.pdf
-#       - name: Liu 2013
-#         type: paper 
-#         link: Liu2013.pdf
+  - set:
+    title: Homework 6
+    link: MCB137+237-HW6-2025.pdf
+    due: "3/4 at 2:00 PM"
+    materials:
+      - name: Rosenfeld 2005
+        type: paper
+        link: Rosenfeld2005.pdf
+      - name: Tabula Muris 2018
+        type: paper 
+        link: TabulaMuris2018.pdf
 #       - name: Helenius 2006
 #         type: paper
 #         link: Helenius2006.pdf
