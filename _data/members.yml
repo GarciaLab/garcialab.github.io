@@ -66,13 +66,6 @@
   background: > 
       PhD Physics, University of California, Berkeley <br/>
   email: enzecheng
-- avatar: Haley.JPG
-  name: Haley Bianchi
-  caste: rotation
-  background: >
-    Molecular & Cell Biology Graduate Student <br/>
-    BS Molecular, Cellular & Developmental Biology, University of Washington Seattle
-  email: aishahaley
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
@@ -103,13 +96,6 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
-- avatar: Kensi.jpg
-  name: Kensi Hartman
-  caste: rotation
-  background: >
-    Molecular & Cell Biology Graduate Student <br/>
-    BS Molecular & Cell Biology, Western Washington University
-  email: kensington_hartman
 - avatar: Kian.jpg
   name: Kian Naini 
   caste: undergrad
