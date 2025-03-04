@@ -638,7 +638,7 @@ syllabus:
         - "The Synthetic Transcriptome, Part I
           <ul>
               <li>The single-cell sequencing revolution</li>
-              <li>The physics of single-cel sequencing</li>
+              <li>The physics of single-cell sequencing.</li>
           <ul>"
     materials:
       - name: "The Physics of Transcriptomes: Powerpoint Presentation"
@@ -677,10 +677,9 @@ syllabus:
   - entry: #11
     date: 2/25 Lecture @ 242 Hearst Gym
     topics: 
-        - "The Synthetic Transcriptome, Part II.
+        - "The Synthetic Transcriptome, Part III.
           <ul>
-              <li>The physics of single-cell sequencing.</li>
-              <li>Dimensionality reduction for the transcriptome.</li>
+              <li>The physics of single-cell sequencing, part II.</li>
           </ul>"
   #   materials:
   #       - name: "Diffusion as Biology's Null Hypothesis for Dynamics: Powerpoint Presentation"
@@ -708,9 +707,10 @@ syllabus:
   - entry: #12
     date: 2/27 Lecture @ <a href="https://berkeley.zoom.us/j/94775122834">Zoom</a>
     topics:
-        - "The Synthetic Transcriptome, Part III.
+        - "The Synthetic Transcriptome, Part IV.
           <ul>
-              <li>Dimensionality reduction for the transcriptome.</li>
+              <li>The physics of single-cell sequencing, part III.</li>
+              <li>Finding the right coordinates in a toy model: Harmonic oscillations, part I.</li>
           </ul>"
   #   materials:
   #     - name: "Lecture Notes: Diffusion by coin flips"
@@ -738,7 +738,11 @@ syllabus:
   - entry: #13
     date: 3/4 Lecture @ 242 Hearst Gym
     topics: 
-        - "The Synthetic Transcriptome, Part IV"
+        - "The Synthetic Transcriptome, Part V
+          <ul>
+              <li>Finding the right coordinates in a toy model: Harmonic oscillations, part I.</li>
+              <li>Finding the right coordinates in a synthetic transcriptome, part I.</li>
+          </ul>"
   #   videos:
   #     - name: 'Diffusion by Chemical Master Equation'
   #       type: external
@@ -769,7 +773,10 @@ syllabus:
   - entry: #14
     date: 3/4 Lecture @ 242 Hearst Gym
     topics: 
-        - "The Synthetic Transcriptome, Part V"
+        - "The Synthetic Transcriptome, Part VI
+          <ul>
+              <li>Finding the right coordinates in a synthetic transcriptome, Part II.</li>
+          </ul>"
   #   # materials:
   #   #    - name: "Engineering Maxwell's demon"
   #   #      type: paper
