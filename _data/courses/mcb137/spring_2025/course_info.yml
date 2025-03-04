@@ -206,10 +206,10 @@ Homework:
 #       - name: Homework 6 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1-0qt-XugAmxy87UtCLQejO1Xa1PTGGau/view?usp=drive_link"  
-#   - set:
-#     title: Homework 7 (test)
-#     link:  MCB137+237-HW7-2024.pdf
-#     due: "3/12 at 2:00 PM"
+  - set:
+    title: Homework 7 
+    link:  MCB137+237-HW7-2025.pdf
+    due: "3/11 at 2:00 PM"
 #     materials: 
 #       - name: Dong 1996
 #         type: paper
@@ -777,6 +777,10 @@ syllabus:
           <ul>
               <li>Finding the right coordinates in a synthetic transcriptome, Part II.</li>
           </ul>"
+    materials:
+      - name: Synthetic Transcriptome PCA - Colab Link
+        type: external
+        link: "https://colab.research.google.com/drive/1XIm33Zb9M1szI1Zls2wXrhzF2ak_bMpH?usp=sharing"
   #   # materials:
   #   #    - name: "Engineering Maxwell's demon"
   #   #      type: paper
