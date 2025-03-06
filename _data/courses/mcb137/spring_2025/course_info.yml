@@ -643,7 +643,7 @@ syllabus:
     materials:
       - name: "The Physics of Transcriptomes: Powerpoint Presentation"
         type: external
-        link: "https://docs.google.com/presentation/d/11JUoAX9p0979Ial6rQH09dc2zW0uC_S1/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+        link: "https://docs.google.com/presentation/d/1hu4hWob6UdEvUm5bdZUv891ZcL4ORCwC/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
       - name: "In Class Notes - mRNA Counts by Coin Flips"
         type: external
         link: "https://drive.google.com/file/d/1vB7mRfshfcyfne2FsEvfmHGubhzX230E/view?usp=sharing"
@@ -771,16 +771,24 @@ syllabus:
   #                Colab Notebook</a></li>
   #             </ul>'
   - entry: #14
-    date: 3/4 Lecture @ 242 Hearst Gym
+    date: 3/6 Lecture @ 242 Hearst Gym
     topics: 
         - "The Synthetic Transcriptome, Part VI
           <ul>
               <li>Finding the right coordinates in a synthetic transcriptome, Part II.</li>
           </ul>"
+        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
+          <ul>
+              <li>Diffusion and axonal transport</li>
+              <li>The binomial distribution: Coin flips, carboxysome partitioning, and calibrating fluorescent protein counts</li>
+          </ul>"  
     materials:
       - name: Synthetic Transcriptome PCA - Colab Link
         type: external
         link: "https://colab.research.google.com/drive/1XIm33Zb9M1szI1Zls2wXrhzF2ak_bMpH?usp=sharing"
+      - name: Diffusion as Biology's Null Model for Dynamics - PowerPoint Presentation
+        type: external
+        link: "https://docs.google.com/presentation/d/1toAmAB0nRn01Ms-oEnVvpS8AOXD1-9bX/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   #   # materials:
   #   #    - name: "Engineering Maxwell's demon"
   #   #      type: paper
@@ -798,8 +806,13 @@ syllabus:
   #   #    - name: Defiance is the Secret of Life
   #   #      link: "https://www.youtube.com/watch?v=MroxSJ2jNBs"
   - entry: #15
-    date: 3/6 Lecture @ 242 Hearst Gym
+    date: 3/11 Lecture @ 242 Hearst Gym
     topics: 
+        - "Diffusion as Biology's Null Model for Dynamics, Part II.
+            <ul>
+                <li>FRAP: measuring diffusion using photobleaching.</li>
+                <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
+           </ul>"
         - "Null Hypotheses in Biology: The Exponential distribution."
   #   # discussion:
   #   #    - name: 'Expression under the LacI repressor, Part II.
@@ -812,25 +825,23 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #16
-    date: 3/11 Lecture @ 242 Hearst Gym
+    date: 3/13 Lecture @ 242 Hearst Gym
     topics:
-        - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
+        - "Diffusion as Biology's Null Model for Dynamics, Part III.
           <ul>
-              <li>Diffusion and axonal transport</li>
-              <li>The binomial distribution: Coin flips, carboxysome partitioning, and calibrating fluorescent protein counts</li>
-          </ul>" 
+               <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li> 
+          </ul>"  
   #   materials: 
   #     - name: "Phase Transitions in Biology: Powerpoint Presentation"
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1hbqn383pe39FQKLoj6hXOOjWv3xEki7U/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
   - entry: #17
-    date: 3/13 Lecture @ 242 Hearst Gym
-    topics: 
-        - "Diffusion as Biology's Null Model for Dynamics, Part II.
-          <ul>
-              <li>FRAP: measuring diffusion using photobleaching.</li>
-              <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
-          </ul>"
+    date: 3/18 Lecture @ 242 Hearst Gym
+    topics:
+      - "Diffusion as Biology's Null Model for Dynamics, Part IV.
+         <ul>
+             <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li> 
+         </ul>"  
   #   materials: 
   #     - name: "Phase Separation and Scaling in Biology: Powerpoint Presentation"
   #       type: external
@@ -871,12 +882,9 @@ syllabus:
   #   # #    type: external
   #   # #    link: "https://colab.research.google.com/drive/1yZpOmBxBc52-b3YBfd4WIaV6pBja9suB?usp=sharing"
   - entry: #18
-    date: 3/18 Lecture @ 242 Hearst Gym
+    date: 3/20 Lecture @ 242 Hearst Gym
     topics:
-        - "Diffusion as Biology's Null Model for Dynamics, Part III.
-          <ul>
-             <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li> 
-          </ul>" 
+        - "Null Hypotheses in Biology: The Exponential Distribution"
   #   materials: 
   #     - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
   #       type: external
@@ -886,7 +894,7 @@ syllabus:
   #   #     type: notes
   #   #     link: lec17.pdf
   - entry: #19
-    date: 3/20 Lecture @ 242 Hearst Gym
+    date: 3/25 Lecture @ 242 Hearst Gym
     topics:
         - "Exploratory Dynamics.
           <ul>
