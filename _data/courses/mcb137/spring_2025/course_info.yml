@@ -780,7 +780,6 @@ syllabus:
         - "Diffusion as Biology's Null Hypothesis for Dynamics, Part I.
           <ul>
               <li>Diffusion and axonal transport</li>
-              <li>The binomial distribution: Coin flips, carboxysome partitioning, and calibrating fluorescent protein counts</li>
           </ul>"  
     materials:
       - name: Synthetic Transcriptome PCA - Colab Link
@@ -810,6 +809,7 @@ syllabus:
     topics: 
         - "Diffusion as Biology's Null Model for Dynamics, Part II.
             <ul>
+                <li>Diffusion by coin flips</li>
                 <li>FRAP: measuring diffusion using photobleaching.</li>
                 <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
            </ul>"
@@ -934,7 +934,7 @@ syllabus:
   #   #              Colab Notebook + Data (Discussion I - Yovan)</a></li>
   #   #           </ul>'
   - entry: #20
-    date: 4/1 Lecture @ 242 Hearst Gym
+    date: 3/27 Lecture @ 242 Hearst Gym
     topics: 
         - "Entropy Rules, Part I.
           <ul>
@@ -971,7 +971,7 @@ syllabus:
   #   # #    link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
   
   - entry: #21
-    date: 4/3 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
+    date: 4/1 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
     topics:
         - "Entropy Rules, Part II.
           <ul>
@@ -992,7 +992,7 @@ syllabus:
   #   #   #  type: notes      
   #   #   #link: lec21_2.pdf
   - entry: #22
-    date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/3 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics:
         - "The Boltzmann Distribution and Statistical Mechanics, Part I.
           <ul>
@@ -1016,7 +1016,7 @@ syllabus:
   #   #              Colab Notebook (Discussion I - Yovan)</a></li>
   #   #           </ul>'
   - entry: #23
-    date: 4/10 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
         - "The Boltzmann Distribution and Statistical Mechanics, Part II.
           <ul>
@@ -1033,7 +1033,7 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #24
-    date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/10 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
         - "Biological Networks, Part I
           <ul>
@@ -1048,7 +1048,7 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #25
-    date: 4/17 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
         - "Biological Networks, Part II.
           <ul>
@@ -1063,7 +1063,7 @@ syllabus:
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #26
-    date: 4/22 Lecture @ 242 Hearst Gym
+    date: 4/17 Lecture @ 242 Hearst Gym
     topics:
          - "Biological Networks, Part III.
           <ul>
@@ -1079,7 +1079,7 @@ syllabus:
   #   # #    type: external
   #   # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
   - entry: #27
-    date: 4/24 Lecture @ 242 Hearst Gym
+    date: 4/22 Lecture @ 242 Hearst Gym
     topics:
         - "Biological Networks, Part IV.
           <ul>
@@ -1091,7 +1091,7 @@ syllabus:
   #       type: external
   #       link: "https://course-evaluations.berkeley.edu/Berkeley/"
   - entry: #28
-    date: 4/29 Lecture @ 242 Hearst Gym
+    date: 4/24 Lecture @ 242 Hearst Gym
     topics:
         - "Biological Patterns in Space and Time, Part I.
             <ul>
@@ -1099,16 +1099,16 @@ syllabus:
                 <li>Turing patterns and digit formation</li>
             </ul>"
   - entry: #29 
-    date: 5/1 Lecture @ 242 Hearst Gym
+    date: 4/29 Lecture @ 242 Hearst Gym
     topics:
         - "Biological Patterns in Space and Time, Part II
           <ul>
               <li>Turing patterns and digit formation</li>
           </ul>"
-  # - entry: #30
-  #   date: 5/6 Lecture @ 242 Hearst Gym
-  #   topics:
-  #     - "TBD"
+  - entry: #30
+    date: 5/1 Lecture @ 242 Hearst Gym
+    topics:
+      - "Evolutionary Dynamics"
   # - entry: #31
   #   date: 5/8 Lecture @ 242 Hearst Gym
   #   topics: 
