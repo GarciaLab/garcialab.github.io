@@ -31,9 +31,16 @@ jobs:
           git fetch origin master
           git checkout master
           git pull origin master --rebase
+          
           mkdir -p previews/pr-${{ github.event.number }}
           echo "Preview deployed for PR #${{ github.event.number }}" > previews/pr-${{ github.event.number }}/index.html
+          
           git add .
+
+          # Set Git identity
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "github-actions@github.com"
+
           git commit -m "Deploying preview for PR #${{ github.event.number }}"
           git push origin master
 
@@ -58,7 +65,15 @@ jobs:
           git fetch origin master
           git checkout master
           git pull origin master --rebase
+          
           git rm -rf previews/pr-${{ github.event.number }}
+          
+          git add .
+
+          # Set Git identity
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "github-actions@github.com"
+
           git commit -m "Remove preview for PR #${{ github.event.number }}"
           git push origin master
 
