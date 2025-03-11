@@ -222,10 +222,10 @@ Homework:
 #         type: external
 #         link: "https://drive.google.com/file/d/1M9trN6Ytuw-Dqxoe248A_cGjlI7-I0au/view?usp=drive_link"
       
-#   - set:
-#     title: Homework 8
-#     link: MCB137+237-HW8-2024.pdf
-#     due: "3/19 at 2:00 PM"
+  - set:
+    title: Homework 8
+    link: MCB137+237-HW8-2025.pdf
+    due: "3/18 at 2:00 PM"
 #     materials:
 #       - name: Rosenfeld (2005)
 #         type: paper
