@@ -33,6 +33,10 @@ jobs:
           git pull origin master --rebase
           
           mkdir -p previews/pr-${{ github.event.number }}
+          
+          # Copy relevant files from the repository to the preview directory
+          rsync -av --exclude '.git' --exclude 'previews' . previews/pr-${{ github.event.number }}/
+          
           echo "Preview deployed for PR #${{ github.event.number }}" > previews/pr-${{ github.event.number }}/index.html
           
           git add .
@@ -43,6 +47,9 @@ jobs:
 
           git commit -m "Deploying preview for PR #${{ github.event.number }}"
           git push origin master
+
+      - name: Debug File Structure
+        run: ls -R previews/pr-${{ github.event.number }}/
 
       - name: Post Preview Link in PR
         uses: mshick/add-pr-comment@v2
