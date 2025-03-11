@@ -9,7 +9,6 @@ on:
 permissions:
   contents: write
   pages: write
-  id-token: write
   pull-requests: write  # Allows commenting on PRs
 
 jobs:
@@ -24,12 +23,6 @@ jobs:
         with:
           fetch-depth: 0  # Ensures full repository is fetched, including master
 
-      - name: Configure Git with PAT
-        run: |
-          git config --global user.name "lab-bot-workflows"
-          git config --global user.email "karshenas@berkeley.edu"
-          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
-
       - name: Ensure Previews Directory Exists
         run: mkdir -p previews/pr-${{ github.event.number }}
 
@@ -42,7 +35,7 @@ jobs:
           echo "Preview deployed for PR #${{ github.event.number }}" > previews/pr-${{ github.event.number }}/index.html
           git add .
           git commit -m "Deploying preview for PR #${{ github.event.number }}"
-          git push origin master --force  # Force push to bypass branch protection
+          git push origin master
 
       - name: Post Preview Link in PR
         uses: mshick/add-pr-comment@v2
@@ -60,12 +53,6 @@ jobs:
         with:
           fetch-depth: 0  # Ensures full repository history is fetched
 
-      - name: Configure Git with PAT
-        run: |
-          git config --global user.name "lab-bot-workflows"
-          git config --global user.email "karshenas@berkeley.edu"
-          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/GarciaLab/garcialab.github.io.git
-
       - name: Delete PR Preview
         run: |
           git fetch origin master
@@ -73,7 +60,7 @@ jobs:
           git pull origin master --rebase
           git rm -rf previews/pr-${{ github.event.number }}
           git commit -m "Remove preview for PR #${{ github.event.number }}"
-          git push origin master --force  # Force push to bypass branch protection
+          git push origin master
 
       - name: Comment on PR About Cleanup
         uses: mshick/add-pr-comment@v2
