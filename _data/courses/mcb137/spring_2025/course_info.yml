@@ -217,10 +217,10 @@ Homework:
 #       - name: Klumpp 2013
 #         type: paper 
 #         link: Klumpp2013.pdf
-#     solutions:
-#       - name: "Homework 7"
-#         type: external
-#         link: "https://drive.google.com/file/d/1M9trN6Ytuw-Dqxoe248A_cGjlI7-I0au/view?usp=drive_link"
+    solutions:
+      - name: "Homework 7 Solutions"
+        type: external
+        link: "https://drive.google.com/file/d/1j0NyXyj75VtMU4CdwyWsEIu6N9DD-Rhb/view?usp=sharing"
       
   - set:
     title: Homework 8
