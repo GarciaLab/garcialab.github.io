@@ -246,10 +246,10 @@ Homework:
 #       - name: Homework 8 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1wESL_0gCJcjYSVPk-VGYIJoAyQrRVV8b/view?usp=drive_link"
-#   - set:
-#     title: Homework 9
-#     link: MCB137+237-HW9-2024.pdf
-#     due: "4/2 at 2:00 PM"
+  - set:
+    title: Homework 9
+    #link: MCB137+237-HW9-2024.pdf
+    due: "4/1 at 2:00 PM"
 #     materials:
 #       - name: Garcia et al. (2007b)
 #         type: paper
@@ -261,10 +261,10 @@ Homework:
 #       - name: Homework 9 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1D7W5q32-MjyU8ILD8qcISSfd43m4L2a6/view?usp=sharing"
-#   - set:
-#     title: Homework 10
-#     link: MCB137+237-HW10-2024.pdf
-#     due: "4/09 at 2:00 PM"
+  - set:
+    title: Homework 10
+    #link: MCB137+237-HW10-2024.pdf
+    due: "4/08 at 2:00 PM"
 #     materials:
 #         - name: Expression data
 #           type: external
@@ -279,10 +279,10 @@ Homework:
 #       - name: Homework 10 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1m5E-AfypGwnCcNkWBUH2tGICoNG16aOl/view?usp=drive_link"
-#   - set:
-#     title: Homework 11
-#     link: MCB137+237-HW11-2024.pdf
-#     due: "4/16 at 2:00 PM"
+  - set:
+    title: Homework 11
+    #link: MCB137+237-HW11-2024.pdf
+    due: "4/16 at 2:00 PM"
 #     materials:
 #        - name: Schmidt et al. (2016)
 #          type: paper
@@ -297,18 +297,18 @@ Homework:
 #       - name: Homework 11 Solutions
 #         type: external
 #         link: "https://drive.google.com/file/d/1CHInII4p5Gh3mc7YaYcDOc0muKYoZH3W/view?usp=sharing"
-#   - set:
-#     title: "Homework 12: Final Project"
-#     due: "4/30 at 2:00 PM"
-#     link: MCB137+237-HW12-2024.pdf
+  - set:
+    title: "Homework 12"
+    due: "4/29 at 2:00 PM"
+    #link: MCB137+237-HW12-2024.pdf
 #     solutions:
 #       - name: "Homework 12 Solutions"
 #         type: external
 #         link: "https://drive.google.com/drive/folders/1rtGXjHQF6fr1w1xiyG9ZZpc-QxSTmS_S?usp=sharing"
-#   - set:
-#     title: "Homework 13: Extra Credit"
-#     due: "5/7 at 2:00 PM"
-#     link: MCB137+237-HW13-ExtraCredit-2024.pdf
+  - set:
+    title: "Homework 13: Extra Credit"
+    due: "5/6 at 2:00 PM"
+    #link: MCB137+237-HW13-ExtraCredit-2024.pdf
 #     materials:
 #       - name: "Brangwynne et al. (2009)"
 #         type: paper
