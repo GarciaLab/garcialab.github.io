@@ -809,11 +809,9 @@ syllabus:
     topics: 
         - "Diffusion as Biology's Null Model for Dynamics, Part II.
             <ul>
-                <li>Diffusion by coin flips</li>
                 <li>FRAP: measuring diffusion using photobleaching.</li>
-                <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li>
+                <li>Solving the Diffusion Equation using chemical master equations.</li>
            </ul>"
-        - "Null Hypotheses in Biology: The Exponential distribution."
   #   # discussion:
   #   #    - name: 'Expression under the LacI repressor, Part II.
   #   #           <ul>
@@ -838,20 +836,22 @@ syllabus:
   - entry: #17
     date: 3/18 Lecture @ 242 Hearst Gym
     topics:
-      - "Diffusion as Biology's Null Model for Dynamics, Part IV.
-         <ul>
-             <li>A universal diffusion speed limit for enzyme catalysis and other reactions.</li> 
-         </ul>"  
-  #   materials: 
-  #     - name: "Phase Separation and Scaling in Biology: Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1Qp0YHRZqgIFIxhHZzZdZz4xB1GSTtr6_/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
-  #     - name: "Weber2015 data: fixed number"
-  #       type: external
-  #       link: "https://drive.google.com/file/d/1bvggk199c2Q5-RadhV4UlQWfLQjMAzKn/view?usp=sharing"
-  #     - name: "Weber2015 data: fixed concentration"
-  #       type: external
-  #       link: "https://drive.google.com/file/d/19zwwCtkoE0ZmaUCYQhCoCJq8-ox4_U_s/view?usp=sharing"
+       - "Exploratory Dynamics.
+          <ul>
+              <li>A new kind of update rule: purposeful dynamics.</li>
+              <li>The time for transcription factors to find their targets.</li>
+              <li>How do microtubules find chromosomes?</li>
+          </ul>" 
+    materials: 
+      - name: "Exploratory Dynamics: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1uy-C-JL6LCIY7tnGmZr1B_AA6tcGLvZq/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: "Paper by Johan Elf measuring the binding dynamics of Lac Repressor in E. Coli and testing the transcription factor binding and search model"
+        type: paper
+        link: Hammar2012.pdf
+      - name: "Paper by Xavier Darzacq and Maxime Dahan measuring the search time of a transcription factor in mammalian cells"
+        type: paper
+        link: Normanno2015.pdf
   #   # materials:
   #   #    - name: "Key biology you should have learned in physics class (Zuckerman 2020)"
   #   #      type: paper
@@ -884,11 +884,15 @@ syllabus:
   - entry: #18
     date: 3/20 Lecture @ 242 Hearst Gym
     topics:
-        - "Null Hypotheses in Biology: The Exponential Distribution"
-  #   materials: 
-  #     - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/16_69PbyGcY-hBxS6dtjJoEwo6sYGvbBt/edit?usp=sharing&ouid=108481937167618261589&rtpof=true&sd=true"
+        - "Entropy Rules and Phase Separation, Part I.
+          <ul>
+              <li>Entropy maximization and the mathematics of superlatives</li>
+              <li>Entropic Forces: A DNA Entropic spring</li>
+          </ul>" 
+    materials: 
+      - name: "Entropy Rules and Phase Separation: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1n1VUa-mruWjqz6J60Pv98VNSHPZjGZ70/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   #   # materials:
   #   #   - name: "Lecture Notes" 
   #   #     type: notes
@@ -896,11 +900,10 @@ syllabus:
   - entry: #19
     date: 3/25 Lecture @ 242 Hearst Gym
     topics:
-        - "Exploratory Dynamics.
+        - "Entropy Rules, Part II.
           <ul>
-              <li>A new kind of update rule: purposeful dynamics.</li>
-              <li>The time for transcription factors to find their targets.</li>
-              <li>How do microtubules find chromosomes?</li>
+              <li>Phase transitions in biology.</li>
+              <li>Ion Channels and two-state systems</li>
           </ul>" 
   #   materials: 
   #     - name: "Regulatory Biology and the Unreasonable Effectiveness of Statistical Mechanics: Powerpoint Presentation"
@@ -936,11 +939,10 @@ syllabus:
   - entry: #20
     date: 3/27 Lecture @ 242 Hearst Gym
     topics: 
-        - "Entropy Rules, Part I.
+        - "The Boltzmann Distribution and Statistical Mechanics, Part I.
           <ul>
-              <li>Entropy maximization and the mathematics of superlatives</li>
-              <li>Entropic Forces: A DNA Entropic spring</li>
-          </ul>"
+              <li>The ubiquitous nature of binding problems in biology</li>
+          </ul>" 
   #   materials:
   #     - name: "Buchler 2003: Building transcriptional logic gates using statistical mechanics"
   #       type: paper
@@ -973,11 +975,11 @@ syllabus:
   - entry: #21
     date: 4/1 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
     topics:
-        - "Entropy Rules, Part II.
+        - "The Boltzmann Distribution and Statistical Mechanics, Part II.
           <ul>
-              <li>Phase transitions in biology.</li>
-              <li>Ion Channels and two-state systems</li>
-          </ul>"
+              <li>Regulatory biology: simple repression in the lac operon</li>
+              <li>Whence cometh the allosterome?</li>
+          </ul>"  
   #   materials:
   #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
   #       type: external
@@ -994,10 +996,10 @@ syllabus:
   - entry: #22
     date: 4/3 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics:
-        - "The Boltzmann Distribution and Statistical Mechanics, Part I.
+        - "Biological Networks, Part I
           <ul>
-              <li>The ubiquitous nature of binding problems in biology</li>
-          </ul>" 
+              <li>A life-or-death decision: the lambda switch</li>
+          <ul>"
   #   # discussion:
   #   #  # - name: LacI Rperessor Analysis, Part 2 (Python Code)
   #   #  #   type: external
@@ -1018,16 +1020,11 @@ syllabus:
   - entry: #23
     date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics, Part II.
+       - "Biological Networks, Part II.
           <ul>
-              <li>Regulatory biology: simple repression in the lac operon</li>
-              <li>Whence cometh the allosterome?</li>
+              <li>Making Waddington Real</li>
+              <li>Vertebrate development and oscillations.</li>
           </ul>" 
-        - "Defiance Is the Secret of Life: Burning Energy for Fun and Profit, Part I.
-          <ul>
-              <li>Energy estimates in biology.</li>
-              <li>Biological batteries</li>
-          </ul>"
   #   materials:
   #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
   #       type: external
@@ -1035,10 +1032,7 @@ syllabus:
   - entry: #24
     date: 4/10 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
-        - "Biological Networks, Part I
-          <ul>
-              <li>A life-or-death decision: the lambda switch</li>
-          <ul>"
+        - TBA
   #   # #discussion:
   #   # #  - name: Gneetic Oscillators (Python Code) 
   #   # #    type: external
@@ -1050,11 +1044,7 @@ syllabus:
   - entry: #25
     date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
     topics: 
-        - "Biological Networks, Part II.
-          <ul>
-              <li>Making Waddington Real</li>
-              <li>Vertebrate development and oscillations.</li>
-          </ul>"
+        - TBA
   #   # videos:
   #   #   - name: A Stochastic View of Biology
   #   #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
@@ -1065,12 +1055,12 @@ syllabus:
   - entry: #26
     date: 4/17 Lecture @ 242 Hearst Gym
     topics:
-         - "Biological Networks, Part III.
-          <ul>
-              <li>The synthetic transcriptome revisited</li>
-              <li>Dissecting Network architecture using single-cell sequencing.</li>
-              <li> Transcriptional dynamics and RNA velocity </li>
-          </ul>"
+        #  - "Biological Networks, Part III.
+        #   <ul>
+        #       <li>The synthetic transcriptome revisited</li>
+        #       <li>Dissecting Network architecture using single-cell sequencing.</li>
+        #       <li> Transcriptional dynamics and RNA velocity </li>
+        #   </ul>"
   #   materials: 
   #     - name: "Biological Networks: Powerpoint Presentation"
   #       type: external
@@ -1081,11 +1071,11 @@ syllabus:
   - entry: #27
     date: 4/22 Lecture @ 242 Hearst Gym
     topics:
-        - "Biological Networks, Part IV.
-          <ul>
-              <li>Dissecting Network architecture using single-cell sequencing.</li>
-              <li> Transcriptional dynamics and RNA velocity </li>
-          </ul>" 
+        # - "Biological Networks, Part IV.
+        #   <ul>
+        #       <li>Dissecting Network architecture using single-cell sequencing.</li>
+        #       <li> Transcriptional dynamics and RNA velocity </li>
+        #   </ul>" 
   #   materials:
   #     - name: "Course Evaluation"
   #       type: external
