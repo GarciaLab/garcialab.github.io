@@ -248,15 +248,15 @@ Homework:
 #         link: "https://drive.google.com/file/d/1wESL_0gCJcjYSVPk-VGYIJoAyQrRVV8b/view?usp=drive_link"
   - set:
     title: Homework 9
-    #link: MCB137+237-HW9-2024.pdf
+    link: MCB137+237-HW9-2025.pdf
     due: "4/1 at 2:00 PM"
-#     materials:
-#       - name: Garcia et al. (2007b)
-#         type: paper
-#         link: Garcia2007b.pdf
-#       - name: Keller et al. (1986) ion channel data
-#         type: data
-#         link: Keller1986.xlsx
+    materials:
+      - name: Helenius 2006
+        type: paper
+        link: Helenius2006.pdf
+      - name: Keller et al. (1986) ion channel data
+        type: data
+        link: Keller1986.xlsx
 #     solutions:
 #       - name: Homework 9 Solutions
 #         type: external
