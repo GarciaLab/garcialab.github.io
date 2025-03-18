@@ -1083,22 +1083,22 @@ syllabus:
   - entry: #28
     date: 5/1 Lecture @ 242 Hearst Gym
     topics:
-        - "Biological Patterns in Space and Time, Part I.
-            <ul>
-                <li>Morphogen gradients and the French flag model.</li>
-                <li>Turing patterns and digit formation</li>
-            </ul>"
-  - entry: #29 
-    date: 5/6 Lecture @ 242 Hearst Gym
-    topics:
-        - "Biological Patterns in Space and Time, Part II
-          <ul>
-              <li>Turing patterns and digit formation</li>
-          </ul>"
-  - entry: #30
-    date: 5/8 Lecture @ 242 Hearst Gym
-    topics:
-      - "Evolutionary Dynamics"
+        # - "Biological Patterns in Space and Time, Part I.
+        #     <ul>
+        #         <li>Morphogen gradients and the French flag model.</li>
+        #         <li>Turing patterns and digit formation</li>
+        #     </ul>"
+  # - entry: #29 
+  #   date: 5/6 Lecture @ 242 Hearst Gym
+  #   topics:
+  #       - "Biological Patterns in Space and Time, Part II
+  #         <ul>
+  #             <li>Turing patterns and digit formation</li>
+  #         </ul>"
+  # - entry: #30
+  #   date: 5/8 Lecture @ 242 Hearst Gym
+  #   topics:
+  #     - "Evolutionary Dynamics"
   # - entry: #31
   #   date: 5/8 Lecture @ 242 Hearst Gym
   #   topics: 
