@@ -248,7 +248,7 @@ Homework:
 #         link: "https://drive.google.com/file/d/1wESL_0gCJcjYSVPk-VGYIJoAyQrRVV8b/view?usp=drive_link"
   - set:
     title: Homework 9
-    link: MCB137+237-HW9-2025.pdf
+    link: MCB137+237-HW9-2024.pdf
     due: "4/1 at 2:00 PM"
     materials:
       - name: Helenius 2006
