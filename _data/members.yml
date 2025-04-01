@@ -25,14 +25,6 @@
       Physics Graduate Student <br/>
       BS Physics and Literature, MIT
   email: amherman
-- avatar: armanKarshenas.jpg
-  name: Arman Karshenas
-  caste: grad
-  background: >
-      Biophysics Graduate Student <br/>
-      MPhil, Genetics, University of Cambridge <br/>
-      BA, Electrical and Control Engineering, University of Oxford
-  email: arman_karshenas
 - avatar: brandonschlo.jpg
   name: Brandon Schlomann
   caste: postdoc
@@ -66,6 +58,12 @@
   background: > 
       PhD Physics, University of California, Berkeley <br/>
   email: enzecheng
+- avatar: Giselle.jpg
+  name: Giselle Galang
+  caste: rotation
+  background: >
+  Molecular & Cell Biology Rotation Student <br/>
+  BS Microbiology, Immunology & Molecular Genetics, University of California Los Angeles 
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
