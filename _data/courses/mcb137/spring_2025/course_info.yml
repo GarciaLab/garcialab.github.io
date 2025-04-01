@@ -242,10 +242,10 @@ Homework:
 #       # - name: Keller et al. (1986) ion channel data
 #       #   type: data
 #       #   link: Keller1986.xlsx
-#     solutions:
-#       - name: Homework 8 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1wESL_0gCJcjYSVPk-VGYIJoAyQrRVV8b/view?usp=drive_link"
+    solutions:
+      - name: Homework 8 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/16J8j1gUbpC8DAXTYueuoJhIS0pI5gxeg/view?usp=sharing"
   - set:
     title: Homework 9
     link: MCB137+237-HW9-2024.pdf
@@ -266,18 +266,18 @@ Homework:
 #         link: "https://drive.google.com/file/d/1D7W5q32-MjyU8ILD8qcISSfd43m4L2a6/view?usp=sharing"
   - set:
     title: Homework 10
-    #link: MCB137+237-HW10-2024.pdf
+    link: MCB137+237-HW10-2025.pdf
     due: "4/08 at 2:00 PM"
-#     materials:
-#         - name: Expression data
-#           type: external
-#           link: https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing
-#         - name: Garcia et al. (22011c)
-#           type: paper
-#           link: Garcia2011c.pdf
-#         - name: Segmentation Code from Discussion
-#           type: external
-#           link: https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing
+    materials:
+      - name: Dong 1996
+        type: paper
+        link: Dong1996.pdf
+      - name: Klumpp 2013
+        type: paper 
+        link: Klumpp2013.pdf
+      - name: FRAP Code Starter
+        type: external
+        link: "https://colab.research.google.com/drive/1O7QafLjR7dZrtAmecxpKtdHjDFU8QXoj?usp=sharing"
 #     solutions:
 #       - name: Homework 10 Solutions
 #         type: external
