@@ -944,10 +944,7 @@ syllabus:
   - entry: #20
     date: 4/3 Lecture @ 242 Hearst Gym
     topics: 
-        - "The Boltzmann Distribution and Statistical Mechanics, Part I.
-          <ul>
-              <li>The ubiquitous nature of binding problems in biology</li>
-          </ul>" 
+        - "Entropy Rules, Part III."
   #   materials:
   #     - name: "Buchler 2003: Building transcriptional logic gates using statistical mechanics"
   #       type: paper
@@ -980,18 +977,17 @@ syllabus:
   - entry: #21
     date: 4/8 Lecture @ <a href="https://berkeley.zoom.us/j/93182065321">Zoom</a>
     topics:
-        - "The Boltzmann Distribution and Statistical Mechanics, Part II.
+        - "The Boltzmann Distribution and Statistical Mechanics, Part I.
           <ul>
-              <li>Regulatory biology: simple repression in the lac operon</li>
-              <li>Whence cometh the allosterome?</li>
+              <li> The partition function and the constitutive promoter. <li/>
           </ul>"  
-  #   materials:
-  #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
-  #   #   - name: "Lecture Notes" 
-  #   #     type: notes
-  #   #     link: lec21_3.pdf
+    materials:
+      - name: "Regulatory Biology and Statistical Mechanics: Powerpoint slides"
+        type: external
+        link: "https://docs.google.com/presentation/d/1n1VUa-mruWjqz6J60Pv98VNSHPZjGZ70/edit?usp=sharing&ouid=117716794627695417441&rtpof=true&sd=true"
+      - name: "Lecture Notes from April 8th" 
+        type: external
+        link: "https://drive.google.com/file/d/1fsa16X6YkZ346TM4vwPQmU4QtqDJcae-/view?usp=sharing"
   #   #   #- name: "Lecture Notes I" 
   #   #   #  type: notes
   #   #   #  link: lec21_1.pdf
