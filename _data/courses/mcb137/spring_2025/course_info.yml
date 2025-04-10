@@ -979,7 +979,7 @@ syllabus:
     topics:
         - "The Boltzmann Distribution and Statistical Mechanics, Part I.
           <ul>
-              <li> The partition function and the constitutive promoter. <li/>
+              <li> The partition function and the constitutive promoter.</li>
           </ul>"  
     materials:
       - name: "Regulatory Biology and Statistical Mechanics: Powerpoint slides"
@@ -995,20 +995,20 @@ syllabus:
   #   #   #  type: notes      
   #   #   #link: lec21_2.pdf
   - entry: #22
-    date: 4/10 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/10 Lecture @ Recording on bCourses
     topics:
-        - "Biological Networks, Part I
+        - "Regulatory Biology and Statistical Mechanics, Part II.
           <ul>
-              <li>A life-or-death decision: the lambda switch</li>
-          <ul>"
+              <li>Simple Repression by Statistical Mechanics</li>
+          </ul>"
   #   # discussion:
   #   #  # - name: LacI Rperessor Analysis, Part 2 (Python Code)
   #   #  #   type: external
   #   #  #   link: "https://drive.google.com/a/berkeley.edu/file/d/1hUMveFr8zciEh9Ip0OEsomc1jxQfTGhQ/view?usp=sharing"
-  #   materials:
-  #     - name: "Lecture Notes" 
-  #       type: notes
-  #       link: lec22_2024.pdf
+    materials:
+      - name: "Lecture Notes" 
+        type: external
+        link: "https://drive.google.com/file/d/1MOOTKQpuHRbCdb5dJHDUcqZzzZ-dTeJa/view?usp=sharing"
   #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
@@ -1019,19 +1019,15 @@ syllabus:
   #   #              Colab Notebook (Discussion I - Yovan)</a></li>
   #   #           </ul>'
   - entry: #23
-    date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/96721239541?pwd=HytaRu8SYTY0p21ud5yfOyY4hhtjHX.1">Zoom</a>
     topics: 
-       - "Biological Networks, Part II.
-          <ul>
-              <li>Making Waddington Real</li>
-              <li>Vertebrate development and oscillations.</li>
-          </ul>" 
+       - TBA
   #   materials:
   #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
   #       type: external
   #       link: "https://docs.google.com/presentation/d/1MbQR63JWZ-YZX0FA_Sz7nXdjGR0MO8yM/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
   - entry: #24
-    date: 4/17 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/17 Lecture @ <a href="https://berkeley.zoom.us/j/96355299005?pwd=IaNnpodMtsC9TrJ8cHc1IZbb8DahYy.1">Zoom</a>
     topics: 
         - TBA
   #   # #discussion:
