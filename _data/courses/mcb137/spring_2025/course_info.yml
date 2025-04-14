@@ -644,7 +644,7 @@ syllabus:
           <ul>
               <li>The single-cell sequencing revolution</li>
               <li>The physics of single-cell sequencing.</li>
-          <ul>"
+          </ul>"
     materials:
       - name: "The Physics of Transcriptomes: Powerpoint Presentation"
         type: external
@@ -984,7 +984,7 @@ syllabus:
     materials:
       - name: "Regulatory Biology and Statistical Mechanics: Powerpoint slides"
         type: external
-        link: "https://docs.google.com/presentation/d/1n1VUa-mruWjqz6J60Pv98VNSHPZjGZ70/edit?usp=sharing&ouid=117716794627695417441&rtpof=true&sd=true"
+        link: "https://docs.google.com/presentation/d/1YbORv7s6zdLauucnRz4wzG2S8USYPKTP/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
       - name: "Lecture Notes from April 8th" 
         type: external
         link: "https://drive.google.com/file/d/1fsa16X6YkZ346TM4vwPQmU4QtqDJcae-/view?usp=sharing"
@@ -1021,7 +1021,12 @@ syllabus:
   - entry: #23
     date: 4/15 Lecture @ <a href="https://berkeley.zoom.us/j/96721239541?pwd=HytaRu8SYTY0p21ud5yfOyY4hhtjHX.1">Zoom</a>
     topics: 
-       - TBA
+       - "Regulatory Biology and Statistical Mechanics, Part III.
+        <ul>
+            <li>Simple Activation</li>
+            <li>Cooperativity</li>
+            <li>Logic Gates</li>
+        </ul>"
   #   materials:
   #     - name: "Defiance is the Secret of Life: Energy for Fun and for Profit"
   #       type: external
@@ -1029,35 +1034,42 @@ syllabus:
   - entry: #24
     date: 4/17 Lecture @ <a href="https://berkeley.zoom.us/j/96355299005?pwd=IaNnpodMtsC9TrJ8cHc1IZbb8DahYy.1">Zoom</a>
     topics: 
-        - TBA
+        - "Dynamical Systems, Part I.
+          <ul>
+              <li>Biological Networks</li>
+              <li>A life-or-death decision: the Lambda switch</li>
+              <li>Epidemiology and the SiR model</li>
+          </ul>"
   #   # #discussion:
   #   # #  - name: Gneetic Oscillators (Python Code) 
   #   # #    type: external
   #   # #    link: "https://colab.research.google.com/drive/1f3OmHdXt_sZ5zZDZ-rtxUaQubgPZYWMh?usp=sharing"
-  #   materials:
-  #     - name: "Regulatory Defiance: Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1BeMQ5aQ8skJxBzkAjCxHpWdtjuMYoQbY/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+    materials:
+      - name: "Dynamical Systems: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/19JnR_o_-aBh3YQfPTsVctpw8PjhN8xOU/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   - entry: #25
-    date: 4/22 Lecture @ <a href="https://berkeley.zoom.us/j/98046396102">Zoom</a>
+    date: 4/22 Lecture 242 Hearst Gym
     topics: 
-        - TBA
+        - "Dynamical Systems, Part II.
+          <ul>
+              <li>Phase separation from the dynamical systems perspective.</li>
+          </ul>"
   #   # videos:
   #   #   - name: A Stochastic View of Biology
   #   #     link: "https://www.dropbox.com/s/tx6l1wx99gxtb71/2022-04-19%20StochasticSimulations.mp4?dl=0"
-  #   materials:
-  #     - name: "Biological Networks: Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+    materials:
+      - name: "Dynamical Systems and Biological Networks: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1CV4nDDPuOU0_vo9zUoq9vIW1FR7Pgohi/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   - entry: #26
     date: 4/24 Lecture @ 242 Hearst Gym
     topics:
-        #  - "Biological Networks, Part III.
-        #   <ul>
-        #       <li>The synthetic transcriptome revisited</li>
-        #       <li>Dissecting Network architecture using single-cell sequencing.</li>
-        #       <li> Transcriptional dynamics and RNA velocity </li>
-        #   </ul>"
+         - "Defiance is the secret of life: Burning energy for fun and profit, Part I.
+          <ul>
+              <li>Energy estimates in biology.</li>
+              <li>Biological batteries.</li>
+          </ul>"
   #   materials: 
   #     - name: "Biological Networks: Powerpoint Presentation"
   #       type: external
@@ -1068,11 +1080,11 @@ syllabus:
   - entry: #27
     date: 4/29 Lecture @ 242 Hearst Gym
     topics:
-        # - "Biological Networks, Part IV.
-        #   <ul>
-        #       <li>Dissecting Network architecture using single-cell sequencing.</li>
-        #       <li> Transcriptional dynamics and RNA velocity </li>
-        #   </ul>" 
+        - "Defiance is the secret of life: Burning energy for fun and profit, Part II.
+          <ul>
+              <li>Charging up the ATP battery.</li>
+              <li>Using the ATP battery</li>
+          </ul>" 
   #   materials:
   #     - name: "Course Evaluation"
   #       type: external
@@ -1080,11 +1092,7 @@ syllabus:
   - entry: #28
     date: 5/1 Lecture @ 242 Hearst Gym
     topics:
-        # - "Biological Patterns in Space and Time, Part I.
-        #     <ul>
-        #         <li>Morphogen gradients and the French flag model.</li>
-        #         <li>Turing patterns and digit formation</li>
-        #     </ul>"
+        - "Defiance is the secret of life: Burning energy for fun and profit, Part III."
   # - entry: #29 
   #   date: 5/6 Lecture @ 242 Hearst Gym
   #   topics:
