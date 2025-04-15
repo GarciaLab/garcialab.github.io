@@ -305,7 +305,7 @@ Homework:
 #         link: "https://drive.google.com/file/d/1CHInII4p5Gh3mc7YaYcDOc0muKYoZH3W/view?usp=sharing"
   - set:
     title: "Homework 12"
-    due: "4/29 at 2:00 PM"
+    due: "4/22 at 2:00 PM"
     link: MCB137+237-HW12-2025.pdf
     materials:
         - name: Expression data
