@@ -306,7 +306,17 @@ Homework:
   - set:
     title: "Homework 12"
     due: "4/29 at 2:00 PM"
-    #link: MCB137+237-HW12-2024.pdf
+    link: MCB137+237-HW12-2025.pdf
+    materials:
+        - name: Expression data
+          type: external
+          link: https://drive.google.com/drive/folders/1A745GQWrivnK9mQJ43W6-xs5bWpi15Ni?usp=sharing
+        - name: Garcia et al. (2011c)
+          type: paper
+          link: Garcia2011c.pdf
+        - name: Segmentation Code from Discussion
+          type: external
+          link: https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing
 #     solutions:
 #       - name: "Homework 12 Solutions"
 #         type: external
