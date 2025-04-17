@@ -278,10 +278,10 @@ Homework:
       - name: FRAP Code Starter
         type: external
         link: "https://colab.research.google.com/drive/1O7QafLjR7dZrtAmecxpKtdHjDFU8QXoj?usp=sharing"
-#     solutions:
-#       - name: Homework 10 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1m5E-AfypGwnCcNkWBUH2tGICoNG16aOl/view?usp=drive_link"
+    solutions:
+      - name: Homework 10 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1_FeXjapyeTw7Gi36BxtyKzXXZYnPVmnH/view?usp=sharing"
   - set:
     title: Homework 11
     link: MCB137+237-HW11-2025.pdf
