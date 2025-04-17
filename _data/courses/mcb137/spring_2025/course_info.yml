@@ -343,9 +343,16 @@ Homework:
 #     #     type: external
 #     #     link: "https://drive.google.com/file/d/1
   - set:
-    title: "Homework 14"
+    title: "Homework 14: Extra Credit"
     due: "5/13 at 2:00 PM"
     link: MCB137+237-HW14-ExtraCredit-2025.pdf
+    materials:
+      - name: "Nusslein-Volhard and Wieschaus (1984)"
+        type: paper
+        link: Nusslein-Volhard1984.pdf
+      - name: "Liu et al. (2013)"
+        type: paper
+        link: Liu2013.pdf
 
 syllabuspdf:
   link: MCB137L-237L-2025-Syllabus.pdf
