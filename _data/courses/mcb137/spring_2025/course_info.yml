@@ -1083,6 +1083,9 @@ syllabus:
       - name: "Dynamical Systems and Biological Networks: Powerpoint Presentation"
         type: external
         link: "https://docs.google.com/presentation/d/1CV4nDDPuOU0_vo9zUoq9vIW1FR7Pgohi/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
+      - name: Course Evaluation
+        type: external
+        link: "https://course-evaluations.berkeley.edu/Berkeley/"
   - entry: #26
     date: 4/24 Lecture @ 242 Hearst Gym
     topics:
