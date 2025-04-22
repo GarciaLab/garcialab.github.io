@@ -1082,10 +1082,16 @@ syllabus:
     materials:
       - name: "Dynamical Systems and Biological Networks: Powerpoint Presentation"
         type: external
-        link: "https://docs.google.com/presentation/d/1CV4nDDPuOU0_vo9zUoq9vIW1FR7Pgohi/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
+        link: "https://docs.google.com/presentation/d/1X_-k7MjNfzzj7B3zTvteVja4xJwLuWcC/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
       - name: Course Evaluation
         type: external
         link: "https://course-evaluations.berkeley.edu/Berkeley/"
+      - name: "Weber (2015) data: fixed number"
+        type: external
+        link: "https://drive.google.com/file/d/1bvggk199c2Q5-RadhV4UlQWfLQjMAzKn/view?usp=sharing"
+      - name: "Weber (2015) data: fixed concentration"
+        type: external
+        link: "https://drive.google.com/file/d/19zwwCtkoE0ZmaUCYQhCoCJq8-ox4_U_s/view?usp=sharing"
   - entry: #26
     date: 4/24 Lecture @ 242 Hearst Gym
     topics:
