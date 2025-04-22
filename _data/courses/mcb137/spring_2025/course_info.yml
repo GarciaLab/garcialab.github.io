@@ -299,10 +299,10 @@ Homework:
       - name: Brangwynne (2009)
         type: paper
         link: Brangwynne2009.pdf
-#     solutions:
-#       - name: Homework 11 Solutions
-#         type: external
-#         link: "https://drive.google.com/file/d/1CHInII4p5Gh3mc7YaYcDOc0muKYoZH3W/view?usp=sharing"
+    solutions:
+      - name: Homework 11 Solutions
+        type: external
+        link: "https://drive.google.com/file/d/1Y9b4U8PTVA59mA3P4hfaRSb7JgRth4if/view?usp=sharing"
   - set:
     title: "Homework 12"
     due: "4/22 at 2:00 PM"
