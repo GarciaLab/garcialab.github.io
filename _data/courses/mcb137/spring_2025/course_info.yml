@@ -1092,6 +1092,9 @@ syllabus:
       - name: "Weber (2015) data: fixed concentration"
         type: external
         link: "https://drive.google.com/file/d/19zwwCtkoE0ZmaUCYQhCoCJq8-ox4_U_s/view?usp=sharing"
+      - name: Weber 2015
+        type: paper
+        link: Weber2015.pdf
   - entry: #26
     date: 4/24 Lecture @ 242 Hearst Gym
     topics:
