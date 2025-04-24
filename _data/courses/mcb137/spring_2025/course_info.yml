@@ -1098,6 +1098,10 @@ syllabus:
   - entry: #26
     date: 4/24 Lecture @ 242 Hearst Gym
     topics:
+         - "Dynamical Systems, Part III.
+          <ul>
+              <li>Phase separation from the dynamical systems perspective.</li>
+          </ul>"
          - "Defiance is the secret of life: Burning energy for fun and profit, Part I.
           <ul>
               <li>Energy estimates in biology.</li>
@@ -1115,8 +1119,8 @@ syllabus:
     topics:
         - "Defiance is the secret of life: Burning energy for fun and profit, Part II.
           <ul>
-              <li>Charging up the ATP battery.</li>
-              <li>Using the ATP battery</li>
+              <li>Energy estimates in biology.</li>
+              <li>Regulatory defiance.</li>
           </ul>" 
   #   materials:
   #     - name: "Course Evaluation"
@@ -1129,6 +1133,7 @@ syllabus:
           <ul>
               <li>Regulatory defiance</li>
           </ul>"
+        - "Physical Biology of the Cell."
   # - entry: #29 
   #   date: 5/6 Lecture @ 242 Hearst Gym
   #   topics:
