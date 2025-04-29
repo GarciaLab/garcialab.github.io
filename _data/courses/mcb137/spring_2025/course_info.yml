@@ -1123,9 +1123,9 @@ syllabus:
               <li>Regulatory defiance.</li>
           </ul>" 
     materials:
-      - name: "Defiance is the secret of life: Powerpoint Presentation"
+      - name: "Regulatory Defiance: Powerpoint Presentation"
         type: external
-        link: "https://docs.google.com/presentation/d/1fSD8DhGOx_tkP0BP8SzDgYfeX6hLsK-j/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
+        link: "https://docs.google.com/presentation/d/1AhvJzFCfLc7_HWBx6IdSg0djL-qDhnni/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   - entry: #28
     date: 5/1 Lecture @ 242 Hearst Gym
     topics:
@@ -1134,6 +1134,10 @@ syllabus:
               <li>Regulatory defiance</li>
           </ul>"
         - "Physical Biology of the Cell."
+    materials:
+        - name: "Regulatory Defiance: Powerpoint Presentation"
+          type: external
+          link: "https://docs.google.com/presentation/d/1AhvJzFCfLc7_HWBx6IdSg0djL-qDhnni/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   # - entry: #29 
   #   date: 5/6 Lecture @ 242 Hearst Gym
   #   topics:
