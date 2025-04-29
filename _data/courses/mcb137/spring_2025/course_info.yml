@@ -1107,10 +1107,10 @@ syllabus:
               <li>Energy estimates in biology.</li>
               <li>Biological batteries.</li>
           </ul>"
-  #   materials: 
-  #     - name: "Biological Networks: Powerpoint Presentation"
-  #       type: external
-  #       link: "https://docs.google.com/presentation/d/1ly2o9igPkVqFHmfVForZ_tOcvzGhRM4_/edit?usp=sharing&ouid=114885956493870678851&rtpof=true&sd=true"
+    materials: 
+      - name: "Defiance is the secret of life: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1fSD8DhGOx_tkP0BP8SzDgYfeX6hLsK-j/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   #   # #  - name: SIR Model (Python Code)
   #   # #    type: external
   #   # #    link: "https://colab.research.google.com/drive/1HNnWHyxl6K-J28cqQTzA5P3Ufyc-1ZQn?usp=sharing"
@@ -1122,10 +1122,10 @@ syllabus:
               <li>Energy estimates in biology.</li>
               <li>Regulatory defiance.</li>
           </ul>" 
-  #   materials:
-  #     - name: "Course Evaluation"
-  #       type: external
-  #       link: "https://course-evaluations.berkeley.edu/Berkeley/"
+    materials:
+      - name: "Defiance is the secret of life: Powerpoint Presentation"
+        type: external
+        link: "https://docs.google.com/presentation/d/1fSD8DhGOx_tkP0BP8SzDgYfeX6hLsK-j/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true"
   - entry: #28
     date: 5/1 Lecture @ 242 Hearst Gym
     topics:
