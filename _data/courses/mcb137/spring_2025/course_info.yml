@@ -317,10 +317,10 @@ Homework:
         - name: Segmentation Code from Discussion
           type: external
           link: https://colab.research.google.com/drive/1jxkkx5_yw3ogGl3ttazjfR_q6mqhyqaO?usp=sharing
-#     solutions:
-#       - name: "Homework 12 Solutions"
-#         type: external
-#         link: "https://drive.google.com/drive/folders/1rtGXjHQF6fr1w1xiyG9ZZpc-QxSTmS_S?usp=sharing"
+    solutions:
+      - name: "Homework 12 Solutions"
+        type: external
+        link: "https://drive.google.com/file/d/18vhAywGKymzVtNtmog5lETol2cnckRhz/view?usp=sharing"
   - set:
     title: "Homework 13"
     due: "5/6 at 2:00 PM"
