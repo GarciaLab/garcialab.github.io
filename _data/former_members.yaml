@@ -1,8 +1,28 @@
+- name: Chance Bowman
+  caste: rotation
+  position: >
+    Bioengineering Rotation Student <br/>
+    Spring 2025
+- name: Giselle Galang
+  caste: rotation
+  position: >
+    MCB Rotation Student <br/>
+    Spring 2025
+- name: Lou Devanneaux
+  caste: rotation
+  position: >
+    MCB Rotation Student <br/>
+    Spring 2025
 - name: Hugo Hamilton
   caste: rotation
   position: >
     Bioengineering Rotation Student <br/>
     Winter 2024-25
+- name: Olivia Rourke
+  caste: undergrad
+  position: > 
+    Undergraduate Student <br/>
+    2024
 - name: Arman Karshenas
   caste: grad
   position: >
@@ -38,6 +58,7 @@
   caste: undergrad 
   background: > 
       Undergraduate Student <br/>
+      Summer-Fall 2024
 - name: Yuliana A. Díaz Tirado
   caste: undergrad
   position: >
@@ -45,7 +66,8 @@
 - name: Yuxin Yang 
   caste: undergrad 
   position: >
-      Undergraduate Student <br/> 
+      Undergraduate Student <br/>
+      Summer 2024 
 - name: Xiuyuan (Arthur) Cheng
   caste: rotation 
   position: >

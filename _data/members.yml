@@ -45,12 +45,6 @@
     CZ Biohub Collaborative Postdoctoral Fellow <br/>
     BS, PhD Physics, Univ. of Buenos Aires
   email: bmoretti
-- avatar: Chance.jpg
-  name: Chance Bowman
-  caste: rotation
-  background: >
-    Bioengineering Rotation Student <br/>
-    BS Biochemistry/Biology, Dartmouth University
 - avatar: CharlotteJennings.jpg
   name: Charlotte Jennings
   caste: management
@@ -64,12 +58,19 @@
   background: > 
       PhD Physics, University of California, Berkeley <br/>
   email: enzecheng
-- avatar: Giselle.jpg
-  name: Giselle Galang
-  caste: rotation
+- avatar: MeloFilipe.jpg
+  name: Filipe Melo
+  caste: grad
   background: >
-      Molecular & Cell Biology Rotation Student <br/>
-      BS Microbiology, Immunology & Molecular Genetics, University of California Los Angeles 
+      Biophysics Graduate Student <br/>
+      BS Biochemistry, University of California Los Angeles
+  email: filipe_melo
+- avatar: Haley.JPG
+  name: Haley Bianchi
+  caste: grad
+  background: >
+      Molecular & Cell Biology Graduate Student
+      BS Molecular, Cell, & Developmental Biology, University of Washington Seattle
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
@@ -78,6 +79,12 @@
       PhD  Physics, Caltech<br/>
       BS Physics, University of Buenos Aires
   email: hggarcia [at] berkeley [dot] edu
+- avatar: HugoBale.jpg
+  name: Hugo Bale
+  caste: undergrad
+  background: >
+      Undergraduate Student in Molecular & Cell Biology <br/>
+      University of California, Berkeley
 - avatar: Josh.JPG
   name: Josh Huang
   caste: undergrad
@@ -93,6 +100,13 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
+- avatar: Kensi.jpg
+  name: Kensi Hartman
+  caste: grad
+  background: > 
+      Molecular & Cell Biology Graduate Student <br/>
+      BS Molecular & Cell Biology, Western Washington University
+  email: kensington_hartman
 - avatar: Kian.jpg
   name: Kian Naini 
   caste: undergrad
@@ -114,12 +128,6 @@
       Undergraduate Student in Physics <br/>
       University of California, Berkeley
   email: nchavourkar
-- avatar: Olivia.jpg
-  name: Olivia Rourke
-  caste: undergrad 
-  background: >
-      Undergraduate Student in Physics <br/>
-      Cal Poly, San Luis Obispo
 - avatar: tiffany.png
   name: Tiffany Pai
   caste: undergrad
