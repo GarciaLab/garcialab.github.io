@@ -92,13 +92,7 @@
   background: >
       Undergraduate Student in Physics <br/>
       University of California, Berkeley
-- avatar: Josh.JPG
-  name: Josh Huang
-  caste: undergrad
-  background: >
-      Undergraduate Student in Physics<br/>
-      University of California, Berkeley 
-  email: joshhuang77
+  email: 
 - avatar: juliaFaloSanjuan.jpg
   name: Julia Falo-Sanjuan
   caste: postdoc
@@ -137,10 +131,10 @@
   email: nchavourkar
 - avatar: tiffany.png
   name: Tiffany Pai
-  caste: undergrad
+  caste: tech
   background: >
-      Undergraduate Student in Molecular Cell Biology<br/>
-      University of California, Berkeley  
+      Technician<br/>
+      BS Molecular & Cell Biology, University of California Berkeley  
   email: tiffanypai
 - avatar: VinuHarihar.jpg
   name: Vinayak (Vinu) Harihar
@@ -163,3 +157,9 @@
       Physics Graduate Student<br/>
       BS Physics, California Institute of Technology
   email: ybadal
+- avatar: Zihou.jpg
+  name: Zihou Wang
+  caste: undergrad
+  background: >
+      Undergraduate Student in Physics <br/>
+      ShanghaiTech University
