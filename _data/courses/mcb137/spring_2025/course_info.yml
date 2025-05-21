@@ -353,6 +353,10 @@ Homework:
       - name: "Liu et al. (2013)"
         type: paper
         link: Liu2013.pdf
+    solutions:
+      - name: "Homework 14 (EC) Solutions"
+        type: external
+        link: "https://drive.google.com/file/d/1pjE0JS_dOGThD4c0gnaZd9AgFeZAgYi-/view?usp=sharing"
 
 syllabuspdf:
   link: MCB137L-237L-2025-Syllabus.pdf
