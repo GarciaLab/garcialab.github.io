@@ -322,7 +322,7 @@ Homework:
         type: external
         link: "https://drive.google.com/file/d/18vhAywGKymzVtNtmog5lETol2cnckRhz/view?usp=sharing"
   - set:
-    title: "Homework 13"
+    title: "Homework 13 (Final Project)"
     due: "5/6 at 2:00 PM"
     link: MCB137+237-HW13-2025.pdf
 #     materials:
@@ -338,10 +338,10 @@ Homework:
 #       - name: "Liu et al. (2013)"
 #         type: paper
 #         link: Liu2013.pdf
-#     # solutions:
-#     #   - name: "Homework 13 Solutions"
-#     #     type: external
-#     #     link: "https://drive.google.com/file/d/1
+    solutions:
+      - name: "Final Project Solutions"
+        type: external
+        link: "https://drive.google.com/drive/folders/1rtGXjHQF6fr1w1xiyG9ZZpc-QxSTmS_S?usp=sharing"
   - set:
     title: "Homework 14: Extra Credit"
     due: "5/13 at 2:00 PM"
