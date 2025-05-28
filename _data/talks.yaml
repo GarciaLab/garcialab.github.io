@@ -4,9 +4,11 @@
     venue: "2025 Biophysical Society Meeting, Los Angeles"
     video_link: "https://vimeo.com/1047720892?share=copy"
     thumbnail: "CZI2025.png"
+    description: “Video recorded for the Biophysical Society Kate and Barany Award summarizing the work in the lab so far and thinking about the future”
   - title: "Physical Biology of Embryonic Development?"
     date: "May 2025"
     venue: "Concepts in Biology Workshop at EMBL"
     video_link: "https://www.youtube.com/watch?v=1KJd4h0OOPo"
     thumbnail: ""
+    description: “Talk posing some fundamental theoretical challenges to reaching a predictive understanding of cellular decision making we are facing”
 
