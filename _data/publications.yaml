@@ -1,5 +1,14 @@
 2025:
   - title: >
+      Biological Processes as Exploratory Dynamics
+    author: >
+      Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, Rob Phillips
+    journal: preprint on arXiv
+    volume: arXiv: 2506.04104
+    links:
+      DOI: https://doi.org/10.48550/arXiv.2506.04104
+      PDF full text: "Kondev2025.pdf"
+  - title: >
       The Dynamics of Inducible Genetic Circuits
     author: >
       Zitao Yang, Rebecca J. Rousseau, Sara D. Mahdavi, Hernan G. Garcia, Rob Phillips
