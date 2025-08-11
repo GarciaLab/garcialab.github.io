@@ -1,13 +1,8 @@
 2025:
-  - title: "Lighting up Quantitative Developmental Biology"
-    date: "July 20, 2022"
-    venue: "2022 Society for Developmental Biology Meeting, Chicago"
-    video_link: "https://www.youtube.com/watch?v=Bfe-fkkyCV0"
-    thumbnail: "ElizabethHayAward_2022.jpg"
   - title: "Physical Biology of Embryonic Development"
     date: "Feb 17, 2025"
     venue: "2025 Biophysical Society Meeting, Los Angeles"
-    video_link: "https://vimeo.com/1047720892?share=copy"
+    video_link: "https://vimeo.com/1047720892/e0cfdaf497?share=copy"
     thumbnail: "CZI2025.png"
     description: "Video recorded for the Biophysical Society Kate and Barany Award summarizing the work in the lab so far and thinking about the future"
   - title: "Physical Biology of Embryonic Development?"
@@ -16,6 +11,12 @@
     video_link: "https://www.youtube.com/watch?v=1KJd4h0OOPo"
     thumbnail: "EMBL_Concepts_2025.png"
     description: "Talk posing some fundamental theoretical challenges to reaching a predictive understanding of cellular decision making we are facing"
+2022:
+  - title: "Lighting up Quantitative Developmental Biology"
+    date: "July 20, 2022"
+    venue: "2022 Society for Developmental Biology Meeting, Chicago"
+    video_link: "https://www.youtube.com/watch?v=Bfe-fkkyCV0"
+    thumbnail: "ElizabethHayAward_2022.jpg"
  
 
 
