@@ -80,6 +80,7 @@
     Bioengineering Rotation Student
     BS Biomedical Engineering, Korea University
     MS Nano-Bio-Information Technology, Korea University
+  email: heeseok_kang
 - avatar: hernan.jpg
   name: Hernan G. Garcia 
   caste: pi
@@ -110,6 +111,13 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
+- avatar: KadenTro.jpg
+  name: Kaden Tro
+  caste: rotation
+  background: >
+    Biophysics Rotation Student <br/>
+    BA Physics and Mathematics, Vanderbilt University
+  email: kaden_tro 
 - avatar: Kensi.jpg
   name: Kensi Hartman
   caste: grad

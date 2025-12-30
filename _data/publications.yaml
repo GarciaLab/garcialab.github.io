@@ -1,8 +1,15 @@
 2025:
   - title: >
+      A model model of transcriptional bursting dynamics based on coupling between chromatin and enhancer states
+    author: >
+      Ofri Axelrod, Udi Binshtok, Brian Gebelein, Hernan G. Garcia, David Sprinzak
+    journal: prepring on bioRxiv
+    DOI: https://doi.org/10.1101/2025.11.29.691276 
+    PDF full text: "Axelrod2025.pdf"
+  - title: >
       Cell fate ratios are encoded by transcriptional dynamics in the Drosophila retina
     author: >
-      Julia Ainsworth, Yunchond Zhao, Ke Gao, Nicholas M. Gravina, Zachary H. Goldberg, Coleman Pinkerton, Scott A. Rifkin, Andreas M. Ernst, Hernan G. Garcia, Michael W. Perry
+      Julia Ainsworth, Yunchong Zhao, Ke Gao, Nicholas M. Gravina, Zachary H. Goldberg, Coleman Pinkerton, Scott A. Rifkin, Andreas M. Ernst, Hernan G. Garcia, Michael W. Perry
     journal: Current Biology
     volume: In Press
     links:
