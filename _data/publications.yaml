@@ -12,7 +12,7 @@
     author: >
       Julia Ainsworth, Yunchong Zhao, Ke Gao, Nicholas M. Gravina, Zachary H. Goldberg, Coleman Pinkerton, Scott A. Rifkin, Andreas M. Ernst, Hernan G. Garcia, Michael W. Perry
     journal: Current Biology
-    volume: In Press
+    volume: 35 (12)
     links:
       DOI: https://doi.org/10.1016/j.cub.2025.05.037
       PDF full text: "Ainsworth2025.pdf"
@@ -20,10 +20,10 @@
       Biological Processes as Exploratory Dynamics
     author: >
       Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, Rob Phillips
-    journal: preprint on arXiv
-    volume: arXiv:2506.04104
+    journal: Biophysical Journal
+    volume: In Press
     links:
-      DOI: https://doi.org/10.48550/arXiv.2506.04104
+      DOI: https://doi.org/10.1016/j.bpj.2025.09.009
       PDF full text: "Kondev2025.pdf"
   - title: >
       The Dynamics of Inducible Genetic Circuits
