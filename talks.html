@@ -24,7 +24,12 @@ header_img: publications.gif
           <!-- Thumbnail -->
           <div class='talk-thumbnail' style="flex: 0 0 150px; margin-right: 15px;">
             <a href="{{ talk.video_link }}" target="_blank">
-              <img src="{{ site.baseurl }}/talks/{{ talk.thumbnail }}" alt="Talk Thumbnail" style="width: 100%; height: auto; border-radius: 5px;">
+              {% if talk.thumbnail %}
+                <img src="{{ site.baseurl }}/talks/{{ talk.thumbnail }}" alt="Talk Thumbnail" style="width: 100%; height: auto; border-radius: 5px;">
+              {% elsif talk.video_link contains "youtube.com/watch?v=" %}
+                {% assign yt_id = talk.video_link | split: "?v=" | last %}
+                <img src="https://img.youtube.com/vi/{{ yt_id }}/hqdefault.jpg" alt="Talk Thumbnail" style="width: 100%; height: auto; border-radius: 5px;">
+              {% endif %}
             </a>
           </div>
           
