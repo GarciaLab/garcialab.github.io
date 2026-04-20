@@ -1,3 +1,31 @@
+2026:
+  - title: >
+      Biological Processes as Exploratory Dynamics
+    author: >
+      Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, Rob Phillips
+    journal: Biophysical Journal
+    volume: 125
+    links:
+      DOI: "https://doi.org/10.1016/j.bpj.2025.09.009"
+      PDF full text: "Kondev2025.pdf"
+  - title: >
+      The Dynamics of Inducible Genetic Circuits
+    author: >
+      Zitao Yang, Rebecca J. Rousseau, Sara D. Mahdavi, Hernan G. Garcia, Rob Phillips
+    journal: Physical Review E
+    volume: 113
+    links:
+      DOI: "https://doi.org/10.1103/kzdj-53jf"
+      PDF full text: "Yang2025.pdf"
+  - title: >
+      Predictive Modeling of Gene Expression and Localization of DNA Binding Site Using Deep Convolutional Neural Networks
+    author: >
+      Arman Karshenas, Tom Röschinger, Hernan G. Garcia
+    journal: PLOS Computational Biology
+    volume: 22 (4), e1014092
+    links:
+      DOI: "https://doi.org/10.1371/journal.pcbi.1014092"
+      PDF full text: "Karshenas2024.pdf"
 2025:
   - title: >
       A model of transcriptional bursting dynamics based on coupling between chromatin and enhancer states
@@ -16,24 +44,6 @@
     links:
       DOI: https://doi.org/10.1016/j.cub.2025.05.037
       PDF full text: "Ainsworth2025.pdf"
-  - title: >
-      Biological Processes as Exploratory Dynamics
-    author: >
-      Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, Rob Phillips
-    journal: Biophysical Journal
-    volume: In Press
-    links:
-      DOI: https://doi.org/10.1016/j.bpj.2025.09.009
-      PDF full text: "Kondev2025.pdf"
-  - title: >
-      The Dynamics of Inducible Genetic Circuits
-    author: >
-      Zitao Yang, Rebecca J. Rousseau, Sara D. Mahdavi, Hernan G. Garcia, Rob Phillips
-    journal: preprint on arXiv
-    volume: arXiv:2505.07053
-    links:
-      DOI: "https://doi.org/10.48550/arXiv.2505.07053"
-      PDF full text: "Yang2025.pdf"
   - title: >
       Novel Fluorescent and Photoconvertible Fusions Reveal Dorsal Activator Dynamics
     author: >
@@ -62,15 +72,6 @@
       DOI: "https://doi.org/10.1126/sciadv.ady3909"
       PDF full text: "Dima2025.pdf"
 2024: 
-  - title: >
-      Predictive Modeling of Gene Expression and Localization of DNA Binding Site Using Deep Convolutional Neural Networks
-    author: >
-      Arman Karshenas , Tom Röschinger , Hernan G. Garcia
-    journal: preprint on bioRxiv
-    volume: 2024.12.17.629042
-    links:
-      DOI: "https://doi.org/10.1101/2024.12.17.629042"
-      PDF full text: "Karshenas2024.pdf"
   - title: >
       Optogenetic dissection of transcriptional repression in a multicellular organism
     author: >
