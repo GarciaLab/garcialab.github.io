@@ -14,10 +14,16 @@
 - avatar: AaronF.jpg
   name: Aaron Fultineer
   caste: grad
-  background: > 
+  background: >
      Physics Graduate Student <br/>
      BS in Physics and Mathematics, University of Denver
   email: aaron_fultineer
+- avatar: Baldemar.jpg
+  name: Baldemar Motomochi
+  caste: grad
+  background: >
+      Molecular & Cell Biology Graduate Student
+  email: motomochi
 - avatar: AndreaHerman.jpg
   name: Andrea Herman
   caste: grad
@@ -103,6 +109,12 @@
       PhD Developmental Biology, University of Cambridge<br/>
       BS Biochemistry, Universidad Autonoma de Madrid
   email: jfalo
+- avatar: KadenTro.jpg
+  name: Kaden Tro
+  caste: grad
+  background: >
+      Biophysics Graduate Student
+  email: kaden_tro
 - avatar: Kensi.jpg
   name: Kensi Hartman
   caste: grad
@@ -124,13 +136,19 @@
       Physics Graduate Student<br/>
       BS Physics, Georgia Tech
   email: nick_gravina
-- avatar: Nishanth.JPG 
-  name: Nishanth Chavourkar 
-  caste: undergrad 
-  background: > 
+- avatar: Nishanth.JPG
+  name: Nishanth Chavourkar
+  caste: undergrad
+  background: >
       Undergraduate Student in Physics <br/>
       University of California, Berkeley
   email: nchavourkar
+- avatar: noHeadshot_HGLabDrosLogo.png
+  name: Reef Sweeney
+  caste: grad
+  background: >
+      Physics Graduate Student
+  email: reef
 - avatar: RubyKnudsen.jpg
   name: Ruby Knudsen
   caste: undergrad
