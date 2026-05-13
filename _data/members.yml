@@ -22,7 +22,8 @@
   name: Baldemar Motomochi
   caste: grad
   background: >
-      Molecular & Cell Biology Graduate Student
+      Molecular & Cell Biology Graduate Student <br/>
+      BS Biology, University of California, Merced
   email: motomochi
 - avatar: AndreaHerman.jpg
   name: Andrea Herman
@@ -113,7 +114,8 @@
   name: Kaden Tro
   caste: grad
   background: >
-      Biophysics Graduate Student
+      Biophysics Graduate Student <br/>
+      BS Physics & Mathematics, Vanderbilt University
   email: kaden_tro
 - avatar: Kensi.jpg
   name: Kensi Hartman
@@ -147,7 +149,8 @@
   name: Reef Sweeney
   caste: grad
   background: >
-      Physics Graduate Student
+      Physics Graduate Student <br/>
+      BS Physics, University of California Santa Barbara
   email: reef
 - avatar: RubyKnudsen.jpg
   name: Ruby Knudsen
