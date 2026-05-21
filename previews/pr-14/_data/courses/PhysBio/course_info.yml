@@ -1,0 +1,74 @@
+about: >
+  ABOUT
+
+content:
+- set:
+  title: E. coli by numbers 
+  id: ecoli
+- set:
+  title: Gene expression 
+  id: gexpression
+- set: 
+  title: Biological Dynamics 
+  id: biodynamic
+  
+Ecoli: 
+  - set:
+    title: E. coli growth rate by Euler method 
+    due: "Aug 2023" 
+    materials:
+      - name: Jupyter notebook
+        type: external
+        link: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/Python-Basics-Simulation-Bacterial-Growth_PBoC2020.ipynb"
+  - set: 
+    title: E. coli logistic growth rate
+    due: "Aug 2023"
+    materials: 
+      - name: Jupyter notebook 
+        type: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/Ext1-logistic-growth.ipynb"
+  - set:
+    title: E. coli colony growth rate
+    due: "Aug 2023"
+    materials:
+      - name: Jupyter notebook
+        type: external
+        link: "https://github.com/GarciaLab/TeachingCode/blob/master/Ecoli/Colony%20Growth/bacterial_growth.ipynb"
+    solutions:
+      - name: Image dataset
+        type: external
+        link: "https://github.com/GarciaLab/TeachingCode/tree/master/Ecoli/Colony%20Growth/ColonyGrowthData"
+        
+GeneExpression:
+    - set:
+      title: Master equation
+      due: "Aug 2023"
+      materials: 
+        - name: Jupyter notebook
+          type: external
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/MasterEquation/gene_expression_master_equation_PBoC2020.ipynb"
+    - set: 
+      title: Stochastic simulation 
+      due: "Aug 2023" 
+      materials: 
+        - name: Matlab script
+          type: external 
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/StochasticSimulation/mRNAStochasticSimulation.m"
+    - set: 
+      title: Thermodynamic simulation 
+      due: "Aug 2023" 
+      materials: 
+        - name: Jupyter notebook
+          type: external 
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/GeneExpression/ThermodynamicModels/lacI_titration_PBoC2020.ipynb"
+        - name: Video test 
+          type: external 
+          link: "https://www.youtube.com/watch?v=Vt67mCMlajI&pp=ygUNaGVybmFuIGdhcmNpYQ%3D%3D"
+          
+BiologicalDynamics: 
+    - set: 
+      title: Gene expression dynamics 
+      due: "Aug 2023"
+      materials: 
+        - name: Jupyter notebook 
+          type: external
+          link: "https://github.com/GarciaLab/TeachingCode/blob/master/DynamicalSystems/MutualRepression/Day7-EquationsOfBiologicalDynamics.ipynb"

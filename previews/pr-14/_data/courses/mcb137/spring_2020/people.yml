@@ -1,0 +1,18 @@
+- person:
+  name: Hernan Garcia
+  email: hggarcia@berkeley.edu 
+  role: Instructor
+  img: hernan.jpg
+  office_hours: Wednesdays 3pm - 4pm
+- person:
+  name: YangJoon Kim
+  email: yjkim90@berkeley.edu
+  role: GSI
+  img: yang.jpeg
+  office_hours: Wednesdays 11pm - 12pm
+- person:
+  name: Jiaxi (Jake) Zhao
+  email: jiaxi.zhao@berkeley.edu
+  role: GSI
+  img: jakezhao.jpg
+  office_hours: Wednesdays 11pm - 12pm

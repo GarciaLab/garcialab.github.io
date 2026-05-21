@@ -1,0 +1,18 @@
+- person:
+  name: Hernan Garcia
+  email: hggarcia@berkeley.edu 
+  role: Instructor
+  img: hernan.jpg
+  office_hours: Wednesdays 2pm - 3pm @ 505 Weill Hall
+- person:
+  name: Yasemin Kiriscioglu
+  email: ykiriscioglu@berkeley.edu
+  role: GSI
+  img: yasemin.jpg
+  office_hours: Tuesdays 3pm - 4pm @ TBD
+- person:
+  name: Dushyant (Yovan) Badal
+  email: ybadal@berkeley.edu
+  role: GSI
+  img: yovanbadal.jpg
+  office_hours: Fridays 1pm - 2pm @ TBD

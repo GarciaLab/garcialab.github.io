@@ -1,0 +1,37 @@
+
+- person:
+  name: Hernan Garcia
+  email: hggarcia@berkeley.edu 
+  role: Instructor
+  img: hernan.jpg
+  office_hours:  
+- person:
+  name: Priya Moorjani
+  email: moorjani@berkeley.edu
+  role: Instructor
+  img: moorjani.jpg
+  office_hours: 
+- person:
+  name: Brandon Schlomann
+  email: bschloma@berkeley.edu
+  role: GSI
+  img: brandonschlo.jpg
+  office_hours: 
+- person:
+  name: Bruno Moretti
+  email: bmoretti@berkeley.edu
+  role: GSI
+  img: bruno.jpg
+  office_hours: 
+- person:
+  name: Arman Karshenas
+  email: arman_karshenas@berkeley.edu
+  role: GSI
+  img: armanKarshenas.jpg
+  office_hours: 
+- person:
+  name: Julia Falo-Sanjuan
+  email: jfalo@berkeley.edu
+  role: GSI
+  img: juliaFaloSanjuan.jpg
+  office_hours: 
