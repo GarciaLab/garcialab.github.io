@@ -147,7 +147,13 @@ syllabus:
       - The single-cell sequencing revolution.
       - The physics of single-cell sequencing.
       - Dimensionality reduction for the transcriptome
-
+    materials:
+    - name: PCA collab notebook
+      type: external
+      link: https://colab.research.google.com/drive/154fWTDDTBYVvAN67TMzxXO_ZxUssOjyO?usp=sharing
+    - name: EigenWorm collab notebook
+      type: external
+      link: https://colab.research.google.com/drive/1cLqSAQTxJ6O5gH5gY41Q7-Sg3IcNPpVz?usp=sharing
 
 
 
