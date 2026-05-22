@@ -1,17 +1,17 @@
 about: >
-  The ability to measure the full complement of RNA molecules in space and time 
-  within individual cells—and to interpret the flood of data from these 
-  technologies—is revolutionising how we dissect biological functions. 
-  In this series of lectures, we will examine how physical modelling can interact 
-  with these new data types to reveal the molecular mechanisms behind transcription 
-  and its regulation. Participants will be introduced to the 
-  fundamentals of dynamical systems theory and chemical master equations 
-  to predict both the mean and distribution of mRNA over time. We will also 
-  develop a “theory of the experiment” for single-cell sequencing, 
-  exploring how to extract meaningful mechanistic insights from complex datasets. 
-  The sessions will combine pen-and-paper derivations with uncomplicated coding 
-  exercises in Google Colab, accessible from any laptop or tablet. 
-  No prior background in mathematics, physics, or programming is necessary.
+  The ability to measure the full complement of RNA molecules in space and
+  time within individual cells—and to interpret the torrent of data emerging
+  from these technologies—is transforming how we dissect biological function.
+  In this series of hands-on lectures, we will explore how physical modeling can
+  engage in a dialogue with these new data modalities to uncover the molecular
+  mechanisms governing transcription and its regulation. Participants will be
+  introduced to the basics of dynamical systems theory and chemical master
+  equations to predict both the mean and distribution of mRNA over time.
+  We will also develop a “theory of the experiment” for single-cell sequencing,
+  examining how to extract meaningful mechanistic insights from complex
+  datasets. The sessions will combine pen-and-paper derivations with simple
+  coding exercises in Google Colab, accessible from any laptop or tablet. No
+  prior background in mathematics, physics, or programming is required.
 
 structure: >
 
@@ -26,24 +26,35 @@ people:
     role: Instructor
     img: hernan.jpg
     office_hours: Mondays 2:30pm - 3:30pm @ 505 Weill Hall and on <a href="https://berkeley.zoom.us/j/98546643139">Zoom</a>
+  - person:
+    name: Filipe Melo
+    email: Filipe_melo@berkeley.edu
+    role: TA
+    img: MeloFilipe.jpg
 
+  - person:
+    name: Kaden Tro
+    email: Kaden_tro@berkeley.edu
+    role: TA
+    img: KadenTro.jpg
     
 Homework: 
   
 
 syllabuspdf:
-  link: MCB137L-237L-2025-Syllabus.pdf
+  link: NSAS-2026-HernanGarcia-Syllabus-2026-05-22HG.pdf
 syllabus:
   - entry: #1
-    date: 1/21 Lecture @ 242 Hearst Gym. #<a href="https://www.dropbox.com/sh/z673ejjqnqycvei/AABp9glKYcTZ9Yuv4mYFfiAna?dl=0">Notes</a>
-    topics:
-      - "A feeling for the numbers in biology, Part I."
-      - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
-      - "What sets the scale of X?"
+    date: 5/24 #need to check
+    topics: 
+      - Order of Magnitude Biology
+      - A feeling for the numbers in biology
+      - Street-Fighting Mathematics:Order-of-magnitude estimates as a tool for discovery in the living world.
+      - What sets the scale of X?
     materials: 
-      - name: "Course Introduction: Powerpoint Presentation" 
+      - name: Slides
         type: external
-        link: https://docs.google.com/presentation/d/16r9f5-hYPRhXFNcoYtiu883ZvSd0G2ry/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
+        link: https://docs.google.com/presentation/d/1aKq8P7iZpqbB4vIwAYMK0WU5YaF55Fly/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
       - name: "Biology by the Numbers: Powerpoint Presentation" 
         type: external
         link: https://docs.google.com/presentation/d/1nq8ozPd2HVVgjv3rmaom38M04yCC6jnz/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
@@ -62,27 +73,87 @@ syllabus:
       - name: "Harness the Hubris: Useful things physicists could do in biology. A great debate between Bob Austin and Adrian Parsegian about the role of Physics in Biology (Parsegian 1997)"
         type: paper
         link: Parsegian1997.pdf
-#       - name: Distribution of biomass on Earth (Bar-On 2018)
-#        type: paper
-#        link: Bar-On2018.pdf
-#      - name: The Tragic Matter (Schatz 2003)
-#        type: paper
-#        link: Schatz2003.pdf
-#      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
-#        type: paper
-#        link: Baker1998.pdf
+      - name: Tania Bakers take on the amazing fidelity of DNA polymerase. (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
       - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
         type: paper
         link: Chure2022.pdf   
+      - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
+        type: paper
+        link: schmidt2016.pdf
     videos: 
-      - name: 'Physical Biology Exam
-              <ul>
-                <li>mRNA vs protein size (<a href="https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1WErVSsZF2P5SxRS5QlZOQExcZlMIpP23/view?usp=drive_link">Notes</a>) </li>
-                <li>Sun vs Human Power (<a href="https://www.youtube.com/watch?v=DO75RSTrTVc&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=3&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1dBF5tOiOJxemu_-_czbIHXgeRe2eCwc5/view?usp=drive_link">Notes</a>)</li>
-                <li>Number of Genes in E. coli (<a href="https://www.youtube.com/watch?v=2ROIEuitjMA&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=4&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1wGeYFxNMjxrWnMMVE-4eVzZHUj-DMiKv/view?usp=drive_link">Notes</a>)</li>
-                <li>Carbon Transporters in a Bacterium (<a href="https://www.youtube.com/watch?v=EuocMDgwP_s&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=6&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/13rgX5evoFpFF1QdE1WGucXYwnsJXIzVx/view?usp=drive_link">Notes</a>)</li>
-              </ul>'
-      - name: 'Human Impacts Exam (<a href="https://youtu.be/VY23Pgfc01k?=si=ygu8WM9hzURVRWBZ">Video</a>)
-              <ul>
-                <li>Cows vs Humans (<a href="https://www.youtube.com/watch?v=6883vXh9xek&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=11&pp=iAQB">Video</a>, <a href="https://drive.google.com/file/d/1tNpnimpUPpO8glZLeax1_OthZDjeSErG/view?usp=drive_link">Notes</a>)</li>
-              </ul>'
+      - name: Getting a feeling for the Numbers in Biology
+        type: external
+        link: https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB
+      - name: mRNA vs protein size
+        type: external
+        link: https://www.youtube.com/watch?v=buuSpbZEFZE&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=2&pp=iAQB
+      - name: Sun vs Human Power
+        type: external
+        link: https://www.youtube.com/watch?v=DO75RSTrTVc&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=3&pp=iAQB
+      - name: Number of Genes in E. coli
+        type: external
+        link: https://www.youtube.com/watch?v=2ROIEuitjMA&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=4&pp=iAQB
+      - name: Carbon Transporters in a Bacterium
+        type: external
+        link: https://www.youtube.com/watch?v=EuocMDgwP_s&list=PLcM9E3FZDjIwRDgp7C1SnJ3cdYbd-3uEw&index=6&pp=iAQB
+  - entry: #2
+    date: 5/25
+    topics: 
+      - Stuff(t) or the Protocol of Biological Dynamics
+      - Time evolution in biology.
+      - Update rules.
+      - Transcription of the constitutive promoter.
+    materials: 
+    - name: Slides
+      type: external
+      link: https://docs.google.com/presentation/d/1bDzASigrrhQmALrIV9N6fZiLf1p-Bebk/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
+    - name: One of Monod's papers revealing how bacterial growth dynamics inform our understanding of physiology and gene regulation
+      type: paper
+      link: Monod1949.pdf
+    - name: Groundbreaking measurement of gene expression dynamics in single E. coli cells using the MS2 system
+      type: paper
+      link: Golding2005.pdf
+    - name: Induction kinetics of the lac operon as reported by protein activity 
+      type: paper
+      link: Marbach2012.pdf
+    videos: 
+    - name: 'Introduction to Stuff(t) and the Protocol of Biological Dynamics'
+      type: external
+      link: https://youtu.be/HvMVPfMD1og
+  - entry: #3
+    date: 5/26
+    topics: 
+      - Null Hypotheses in Biology
+      - The Great Probability Distributions of Biology
+      - The Poisson distribution:Bombs over London, Constitutive Promoters and Sequencing the Human Genome.
+    materials:
+    - name: Slides
+      type: external
+      link: https://docs.google.com/presentation/d/1LSdvslXZnHNGasSOiSiXMfW-sBlpPaWb/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
+    - name: Great smFISH experiment showing that, while some genes follow a Poisson distribution of mRNA molecules, some don't
+      type: paper
+      link: Zenklusen2008.pdf
+    - name: Predicting transcriptional noise from DNA architecture in simple repression
+      type: paper
+      link: Jones2014.pdf
+    - name: Examining the distribution of flying bombs hitting London during WWII using the Poisson distribution
+      type: paper
+      link: Clarke1946.pdf
+  - entry: #4
+    date: tbd
+    topics:
+      - The single-cell sequencing revolution.
+      - The physics of single-cell sequencing.
+      - Dimensionality reduction for the transcriptome
+
+
+
+
+
+
+
+
+      
+

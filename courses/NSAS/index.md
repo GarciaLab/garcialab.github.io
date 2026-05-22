@@ -1,8 +1,8 @@
 ---
 layout: course
-title: Physical modelling and the molecular mechanisms of transcription
-tagline: Towards Programmable Neuroscience-Functional Single Cell Omics
-course_id: physmod
+title: Physical Biology of Transcriptional Control at NSAS
+tagline:
+course_id: NSAS
 term: summer
 year: 2026
 header_img: teaching.jpg
@@ -33,6 +33,9 @@ header_img: teaching.jpg
   </div>
 
 <h3 class="banner"> Syllabus </h3>
+{% assign syllabus_pdf = data_file.course_info['syllabuspdf'] %}
+
+<p>A pdf of the full course syllabus can be found {%if syllabus_pdf.link %}<a href="{{site.baseurl}}/courses/{{page.course_id}}/syllabus_pdf/{{syllabus_pdf.link}}">here</a>{%else %}TBA{%endif%}.</p>
 
 <table>
 <tr>
