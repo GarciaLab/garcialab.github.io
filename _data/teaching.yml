@@ -27,6 +27,9 @@ Physical Biology of the Cell:
       link: "https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2023"
     - year: 2022
       link: "https://mcb.berkeley.edu/grad/quantitative-biology-bootcamp/2022"
+  Physical Biology of Transcriptional Control at NSAS:
+    - year: 2026
+      link: "NSAS"
 Summer Courses at the Marine Biological Laboratory:
   Physical Biology of the Cell:
     - year: 2019
@@ -40,7 +43,6 @@ Summer Courses at the Marine Biological Laboratory:
       link: "https://mcb.berkeley.edu/labs/garcia/node/115"
 
 
-
 Other Courses:
   MCB290F - Module in Quantitative Biology at UC Berkeley:
     - year: 2016
@@ -50,7 +52,4 @@ Other Courses:
   4D Advanced Microscopy of Brain Circuits at UC Berkeley:
     - year: 2016
       link: "https://mcb.berkeley.edu/labs/garcia/node/38"
-  Physical Modelling and the Molecular Mechanisms of Transcription at NSAS:
-    - year: 2026
-      link: "other/NSAS_physical_modeling/"
 

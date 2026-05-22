@@ -4,4 +4,15 @@
   role: Instructor
   img: hernan.jpg
 
+- person:
+  name: Filipe Melo
+  email: Filipe_melo@berkeley.edu
+  role: TA
+  img: MeloFilipe.jpg
+
+- person:
+  name: Kaden Tro
+  email: Kaden_tro@berkeley.edu
+  role: TA
+  img: KadenTro.jpg
 
