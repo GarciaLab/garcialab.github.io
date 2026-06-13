@@ -1,3 +1,13 @@
+- name: Ruby Knudsen
+  caste: undergrad
+  position: >
+      Undergraduate Student in Physics <br/>
+      University of California, Berkeley
+- name: Tiffany Pai
+  caste: tech
+  position: >
+      Technician<br/>
+      BA Molecular & Cell Biology & Music, University of California Berkeley
 - name: Heeseok Kang
   caste: rotation
   position: >
