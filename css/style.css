@@ -3855,3 +3855,46 @@ body {
     display: none;
   }
 }
+
+@media (inverted-colors: inverted) {
+  .people-hero {
+    background-image: none !important;
+    background-color: Canvas !important;
+    color: CanvasText !important;
+  }
+
+  .people-hero .modSectionHeader h2,
+  .people-section,
+  .people-section h2,
+  .people-section p,
+  .people-section b,
+  .people-section i,
+  .people-section .gallery-nav li a {
+    color: CanvasText !important;
+  }
+
+  .people-section {
+    background-color: Canvas !important;
+  }
+
+  .people-section .gallery-nav li {
+    border-color: CanvasText !important;
+  }
+
+  .people-section .gallery-nav li.current {
+    border-color: Highlight !important;
+  }
+
+  .people-section .gallery-nav li.current a {
+    color: LinkText !important;
+  }
+
+  .people-section ul.gallery img {
+    filter: invert(1);
+    border-color: CanvasText !important;
+  }
+
+  .people-section ul.gallery li.hidden {
+    opacity: 0.35;
+  }
+}
