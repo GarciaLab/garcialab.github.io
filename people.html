@@ -113,9 +113,9 @@ header_img: people_cropped.png
             <center>
             <b style="text-transform: uppercase; text-color: black; text-align:
             center;"> {{member.name}}</b><br/>
-            <p>{{member.position}}
+            <p>
             {% if member.current %}
-            <br/><i>Current position:<br/> {{member.current}}</i>
+            {{member.current}}
             {%endif%}</p>
             </center>
             </li>
