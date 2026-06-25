@@ -105,6 +105,33 @@ header_img: people_cropped.png
 <div class='full people-section'>
     <div class='row'>
       <div class='mod modGallery'>
+  <center><h2>Collaborators</h2></center>
+
+        <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+          {% for member in site.data.collaborators %}
+            <li class="{{ member.caste }}" style="padding: 5px;">
+            <center>
+            <b style="text-transform: uppercase; text-color: black; text-align:
+            center;"> {{member.name}}</b><br/>
+            <p>{{member.position}}
+            {% if member.current %}
+            <br/><i>Current position:<br/> {{member.current}}</i>
+            {%endif%}</p>
+            </center>
+            </li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+    <div class='four spacing'></div>
+  </div>
+
+
+
+<div class='full people-section'>
+    <div class='row'>
+      <div class='mod modGallery'>
         <div class='gallery-nav'>
   <center><h2>Alumni & Friends</h2></center>
   

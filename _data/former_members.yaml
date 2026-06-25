@@ -391,18 +391,6 @@
   position: >
       Visiting Masters Student <br/>
       Spring 2017
-- name: Jack Bateman
-  caste: visitor
-  position: >
-      Visiting Professor (Sabbatical) <br/>
-      Spring 2016
-  current: Associate Professor, Biology, Bowdoin College
-- name: Shelby Blythe
-  caste: visitor
-  position: >
-      Visiting Postdoctoral Fellow <br/>
-      July 2015
-  current: Assistant Professor, Molecular Biosciences, Northwestern University
 - name: Vincent Bordeau
   caste: visitor
   position: Visiting Student
@@ -419,16 +407,6 @@
       Visiting Masters Student <br/>
       Spring 2018
       
-- name: Heinz Koeppl
-  caste: visitor
-  position: >
-      Visiting Professor<br/>
-      Spring 2022
-  current: >
-      Professor, Electrical Engineering and Information Technology <br/>
-      Director, Self-Organizing Systems Lab <br/>
-      at Technische Universität Darmstadt
-
 - name: Lishibanya Mohapatra
   caste: visitor
   position: >
