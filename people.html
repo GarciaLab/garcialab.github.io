@@ -47,7 +47,7 @@ header_img: people_cropped.png
             <a data-cat='undergrad' href='#'>Undergraduates</a>
           </li>
           <li>
-            <a data-cat='visitor' href='#'>Visitors</a>
+            <a data-cat='collaborator' href='#'>Collaborators</a>
           </li>
         </ul>
       </div>
@@ -109,7 +109,7 @@ header_img: people_cropped.png
 
         <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
           {% for member in site.data.collaborators %}
-            <li class="{{ member.caste }}" style="padding: 5px;">
+            <li class="{{ member.caste }} collaborator" style="padding: 5px;">
             <center>
             <b style="text-transform: uppercase; text-color: black; text-align:
             center;"> {{member.name}}</b><br/>
@@ -136,7 +136,7 @@ header_img: people_cropped.png
     <div class='row'>
       <div class='mod modGallery'>
         <div class='gallery-nav'>
-  <center><h2>Alumni & Friends</h2></center>
+  <center><h2>Alumni</h2></center>
   
           <ul>
             <li class='current'>
@@ -161,9 +161,8 @@ header_img: people_cropped.png
               <a data-cat='undergrad' href='#'>Undergraduates</a>
             </li>
             <li>
-              <a data-cat='visitor' href='#'>Visitors</a>
+              <a data-cat='collaborator' href='#'>Collaborators</a>
             </li>
-
           </ul>
         </div>
   

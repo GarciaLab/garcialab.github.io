@@ -562,6 +562,10 @@ jQuery(document).foundation();
 
         var gallery = $('.gallery-nav').closest('.modGallery').find('ul.gallery');
 
+        if (cat === 'collaborator' && $('.people-section').length > 0) {
+          gallery = $('.people-section ul.gallery');
+        }
+
         if (cat === 'all') {
           $('li', gallery).removeClass('hidden');
         } else {
@@ -797,5 +801,4 @@ jQuery(document).foundation();
     }
   })
 })(Tc.$);
-
 
