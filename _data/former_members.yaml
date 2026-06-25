@@ -24,11 +24,6 @@
     Undergraduate Student <br/>
     2022-2025
   current: PhD Student, UC San Diego
-- name: Chance Bowman
-  caste: rotation
-  position: >
-    Bioengineering Rotation Student <br/>
-    Spring 2025
 - name: Giselle Galang
   caste: rotation
   position: >
@@ -55,25 +50,10 @@
     Biophysics Graduate Student <br/>
     2021-2025
   current: Data Scientist, Freestone Grove Partners
-- name: Haley Bianchi
-  caste: rotation
-  position: >
-    MCB Rotation Student <br/>
-    Winter 2024-25
-- name: Kensi Hartman
-  caste: rotation
-  position: >
-    MCB Rotation Student <br/>
-    Winter 2024-25
 - name: Alejandro Collins
   caste: rotation
   position: >
     MCB Rotation Student <br/>
-    Fall 2024
-- name: Filipe Melo
-  caste: rotation
-  position: >
-    Biophysics Rotation Student <br/>
     Fall 2024
 - name: Jialing Fang
   caste: rotation
@@ -166,13 +146,6 @@
       Undergrad Student <br/>
       Summers 2015 & 2016
   current: Medical Student, Georgetown University School of Medicine
-
-- name: Sathvik Anantakrishnan
-  caste: undergrad
-  position: >
-      Visiting Masters Student <br/>
-      Summer & Fall 2021
-  current: PhD Student, Biophysics Graduate Group, UC Berkeley
 
 - name: Max Aragon 
   caste: undergrad
@@ -413,36 +386,12 @@
       Visiting PhD Student <br/>
       March 2015
   current: Assistant Professor, Physics & Astronomy, Rochester Institute of Technology
-- name: Bruno Moretti
-  caste: visitor
-  position: >
-      Visiting PhD Student <br/>
-      Spring 2016
 - name: Shanshan Qin
   caste: visitor
   position: >
       Visiting PhD Student <br/>
       Summer 2016
   current: Postdoctoral Fellow, Pehlevan Group, Harvard University
-- name: Allyson Sgro
-  caste: visitor
-  position: >
-      Visiting Postdoctoral Fellow <br/>
-      April 2015
-  current: Assistant Professor, Biomedical Engineering, Boston University
-- name: Harinder Singh
-  caste: visitor
-  position: >
-      Visiting Scholar <br/>
-      May 2015
-  current: Director,  Division of Immunobiology, Cincinati Children's Hospital Medical Center
-- name: Heng Xu
-  caste: visitor
-  position: >
-      Visiting Postdoc <br/>
-      January 2015
-  current: Postdoctoral Fellow, Baylor College of Medicine
-
 - name: Evan Mladina
   caste: tech
   position: Intern
