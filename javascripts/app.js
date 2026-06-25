@@ -578,6 +578,12 @@ jQuery(document).foundation();
           });
         }
 
+        if (cat === 'collaborator' && $('#collaborators').length > 0) {
+          $('html, body').stop().animate({
+            scrollTop: $('#collaborators').offset().top - $('.top-bar').outerHeight()
+          }, 500);
+        }
+
         return false;
 
       });
@@ -801,4 +807,3 @@ jQuery(document).foundation();
     }
   })
 })(Tc.$);
-
