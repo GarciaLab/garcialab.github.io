@@ -113,6 +113,9 @@ header_img: people_cropped.png
             <center>
             <b style="text-transform: uppercase; text-color: black; text-align:
             center;"> {{member.name}}</b><br/>
+            {% if member.avatar %}
+            <img alt="" style="border: 1px solid #000000;" src="{{site.baseurl}}/images/people/{{ member.avatar }}" />
+            {% endif %}
             <p>
             {% if member.current %}
             {{member.current}}

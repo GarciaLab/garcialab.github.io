@@ -1,18 +1,30 @@
 - name: Jack Bateman
+  avatar: JackBateman.png
   caste: visitor
   position: >
       Visiting Professor (Sabbatical) <br/>
       Spring 2016
   current: Bowdoin College
 - name: Shelby Blythe
+  avatar: ShelbyBlythe.png
   caste: visitor
   position: >
       Visiting Postdoctoral Fellow <br/>
       July 2015
   current: Northwestern University
-- name: Heinz Koeppl
+- name: Madhav Mani
+  avatar: MadhavMani.png
   caste: visitor
-  position: >
-      Visiting Professor<br/>
-      Spring 2022
-  current: Technische Universität Darmstadt
+  position: Collaborator
+  current: Imperial College London
+- name: Rob Phillips
+  avatar: RobPhillips.png
+  caste: visitor
+  position: Collaborator
+  current: Caltech
+# - name: Heinz Koeppl
+#   caste: visitor
+#   position: >
+#       Visiting Professor<br/>
+#       Spring 2022
+#   current: Technische Universität Darmstadt
