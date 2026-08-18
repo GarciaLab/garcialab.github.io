@@ -1,0 +1,62 @@
+Generated: former_lab_members_collage_4x3.png
+Slide size: 4:3, 3000 x 2250 px, 300 dpi
+Included photos: 53
+
+- Ruby Knudsen [undergrad]: images/people/RubyKnudsen.jpg
+- Tiffany Pai [tech]: images/people/TiffanyPai.jpg
+- Zihou Wang [undergrad]: images/people/Zihou.jpg
+- Josh Huang [undergrad]: previews/pr-6/images/people/Josh.JPG
+- Olivia Rourke [undergrad]: previews/pr-6/images/people/Olivia.jpg
+- Arman Karshenas [grad]: previews/pr-6/images/people/armanKarshenas.jpg
+- Emily Dong [undergrad]: previews/pr-6/images/people/Emily.jpg
+- Yuliana A. Díaz Tirado [undergrad]: previews/pr-6/images/people/Yuliana.jpeg
+- Yuxin Yang [undergrad]: previews/pr-6/images/people/Yuxin.jpg
+- Jazmin Sandhu [undergrad]: previews/pr-6/images/people/Jazmin.jpg
+- Anisha Yeddanapudi [undergrad]: previews/pr-6/images/people/Anisha.png
+- Julian Davis [undergrad]: previews/pr-6/images/people/JDavis.jpg
+- Jiaxi (Jake) Zhao [grad]: images/people/jakezhao.jpg
+- Gabriella Martini [grad]: previews/pr-6/images/people/gabriella.jpg
+- Alicia Zhang [undergrad]: previews/pr-6/images/people/AliciaZhang.png
+- Daniel Jefferson Aaron [undergrad]: previews/pr-6/images/people/former_people/daniel.png
+- Simon Alamos [grad]: previews/pr-6/images/people/former_people/simon.png
+- Neil Almeida [undergrad]: previews/pr-6/images/people/former_people/neilalmeda.jpg
+- Max Aragon [undergrad]: previews/pr-6/images/people/former_people/maxaragon.png
+- Augusto Berrocal [grad]: previews/pr-6/images/people/former_people/augusto.jpg
+- Jacques P. Bothma [postdoc]: previews/pr-6/images/people/former_people/jacques.jpg
+- Myron Barber Child [tech]: previews/pr-6/images/people/former_people/myron.jpg
+- Jinny Chung [undergrad]: previews/pr-6/images/people/former_people/jinnichung.jpg
+- Ana Margarida Correira De Paiva Bul [undergrad]: previews/pr-6/images/people/former_people/ana.jpg
+- Anmol Desai [undergrad]: previews/pr-6/images/people/former_people/AnmolDesai.png
+- Elizabeth Eck [grad]: previews/pr-6/images/people/former_people/liz.jpg
+- Pirooz Fereydouni [undergrad]: previews/pr-6/images/people/former_people/pirooz.jpg
+- Sydney Ghoreishi [undergrad]: previews/pr-6/images/people/former_people/sydney.png
+- Anjali Kaira [undergrad]: previews/pr-6/images/people/former_people/Anjali.jpg
+- Maryam Belen Kazemzadeh-Atoufi [undergrad]: previews/pr-6/images/people/former_people/Kazemzadeh.jpg
+- Yang Joon Kim [grad]: previews/pr-6/images/people/former_people/yang.jpeg
+- Nicholas Lammers [grad]: previews/pr-6/images/people/former_people/nick.jpg
+- Jonathan Liu [grad]: previews/pr-6/images/people/former_people/jonliu.jpg
+- Wendy Liu [tech]: previews/pr-6/images/people/former_people/WendyLiu.png
+- Emma Luu [tech]: previews/pr-6/images/people/former_people/emma.jpg
+- Sean Medin [undergrad]: previews/pr-6/images/people/former_people/seanmedin.jpg
+- Matthew Norstad [tech]: previews/pr-6/images/people/former_people/MatthewNorstad.jpg
+- Nica Nahal Sabouni [undergrad]: previews/pr-6/images/people/former_people/Nica.jpg
+- Armando Reimer [grad]: previews/pr-6/images/people/former_people/armando.jpg
+- Kaitlin Rhee [undergrad]: previews/pr-6/images/people/former_people/kaitlin.jpg
+- Abhishek Sethi [tech]: previews/pr-6/images/people/former_people/abhishek.jpg
+- Sunash Sharma [undergrad]: previews/pr-6/images/people/former_people/Sunash.jpg
+- Sannidhi Shukla [undergrad]: previews/pr-6/images/people/former_people/Sannidhi.jpg
+- Ashmita Reddy [undergrad]: previews/pr-6/images/people/AshmitaReddy.jpg
+- Niranjan Srinivas [postdoc]: previews/pr-6/images/people/former_people/niranjan.png
+- Paul Talledo [tech]: previews/pr-6/images/people/former_people/paultalledo.jpg
+- Clay Westrum [undergrad]: previews/pr-6/images/people/former_people/clay.jpg
+- Jordan Xiao [undergrad]: previews/pr-6/images/people/former_people/jordanxiao.JPG
+- Evan Mladina [tech]: previews/pr-6/images/people/former_people/evan.jpg
+- Aaron Perez [tech]: previews/pr-6/images/people/former_people/AaronPerez.jpg
+- Meghan Turner [grad]: previews/pr-6/images/people/meghan.jpg
+- Mina Kaddache [undergrad]: previews/pr-6/images/people/MinaKaddache.jpg
+- Pranjal Srivastava [undergrad]: previews/pr-6/images/people/pranjal.jpg
+
+Missing photo matches: 3
+- Anthony Magsarili [undergrad]
+- Dennis Sun [grad]
+- Scout Weber [undergrad]
