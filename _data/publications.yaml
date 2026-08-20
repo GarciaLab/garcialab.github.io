@@ -1,5 +1,16 @@
 2026:
   - title: >
+      Single-cell transcriptional dynamics in a living vertebrate
+    author: >
+      Elizabeth Eck, Bruno Moretti, Brandon H. Schlomann, Jordão Bragantini, Merlin Lange, Xiang Zhao, Shruthi VijayKumar, Guillaume Valentin, Cristina Loureiro, Pablo Perez Franco, Chloé Jollivet, Virginie Braman, Baldemar Motomochi, Loïc A. Royer, Andrew C. Oates, Hernan G. Garcia
+    journal: Cell Systems
+    volume: 17, 101708
+    links:
+      PubMed: "https://pubmed.ncbi.nlm.nih.gov/38260569/"
+      DOI: "https://doi.org/10.1016/j.cels.2026.101708"
+      PDF full text: "Eck2026.pdf"
+      Supplemental information: "Eck2026Supp.pdf"
+  - title: >
       Informational blueprints reveal condition-dependent gene regulatory architectures
     author: >
       Doruk Efe Gökmen, Rosalind Wenshan Pan, Tom Röschinger, Stephen Quake, Hernan G Garcia, Rob Phillips, Vincenzo Vitelli
@@ -125,15 +136,6 @@
     links: 
       DOI: "https://doi.org/10.1101/2024.06.10.598328"
       PDF full text: "Falo-Sanjuan_2024.pdf"
-  - title: >
-     Single-cell transcriptional dynamics in a living vertebrate
-    author: >
-      Elizabeth Eck, Bruno Moretti, Brandon H Schlomann, Jordão Bragantini, Merlin Lange, Xiang Zhao, Shruthi VijayKumar, Guillaume Valentin, Cristina Loureiro, Daniele Soroldoni, Loic Alain Royer, Andrew C. Oates, Hernan H Garcia
-    journal: preprint on bioRxiv
-    volume: 2024.01.03.574108
-    links: 
-      DOI: "https://doi.org/10.1101/2024.01.03.574108"
-      PDF full text: "Eck-et-al-2024.pdf"
 2023: 
   - title: >
      Optogenetic control of YAP reveals a dynamic communication code for stem cell fate and proliferation
