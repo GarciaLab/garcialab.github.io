@@ -1159,6 +1159,17 @@ form input.error, form textarea.error {
 #footer ul a:hover {
   color: #eee;
 }
+#footer .internal-link {
+  margin: 0;
+  text-align: center;
+  font-size: 0.875rem;
+}
+#footer .internal-link a {
+  color: #999;
+}
+#footer .internal-link a:hover {
+  color: #eee;
+}
 #footer ul.socials li {
   display: inline-block;
   margin-right: 5px;
