@@ -240,17 +240,17 @@
     links:
       DOI: "http://doi.org/10.1111/nyas.14692"
       PDF full text: "Cable2021.pdf"
-    commentary: 
-    - title: >
-        Quantitative imaging of RNA polymerase II activity in plants reveals 
-        the single-cell basis of tissue-wide transcriptional dynamics
-      author: Simon Alamos, Armando Reimer, Krishna K. Niyogi, and Hernan G. Garcia
-      journal: Nature Plants
-      volume: 7
-      links:
-        DOI: "https://doi.org/10.1038/s41477-021-00976-0"
-        PDF full text: "Alamos2021.pdf"
-        Supporting Information: "Alamos2021supp.pdf"
+  - title: >
+      Quantitative imaging of RNA polymerase II activity in plants reveals
+      the single-cell basis of tissue-wide transcriptional dynamics
+    author: Simon Alamos, Armando Reimer, Krishna K. Niyogi, and Hernan G. Garcia
+    journal: Nature Plants
+    volume: 7
+    links:
+      DOI: "https://doi.org/10.1038/s41477-021-00976-0"
+      PDF full text: "Alamos2021.pdf"
+      Supporting Information: "Alamos2021supp.pdf"
+    commentary:
     - title: >
         Noisy transcription under the spotlight
       type: News and Views
@@ -262,17 +262,17 @@
       links:
         DOI: "https://doi.org/10.1038/s41477-021-00987-x"
         PDF full text: "AbleyLocke2021NaturePlantsCommentary.pdf"
-  - title: >
-      Real time quantitative imaging of transcriptional activity
-      at the single cell level
-    type: Highlighted
-    author: Tatsuya Nobori
-    blog: Plantae
-    webpage: "https://plantae.org/"
-    year: 2020
-    links:
-      Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
-      Article Snapshot: "NoboriPlantae2020snapshot.pdf"
+    - title: >
+        Real time quantitative imaging of transcriptional activity
+        at the single cell level
+      type: Highlighted
+      author: Tatsuya Nobori
+      blog: Plantae
+      webpage: "https://plantae.org/"
+      year: 2020
+      links:
+        Article Link: "https://plantae.org/real-time-quantitative-imaging-of-transcriptional-activity-at-the-single-cell-level-biorxiv/"
+        Article Snapshot: "NoboriPlantae2020snapshot.pdf"
   
   - title: >
       Live imaging and biophysical modeling support a button-based mechanism
