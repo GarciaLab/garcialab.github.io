@@ -5,6 +5,8 @@ baseurl: ""  # Will be overridden dynamically for PR previews
 url: "https://garcialab.berkeley.edu"  # Ensure this is set correctly
 
 # Build settings
+# Retired test preview; retain source assets for the collage script.
+exclude: [previews/pr-6]
 markdown: kramdown
 paginate: 3
 paginate_path: "blog/page:num"
