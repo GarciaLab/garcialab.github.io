@@ -1,0 +1,95 @@
+about: >
+  Biology is being revolutionized by experimental techniques that quantitatively
+  query molecules, cells, and multicellular organisms. This course responds to
+  these data through quantitative models and biological numeracy, using the
+  language of physics, mathematics, and computation.
+  <br/><br/>
+  Examples from cell biology, gene regulation, genomics, developmental biology,
+  and neuroscience will motivate quantitative predictions explored through
+  hands-on data analysis, numerical simulations, and original scientific projects.
+  Physical biology is a way of asking biological questions: students will learn
+  to formulate questions, develop quantitative approaches, and communicate
+  findings through presentations and discussion.
+  <br/><br/>
+  No previous coding or advanced mathematics experience is required.
+
+structure: >
+  The course meets twice each week: one two-hour lecture and one two-hour
+  laboratory. Meeting times and locations are TBD.
+  <br/><br/>
+  Lectures introduce biological estimation, dynamics, probability, single-cell
+  genomics, diffusion, exploratory dynamics, pattern formation, entropy,
+  statistical mechanics, gene regulation, and biological networks.
+  <br/><br/>
+  The laboratory is a scientific workshop. Teams of two investigate an original
+  question, refining their projects through regular discussions with the
+  instructor and GSI. Discussions of the Protocol of Science address choosing
+  questions, formulating hypotheses, interpreting evidence, and communicating
+  results. Computational and mathematical tutorials will respond to project needs.
+  Weekly homework provides ungraded practice and self-assessment; solutions
+  will be provided.
+  <br/><br/>
+  <b>Project milestones</b><br/>
+  Week 3: research proposal, with a one-page abstract and a 10-minute presentation.<br/>
+  Week 8: progress report, with a 3-5 page manuscript draft and a 10-minute presentation.<br/>
+  Week 14: research article, with a polished 6-8 page paper and a 10-minute final presentation.<br/>
+  Each presentation is followed by approximately 10 minutes of questions.
+  Reports follow the scientific publication process and incorporate feedback.
+  Students enrolled in MCB237L are expected to contribute graduate-level
+  engagement with primary literature, quantitative depth, and project leadership.
+
+policies: >
+  <b>Submissions</b><br/>
+  Written reports, slides, and code must be submitted through Gradescope
+  (entry code TBD). Reports are due at the beginning of class one week before
+  presentations (Weeks 2, 7, and 13). Slides and code are due at the beginning
+  of class on presentation day. No late submissions.
+  Explain your reasoning, label plot axes, and use appropriate significant digits.
+  <br/><br/>
+  <b>Grading</b><br/>
+  Participation: 15%; research proposal: 15%; progress presentation: 10%;
+  progress report: 15%; final presentation: 20%; research article: 25%.
+  Grades are not curved. See the full syllabus for the letter-grade scale.
+  <br/><br/>
+  <b>Attendance and support</b><br/>
+  Attend every lecture and laboratory and plan to attend at least one weekly
+  office hour regularly. Repeated unexcused absences affect participation grades.
+  Notify the instructor and GSI in writing by Week 2 of known potential conflicts.
+  Use Piazza for assignment and logistics questions (course link TBD).
+  For illness, disability accommodations, religious observance, or other serious
+  personal circumstances, contact the instructor and GSI privately by email
+  as early as possible. Disability accommodations require a DSP Letter of
+  Accommodation. Obtain missed notes from classmates.
+  <br/><br/>
+  <b>Scientific tools and academic integrity</b><br/>
+  AI tools are permitted and encouraged, but never required. No project requires
+  paid software or subscriptions. Students remain responsible for accuracy,
+  originality, and scientific integrity and must independently verify generated
+  claims, citations, calculations, and code.
+  Every written submission must acknowledge each AI system used, link to it,
+  describe its use, and explain how its output entered the work. Cite derived
+  material in the text and references and retain representative prompts and
+  outputs for review if requested. Never enter sensitive or personally
+  identifiable information into these systems.
+  Each student must be able to explain, reproduce, and defend the team's work.
+  Assessment relies on discussion, not automated AI detection. Suspected
+  violations are reported to the Center for Student Conduct and may require
+  redoing work in person. Attribute all sources and obtain permission before
+  distributing course materials. See the full syllabus for complete policies.
+
+people:
+  - name: Hernan Garcia
+    email: hggarcia@berkeley.edu
+    role: Instructor
+    img: hernan.jpg
+    office_hours: TBD, 505 Weill Hall and Zoom
+  - name: Aaron Fultineer
+    email: aaron_fultineer@berkeley.edu
+    role: GSI
+    img: AaronF.jpg
+    office_hours: TBD
+
+Homework: []
+syllabus: []
+syllabuspdf:
+  link: MCB137L-237L-2027-Syllabus-2027-07-29v2.pdf
