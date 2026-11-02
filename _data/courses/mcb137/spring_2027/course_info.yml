@@ -1,17 +1,38 @@
 about: >
-  Biology is being revolutionized by experimental techniques that quantitatively
-  query molecules, cells, and multicellular organisms. This course responds to
-  these data through quantitative models and biological numeracy, using the
-  language of physics, mathematics, and computation.
+  Biology is being revolutionized by new experimental techniques that have made
+  it possible to quantitatively query the inner workings of molecules, cells,
+  and multicellular organisms in ways that were previously unimaginable.
+  The objective of this course is to respond to this deluge of quantitative
+  data through quantitative models and the use of biological numeracy.
+  We will explore a broad array of topics from modern biology using the
+  language of physics, mathematics, and computation, emphasizing the kinds
+  of simple calculations that one can do with a stick in the sand.
   <br/><br/>
-  Examples from cell biology, gene regulation, genomics, developmental biology,
-  and neuroscience will motivate quantitative predictions explored through
-  hands-on data analysis, numerical simulations, and original scientific projects.
-  Physical biology is a way of asking biological questions: students will learn
-  to formulate questions, develop quantitative approaches, and communicate
-  findings through presentations and discussion.
+  We will draw examples from across modern biology, including cell biology,
+  gene regulation, genomics, developmental biology, and neuroscience, to
+  develop theoretical models that make precise, quantitative predictions
+  about biological phenomena. These predictions will be explored through
+  hands-on analysis of experimental data, numerical simulations, and the
+  development of original scientific projects.
+  <br/><br/>
+  Physical biology will be introduced not simply as a collection of quantitative
+  techniques, but as a way of asking biological questions. Science is often
+  taught as established facts and techniques; research also requires deciding
+  which questions are worth asking, determining how to answer them, acquiring
+  new tools along the way, and convincing others that conclusions are justified.
+  This course provides an authentic experience of that process.
+  <br/><br/>
+  Lectures introduce the conceptual framework of physical biology, while the
+  laboratory provides an opportunity to investigate an original scientific
+  question. Throughout the semester, students will repeatedly refine their
+  questions, analyses, and presentations through discussions with the
+  instructor, GSI, and classmates, mirroring the iterative nature of scientific
+  research. Students will learn to formulate scientific questions, develop
+  quantitative approaches to answer them, and communicate their findings
+  through presentations and discussion.
   <br/><br/>
   No previous coding or advanced mathematics experience is required.
+  The course is designed to be broadly accessible.
 
 structure: >
   The course meets twice each week: one two-hour lecture and one two-hour
