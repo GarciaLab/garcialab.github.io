@@ -1,88 +1,87 @@
 about: >
-  Biology is being revolutionized by new experimental techniques that have made
-  it possible to quantitatively query the inner workings of molecules, cells,
-  and multicellular organisms in ways that were previously unimaginable.
-  The objective of this course is to respond to this deluge of quantitative
-  data through quantitative models and the use of biological numeracy.
-  We will explore a broad array of topics from modern biology using the
-  language of physics, mathematics, and computation, emphasizing the kinds
-  of simple calculations that one can do with a stick in the sand.
+  Biology is being revolutionized by new experimental techniques that have made it possible to quantitatively query the inner workings of molecules, cells, and multicellular organisms in ways that were previously unimaginable. The objective of this course is to respond to this deluge of quantitative data through quantitative models and biological numeracy. We will explore a broad array of topics from modern biology using the language of physics, mathematics, and computation, emphasizing the kinds of simple calculations that one can do with a stick in the sand.
   <br/><br/>
-  We will draw examples from across modern biology, including cell biology,
-  gene regulation, genomics, developmental biology, and neuroscience, to
-  develop theoretical models that make precise, quantitative predictions
-  about biological phenomena. These predictions will be explored through
-  hands-on analysis of experimental data, numerical simulations, and the
-  development of original scientific projects.
+  Physical biology will be introduced as a way of asking biological questions. Lectures will develop the conceptual framework, drawing examples from cell biology, gene regulation, genomics, developmental biology, and neuroscience. In the laboratory, students will work in teams of two to investigate an original scientific question, developing models, analyzing experimental data, and using numerical simulations to make and test quantitative predictions.
   <br/><br/>
-  Physical biology will be introduced not simply as a collection of quantitative
-  techniques, but as a way of asking biological questions. Science is often
-  taught as established facts and techniques; research also requires deciding
-  which questions are worth asking, determining how to answer them, acquiring
-  new tools along the way, and convincing others that conclusions are justified.
-  This course provides an authentic experience of that process.
+  An explicit goal of the course is to explore how artificial intelligence can help us do scientific research. We will investigate how these tools can help us formulate questions, learn unfamiliar concepts, develop and debug code, analyze data, and communicate our findings. Along the way, we will ask how to recognize when they are useful, when they are misleading, and how to check their answers. Students remain responsible for understanding, verifying, and defending their work. AI use is encouraged but optional, and no paid subscription is required.
   <br/><br/>
-  Lectures introduce the conceptual framework of physical biology, while the
-  laboratory provides an opportunity to investigate an original scientific
-  question in teams of two. Students will identify a question that interests
-  them and refine it with the instructor and GSI so that it is quantitatively
-  grounded and feasible within the semester. Computational and mathematical
-  tools will be introduced as they become useful for answering these questions,
-  giving students practice acquiring new skills as part of scientific work.
+  We will be figuring out how to do this together. There is no established recipe for incorporating AI into scientific research, and the instructor and GSI will be learning alongside the students. The scientific questions we pursue—and the successes and difficulties we encounter—will help shape the computational and mathematical exercises and lectures introduced throughout the semester. Students will help us discover and evaluate ways of working with these tools.
   <br/><br/>
-  Throughout the semester, students will repeatedly refine their
-  questions, analyses, and presentations through discussions with the
-  instructor, GSI, and classmates, mirroring the iterative nature of scientific
-  research. Students will learn to formulate scientific questions, develop
-  quantitative approaches to answer them, and communicate their findings
-  through presentations and discussion.
+  Throughout the course, students will refine their questions, analyses, and presentations through regular discussions with the instructor, GSI, and classmates. The goal is to experience the process of research: deciding which questions are worth asking, acquiring the tools needed to answer them, interpreting evidence, and convincing others that the conclusions are justified.
   <br/><br/>
-  No previous coding or advanced mathematics experience is required.
-  The course is designed to be broadly accessible.
-
+  No previous coding or advanced mathematics experience is required. The course is designed to be broadly accessible.
 structure: >
   The course meets twice each week: one two-hour lecture and one two-hour
-  laboratory. Meeting times and locations are TBD.
+  laboratory. <b>Lecture and laboratory meet Mondays and Wednesdays, 3pm-5pm,
+  in 321 Undergraduate Academic Building.</b>
   <br/><br/>
   Lectures introduce biological estimation, dynamics, probability, single-cell
   genomics, diffusion, exploratory dynamics, pattern formation, entropy,
-  statistical mechanics, gene regulation, and biological networks.
+  statistical mechanics, gene regulation, and biological networks. Portions
+  of the lectures may evolve in response to students' scientific questions.
   <br/><br/>
   The laboratory is a scientific workshop. Teams of two investigate an original
   question, refining their projects through regular discussions with the
-  instructor and GSI. Discussions of the Protocol of Science address choosing
-  questions, formulating hypotheses, interpreting evidence, and communicating
-  results. Computational and mathematical tutorials will respond to project needs.
+  instructor and GSI. We will discuss the Protocol of Science as we learn how
+  to choose questions, formulate hypotheses, and interpret and communicate results.
+  Projects drive the choice of computational and mathematical
+  tutorials, including Python, simulations, visualization, statistical inference,
+  modeling, and AI tools. The instructor, GSI, and students will evaluate these
+  approaches together as the semester unfolds. This flexible laboratory format
+  coexists with the defined milestones, deadlines, and evaluation criteria below.
   Weekly homework provides ungraded practice and self-assessment; solutions
   will be provided.
   <br/><br/>
   <b>Project milestones</b><br/>
-  Week 3: research proposal, with a one-page abstract and a 10-minute presentation.<br/>
-  Week 8: progress report, with a 3-5 page manuscript draft and a 10-minute presentation.<br/>
-  Week 14: research article, with a polished 6-8 page paper and a 10-minute final presentation.<br/>
+  <ul>
+  <li><b>Week 3:</b> research proposal, with a one-page abstract and a 10-minute presentation.</li>
+  <li><b>Week 8:</b> progress report, with a 3-5 page manuscript draft and a 10-minute presentation.</li>
+  <li><b>Week 14:</b> research article, with a polished 6-8 page paper and a 10-minute final presentation.</li>
+  </ul>
   Each presentation is followed by approximately 10 minutes of questions.
+  Proposal evaluation emphasizes the clarity and importance of the question,
+  physical biology motivation, and feasibility. Progress evaluation emphasizes
+  scientific and technical progress, preliminary analysis, report clarity,
+  obstacles and next steps, and incorporation of feedback. Final evaluation
+  emphasizes scientific depth, quantitative analysis, conclusions, written
+  and oral communication, and intellectual ownership during discussion.
   Reports follow the scientific publication process and incorporate feedback.
   Students enrolled in MCB237L are expected to contribute graduate-level
   engagement with primary literature, quantitative depth, and project leadership.
 
+research_ai: >
+  We will explore together how AI can support scientific questions, literature
+  exploration, coding, modeling, analysis, and communication, and evaluate its
+  usefulness and limitations, including confident errors and fabricated citations.
+  AI use is encouraged but optional. Independently verify outputs and be
+  prepared to explain, reproduce, and defend your work. No paid subscription
+  is required; the teaching team will help you find accessible tools and
+  feasible project scopes.
+
 policies: >
   <b>Submissions</b><br/>
-  Written reports, slides, and code must be submitted through Gradescope
+  Written reports, slides, and code must be submitted through <a href="https://www.gradescope.com/">Gradescope</a>
   (entry code TBD). Reports are due at the beginning of class one week before
   presentations (Weeks 2, 7, and 13). Slides and code are due at the beginning
   of class on presentation day. No late submissions.
   Explain your reasoning, label plot axes, and use appropriate significant digits.
   <br/><br/>
   <b>Grading</b><br/>
-  Participation: 15%; research proposal: 15%; progress presentation: 10%;
-  progress report: 15%; final presentation: 20%; research article: 25%.
-  Grades are not curved. See the full syllabus for the letter-grade scale.
+  <ul>
+  <li>Participation: 15%</li>
+  <li>Research proposal: 15%</li>
+  <li>Progress presentation: 10%</li>
+  <li>Progress report: 15%</li>
+  <li>Final presentation: 20%</li>
+  <li>Research article: 25%</li>
+  </ul>
+  Grades are not curved. See the <a href="syllabus_pdf/MCB137L-237L-2027-Syllabus-2026-11-02.pdf">full syllabus</a> for the letter-grade scale.
   <br/><br/>
   <b>Attendance and support</b><br/>
   Attend every lecture and laboratory and plan to attend at least one weekly
   office hour regularly. Repeated unexcused absences affect participation grades.
   Notify the instructor and GSI in writing by Week 2 of known potential conflicts.
-  Use Piazza for assignment and logistics questions (course link TBD).
+  Use <a href="https://piazza.com/berkeley/spring2027/mcb137lmcb237l/info">Piazza</a> for assignment and logistics questions.
   For illness, disability accommodations, religious observance, or other serious
   personal circumstances, contact the instructor and GSI privately by email
   as early as possible. Disability accommodations require a DSP Letter of
@@ -109,7 +108,7 @@ people:
     email: hggarcia@berkeley.edu
     role: Instructor
     img: hernan.jpg
-    office_hours: TBD, 505 Weill Hall and Zoom
+    office_hours: Tuesdays 12pm-1pm, 505 Weill Hall and Zoom
   - name: Aaron Fultineer
     email: aaron_fultineer@berkeley.edu
     role: GSI
@@ -118,3 +117,5 @@ people:
 
 Homework: []
 syllabus: []
+syllabuspdf:
+  link: MCB137L-237L-2027-Syllabus-2026-11-02.pdf
