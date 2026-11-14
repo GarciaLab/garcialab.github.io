@@ -124,11 +124,7 @@ syllabus:
       - What sets the scale of X?
     materials:
       - name: "Course Introduction: Powerpoint Presentation"
-        type: external
-        link: https://docs.google.com/presentation/d/16r9f5-hYPRhXFNcoYtiu883ZvSd0G2ry/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
       - name: "Biology by the Numbers: Powerpoint Presentation"
-        type: external
-        link: https://docs.google.com/presentation/d/1nq8ozPd2HVVgjv3rmaom38M04yCC6jnz/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
       - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
         type: paper
         link: Cohen2004.pdf
@@ -154,8 +150,6 @@ syllabus:
     assignment_due: Group compositions
     materials:
       - name: "Limits to Bacterial Growth: Powerpoint Presentation"
-        type: external
-        link: https://docs.google.com/presentation/d/13j3A5FQRv02W9zNe0rephSE0UiYCDlSN/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
       - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
         type: paper
         link: Stouthamer1973.pdf
