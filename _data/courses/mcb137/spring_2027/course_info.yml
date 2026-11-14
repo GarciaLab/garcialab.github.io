@@ -119,6 +119,7 @@ Homework: []
 syllabus:
   - date: "1/20"
   - date: "1/25"
+    assignment_due: Group compositions
   - date: "1/27"
     assignment_due: Abstract
   - date: "2/1"
