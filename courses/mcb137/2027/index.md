@@ -73,9 +73,10 @@ header_img: teaching.jpg
 <div style="overflow-x: auto;">
 <table>
 <tr>
-<th><b> Number </b></th>
+<th><b> Lecture </b></th>
 <th><b> Date </b></th>
-<th><b> Topics </b></th>
+<th><b> Topic </b></th>
+<th><b> Assignment due </b></th>
 <th><b> Materials</b></th>
 <th><b> Discussion</b></th>
 <th><b> Videos</b></th>
@@ -93,6 +94,7 @@ header_img: teaching.jpg
   {% endfor %}
   </ul>
   </td>
+  <td>{{entry.assignment_due | escape}}</td>
   <td>
   <ul>
   {% for mat in entry.materials %}

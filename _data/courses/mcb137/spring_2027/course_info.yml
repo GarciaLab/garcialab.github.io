@@ -116,6 +116,49 @@ people:
     office_hours: TBD
 
 Homework: []
-syllabus: []
+syllabus:
+  - date: "1/20"
+  - date: "1/25"
+  - date: "1/27"
+    assignment_due: Abstract
+  - date: "2/1"
+    topics:
+      - Abstract Presentations
+  - date: "2/3"
+    topics:
+      - Abstract Presentations
+  - date: "2/8"
+  - date: "2/10"
+  - date: "2/17"
+    topics:
+      - Teo and Gael mid-winter break
+  - date: "2/22"
+  - date: "2/24"
+  - date: "3/1"
+  - date: "3/3"
+    assignment_due: Progress report
+  - date: "3/8"
+    topics:
+      - Progress report presentations
+  - date: "3/10"
+    topics:
+      - Progress report presentations
+  - date: "3/15"
+  - date: "3/17"
+  - date: "3/29"
+  - date: "3/31"
+  - date: "4/5"
+  - date: "4/7"
+  - date: "4/12"
+  - date: "4/14"
+  - date: "4/19"
+  - date: "4/21"
+    assignment_due: Final report
+  - date: "4/26"
+    topics:
+      - Final presentations
+  - date: "4/28"
+    topics:
+      - Final presentations
 syllabuspdf:
   link: MCB137L-237L-2027-Syllabus-2026-11-02.pdf
