@@ -122,11 +122,64 @@ syllabus:
       - A feeling for the numbers in biology, Part I.
       - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
       - What sets the scale of X?
+    materials:
+      - name: "Course Introduction: Powerpoint Presentation"
+        type: external
+        link: https://docs.google.com/presentation/d/16r9f5-hYPRhXFNcoYtiu883ZvSd0G2ry/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
+      - name: "Biology by the Numbers: Powerpoint Presentation"
+        type: external
+        link: https://docs.google.com/presentation/d/1nq8ozPd2HVVgjv3rmaom38M04yCC6jnz/edit?usp=sharing&ouid=108943369280090864520&rtpof=true&sd=true
+      - name: Great article by Joel Cohen arguing how math and theory can become a microscope for biology. (Cohen 2004)
+        type: paper
+        link: Cohen2004.pdf
+      - name: Paul Nurse reflects on the great ideas of biology. We will explore these ideas throughout the course from a quantitative perspective. (Nurse 2003)
+        type: paper
+        link: Nurse2003.pdf
+      - name: Article by Rob Phillips arguing for models to precede experiments, and not to be relegated to the last figure of papers. (Phillips 2015)
+        type: paper
+        link: Phillips2015.pdf
+      - name: Jeremy Gunawardena reminds us that models in biology are not supposed to be accurate descriptions of nature, but just accurate descriptions of our “pathetic thinking”. (Gunawardena 2014)
+        type: paper
+        link: Gunawardena2014.pdf
+      - name: "Harness the Hubris: Useful things physicists could do in biology. A great debate between Bob Austin and Adrian Parsegian about the role of Physics in Biology (Parsegian 1997)"
+        type: paper
+        link: Parsegian1997.pdf
+      - name: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth. (Chure 2022)"
+        type: paper
+        link: Chure2022.pdf
   - date: "1/25"
     topics:
       - A Feeling for the Numbers in Biology, Part II.
       - Limits to Bacterial Growth, Part I
     assignment_due: Group compositions
+    materials:
+      - name: "Limits to Bacterial Growth: Powerpoint Presentation"
+        type: external
+        link: https://docs.google.com/presentation/d/13j3A5FQRv02W9zNe0rephSE0UiYCDlSN/edit?usp=drive_link&ouid=108943369280090864520&rtpof=true&sd=true
+      - name: A theoretical survey of the ATP requirements for making a new bacterial cell. (Stouthamer 1973)
+        type: paper
+        link: Stouthamer1973.pdf
+      - name: Mike Lynch’s great paper on the bioenergetic cost of a gene including a survey of the energetic demands of a number of cell types. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
+      - name: A revised estimate of the number (and types) of human and bacterial cells in our body. (Sender 2016)
+        type: paper
+        link: Sender2016.pdf
+      - name: Survey of protein copy number in E. coli using mass spectrometry. A great paper to think about the cell census and it’s reproducibility. (Schmidt2016)
+        type: paper
+        link: Schmidt2016.pdf
+      - name: Single molecule measurements of DNA replication. (VanOijen2006)
+        type: paper
+        link: VanOijen2006.pdf
+      - name: Tania Baker’s take on the amazing fidelity of DNA polymerase. (Baker 1998)
+        type: paper
+        link: Baker1998.pdf
+      - name: A more detailed analysis of the fundamental physical limits to bacterial growth. (Belliveau2021)
+        type: paper
+        link: Belliveau2021.pdf
+      - name: The bioenergetic costs of a gene. (Lynch 2015)
+        type: paper
+        link: Lynch2015.pdf
   - date: "1/27"
     assignment_due: Abstract
   - date: "2/1"
