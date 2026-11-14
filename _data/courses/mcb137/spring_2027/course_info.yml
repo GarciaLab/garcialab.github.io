@@ -118,7 +118,14 @@ people:
 Homework: []
 syllabus:
   - date: "1/20"
+    topics:
+      - A feeling for the numbers in biology, Part I.
+      - "Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world."
+      - What sets the scale of X?
   - date: "1/25"
+    topics:
+      - A Feeling for the Numbers in Biology, Part II.
+      - Limits to Bacterial Growth, Part I
     assignment_due: Group compositions
   - date: "1/27"
     assignment_due: Abstract
